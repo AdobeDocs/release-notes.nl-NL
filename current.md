@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
+source-git-commit: e73b72e29cc5b953fe908623d54a9daf486a7ffc
 
 ---
 
@@ -167,6 +167,10 @@ Zie [AppMeasurement voor Javascript-releaseopmerkingen](https://docs.adobe.com/c
 ## ![Pictogrambeheer](/assets/audience-manager.png){#aam}
 
 Nieuwe functies en updates voor Audience Manager:
+
+| Functie | Beschrijving |
+| -----------| ---------- |
+| [Werkblad Bulkbeheertools](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Een nieuwe versie van het werkblad is beschikbaar voor u, die een kwestie verhelpt sommige klanten onder ogen kwamen toen het creëren van algoritmische modellen in het Werkende systeem met 64 bits van Vensters. Download de nieuwste versie [hier](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/assets/BAAAM_V2_20200311.xlsm). |
 
 ### Oplossingen en verbeteringen {#aam-fixes-and-improvements}
 
@@ -335,7 +339,7 @@ Nieuwe en recente zelfhulpartikelen en video&#39;s. <!--`https://jira.corp.adobe
 | [!DNL Adobe Campaign] - AEP Data Connector | Video - [Gegevens van zaadtabel toewijzen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Leer hoe u uw zaadgegevens/testprofielen met het Platform van de Ervaring van Adobe in kaart brengt. |
 | [!DNL Adobe Campaign]- Bestemmingen van het publiek | Video - [Wijzig de doeldimensie van een levering voor een publiek Platform](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Leer hoe u de doeldimensie van een levering voor een platformpubliek wijzigt buiten de tabel met het primaire profiel in Adobe Campagnestandaard. |
 | [!DNL Adobe Campaign] | Video - [Groot gegevensbeheer op Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Gebruik de Snowflake-connector in Adobe Campaign Classic. |
-| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van de doelgroep (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
+| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van het publiek (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
 | [!DNL Adobe Target] - Mobile SDK | Zelfstudie - [Een persoonlijk tintje toevoegen aan apps met Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementeer Adobe Target in uw eigen Android-app. Valideer de installatie van de SDK van de Mobiele Diensten en voer [!DNL Target] verzoeken zoals pre-haalt inhoud uit, het blokkeren van verzoeken, en meer. |
 | Adobe Analytics | Video - [Adobe Summit 2019 - Supersessie](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Bekijk gekrulde clips van de high-tech &#39;super sessie&#39; op Top 2019. |
 | Adobe Analytics | Video - [Inleiding tot Berekende Metriek in de Analyse van de Reis van de Klant](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Doorloop de grondbeginselen van het creëren van [!UICONTROL Berekende Metriek] in de Analyse [!UICONTROL van de Reis van de]Klant. |
