@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 53e2135044074e22470887540fb641262c607bd3
+source-git-commit: 78a2b7841c4b404cc96b912cef2a3702c7e29ec8
 
 ---
 
@@ -26,18 +26,18 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 
 **Releasedatum: 2020**
 
-* [[!DNL Adobe] Systeemstatus](#status)
-* [[!DNL Experience Cloud] en [!UICONTROL kernservices]](#ecloud)
+* [Adobe-systeemstatus](#status)
+* [Ervaar Cloud en [!UICONTROL kernservices]](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
-* [[!DNL Audience Manager]](#aam)
-* [[!DNL Experience Manager]](#aem)
-* [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (koppelingen naar Help bij oplossing)
-* [!DNL Advertising Cloud](#adcloud)
-* [!DNL Magento](#magento)
-* [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (koppelingen naar Help bij oplossing)
+* [Analyse](#analytics)
+* [Auditiebeheer](#aam)
+* [Experience Manager](#aem)
+* [Campagne](#ac)
+* [Doel](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (koppelingen naar Help bij oplossing)
+* [Advertising Cloud](#adcloud)
+* [Magento](#magento)
+* [Marketo](#marketo)
+* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (koppelingen naar Help bij oplossing)
 * [Nieuwe documentatie en zelfstudies](#selfhelp)
 
 Op zoek naar hulp thuis? Raadpleeg de documentatie bij [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
@@ -48,7 +48,7 @@ Functies en oplossingen.
 
 Zie [Adobe System Status](https://status.adobe.com/).
 
-## [!DNL Experience Cloud] en [!UICONTROL kerndiensten]{#ecloud}
+## Ervaar Cloud en [!UICONTROL kernservices]{#ecloud}
 
 Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en kernservices (klantkenmerken, publiek, triggers, cookies, enzovoort).
 
@@ -113,7 +113,7 @@ Zie [Mobiele services](https://docs.adobe.com/content/help/en/mobile-services/us
 
 Voor meer informatie over de Mobiele SDKs, zie: [Android SDK 4.x voor Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) en [iOS SDK 4.x voor Experience Cloud Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
-## [!DNL Analytics] {#analytics}
+## Analyse {#analytics}
 
 Nieuwe functies en oplossingen in Adobe Analytics:
 
@@ -139,7 +139,7 @@ Raadpleeg de Help Home [voor](https://docs.adobe.com/content/help/en/analytics/l
 | Functie B | Tekst |
 | Functie C | Tekst |
 
-### [!DNL Data Workbench] {#aa-dwb}
+### Data Workbench {#aa-dwb}
 
 Zie Opmerkingen bij de release [Data Workbench](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) voor de meest recente informatie.
 
@@ -171,7 +171,7 @@ Zie de [releasehistorie](https://docs.adobe.com/content/help/en/analytics/implem
 * PHP
 * Symbian
 
-## [!DNL Audience Manager] {#aam}
+## Auditiebeheer {#aam}
 
 | Functie | Beschrijving |
 | -----------| ---------- |  
@@ -186,7 +186,7 @@ Zie de [releasehistorie](https://docs.adobe.com/content/help/en/analytics/implem
 * Repareren
 * Repareren
 
-## [!DNL Experience Manager] {#aem}
+## Experience Manager {#aem}
 
 Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe raadt klanten met on-premise implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
 
@@ -242,7 +242,7 @@ De volgende documentatiesets van AEM zijn gemigreerd naar een nieuw platform voo
 * Repareren
 * Repareren
 
-## [!DNL Social] {#soc}
+## Sociaal {#soc}
 
 | Functie | Beschrijving |
 | -----------| ---------- |  
@@ -257,7 +257,7 @@ De volgende documentatiesets van AEM zijn gemigreerd naar een nieuw platform voo
 * Repareren
 * Repareren
 
-## [!DNL Campaign] {#ac}
+## Campagne {#ac}
 
 De Campagne van Adobe verstrekt een intuïtieve, geautomatiseerde manier om één-op-één berichten over online en off-line marketing kanalen te leveren. U kunt nu anticiperen op wat uw klanten willen met behulp van ervaringen die worden bepaald door hun gewoonten en voorkeuren.
 
@@ -267,7 +267,7 @@ De Campagne van Adobe verstrekt een intuïtieve, geautomatiseerde manier om éé
 * Adobe Campaign Classic: [Documentatie](https://helpx.adobe.com/support/campaign/classic.html) - [Release-aantekeningen](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Configuratiescherm Adobe-campagne: [Documentatie](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - Opmerkingen bij de [release](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## [!DNL Advertising Cloud] {#adcloud}
+## Advertising Cloud {#adcloud}
 
 | Functie | Beschrijving |
 | -----------| ---------- |  
@@ -282,18 +282,18 @@ De Campagne van Adobe verstrekt een intuïtieve, geautomatiseerde manier om éé
 * Repareren
 * Repareren
 
-## [!DNL Magento] {#magento}
+## Magento {#magento}
 
-Zie voor [!DNL Magento] opmerkingen bij de release:
+Voor de versienota&#39;s van Magento, zie:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Open Bron 2.3.4 van Magento](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
-## [!DNL Marketo] {#marketo}
+## Marketo {#marketo}
 
-[!DNL Marketo Engage] is een volledige oplossing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten te gaan werken.
+Marketo Engage is een volledige oplossing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten te engageren.
 
-### Core [!DNL Marketo Engage] updates
+### Core Marketo Engineering-updates
 
 Releasedatum: 21 februari 2020
 
@@ -304,7 +304,7 @@ Releasedatum: 21 februari 2020
    * Regels voor omleiding van bestemmingspagina&#39;s
 * **Caching van formulierdescriptor:** Verbeteringen in bestemmingspagina&#39;s en -formulieren.
 
-Zie de [!DNL Marketo] opmerkingen bij de release van [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
+Zie Opmerkingen van de release Marketo voor [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
 
 ### Opkomende functies
 
@@ -347,7 +347,7 @@ Nieuwe en recente zelfhulpartikelen en video&#39;s. <!--`https://jira.corp.adobe
 | [!DNL Adobe Campaign] - AEP Data Connector | Video - [Gegevens van zaadtabel toewijzen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Leer hoe u uw zaadgegevens/testprofielen met het Platform van de Ervaring van Adobe in kaart brengt. |
 | [!DNL Adobe Campaign]- Bestemmingen van het publiek | Video - [Wijzig de doeldimensie van een levering voor een publiek Platform](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Leer hoe u de doeldimensie van een levering voor een platformpubliek wijzigt buiten de tabel met het primaire profiel in Adobe Campagnestandaard. |
 | [!DNL Adobe Campaign] | Video - [Groot gegevensbeheer op Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Gebruik de Snowflake-connector in Adobe Campaign Classic. |
-| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van de doelgroep (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
+| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van het publiek (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
 | [!DNL Adobe Target] - Mobile SDK | Zelfstudie - [Een persoonlijk tintje toevoegen aan apps met Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementeer Adobe Target in uw eigen Android-app. Valideer de installatie van de SDK van de Mobiele Diensten en voer [!DNL Target] verzoeken zoals pre-haalt inhoud uit, het blokkeren van verzoeken, en meer. |
 | Adobe Analytics | Video - [Adobe Summit 2019 - Supersessie](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Bekijk gekrulde clips van de high-tech &#39;super sessie&#39; op Top 2019. |
 | Adobe Analytics | Video - [Inleiding tot Berekende Metriek in de Analyse van de Reis van de Klant](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Doorloop de grondbeginselen van het creëren van [!UICONTROL Berekende Metriek] in de Analyse [!UICONTROL van de Reis van de]Klant. |
