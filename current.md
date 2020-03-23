@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e73b72e29cc5b953fe908623d54a9daf486a7ffc
+source-git-commit: 5246ec08b9a04fcbdfff401dc214256185faaf2d
 
 ---
 
@@ -159,6 +159,7 @@ Raadpleeg de Help Home [voor](https://docs.adobe.com/content/help/en/analytics/l
 | Nieuw Adobe Analytics-domein | 18 dec. 2019 | Op 16 januari 2020 is Adobe Analytics naar een nieuw domein gegaan - `https://experience.adobe.com/analytics.`<br>**Opmerking:**Deze wijziging geldt voor alle gebruikers die toegang hebben tot Analytics met hun Adobe-id of Enterprise-id.<ul><li>De domeinwijziging kan tijdens het laden van Analytics in Safari cookies veroorzaken. Als u de selectie van _Zoeken_ tussen verschillende sites voorkomen in de [!DNL Safari] privacyvoorkeuren opheft, worden cookies in verschillende domeinen ingeschakeld (en alle ervaringen die op andere sites beschikbaar zijn) en kan Analytics werken op dit nieuwe Adobe Experience Cloud-domein. U kunt andere browsers zonder problemen gebruiken, omdat dit alleen voor [!DNL Safari] gebruikers geldt.</li><li>De domeinwijziging kan ertoe leiden dat [!UICONTROL Activiteitenkaart] niet langer werkt voor bepaalde klanten [in specifieke gevallen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
 | Einde van levensduur - Verouderde API&#39;s voor analyse | 9 januari 2020 | In november 2020, zullen de volgende Analytics Legacy API diensten hun eind-van-leven bereiken en zullen sluiten. De huidige integraties die met deze services zijn gemaakt, werken niet meer. <ul><li>1.3 API&#39;s voor analyse</li><li>1.4 API&#39;s voor SOAP-analyse</li><li>Oudere OAuth-verificatie (OAuth en JWT)</li></ul>We hebben een [verouderde API EOL-veelgestelde vragen](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) beschikbaar gesteld die u helpen uw vragen te beantwoorden en aanwijzingen te geven voor het verdere verloop. API-integratie die van deze services gebruik maakt, kan migreren naar de [1.4 Analytics REST API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [2.0 Analytics API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integratieaccount, dat kan worden gebruikt voor toegang tot de API&#39;s voor 1.4 Analytics en 2.0 Analytics. |
 | San Jose FTP Broker Ending voor Londen en Singapore | juli 2020 | Voor klanten in Londen en Singapore zullen we niet langer de tussenhandel in gegevens tussen Londen of Singapore en het San Jose datacenter [ftp.omniture.com](ftp://ftp.omniture.com/)steunen.<br/><ul><li>Voor Londen gebruikt u [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Gebruik voor Singapore [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
+| EOL van ad-hocanalyse | 6 aug. 2018 | Adobe kondigde het voornemen aan om Ad hoc Analyse te beëindigen. Een einddatum wordt gedeeld zodra deze beschikbaar is. Voor meer informatie gaat u naar [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
 ### [!DNL AppMeasurement] {#appm}
 
