@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 745a054c15f05d7957e8c98b8adfa41b665b6fa6
+source-git-commit: 11dd1c361df84ef52b54734e2cbd231fce0cfda3
 
 ---
 
@@ -240,7 +240,7 @@ Zie [Wanneer u werkt met Slim uitsnijden](https://docs.adobe.com/content/help/en
 
 ### Aanvullende bronnen
 
-* [AEM als cloudservice](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
+* [AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 - Introductie van &amp; ondersteuning](https://helpx.adobe.com/support/experience-manager/6-5.html)
 * [AEM 6.4 Introductie van leer &amp; ondersteuning](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [AEM 6.3 Introductie van de leer &amp; Steun](https://helpx.adobe.com/support/experience-manager/6-3.html)
@@ -271,9 +271,11 @@ Bijgewerkt op 20 maart 2020, voor release van 21 maart:
 
 | Weergave | Functie |
 |------|---------|
-| [!UICONTROL Portfolio&#39;s] | U kunt nu campagnes van het Netwerk van de Vertoning van Japan (YDN) aan portefeuilles toevoegen om de campagnebegrotingen en ad groep-vlakke biedingen te optimaliseren. [!DNL Yahoo!] Hetzelfde bod geldt voor alle advertenties in een advertentiegroep. De gegevens voor de campagnes van het Netwerk van de Vertoning van Japan zijn inbegrepen in de simulaties voor de portefeuille. |
-| [!UICONTROL Zoeken] > [!UICONTROL Opsommingstekens] | U kunt nu met behulp van bulksbladen Google responsieve zoekadvertenties (RSA&#39;s) maken, bewerken en verwijderen. Eerder was de steun beschikbaar slechts door de standaardinterface van het campagnebeheer bij **[!UICONTROL Onderzoek]** > **[!UICONTROL Campagnes]** |
-| [!UICONTROL Zoeken] > [!UICONTROL Campagnes, Rapporten] | De belangrijkste cijfers voor Google Ads `Impr. (Abs. Top) %` en `Impr. (Top) %` zijn nu beschikbaar in alle basisrapporten en campagnebeheerweergaven op entiteitniveau, behalve in die voor winkelproductgroepen, in de rapporten [!UICONTROL Campagne Daily Impression Share] en [!UICONTROL Keyword Daily Impression Share] , en in de labels en beperkingsweergaven. |
+| [!UICONTROL Portfolio&#39;s] | Neem contact op met uw accountmanager voor richtlijnen voor het beheren van uw portfolio&#39;s om rekening te houden met verkeerswijzigingen die het gevolg zijn van COVID-19. |
+|  | (Google Ads- en Microsoft Ads-campagnes) In geoptimaliseerde portfolio&#39;s met de optie Bodaanpassingswaarden automatisch optimaliseren, optimaliseert Advertising Cloud de instellingen voor bodaanpassingen niet meer automatisch voor campagnes met de strategie voor het bieden met verbeterde kosten per klik (eCPC). Het zoekprogramma optimaliseert alle biedaanpassingen op het moment van de veiling. Advertising Cloud optimaliseert nog steeds de basisbiedingen en — wanneer de optie &quot;budgetlimieten voor campagne automatisch aanpassen&quot; is ingeschakeld — het campagnebudget. |
+| [!UICONTROL Waarschuwingen bèta] | (Beta-functie) U kunt nu waarschuwingssjablonen maken om te bepalen wanneer een portfolio tijdens een opgegeven periode voldoet aan specifieke voorwaarden, zoals prestatiewaarden, en vervolgens een waarschuwing genereren. U kunt waarschuwingen op portfolioniveau maken op basis van **[!UICONTROL inzichten en rapporten]** > **[!UICONTROL Waarschuwingen (bèta)]** , maar niet op basis van **[!UICONTROL optimalisatie]** > **[!UICONTROL Portfolio&#39;s)]**. **Opmerking:** Alle waarschuwingen die zijn gemaakt op basis van de oudere versie van Alerts Beta, die in januari is vervangen, zijn niet meer beschikbaar. |
+|  |
+| [!UICONTROL Beheer] > [!UICONTROL Transactieeigenschappen] | Een nieuwe kolom &quot;Eigenschap-id&quot; toont de unieke eigenschap-id voor elke transactie-eigenschap. U kunt zoeken naar elke tekenreeks in de kolomwaarden. |
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento]{#magento}
 
