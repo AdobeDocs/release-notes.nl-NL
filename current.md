@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5246ec08b9a04fcbdfff401dc214256185faaf2d
+source-git-commit: 745a054c15f05d7957e8c98b8adfa41b665b6fa6
 
 ---
 
@@ -267,7 +267,7 @@ De Campagne van Adobe verstrekt een intuïtieve, geautomatiseerde manier om éé
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Bijgewerkt op 10 februari 2020, voor release 8 februari:
+Bijgewerkt op 20 maart 2020, voor release van 21 maart:
 
 | Weergave | Functie |
 |------|---------|
