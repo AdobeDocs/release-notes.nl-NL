@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01a3dab2c109edf6664ed79814022d61d2b82675
+source-git-commit: abf763ddf0ed4ae9d8df5b7dcef4e664db4cf682
 
 ---
 
@@ -29,7 +29,7 @@ Laatste update: 11 maart 2020
 * [Adobe-systeemstatus](#status)
 * [Ervaar de interface van de Wolk en de kerndiensten](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - Releasedatum: 12 **maart 2020**
+* [!DNL Analytics](#analytics) - Releasedatum: 12 **maart 2020** (bijgewerkt op 27 maart 2020)
 * [Auditiebeheer](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -128,7 +128,7 @@ Releasedatum: 12 **maart 2020**
 Nieuwe functies en oplossingen in Adobe Analytics:
 
 * [Nieuwe functies, verbeteringen en correcties in Adobe Analytics](#aa-features)
-* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices)
+* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 27 maart 2020)
 * [AppMeasurement](#appm)
 
 Raadpleeg de Help Home [voor](https://docs.adobe.com/content/help/en/analytics/landing/home.html)Adobe Analytics voor productdocumentatie.
@@ -154,7 +154,7 @@ Raadpleeg de Help Home [voor](https://docs.adobe.com/content/help/en/analytics/l
 | Kennisgeving | Datum toegevoegd of bijgewerkt | Beschrijving |
 | -----------| ---------- | ---------- |
 | EOL van instelling voor **[!UICONTROL conversieniveau]** | 3 maart 2020 | De instelling voor het niet-functionerende [conversieniveau](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]>[!UICONTROL Report Suites]>[!UICONTROL General Account Settings]** wordt op 12 maart 2020 verwijderd uit de gebruikersinterface. |
-| EOL van **[!UICONTROL dashboardarchief]** | 3 maart 2020 | De instelling **[!UICONTROL Archief]** weergeven onder **[!UICONTROL Dashboards]** beheren in [!UICONTROL Reports &amp; Analytics] is vanaf 12 maart 2020 niet meer beschikbaar. |
+| EOL van **[!UICONTROL dashboardarchief]** | 27 maart 2020 | De instelling **[!UICONTROL Archief]** weergeven onder **[!UICONTROL Dashboards]** beheren in [!UICONTROL Reports &amp; Analytics] is niet meer beschikbaar vanaf oktober 2020. |
 | Einde van ondersteuning voor TLS 1.1 | 3 oktober 2019 | Op 31 maart 2020 verwijdert Adobe Analytics de ondersteuning voor TLS 1.1. Deze verandering maakt deel uit van onze voortdurende inspanningen om de hoogste veiligheidsnormen te handhaven en de veiligheid van klantengegevens te bevorderen. |
 | Nieuw Adobe Analytics-domein | 18 dec. 2019 | Op 16 januari 2020 is Adobe Analytics naar een nieuw domein gegaan - `https://experience.adobe.com/analytics.`<br>**Opmerking:**Deze wijziging geldt voor alle gebruikers die toegang hebben tot Analytics met hun Adobe-id of Enterprise-id.<ul><li>De domeinwijziging kan tijdens het laden van Analytics in Safari cookies veroorzaken. Als u de selectie van _Zoeken_ tussen verschillende sites voorkomen in de [!DNL Safari] privacyvoorkeuren opheft, worden cookies in verschillende domeinen ingeschakeld (en alle ervaringen die op andere sites beschikbaar zijn) en kan Analytics werken op dit nieuwe Adobe Experience Cloud-domein. U kunt andere browsers zonder problemen gebruiken, omdat dit alleen voor [!DNL Safari] gebruikers geldt.</li><li>De domeinwijziging kan ertoe leiden dat [!UICONTROL Activiteitenkaart] niet langer werkt voor bepaalde klanten [in specifieke gevallen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
 | Einde van levensduur - Verouderde API&#39;s voor analyse | 9 januari 2020 | In november 2020, zullen de volgende Analytics Legacy API diensten hun eind-van-leven bereiken en zullen sluiten. De huidige integraties die met deze services zijn gemaakt, werken niet meer. <ul><li>1.3 API&#39;s voor analyse</li><li>1.4 API&#39;s voor SOAP-analyse</li><li>Oudere OAuth-verificatie (OAuth en JWT)</li></ul>We hebben een [verouderde API EOL-veelgestelde vragen](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) beschikbaar gesteld die u helpen uw vragen te beantwoorden en aanwijzingen te geven voor het verdere verloop. API-integratie die van deze services gebruik maakt, kan migreren naar de [1.4 Analytics REST API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [2.0 Analytics API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integratieaccount, dat kan worden gebruikt voor toegang tot de API&#39;s voor 1.4 Analytics en 2.0 Analytics. |
