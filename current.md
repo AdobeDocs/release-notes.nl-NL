@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: abf763ddf0ed4ae9d8df5b7dcef4e664db4cf682
+source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
 
 ---
 
@@ -60,7 +60,7 @@ Op zoek naar hulp thuis? Raadpleeg de documentatie bij [Adobe Experience Cloud](
 | Persoonlijke ervaring op basis van gebruikersvoorkeuren | <ul><li>Tijdzonevoorkeur gebaseerd op browser het plaatsen wordt gebruikt in e-mailberichten.</li><li>E-mailbevestiging verzonden bij abonnement/abonnement met alle geselecteerde voorkeuren.</li></ul> |
 | Betere levering van gebeurtenisberichten | <ul><li>Gebeurtenisgeschiedenis gesorteerd op basis van chronologische gebeurtenisupdates.</li><li>Tijdstempel van gebeurtenisresolutie toegevoegd aan belangrijke/kleine afgesloten problemen.</li></ul> |
 
-## ![Icon](/assets/experience-cloud.png) Experience Cloud-interface en kernservices {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud-interface en kernservices {#ecloud}
 
 Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en kernservices (klantkenmerken, publiek, triggers, cookies, enzovoort).
 
@@ -86,7 +86,7 @@ Updates zijn:
 
 Raadpleeg [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) Help voor productdocumentatie.
 
-## ![Icon](/assets/platform.png) Experience Platform {#platform}
+## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Opmerkingen bij de release voor het [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services en beveiligingsbulletins.
 
@@ -241,10 +241,10 @@ Zie [Wanneer u werkt met Slim uitsnijden](https://docs.adobe.com/content/help/en
 ### Aanvullende bronnen
 
 * [AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
-* [AEM 6.5 - Introductie van &amp; ondersteuning](https://helpx.adobe.com/support/experience-manager/6-5.html)
-* [AEM 6.4 Introductie van leer &amp; ondersteuning](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 Introductie van de leer &amp; Steun](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 Introductiepagina voor informatie en ondersteuning](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [AEM 6.5 - Introductie van &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-5.html)
+* [AEM 6.4 Introductie van leer &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-4.html)
+* [AEM 6.3 Introductie van de leer &amp; Steun](https://helpx.adobe.com/nl/support/experience-manager/6-3.html)
+* [AEM 6.2 Introductiepagina voor informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-2.html)
 * [Gebruikershandleiding voor Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
 * [Oudere versies van AEM-documentatie](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic Help Home](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
@@ -320,7 +320,7 @@ De volgende functies worden gedurende het hele kwartaal beschikbaar gesteld:
 
 Voor cumulatieve en historische versienota&#39;s, zie [Marketo versie nota](https://docs.marketo.com/x/CgA6Ag).
 
-## ![Pictogram](/assets/experience-cloud.png) Nieuwe documentatie en zelfstudies {#selfhelp}
+## ![Pictogram](/assets/ec_appicon_24.png) Nieuwe documentatie en zelfstudies {#selfhelp}
 
 Nieuwe en recente zelfhulpartikelen en video&#39;s. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
