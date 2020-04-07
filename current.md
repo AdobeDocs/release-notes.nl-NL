@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
+source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
 
 ---
 
@@ -29,7 +29,7 @@ Laatste update: 11 maart 2020
 * [Adobe-systeemstatus](#status)
 * [Ervaar de interface van de Wolk en de kerndiensten](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - Releasedatum: 12 **maart 2020** (bijgewerkt op 27 maart 2020)
+* [!DNL Analytics](#analytics) - Releasedatum: 12 **maart 2020** (bijgewerkt op 7 april 2020)
 * [Auditiebeheer](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -128,7 +128,7 @@ Releasedatum: 12 **maart 2020**
 Nieuwe functies en oplossingen in Adobe Analytics:
 
 * [Nieuwe functies, verbeteringen en correcties in Adobe Analytics](#aa-features)
-* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 27 maart 2020)
+* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 7 april 2020)
 * [AppMeasurement](#appm)
 
 Raadpleeg de Help Home [voor](https://docs.adobe.com/content/help/en/analytics/landing/home.html)Adobe Analytics voor productdocumentatie.
@@ -153,6 +153,7 @@ Raadpleeg de Help Home [voor](https://docs.adobe.com/content/help/en/analytics/l
 
 | Kennisgeving | Datum toegevoegd of bijgewerkt | Beschrijving |
 | -----------| ---------- | ---------- |
+| Wijzigen in hoe items/uitgangen worden berekend in Workspace | 7 april 2020 | In de Werkruimte van de Analyse, sinds Maart 2020, zijn wij veranderd hoe de waarde &quot;niets&quot;met Ingangen/Uitgangen in wisselwerking staat. Omdat u &quot;Nones&quot;in en uit in de Werkruimte van de Analyse kunt nu draaien, passen wij &quot;niets&quot;na de ingang of de uitgang toe, terwijl (voor eVars) het vroeger werd toegepast. Stel dat de eerste hit van een bezoek geen waarde heeft voor Varx, maar de tweede hit wel. In Rapporten &amp; Analytics zal het als &quot;Niet gespecificeerd&quot;voor de Ingang verschijnen, maar in de Werkruimte van de Analyse zal het als waarde op de tweede klap verschijnen. |
 | EOL van instelling voor **[!UICONTROL conversieniveau]** | 3 maart 2020 | De instelling voor het niet-functionerende [conversieniveau](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]>[!UICONTROL Report Suites]>[!UICONTROL General Account Settings]** wordt op 12 maart 2020 verwijderd uit de gebruikersinterface. |
 | EOL van **[!UICONTROL dashboardarchief]** | 27 maart 2020 | De instelling **[!UICONTROL Archief]** weergeven onder **[!UICONTROL Dashboards]** beheren in [!UICONTROL Reports &amp; Analytics] is niet meer beschikbaar vanaf oktober 2020. |
 | Einde van ondersteuning voor TLS 1.1 | 3 oktober 2019 | Op 31 maart 2020 verwijdert Adobe Analytics de ondersteuning voor TLS 1.1. Deze verandering maakt deel uit van onze voortdurende inspanningen om de hoogste veiligheidsnormen te handhaven en de veiligheid van klantengegevens te bevorderen. |
@@ -341,7 +342,7 @@ Nieuwe en recente zelfhulpartikelen en video&#39;s. <!--`https://jira.corp.adobe
 | [!DNL Adobe Campaign] - AEP Data Connector | Video - [Gegevens van zaadtabel toewijzen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Leer hoe u uw zaadgegevens/testprofielen met het Platform van de Ervaring van Adobe in kaart brengt. |
 | [!DNL Adobe Campaign]- Bestemmingen van het publiek | Video - [Wijzig de doeldimensie van een levering voor een publiek Platform](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Leer hoe u de doeldimensie van een levering voor een platformpubliek wijzigt buiten de tabel met het primaire profiel in Adobe Campagnestandaard. |
 | [!DNL Adobe Campaign] | Video - [Groot gegevensbeheer op Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Gebruik de Snowflake-connector in Adobe Campaign Classic. |
-| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van het publiek (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
+| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van de doelgroep (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
 | [!DNL Adobe Target] - Mobile SDK | Zelfstudie - [Een persoonlijk tintje toevoegen aan apps met Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementeer Adobe Target in uw eigen Android-app. Valideer de installatie van de SDK van de Mobiele Diensten en voer [!DNL Target] verzoeken zoals pre-haalt inhoud uit, het blokkeren van verzoeken, en meer. |
 | Adobe Analytics | Video - [Adobe Summit 2019 - Supersessie](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Bekijk gekrulde clips van de high-tech &#39;super sessie&#39; op Top 2019. |
 | Adobe Analytics | Video - [Inleiding tot Berekende Metriek in de Analyse van de Reis van de Klant](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Doorloop de grondbeginselen van het creëren van [!UICONTROL Berekende Metriek] in de Analyse [!UICONTROL van de Reis van de]Klant. |
