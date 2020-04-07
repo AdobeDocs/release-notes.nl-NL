@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
+source-git-commit: 96d931c9b5001ddbaf9887b45a95adcc468a0376
 
 ---
 
@@ -272,10 +272,10 @@ Bijgewerkt op 20 maart 2020, voor release van 21 maart:
 
 | Weergave | Functie |
 |------|---------|
-| [!UICONTROL Portfolio&#39;s] | Neem contact op met uw accountmanager voor richtlijnen voor het beheren van uw portfolio&#39;s om rekening te houden met verkeerswijzigingen die het gevolg zijn van COVID-19. |
-| Google Ads- en Microsoft Ads-campagnes | In geoptimaliseerde portfolio&#39;s met de optie Aanpassingswaarden voor biedingen automatisch optimaliseren, optimaliseert Advertising Cloud de instellingen voor de aanpassing van biedingen niet meer automatisch voor campagnes met behulp van de strategie voor het bieden met verbeterde kosten per klik (eCPC). Het zoekprogramma optimaliseert alle biedaanpassingen op het moment van de veiling. Advertising Cloud optimaliseert nog steeds de basisbiedingen en — wanneer de optie &quot;budgetlimieten voor campagne automatisch aanpassen&quot; is ingeschakeld — het campagnebudget. |
+| [!UICONTROL Portfolio&#39;s] | Neem contact op met uw accountmanager voor richtlijnen voor het beheren van uw portfolio&#39;s om rekening te houden met wijzigingen in het verkeer die het gevolg zijn van [!DNL COVID-19]deze. |
+| Google Ads- en Microsoft Ads-campagnes | In geoptimaliseerde portfolio&#39;s met de optie [!UICONTROL Bodaanpassingswaarden] automatisch optimaliseren, optimaliseert Advertising Cloud de instellingen voor Bodcorrectie niet meer automatisch voor campagnes met de strategie voor het bieden met verbeterde kosten per klik (eCPC). Het zoekprogramma optimaliseert alle biedaanpassingen op het moment van de veiling. De Advertising Cloud optimaliseert nog steeds de basisbiedingen en — wanneer de optie [!UICONTROL voor het aanpassen van de budgetlimieten] voor de campagne is ingeschakeld — het campagnebudget. |
 | [!UICONTROL Waarschuwingen bèta] | (Beta-functie) U kunt nu waarschuwingssjablonen maken om te bepalen wanneer een portfolio tijdens een opgegeven periode voldoet aan specifieke voorwaarden, zoals prestatiewaarden, en vervolgens een waarschuwing genereren. U kunt waarschuwingen op portfolioniveau maken op basis van **[!UICONTROL inzichten en rapporten]** > **[!UICONTROL Waarschuwingen (bèta)]** , maar niet op basis van **[!UICONTROL optimalisatie]** > **[!UICONTROL Portfolio&#39;s)]**. **Opmerking:** Alle waarschuwingen die zijn gemaakt op basis van de oudere versie van Alerts Beta, die in januari is vervangen, zijn niet meer beschikbaar. |
-| [!UICONTROL Beheer] > [!UICONTROL Transactieeigenschappen] | Een nieuwe kolom &quot;Eigenschap-id&quot; toont de unieke eigenschap-id voor elke transactie-eigenschap. U kunt zoeken naar elke tekenreeks in de kolomwaarden. |
+| [!UICONTROL Beheer] > [!UICONTROL Transactieeigenschappen] | Een nieuwe kolom van identiteitskaart [!UICONTROL van het] Bezit toont unieke bezitsidentiteitskaart voor elk transactiebezit. U kunt zoeken naar elke tekenreeks in de kolomwaarden. |
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento]{#magento}
 
