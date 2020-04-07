@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 96d931c9b5001ddbaf9887b45a95adcc468a0376
+source-git-commit: 8858c0e35b44936624540fb10067cd9a8b1589c6
 
 ---
 
@@ -16,15 +16,12 @@ source-git-commit: 96d931c9b5001ddbaf9887b45a95adcc468a0376
 
 Nieuwe functies en oplossingen in het deelvenster [!DNL Adobe Experience Cloud].
 
->[!IMPORTANT]
->Deze pagina bevat inhoud die vóór de release beschikbaar is en kan worden gewijzigd voordat de geplande release wordt uitgebracht.
-
 >[!NOTE]
 >Meld u aan voor de [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) om via e-mail op de hoogte te worden gebracht van komende releases. Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
 
 **Releasedatum: maart 2020**
 
-Laatste update: 11 maart 2020
+Laatste update: 11 **maart 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Ervaar de interface van de Wolk en de kerndiensten](#ecloud)
