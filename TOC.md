@@ -1,19 +1,20 @@
 ---
 cloud: experience-cloud
 product: Experience Cloud
-user-guide-title: Adobe Experience Cloud Release Notes
+user-guide-title: Opmerkingen bij de release Adobe Experience Cloud
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: 2363a9f58f658e49054e3ac7a63083925a381eec
+source-git-commit: 3e124e820e573047298f878cf8cb2bf2a6b7f7dd
 
 ---
 
 
 # Opmerkingen bij de release Experience Cloud {#experience-cloud}
 
-+ [Opmerkingen bij de release](current.md)
++ [Release-opmerkingen](current.md)
 + Opmerkingen bij vorige release {#previous}
    + 2020 {#2020}
+      + [maart 2020](c-legacy-releases/2020/03122020.md)
       + [februari 2020](c-legacy-releases/2020/02202020.md)
       + [januari 2020](c-legacy-releases/2020/01162020.md)
    + 2019 {#2019}
