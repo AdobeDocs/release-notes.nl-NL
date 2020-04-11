@@ -5,41 +5,42 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8858c0e35b44936624540fb10067cd9a8b1589c6
+source-git-commit: 3e124e820e573047298f878cf8cb2bf2a6b7f7dd
 
 ---
 
 
-# Opmerkingen bij de release Adobe Experience Cloud - maart 2020
+# Vroege toegang - Opmerkingen bij de release Adobe Experience Cloud - april 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 Nieuwe functies en oplossingen in het deelvenster [!DNL Adobe Experience Cloud].
 
+>[!IMPORTANT]
+>
+>Deze pagina bevat inhoud die vóór de release beschikbaar is en kan worden gewijzigd voordat de geplande release wordt uitgebracht.
+
 >[!NOTE]
+>
 >Meld u aan voor de [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) om via e-mail op de hoogte te worden gebracht van komende releases. Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
 
-**Releasedatum: maart 2020**
+**Releasedatum: april 2020**
 
-Laatste update: 11 **maart 2020**
+(De specifieke data van de oplossingsversie kunnen variëren.)
 
 * [Adobe-systeemstatus](#status)
 * [Ervaar de interface van de Wolk en de kerndiensten](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - Releasedatum: 12 **maart 2020** (bijgewerkt op 7 april 2020)
+* [!DNL Analytics](#analytics)
 * [Auditiebeheer](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (koppelingen naar Help bij oplossing)
-* [!DNL Advertising Cloud](#adcloud)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (koppelingen naar Help-pagina voor oplossing)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (koppelingen naar Help bij oplossing)
-* [Nieuwe documentatie en zelfstudies](#selfhelp)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (koppelingen naar Help-pagina voor oplossing)
 
 Op zoek naar hulp thuis? Raadpleeg de documentatie bij [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
-
-(De specifieke data van de productversie kunnen variëren.)
 
 ## ![Pictogram](/assets/adobe.png) Adobe-systeemstatus {#status}
 
@@ -47,39 +48,21 @@ Op zoek naar hulp thuis? Raadpleeg de documentatie bij [Adobe Experience Cloud](
 
 **Nieuwe functies**
 
-* Met uw Adobe-id kunt u zich met meer granulariteit abonneren op gebeurtenismeldingen, tot aan het productaanbod en het invoegniveau. Kies voor deze nieuwe mogelijkheid in producten van de Experience Cloud, waar het proces voor zelfinschrijving subaanbiedingen weergeeft voor de producten en services waarop u zich wilt abonneren. Deze verbetering zou het aantal meldingen dat u ontvangt aanzienlijk moeten verminderen en de meldingen relevanter moeten maken voor de producten en functies die u gebruikt.  Ga aan de slag op [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
+* Met uw Adobe-id kunt u zich met meer granulariteit abonneren op gebeurtenismeldingen, tot aan het productaanbod en het invoegniveau. Bovendien wordt in de meest recente versie van onze versie een selectie van producten en services aanbevolen op basis van uw productrechten. Dit zou het abonnementsproces moeten stroomlijnen door het aantal besluiten of kliks te verminderen die worden vereist om uw abonnementen tot stand te brengen, en het belangrijkste, leveren meer relevante berichten in uw Postbus. Ga aan de slag op [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
 
 **Nieuwe en verbeterde functies die vandaag beschikbaar zijn**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Persoonlijk abonnement op subaanbiedingen van producten | <ul><li>Zelfinschrijving per product of invoegtoepassingen voor producten uit de Experience Cloud.</li><li>Ontvangen gebeurtenismeldingen zijn relevant voor uw voorkeuren voor producten en productaanbiedingen.</li></ul> |
-| Persoonlijke ervaring op basis van gebruikersvoorkeuren | <ul><li>Tijdzonevoorkeur gebaseerd op browser het plaatsen wordt gebruikt in e-mailberichten.</li><li>E-mailbevestiging verzonden bij abonnement/abonnement met alle geselecteerde voorkeuren.</li></ul> |
-| Betere levering van gebeurtenisberichten | <ul><li>Gebeurtenisgeschiedenis gesorteerd op basis van chronologische gebeurtenisupdates.</li><li>Tijdstempel van gebeurtenisresolutie toegevoegd aan belangrijke/kleine afgesloten problemen.</li></ul> |
+| Gepersonaliseerde abonnementen op basis van rechten | <ul><li>Vooraf geselecteerde abonnementsaanbevelingen op basis van de DX-rechten van de gebruiker.</li><li>Aanbevolen abonnementen worden boven aan de productlijst gemarkeerd voor snelle visualisatie.</li><li>De ontvangen e-mailmeldingen zijn relevant voor de productrechten van de gebruiker.</li></ul> |
+| Eenvoudiger beheer van abonnementen | <ul><li>**[!UICONTROL Abonnementen]** beheren heeft een nieuwe gebruikerservaring om zowel product- als gebeurtenisabonnementen te beheren.</li><li>Nieuwe optie om product- en gebeurtenisabonnementen afzonderlijk weer te geven en te bewerken.</li><li>Met de optie **[!UICONTROL Verwijderen]** kunt u een product- of gebeurtenissenabonnement opzeggen.</li><li>De optie **[!UICONTROL Abonnement met één klik opzeggen is allemaal]** beschikbaar voor productabonnementen.</li><li>UX-ondersteuning is beschikbaar voor Web/Mobile/Tablet-oppervlakken en lokalisatie in 19 talen.</li></ul> |
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud-interface en kernservices {#ecloud}
 
-Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en kernservices (klantkenmerken, publiek, triggers, cookies, enzovoort).
+Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en kernservices (klantkenmerken, publiek, triggers, cookies, enzovoort):
 
-| Functie | Releasedatum | Beschrijving |
-| ----|----|---- |
-| Beheer - Gebruikersgegevens weergeven | 26 februari 2020 | Beheerders kunnen een sorteerbare en filterbare lijst met alle Experience Cloud-gebruikers en hun gegevens weergeven in het nieuwe Admin Tool. De details van de gebruiker omvatten de het producttoegang van een gebruiker, rollen, en laatste betreden informatie. Zie [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) voor meer informatie. |
-
-### Geïntegreerd productdomein
-
-Adobe werkt de domein- en interfaceheader bij om uw ervaring in alle Experience Cloud-toepassingen te verenigen en te verbeteren. Deze verbeteringen zijn ontworpen om uw ervaring op kleine maar belangrijke manieren te vereenvoudigen. Deze verbeteringen hebben geen invloed op uw huidige workflows.
-
-Updates zijn:
-
-* Nieuwe oplossing-URL&#39;s: `experience.adobe.com/<application name>`:
-   * Uiteindelijk zullen alle producten dit patroon URL goedkeuren. Nieuwe URL&#39;s worden de hele maand van kracht.
-   * Browserondersteuning: Tot de ondersteunde browsers behoren [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]en [!DNL Opera] (de nieuwste versies). **Opmerking:** Hoewel de interface Experience Cloud deze browsers ondersteunt, wordt mogelijk niet elke browser ondersteund door afzonderlijke oplossingen. ( [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) biedt bijvoorbeeld geen ondersteuning [!DNL Opera]en [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) biedt geen ondersteuning voor [!DNL Safari].)
-   * ([!DNL Safari] Alleen) De domeinwijziging kan problemen met cookies veroorzaken in [!DNL Safari]. Als u de selectie van _Zoeken_ tussen verschillende sites in de [!DNL Safari] privacyvoorkeuren opheft, worden cookies in verschillende domeinen (en alle ervaringen die op andere sites worden gegenereerd) ingeschakeld en werkt Experience Cloud op dit nieuwe domein.
-* Eenvoudiger overschakelen tussen uw organisaties of op een andere toepassing.
-* Verbeterde producthulp: De [!UICONTROL Experience League] is geïntegreerd in het product, zodat een zoekopdracht in de Help ook resultaten bevat van gemeenschapsforums en video-inhoud. Deze wijziging vereenvoudigt de toegang tot meer inhoud en helpt u optimaal te profiteren van Experience Cloud. Klik bovendien op **[!UICONTROL Help]** > **[!UICONTROL Feedback]** om problemen te melden of uw ideeën te delen met Adobe.
-* Verbeterde meldingen: Het vervolgkeuzemenu [!UICONTROL Meldingen] heeft nu twee tabbladen: een voor uw eigen productmeldingen en een voor algemene productaankondigingen.
-
-**Opmerking:** De pagina [!UICONTROL Feed] is in januari 2020 vervangen. Zoek naar een bericht over afgekeurde producten.
+* De pagina Experience Cloud [!UICONTROL Feed] is vervangen. (EXC-8505)
+* De aanmeldingspagina van Experience Cloud is bijgewerkt met nieuwe merkelementen. (EXC-10747)
 
 Raadpleeg [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) Help voor productdocumentatie.
 
@@ -87,71 +70,77 @@ Raadpleeg [Experience Cloud](https://docs.adobe.com/content/help/en/core-service
 
 Opmerkingen bij de release voor het [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services en beveiligingsbulletins.
 
-* [Opmerkingen bij de release Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
-* [Introductie van Experience Platform](#launch)
-* [Reisorkest](#journey)
-* [Mobiele services en mobiele SDK&#39;s](#mobile)
-* [Beveiligingsbulletins en -adviezen](https://helpx.adobe.com/security.html) (alle Adobe-producten)
-
-### Introductie van Experience Platform {#launch}
-
-Zie [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) voor opmerkingen over releases en productdocumentatie.
-
 ### Reisorkest {#journey}
 
 Met behulp van het Adobe Experience Platform kunt u individuele reizen van klanten op schaal en via verschillende ervaringskanalen ordenen door op intelligente wijze in real-time te anticiperen op de behoeften van elk individu, waar zijn reis deze ook brengt.
 
-Release Q1 is gepubliceerd. [Meer informatie](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
-
-#### Aanvullende middelen voor Reisorchestratie
-
-[Documentatie](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Release-aantekeningen](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+* [Documentatie](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Opmerkingen bij de release](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
+* [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobiele services en mobiele SDK&#39;s {#mobile}
 
-**iOS v4.19.1**
+Android 4.18.2 (3 april 2020):
 
-* Algemeen - Resolved een potentiële neerstorting wanneer de [!UICONTROL Swift] aantallen in contextgegevens voor spoorvraag inbegrepen zijn.
-* [!DNL Target] - [!DNL Target] Sessie-id wordt nu toegevoegd als een parameter voor contextgegevens `a.target.sessionId` in de interne hit [!UICONTROL Analytics-for-Target] die naar Adobe Analytics wordt verzonden.
+* In App Messaging: Om veiligheidsredenen, plaatsen [!UICONTROL WebViews] die door SDK wordt gecreeerd nu bezit `setAllowFileAccess` aan _vals_.
 
-**Android v4.18.1**
+iOS 4.19.2 (24 maart 2020):
 
-* [!DNL Target] - De sessie-id wordt nu toegevoegd als een contextgegevensparameter &quot;a.target.sessionId&quot; in de interne [!DNL Target] actie Analytics-for-Target  die naar Adobe Analytics wordt verzonden.
+* Algemeen: Oplossing voor lekken in [!DNL Target] code.
+
+Eenheid 4.19.0 (10 maart 2020):
+
+* De bijgewerkte insteekmodule [!UICONTROL Eenheid] om versie 4.19.0 van iOS en 4.18.0 of [!DNL Android]te gebruiken.
+* Er is een nieuwe acquisitiemethode beschikbaar voor [!DNL Android] het verwerken van een URL die door API&#39;s van [!DNL Google Play] Referrer wordt verschaft.
+
+### Aanvullende informatie over release van het Experience Platform
+
+* [Opmerkingen bij](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html)de release Platform Launch van ervaring.
+* [Opmerkingen bij de release Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Beveiligingsbulletins en -adviezen](https://helpx.adobe.com/security.html) (alle Adobe-producten)
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Analytics]{#analytics}
 
-Releasedatum: 12 **maart 2020**
-
-Nieuwe functies en oplossingen in Adobe Analytics:
+Releasedatum: 16 **april 2020**
 
 * [Nieuwe functies, verbeteringen en correcties in Adobe Analytics](#aa-features)
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 7 april 2020)
 * [AppMeasurement](#appm)
-
-Raadpleeg de Help Home [voor](https://docs.adobe.com/content/help/en/analytics/landing/home.html)Adobe Analytics voor productdocumentatie.
+* [Nieuwe zelfstudies voor analyse](#tutorials-analytics)
 
 ### Nieuwe functies, verbeteringen en correcties in Adobe Analytics {#aa-features}
 
-* **Meerdere rapportsuites in de[!UICONTROL analysewerkruimte ]**: U kunt gegevens van veelvoudige rapportreeksen in één enkel project van de Werkruimte[!UICONTROL van de]Analyse nu brengen om in zij aan zij panelen te bekijken.[Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
-* **Geniet van optimalisatie** voor publiek in cloud: Met deze functie kunt u binnen 8 uur segmenten publiceren naar de Experience Cloud (in plaats van de voorgaande 48-uurs verwerkingstijd). [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
-* **Analyse van werkruimte - sjabloon** voor zelfstudie: Dit nieuwe standaardmalplaatje begeleidt u door gemeenschappelijke terminologie en stappen voor het bouwen van uw eerste analyse in Werkruimte. Het is beschikbaar als standaardmalplaatje in [!UICONTROL Nieuw Project] modaal en vervangt het steekproefproject dat vandaag voor nieuwe gebruikers bestaat die geen andere projecten in hun lijst hebben.
+| Functie | Beschrijving |
+| -----------| ---------- |
+| [!UICONTROL Klantenreisanalyse]: [!UICONTROL Geautomatiseerde back-up van gegevensset] | Met deze nieuwe optie kunt u alle historische gegevens voor een verbinding importeren in [!UICONTROL Klantenreisanalyse]. (Te volgen documentatie) |
+| Analysesupport voor [!UICONTROL Experience Edge] | U kunt nu gegevens die naar [!UICONTROL Experience Edge] zijn verzonden doorsturen naar Analytics. |
+| [!UICONTROL Werkruimte]: Automatisch Freeform-tabellen maken op basis van een leeg frame | Eerder kon u componenten niet direct in een leeg project of leeg paneel laten vallen; u moest eerst een vrije vormlijst toevoegen. U kunt componenten nu rechtstreeks in een leeg project of deelvenster neerzetten. Een vrije-vormtabel wordt automatisch voor u gemaakt in een aanbevolen indeling. Bovendien zijn verbeteringen aangebracht in de manier waarop gemengde componenttypen (zoals afmetingen en metriek) worden verwerkt wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
 
-#### Oplossingen
+#### Correcties voor analysemogelijkheden
 
-* Probleem opgelost in [!UICONTROL Rapporten en Analyses] dat het downloaden van `.xls` rapporten verhinderde. Deze kwestie betrof klanten die andere valuta dan de Amerikaanse dollar en de euro gebruikten. (AN-206541, AN-204008)
-* De introductie van een nieuwe shell verholpen verschillende klantproblemen met betrekking tot het overschakelen van Experience Cloud-organisaties.(AN-200844, AN-186920)
-* Probleem verholpen waarbij een uitsplitsing naar de _niet-gespecificeerde_ lijnpost (of sommige andere posten in de rapportagelijn) zonder _Niet-gespecificeerd (Geen)_ op te nemen in de zoekfilters van de uitsplitsing geen resultaten in de uitsplitsing zou opleveren.
-* Probleem verholpen die zich voordeed bij het gebruik van een geclassificeerde dimensie, en de metrische totalen bij het in- of uitgaan niet overeenkwamen met het totaal van de posten in een uitsplitsing.
-* Probleem verholpen waarbij de eerste aanraak- en laatste aanraakmodellen in Attribution IQ de creditering voor sommige regelitems in sommige niet-lege dimensies niet correct berekenden.
-* Probleem verholpen waarbij het opsplitsen van een datumdimensie naar een andere datumdimensie onjuiste resultaten zou opleveren.
-* Probleem verholpen waarbij de meetgegevens voor in- of uitstappen soms onjuist zouden worden geteld wanneer deze werden toegepast op &quot;Niet gespecificeerd&quot; in een rapport met een gerubriceerde dimensie.
+* Probleem verholpen waarbij ontbrekende gegevens van het analysesegment in Audience Manager werden veroorzaakt. (AN-206221)
+* Probleem verholpen waarbij de verkeerde datums werden weergegeven bij de verwerking van [!UICONTROL gegevensbronnen] . (AN-213604)
+* Probleem verholpen waarbij classificatiebestanden niet goed naar FTP werden geüpload. (AN-214102)
+* Probleem verholpen waarbij de API-methode `Segments.Get` geen volledige reactie retourneerde. (AN-206210)
+* Probleem verholpen waarbij tabelregelitems werden geconverteerd naar speciale tekens in [!DNL Workspace] PDF-download. (AN-196153)
+* Probleem verholpen met aanroep van Adobe Analytics API 1.4 werkt `visattrcustomeridcustomerattributes` niet correct. (AN-186873)
+* Probleem verholpen waarbij gegevens in rapporten werden weergegeven maar niet in de [!UICONTROL gegevensfeed]stonden. (AN-211923)
+* Correctie van een probleem met het niet kopiëren van [!UICONTROL productprofielmachtigingen] . (AN-21113)
+* Probleem verholpen waarbij gebruikers met federatieve id&#39;s zich niet konden aanmelden bij Report Builder. (AN-207750)
+* Probleem verholpen waarbij [!UICONTROL AdWords] -gegevens niet werden weergegeven in [!UICONTROL Advertising Analytics]. (AN-213249)
+* Probleem verholpen waarbij classificatiegegevens niet werden weergegeven in de trendweergave. (AN-212761)
+* Probleem verholpen die een onjuist gepubliceerd segmentaantal in [!UICONTROL Segmentbeheer]veroorzaakte. (AN-213374)
+
+#### Extra correcties voor Analytics
+
+AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-160480; AN-199299; AN-209486; AN-212961; AN-211539; AN-213095; AN-212653; AN-211826; AN-206948; AN-208607; AN-204286; AN-214401; AN-212130; AN-211943; AN-212709; AN-212833; AN-211550; AN-212977; AN-213422; AN-213450; AN-214528; AN-213827; AN-214094; AN-214153; AN-214234; AN-214355; AN-214427; AN-214642; AN-214691; AN-214924; AN-215080; AN-215212
 
 ### Belangrijke kennisgevingen voor [!DNL Analytics] beheerders {#aa-notices}
 
 | Kennisgeving | Datum toegevoegd of bijgewerkt | Beschrijving |
 | -----------| ---------- | ---------- |
-| Wijzigen in hoe items/uitgangen worden berekend in Workspace | 7 april 2020 | In de Werkruimte van de Analyse, sinds Maart 2020, zijn wij veranderd hoe de waarde &quot;niets&quot;met Ingangen/Uitgangen in wisselwerking staat. Omdat u &quot;Nones&quot;in en uit in de Werkruimte van de Analyse kunt nu draaien, passen wij &quot;niets&quot;na de ingang of de uitgang toe, terwijl (voor eVars) het vroeger werd toegepast. Stel dat de eerste hit van een bezoek geen waarde heeft voor Varx, maar de tweede hit wel. In Rapporten &amp; Analytics zal het als &quot;Niet gespecificeerd&quot;voor de Ingang verschijnen, maar in de Werkruimte van de Analyse zal het als waarde op de tweede klap verschijnen. |
-| EOL van instelling voor **[!UICONTROL conversieniveau]** | 3 maart 2020 | De instelling voor het niet-functionerende [conversieniveau](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]>[!UICONTROL Report Suites]>[!UICONTROL General Account Settings]** wordt op 12 maart 2020 verwijderd uit de gebruikersinterface. |
+| Wijzigen in hoe [!UICONTROL items/uitgangen] worden berekend in [!UICONTROL werkruimte] | 7 april 2020 | In de Werkruimte [!UICONTROL van de]Analyse, sinds Maart 2020, zijn wij veranderd hoe de waarde van _niets_ met [!UICONTROL Ingangen/Uitgangen]in wisselwerking staat. Omdat u _Nonen_ nu kunt in- en uitschakelen in de [!UICONTROL analysewerkruimte], wordt de waarde _Geen_ na de invoer of het einde toegepast, terwijl deze (voor eVars) voorheen werd toegepast. Stel dat de eerste hit van een bezoek geen waarde heeft voor Vars, maar de tweede hit wel. In [!UICONTROL Rapporten &amp; Analytics] zal het als _Niet gespecificeerd_ voor de Ingang verschijnen, maar in de Werkruimte [!UICONTROL van de] Analyse zal het als waarde op de tweede klap verschijnen. |
+| EOL van instelling voor **[!UICONTROL conversieniveau]** | 3 maart 2020 | De instelling Niet-functionerend [conversieniveau](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** wordt op 12 maart 2020 verwijderd uit de interface. |
 | EOL van **[!UICONTROL dashboardarchief]** | 27 maart 2020 | De instelling **[!UICONTROL Archief]** weergeven onder **[!UICONTROL Dashboards]** beheren in [!UICONTROL Reports &amp; Analytics] is niet meer beschikbaar vanaf oktober 2020. |
 | Einde van ondersteuning voor TLS 1.1 | 3 oktober 2019 | Op 31 maart 2020 verwijdert Adobe Analytics de ondersteuning voor TLS 1.1. Deze verandering maakt deel uit van onze voortdurende inspanningen om de hoogste veiligheidsnormen te handhaven en de veiligheid van klantengegevens te bevorderen. |
 | Nieuw Adobe Analytics-domein | 18 dec. 2019 | Op 16 januari 2020 is Adobe Analytics naar een nieuw domein gegaan - `https://experience.adobe.com/analytics.`<br>**Opmerking:**Deze wijziging geldt voor alle gebruikers die toegang hebben tot Analytics met hun Adobe-id of Enterprise-id.<ul><li>De domeinwijziging kan tijdens het laden van Analytics in Safari cookies veroorzaken. Als u de selectie van _Zoeken_ tussen verschillende sites voorkomen in de [!DNL Safari] privacyvoorkeuren opheft, worden cookies in verschillende domeinen ingeschakeld (en alle ervaringen die op andere sites beschikbaar zijn) en kan Analytics werken op dit nieuwe Adobe Experience Cloud-domein. U kunt andere browsers zonder problemen gebruiken, omdat dit alleen voor [!DNL Safari] gebruikers geldt.</li><li>De domeinwijziging kan ertoe leiden dat [!UICONTROL Activiteitenkaart] niet langer werkt voor bepaalde klanten [in specifieke gevallen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
@@ -163,80 +152,91 @@ Raadpleeg de Help Home [voor](https://docs.adobe.com/content/help/en/analytics/l
 
 Zie [AppMeasurement voor Javascript-releaseopmerkingen](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Versie 2.20.0 is uitgebracht op 5 maart 2020.
 
+### Nieuwe zelfstudies voor analyse {#tutorials-analytics}
+
+| Inhoud | Beschrijving |
+| -----------| ---------- |
+| [Adobe Labs (technologische voorvertoningen) met Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/analytics-basics/adobe-labs-technology-previews.html) | Met Adobe Labs (Technology Previews) kunt u in contact komen met opkomende technologieën, waardevolle inzichten ontdekken en de ontwikkeling en prioriteiten van toekomstige [!DNL Analytics] functies beïnvloeden. |
+| [Verbeterde beleving Publiceren via Cloud Audience](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/integrations/experience-cloud/improved-experience-cloud-audience-publishing.html) | Er zijn verbeteringen aangebracht in de [!UICONTROL Cloud Audience Publishing]. U kunt nu soorten publiek (segmenten) publiceren en deze zes keer sneller beschikbaar maken. Dit vermindert de huidige latentietijd van 48 uren aan ongeveer 8 uren, en misschien sneller, afhankelijk van verkeer en segmentgrootte. |
+| [Meerdere rapportsets in de analysewerkruimte](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.html) | De veelvoudige rapportreeksen kunnen in één enkel project van de [!UICONTROL Werkruimte] worden geanalyseerd door rapportreeksen op het paneelniveau te selecteren. Op deze manier kunt u een analyse naast elkaar uitvoeren voor verschillende gegevenssets. |
+
+Raadpleeg de Help bij [Adobe Analytics Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html) voor productdocumentatie.
+
 ## ![Pictogrambeheer](/assets/audience-manager.png){#aam}
 
-Nieuwe functies en updates voor Audience Manager:
+Nieuwe functies en oplossingen in Adobe Audience Manager:
 
-| Functie | Beschrijving |
-| -----------| ---------- |
-| [Werkblad Bulkbeheertools](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Een nieuwe versie van het werkblad is beschikbaar voor u, die een kwestie verhelpt sommige klanten onder ogen kwamen toen het creëren van algoritmische modellen in het Werkende systeem met 64 bits van Vensters. Download de nieuwste versie [hier](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/assets/BAAAM_V2_20200311.xlsm). |
-
-### Oplossingen en verbeteringen {#aam-fixes-and-improvements}
-
-* Probleem verholpen waarbij klanten de segmentnaam niet konden bijwerken vanwege een ontbrekende RBAC-machtiging [!UICONTROL VIEW_ALL_DESTINATIONS]. De toestemming [!UICONTROL VIEW_ALL_DESTINATIONS] zou niet moeten worden vereist om een segment bij te werken. Voor meer informatie over toestemmingen RBAC, zie [Beleid (Controles RBAC)](https://docs.adobe.com/help/en/audience-manager/user-guide/features/administration/administration-overview.html#wild-card-permissions). (AM-52760)
-* Oplossing voor een bug in [Data Explorer](https://docs.adobe.com/help/en/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html) waarbij sommige klanten geen inhoud konden zien in de basisinformatiesectie en operatoren in de expressiebouwer bij het maken van kenmerken die zijn gebaseerd op [!UICONTROL Data Explorer] -signalen. (AM-53130)
-* Probleem verholpen waarbij sommige klanten de interface [!UICONTROL Audience Marketplace] niet konden laden. (AM-52070)
-* Probleem verholpen in de [!UICONTROL Segmenten-API] , waarbij de interface vanwege bepaalde segmenten zonder beschrijving vastliep wanneer gebruikers probeerden toegang te krijgen tot die segmenten en gebruikers buiten die pagina moesten navigeren. (AM-53071)
-* Meerdere toegankelijkheidsverbeteringen door de interface. (AAM-48952, AAM-48969, AAM-48979, AAM-48993, AAM-49048, AAM-49057, AAM-49058, AAM-493) 92)
+* Probleem verholpen waarbij de knoppen [!UICONTROL Testen] dupliceren en Toewijzingssjabloon [!UICONTROL dupliceren in] Audience Lab  niet werkten. (AM-53388)
+* Oplossing een kwestie die het [!UICONTROL Tarief] van de Gelijke en Adresseerbare publiek [!UICONTROL van het] Segment ertoe bracht om als 0 worden getoond wanneer een bestemming wordt gevormd om UUIDs uit te voeren. Het [!UICONTROL Tarief] van de Gelijke en [!UICONTROL Doelpubliek] van het Segment worden nu getoond als 100%. (AM-51615)
+* Probleem verholpen waarbij namen van kenmerken die speciale tekens bevatten, tweemaal met HTML werden gecodeerd. (AM-54001)
+* Probleem verholpen waarbij bepaalde gebruikers werden verhinderd om vanuit de [!DNL Audience Manager] gebruikersinterface over te schakelen op andere Adobe Experience Cloud-oplossingen. (AM-52917)
+* Probleem verholpen waarbij sommige gebruikers werden verhinderd een SHA256-gegevensbron voor op mensen gebaseerde doelen te maken. (AM-53525)
+* Meerdere toegankelijkheidsverbeteringen in de interface. (AAM-48986, AAM-49009, AAM-48984, AAM-48939, AAM-48940, AAM-48964, AAM-49032, AAM-493) 60)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
 Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe raadt klanten met on-premise implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
 
-### Productupdates
-
-* **AEM 6.5.4.0** AEM 6.5, Service Pack 4.0 (6.5.4.0 die 5 Maart, 2020) wordt vrijgegeven is een belangrijke update die nieuwe eigenschappen, zeer belangrijke klantenverhogingen, betere prestaties, stabiliteit, en veiligheid omvat, sinds de algemene beschikbaarheid van AEM 6.5, April 2019.
-   * [Nieuw in Adobe Experience Manager 6.5, Service Pack 4](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html)
-   * [Opmerkingen bij de release](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
-   * [Te leveren items voor release van AEM Forms](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
-
-* **AEM 6.4.8.0**
-
-   AEM 6.4, Service Pack 8.0 (6.4.8.0 vrijgegeven 5 maart 2020) is een belangrijke update die zeer belangrijke klantenmoeilijke situaties omvat die sinds de algemene beschikbaarheid van AEM 6.4, April 2018 worden vrijgegeven.
-   * [Opmerkingen bij de release](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
-   * [AEM Forms GVB-releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
-
-* **AEM 6.3.3.8**
-
-   AEM 6.3, Service Pack 3, Cumulative Fix Pack 8 (6.3.3.8 uitgebracht 5 maart 2019) is een belangrijke update die zeer belangrijke klantenmoeilijke situaties omvat die sinds de algemene beschikbaarheid van AEM 6.3, April 2017 worden vrijgegeven.
-   * [Opmerkingen bij de release](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
-   * [AEM Forms GVB-releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
-
-* **AEM Assets Brand Portal**
-
-   AEM Assets Brand Portal 6.4, Service Pack 6 (6.4.6 uitgebracht op 5 maart 2020) wijzigt de manier waarop AEM Assets wordt geconfigureerd met [!UICONTROL Brand Portal.] Daarnaast bevat de release andere verbeteringen en foutoplossingen.
-   * [Opmerkingen bij de release](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)
-
 ### Zelfhulp
 
-* **AEM als cloudservice - Op rollen gebaseerde machtigingen**
+* **AEM-nieuwsbrief**
 
-   Cloud Manager heeft vooraf geconfigureerde rollen met de juiste machtigingen. Elk van de rollen heeft specifieke toestemmingen, pre-gevormde taken, of toestemmingen, verbonden aan elke rol. In het Help-onderwerp Op [rol gebaseerde machtigingen](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/what-is-required/role-based-permissions.html) worden de beschikbare functies en de rollen aangegeven die ze kunnen uitvoeren.
+   Bekijk de nieuwste nieuwsbrief van [Adobe Experience Manager](https://expleague.azureedge.net/assets/aem/Experience-Insider-vol.30.html).
 
-* **AEM als cloudservice - Dispatcher**
+* **AEM als cloudservice - Dynamic Media Cloud Service configureren**
 
-   De secties [Dispatcher en CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) en [Expliciet de geheim voorgeheugen van de Verzender](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) werden bijgewerkt om de opties te verduidelijken die beschikbaar zijn en hoe zij werken.
+   Er is een nieuwe optie beschikbaar wanneer u Dynamic Media Cloud Service configureert:
 
-* **AEM-middelen configureren met Brand Portal**
+   **Selectieve publicatie** - Wanneer u deze optie selecteert, betekent dit dat elementen automatisch worden gepubliceerd voor beveiligde voorvertoning en expliciet kunnen worden gepubliceerd naar AEM zonder dat ze naar DMS7 worden gepubliceerd voor levering in het publieke domein.
 
-   AEM Assets wordt nu geconfigureerd met [!UICONTROL Brand Portal] via Adobe I/O, dat een IMS token aanschaft voor toestemming van de Perkortaalgebruiker. Eerder, werd het gevormd in Klassieke interface door middel van de [!UICONTROL Oudere Gateway OAuth.]
-Zie AEM-middelen [configureren met Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/publish/configure-aem-assets-with-brand-portal.html).
+   Zie Dynamic Media Cloud Service [configureren](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#configuring-dynamic-media-cloud-services).
 
-* **AEM als cloudservice - Smart Crop in Dynamic Media**
+* **Dynamische media - Smart Imaging**
 
-   Een nieuwe optie is beschikbaar in AEM als de Dienst van de Wolk wanneer u met Slim Uitsnijden in de Dynamische component van Media werkt:
+   Het volledige Help-onderwerp voor Smart Imaging is bijgewerkt met nieuwe informatie, waaronder voorbeelden van afbeeldingselementen die de toegevoegde optimalisatie voor Smart Imaging weergeven.
 
-   **Hoogte-breedteverhouding** inschakelen - Selecteer deze optie als u wilt dat Dynamic Media een slimme uitsnijdvertoning kiest die het beste overeenkomt met de hoogte-breedteverhouding van de oorspronkelijke afbeelding.
-Zie [Wanneer u werkt met Slim uitsnijden](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/adding-dynamic-media-assets-to-pages.html#when-working-with-smart-crop).
+   Zie [Slimme afbeeldingen](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/imaging-faq.html).
 
-### Gemeenschap
+* **Het vormen Dynamische Media - wijze Scene7**
 
-* **Webinars van AEM Skill Builder**
+   Een nieuwe optie Alle inhoud synchroniseren is nu beschikbaar op de pagina Dynamische mediaconfiguratie in **[!UICONTROL Gereedschappen > Cloudservices]**.
 
-   * AEM-sites: vanaf 17 maart 2020 worden de bouwstenen van het ontwerpen van inhoud en de fundamentele concepten en bewerkingen van AEM-sites geleerd. [Nu](https://aemskillbuilder-sites.experienceleague.adobeevents.com/register)registreren.
-   * AEM Assets - Vanaf 19 maart 2020 wordt uw expertise op het gebied van beheer van digitale middelen geoptimaliseerd, plus de basisbeginselen van het merkportaal, [!UICONTROL Dynamic Media,] [!UICONTROL Asset Link,] enzovoort. [Nu](https://aemskillbuilder-assets.experienceleague.adobeevents.com/register)registreren.
+   Zie Een dynamische mediaconfiguratie [maken](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/config-dms7.html#configuring-dynamic-media-cloud-services).
 
-### Aanvullende bronnen
+* **AEM Assets Brand Portal ondersteunt AEM Assets als Cloud Service**
+
+   U kunt nu middelen van AEM Assets als Cloud Service publiceren naar AEM Assets Brand Portal.
+
+   Zie AEM-middelen [configureren met Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) en elementen [publiceren naar Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html).
+
+* **Adobe Asset Link 2.0 uitgebracht**
+
+   Adobe Asset Link 2.0 ondersteunt het werken met meerdere AEM-omgevingen en ondersteunt AEM als Cloud Service. AEM ondersteunt de behoeften van marketers om automatische uitvoering van de workflow voor middelenverwerking te configureren wanneer middelen naar een map worden geüpload met Adobe Asset Link.
+
+   Zie [Adobe Asset Link](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html).
+
+### Nieuwe zelfstudies voor Experience Manager
+
+| Inhoud | Beschrijving |
+| -----------| ---------- |  
+| [Gereedschappen voor lokale verzending instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html) | Leer over het vergemakkelijken van het vormen, het bevestigen, en het simuleren van [!UICONTROL Verzender] plaatselijk. |
+| [Ontwikkelingshulpmiddelen instellen voor AEM-projecten](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/development-tools.html) | Voor de ontwikkeling van Adobe Experience Manager (AEM) moet een minimale set ontwikkelgereedschappen worden geïnstalleerd en ingesteld op de ontwikkelcomputer. Deze instrumenten ondersteunen de ontwikkeling en de bouw van AEM-projecten. |
+| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met de AEM als QuickStart Jar van de Cloud Service SDK . Dit staat ontwikkelaars toe om aan douanecode, configuratie, en inhoud op te stellen en te testen alvorens het aan broncontrole te binden, en het op te stellen aan een AEM als milieu van de Dienst van de Wolk. |
+| [Navigatie](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/authoring/navigation.html) | Verken de basisbeginselen voor AEM Assets voor navigatie. |
+| [Versies](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/collaboration/versions.html) | Ontdek hoe AEM elementversies maakt en onderhoudt. |
+| [AEM - [!DNL Magento] Integratie die het Kader van de Integratie van de [!UICONTROL Handel gebruikt]](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/getting-started.html) | Deze video bespreekt u de opstelling van de integratie tussen AEM en [!DNL Magento]. |
+| [Inleiding tot de AEM-architectuurstapel](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-architecture.html) | Het archetype van het Project CIF leidt tot een minimaal CIF-project van de Manager van de Ervaring van Adobe (AEM) als uitgangspunt voor klantenprojecten gebruikend de Componenten van de Kern van CIF. |
+| [Inleiding tot OSGi](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-osgi.html) | Een inleiding aan OSGi, een dynamische modulaire architectuur voor toepassingen Java die de basis voor de Manager van de Ervaring van Adobe vormt. |
+| [Inleiding tot de Java Content Repository (JCR)](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-jcr.html) | Een inleiding op de [JCR (Java Content Repository) die wordt gebruikt door Adobe Experience Manager. |
+| [Inleiding tot verkoop](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-sling.html) | Een inleiding tot [!DNL Sling], een open-source RESTful-webframework dat onderdeel is van de onderliggende technologiestack van Adobe Experience Manager. |
+| [Inleiding tot auteur- en publicatiereeks](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-author-publish.html) | Een inleiding tot de [!UICONTROL Auteur] en [!UICONTROL Publish] rijen als deel van de architectuur in de Manager van de Ervaring van Adobe. |
+| [Introductie tot Dispatcher](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html) | Een inleiding aan de mogelijkheden en de eigenschappen van de verzender als deel van de architectuur AEM. |
+| [Inleiding tot componentontwikkeling](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/components/component-development.html) | Een overzicht van het ontwikkelen van componenten met de Plaatsen van de Manager van de Ervaring van Adobe. Omvat een inleiding aan [!UICONTROL Dialogen], [!UICONTROL het Verdelen Modellen], [!UICONTROL Manuscripten]HTML, en [!UICONTROL cliënt-zijBibliotheken]. |
+| [AEM-projectarchetype](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/developing/aem-project-archetype.html) | Het AEM-project bevat alle code en configuraties voor een implementatie. Met het AEM- [!UICONTROL projectarchetype] wordt een minimaal Adobe Experience Manager-project op basis van best practices gemaakt als startpunt voor uw eigen AEM-projecten. |
+| [Kernonderdelen](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/components/core-components-feature-video-understand.html) | AEM [!UICONTROL Core Components] is een standaardset onderdelen die u kunt gebruiken met Adobe Experience Manager. |
+| [AEM QuickStart Jar gebruiken](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/developing/quickstart-jar.html) | Leer hoe u een lokale versie van Adobe Experience Manager binnen een paar minuten installeert en uitvoert met de [!UICONTROL AEM Quickstart-jar]. |
+
+### Aanvullende Help-bronnen
 
 * [AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 - Introductie van &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-5.html)
@@ -253,26 +253,25 @@ Zie [Wanneer u werkt met Slim uitsnijden](https://docs.adobe.com/content/help/en
 
 De Campagne van Adobe verstrekt een intuïtieve, geautomatiseerde manier om één-op-één berichten over online en off-line marketing kanalen te leveren. U kunt nu anticiperen op wat uw klanten willen met behulp van ervaringen die worden bepaald door hun gewoonten en voorkeuren.
 
-### Campaign Classic
+### Campagnestandaard
 
-* [Campagne Classic 19.1.4-update](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
+* [Adobe Campagnestandaard 20.2](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)
 
-### Aanvullende bronnen
+### Nieuwe standaardzelfstudies voor campagnes {#tutorials-acs}
+
+| Inhoud | Beschrijving |
+| -----------| ---------- |  
+| [Profielvervanging - E-mailberichten testen met behulp van doelprofielen](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/profile-substitution.html) | Test uw e-mailberichten met de functie voor het vervangen van profielen. |
+
+### Aanvullende Help-bronnen voor campagnes
 
 * Adobe Campagnestandaard: [Documentatie](https://helpx.adobe.com/support/campaign/standard.html) - de Nota&#39;s [van de](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) Versie - [hoe te video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) &#39;s - de Planning van de [Versie](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Documentatie](https://helpx.adobe.com/support/campaign/classic.html) - [Release-aantekeningen](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Configuratiescherm Adobe-campagne: [Documentatie](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - Opmerkingen bij de [release](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
+<!-- ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Bijgewerkt op 20 maart 2020, voor release van 21 maart:
-
-| Weergave | Functie |
-|------|---------|
-| [!UICONTROL Portfolio&#39;s] | Neem contact op met uw accountmanager voor richtlijnen voor het beheren van uw portfolio&#39;s om rekening te houden met wijzigingen in het verkeer die het gevolg zijn van [!DNL COVID-19]deze. |
-| Google Ads- en Microsoft Ads-campagnes | In geoptimaliseerde portfolio&#39;s met de optie [!UICONTROL Bodaanpassingswaarden] automatisch optimaliseren, optimaliseert Advertising Cloud de instellingen voor Bodcorrectie niet meer automatisch voor campagnes met de strategie voor het bieden met verbeterde kosten per klik (eCPC). Het zoekprogramma optimaliseert alle biedaanpassingen op het moment van de veiling. De Advertising Cloud optimaliseert nog steeds de basisbiedingen en — wanneer de optie [!UICONTROL voor het aanpassen van de budgetlimieten] voor de campagne is ingeschakeld — het campagnebudget. |
-| [!UICONTROL Waarschuwingen bèta] | (Beta-functie) U kunt nu waarschuwingssjablonen maken om te bepalen wanneer een portfolio tijdens een opgegeven periode voldoet aan specifieke voorwaarden, zoals prestatiewaarden, en vervolgens een waarschuwing genereren. U kunt waarschuwingen op portfolioniveau maken op basis van **[!UICONTROL inzichten en rapporten]** > **[!UICONTROL Waarschuwingen (bèta)]** , maar niet op basis van **[!UICONTROL optimalisatie]** > **[!UICONTROL Portfolio&#39;s)]**. **Opmerking:** Alle waarschuwingen die zijn gemaakt op basis van de oudere versie van Alerts Beta, die in januari is vervangen, zijn niet meer beschikbaar. |
-| [!UICONTROL Beheer] > [!UICONTROL Transactieeigenschappen] | Een nieuwe kolom van identiteitskaart [!UICONTROL van het] Bezit toont unieke bezitsidentiteitskaart voor elk transactiebezit. U kunt zoeken naar elke tekenreeks in de kolomwaarden. |
+Advertising Cloud release notes. -->
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento]{#magento}
 
@@ -287,16 +286,7 @@ Voor de versienota&#39;s van Magento, zie:
 
 ### Core Marketo Engineering-updates
 
-Releasedatum: 21 februari 2020
-
-* **Microsoft Dynamics _Change Owner in Microsoft_Flow Action:** Wijzig een lead of contactpersoon rechtstreeks vanuit Marketo Engage.
-* **Verbeteringen aan API-aanroepen:**
-   * Gebruikersbeheer-API&#39;s
-   * Aangepast objectschema-API&#39;s
-   * Regels voor omleiding van bestemmingspagina&#39;s
-* **Caching van formulierdescriptor:** Verbeteringen in bestemmingspagina&#39;s en -formulieren.
-
-Zie de [!DNL Marketo] opmerkingen bij de release van [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
+Zie [!DNL Marketo] releaseopmerkingen [](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
 
 ### Opkomende functies
 
@@ -313,46 +303,7 @@ De volgende functies worden gedurende het hele kwartaal beschikbaar gesteld:
 
 ### Afwijkingen
 
-* **Parameter &quot;_methode&quot; van de element-API:** Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in een POST lichaam over te gaan om de lengtebeperkingen van URI te omzeilen.
+* **Parameter &quot;_methode&quot; van de element-API:** Na september 2020, zullen de Eindpunten van activa API niet meer accepteren `_method` om de Parameters van de Vraag in een POST lichaam over te gaan om de lengtebeperkingen van URI te omzeilen.
 * **Ondersteuning voor Internet Explorer-veroudering:** Vanaf de release van 31 juli 2020 wordt de gebruikersinterface Marketo Engage niet meer ondersteund in Internet Explorer.
 
 Voor cumulatieve en historische versienota&#39;s, zie [Marketo versie nota](https://docs.marketo.com/x/CgA6Ag).
-
-## ![Pictogram](/assets/ec_appicon_24.png) Nieuwe documentatie en zelfstudies {#selfhelp}
-
-Nieuwe en recente zelfhulpartikelen en video&#39;s. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
-
-| Oplossing | Inhoud | Beschrijving |
-|----------| -----------| ---------- |  
-| [!UICONTROL AEM Commerce] | Video - Meerdere categorieën en productpagina&#39;s [maken](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/04-style-cif-component.md) | Leer hoe te om een minimaal CIF-project van de Manager van de Ervaring van Adobe (AEM) tot stand te brengen als uitgangspunt voor klantenprojecten gebruikend de Componenten van de Kern CIF. Pas thema en CSS het stileren op componenten toe en inspecteer een nieuw project AEM CIF, dat door archetype wordt geproduceerd. Leer ook hoe CSS en JavaScript die door de belangrijkste componenten van CIF worden gebruikt worden georganiseerd. |
-| [!UICONTROL AEM-formulieren] | Artikel - [Verifiëren voor AEM-auteur met OKTA](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/single-sign-on-with-okta.html) | Leer hoe u uw app configureert op de OKTA-portal en over de instellingen die u doorgaans gebruikt voor het registreren van nieuwe toepassingen. |
-| [!UICONTROL AEM Commerce] | Zelfstudie - [CIF Core-componenten aanpassen](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/05-customize-cif-components.md) | Bekijk verscheidene verschillende uitbreidingspunten die door de Componenten van de Kern van CIF en AEM in het algemeen worden verstrekt. De Componenten van de Kern van CIF verstrekt een standaardreeks componenten van de Handel die kunnen worden gebruikt om een project te versnellen dat de Oplossingen van de Manager van de Ervaring van Adobe (AEM) en van Magento integreert. |
-| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Video - [Create an audience...](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.html) | Maak een publiek in Campagnestandaard met de Adobe [!UICONTROL Experience Platform Segment Builder]. U hebt rechtstreeks toegang tot deze functie in Adobe Campagne Standard via de modules [!UICONTROL Soorten publiek] . |
-| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Video - [Adobe Experience Platform-soorten activeren in een marketingworkflow](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/activating-aep-audiences.html) | Leer hoe te om de Audience [!UICONTROL van de Vraag van de] Diensten van Gegevens binnen een werkschema te activeren door de activiteit van het [!UICONTROL Leespubliek] te gebruiken. |
-| [!DNL Adobe Campaign] | Lesbestand - [pushmelding met Android](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/push/getting-started-push-notifications/getting-started-with-push-notifications-android.html) | Verzend gepersonaliseerde en gesegmenteerde pushmeldingen naar mobiele iOS- en Android-apparaten. Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushmeldingen vanuit Adobe Campaign en het ontvangen van deze meldingen in uw Android-app. |
-| [!DNL Adobe Campaign] | Video - [Een pushmelding maken](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/push/creating-a-push-notification.html) | Maak een pushmelding in Adobe Campaign Standard. U kunt persoonlijke en gesegmenteerde pushmeldingen verzenden naar mobiele apparaten met iOS en Android. |
-| [!DNL Adobe Campaign] - AEP Data Connector | Video - [Controleer de status van een gegevensinvoertaak](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.html) | Leer hoe u de status van een gegevensinnametaak kunt controleren en of de gegevens vanuit Adobe Campaign Standard zijn opgenomen in het Adobe Experience Platform. |
-| [!DNL Adobe Campaign] - AEP Data Connector | Video - Gegevenstoewijzing [wijzigen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.html) | Leer hoe u de status kunt controleren en de gegevenstoewijzing kunt wijzigen. |
-| [!DNL Adobe Campaign] - AEP Data Connector | Video - [Kaarten, ervaringsgebeurtenissen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-experience-events.html) | Leer hoe u Experience Events in het Adobe Experience Platform in kaart brengt. |
-| [!DNL Adobe Campaign] - AEP Data Connector | Video - Aangepaste bronnen [toewijzen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.html) | Leer hoe u verschillende gegevenstypen kunt toewijzen tussen Adobe Campaign Standard en Adobe Experience Platform. |
-| [!DNL Adobe Campaign] - AEP Data Connector | Video - [Inzicht in de gegevensconnector van het Adobe Experience Platform](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.html) | Leer hoe u uw gegevens op het Adobe Experience Platform beschikbaar kunt maken door XTK-gegevens (gegevens die in Campaign worden opgenomen) toe te wijzen aan de XDM-gegevens (Experience Data Model) op het Adobe Experience Platform. |
-| [!DNL Adobe Campaign] - AEP Data Connector | Video - [Gegevens van zaadtabel toewijzen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Leer hoe u uw zaadgegevens/testprofielen met het Platform van de Ervaring van Adobe in kaart brengt. |
-| [!DNL Adobe Campaign]- Bestemmingen van het publiek | Video - [Wijzig de doeldimensie van een levering voor een publiek Platform](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Leer hoe u de doeldimensie van een levering voor een platformpubliek wijzigt buiten de tabel met het primaire profiel in Adobe Campagnestandaard. |
-| [!DNL Adobe Campaign] | Video - [Groot gegevensbeheer op Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Gebruik de Snowflake-connector in Adobe Campaign Classic. |
-| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van het publiek (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
-| [!DNL Adobe Target] - Mobile SDK | Zelfstudie - [Een persoonlijk tintje toevoegen aan apps met Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementeer Adobe Target in uw eigen Android-app. Valideer de installatie van de SDK van de Mobiele Diensten en voer [!DNL Target] verzoeken zoals pre-haalt inhoud uit, het blokkeren van verzoeken, en meer. |
-| Adobe Analytics | Video - [Adobe Summit 2019 - Supersessie](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Bekijk gekrulde clips van de high-tech &#39;super sessie&#39; op Top 2019. |
-| Adobe Analytics | Video - [Inleiding tot Berekende Metriek in de Analyse van de Reis van de Klant](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Doorloop de grondbeginselen van het creëren van [!UICONTROL Berekende Metriek] in de Analyse [!UICONTROL van de Reis van de]Klant. |
-| Adobe Analytics | Video - [Adobe Summit 2019 - Supersessie](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Bekijk gekrulde clips van de reis- en gastsessie op topconferentie 2019. |
-| Adobe Analytics | Video - [Adobe Summit 2019 - Supersessie](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html) | Zie gekrulde clips van de handelssessie op Top 2019. |
-| Adobe Analytics | Video - [Gebruiksscenario voor klant: Accentgroep investeert in de ervaring van de klant om verkoop te stimuleren](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.html) | Kijk hoe de Accent Group de Adobe Experience Cloud gebruikt om vloeiende digitale ervaringen te maken. |
-| Adobe Analytics | Video - [Gebruiksscenario voor klant: ServiceNow krijgt de juiste inzichten om met vooruitzichten te verbinden](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.html) | Ontdek hoe u via de marketingkanalen actiefgegevens kunt [!DNL ServiceNow] ophalen en het rendement van de investering in betaalde zoekopdrachten kunt verhogen met Adobe Advertising Cloud en Adobe Analytics. |
-| Adobe Analytics | Video - [Adobe Analytics - Het is meer dan gegevens die de Klantintelligentie heeft](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.html) | Leer meer over gegevensgestuurde marketing en hoe u uw analysemogelijkheden kunt aanpassen van gegevens tot inzichten tot actie. |
-| Adobe Analytics | Video - [Adobe Sensei en Adobe Analytics - Extended Version](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.html) | Belangrijke functies weergeven in Adobe Analytics met Adobe-functionaliteit [!DNL Sensei,] , zoals [!UICONTROL Anomaly Detection,] [!UICONTROL Contribution Analysis,] [!UICONTROL Intelligent Alerts,] [!UICONTROL Clustering,]  [!UICONTROL Segment IQ,enPropensity Modeling.] |
-| Adobe Analytics | Video - [Hoe kan de werkruimte van de Analyse van Adobe uw zaken veranderen](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | Leer hoe u ad hoc analyse, flexibele analyse, cohortanalyse, en reserveanalyse kunt uitvoeren gebruikend de Werkruimte [!UICONTROL van de]Analyse. U kunt de analyse het werkmilieu met iedereen in uw bedrijf ook delen, en zijn belemmering en dalingsfunctie staat iedereen toe om de gegevens gemakkelijk te analyseren en inzicht snel te krijgen. |
-| Adobe Analytics | Video - [Gebruiksscenario voor klant: Het thuisdepot vernieuwt met Customer Experience Management](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | Leer hoe u met Adobe-oplossingen loyaliteit en klanttevredenheid over uw merk kunt creëren dankzij een gepersonaliseerde, aangepaste boodschapervaring. [!DNL Home Depot] |
-| Adobe Analytics | Presentatie - [Klantenreisanalyse begrijpen](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | Leer hoe de Analyse van de Reis van de [!UICONTROL Klant van Adobe, een toepassingsdienst die op], wordt voortgebouwd de Werkruimte [!DNL Adobe Experience Platform]van de  Analyse in het Platform van de Ervaring brengt. Deze functie maakt multikanaalanalyse van al uw [!DNL Adobe Experience Platform] gegevenssets mogelijk. |
-| Adobe Analytics | Video - [Kanaalkenmerk in CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | Leer hoe u visualisaties kunt gebruiken om attributie (krediet geven) over kanalen in de Analyse van de Reis van de [!UICONTROL Klant te tonen]. |
-| Adobe Analytics | Artikel - [Klantentips voor het vervolgen van uw Adobe Analytics Learning-reis](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Neem contact op met drie Adobe-klanten die tips en trucs voor u hebben over hoe u de beste resultaten kunt behalen uit Adobe Analytics. |
-| Adobe Analytics | Video - Kanaaloverschrijdende [visualisaties maken in CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | Ontdek hoe u met [!UICONTROL Klantenreisanalyse] visualisaties kunt maken die gegevens uit meerdere gegevenssets op meerdere kanalen bevatten, waaronder het samenvoegen van de gegevens per bezoeker. |
-| Adobe Analytics | Video - Uw berekende cijfers [verplaatsen van Adobe Analytics naar Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Zoek tips voor het opnieuw maken van uw [!UICONTROLCberekende Metriek] voor Analyse van de Reis van de [!UICONTROL Klant]. |
