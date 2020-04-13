@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 87f42aedd2b8c987b092c614468d536fa48ae724
+source-git-commit: 80852c2797ad1a26b6c4a806fa2cf3ef59f84707
 
 ---
 
@@ -65,6 +65,19 @@ Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder behee
 * De aanmeldingspagina van Experience Cloud is bijgewerkt met nieuwe merkelementen. (EXC-10747)
 
 Raadpleeg [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) Help voor productdocumentatie.
+
+### Geïntegreerd productdomein
+
+Adobe werkt de domein- en interfaceheader bij om uw ervaring in alle Experience Cloud-toepassingen te verenigen en te verbeteren. Deze verbeteringen zijn ontworpen om uw ervaring op kleine maar belangrijke manieren te vereenvoudigen. Deze verbeteringen hebben geen invloed op uw huidige workflows.
+
+Updates zijn:
+
+* Nieuwe oplossing-URL&#39;s: `experience.adobe.com/<application name>`:
+   * Uiteindelijk zullen alle producten dit patroon URL goedkeuren. Nieuwe URL&#39;s worden de hele maand van kracht.
+   * Browserondersteuning: Tot de ondersteunde browsers behoren [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]en [!DNL Opera] (de nieuwste versies). **Opmerking:** Hoewel de interface Experience Cloud deze browsers ondersteunt, wordt mogelijk niet elke browser ondersteund door afzonderlijke oplossingen. ( [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) biedt bijvoorbeeld geen ondersteuning [!DNL Opera]en [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) biedt geen ondersteuning voor [!DNL Safari].)
+   * ([!DNL Safari] Alleen) De domeinwijziging kan problemen met cookies veroorzaken in [!DNL Safari]. Als u de selectie van _Zoeken_ tussen verschillende sites in de [!DNL Safari] privacyvoorkeuren opheft, worden cookies in verschillende domeinen (en alle ervaringen die op andere sites worden gegenereerd) ingeschakeld en werkt Experience Cloud op dit nieuwe domein.
+* Eenvoudiger overschakelen tussen uw organisaties of op een andere toepassing.
+* Verbeterde producthulp: De [!UICONTROL Experience League] is geïntegreerd in het product, zodat een zoekopdracht in de Help ook resultaten bevat van gemeenschapsforums en video-inhoud. Deze wijziging vereenvoudigt de toegang tot meer inhoud en helpt u optimaal te profiteren van Experience Cloud. Klik bovendien op **[!UICONTROL Help]** > **[!UICONTROL Feedback]** om problemen te melden of uw ideeën te delen met Adobe.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
