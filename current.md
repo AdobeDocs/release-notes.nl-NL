@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3e124e820e573047298f878cf8cb2bf2a6b7f7dd
+source-git-commit: 87f42aedd2b8c987b092c614468d536fa48ae724
 
 ---
 
@@ -165,6 +165,10 @@ Raadpleeg de Help bij [Adobe Analytics Home](https://docs.adobe.com/content/help
 ## ![Pictogrambeheer](/assets/audience-manager.png){#aam}
 
 Nieuwe functies en oplossingen in Adobe Audience Manager:
+
+| Functie | Beschrijving |
+| -----------| ---------- |  
+| [Frequente problemen met klantenondersteuning](../support-issues/support-issues-overview.md) | We hebben een nieuwe sectie toegevoegd aan ons documentatieportaal, die antwoorden bevat op de meest voorkomende vragen die door ons team voor klantenondersteuning worden ontvangen. |
 
 * Probleem verholpen waarbij de knoppen [!UICONTROL Testen] dupliceren en Toewijzingssjabloon [!UICONTROL dupliceren in] Audience Lab  niet werkten. (AM-53388)
 * Oplossing een kwestie die het [!UICONTROL Tarief] van de Gelijke en Adresseerbare publiek [!UICONTROL van het] Segment ertoe bracht om als 0 worden getoond wanneer een bestemming wordt gevormd om UUIDs uit te voeren. Het [!UICONTROL Tarief] van de Gelijke en [!UICONTROL Doelpubliek] van het Segment worden nu getoond als 100%. (AM-51615)
