@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1cbba06183a2cd2897303e99dd7da89041a2d106
+source-git-commit: 26ff9349ed0c5dc19167e4d21c03f5261f802e73
 
 ---
 
@@ -181,8 +181,9 @@ Nieuwe functies en oplossingen in Adobe Audience Manager:
 
 | Functie | Beschrijving |
 | -----------| ---------- |  
-| Frequente problemen met klantenondersteuning | We hebben een nieuwe sectie toegevoegd aan ons documentatieportaal, die antwoorden bevat op de meest voorkomende vragen die door ons team voor klantenondersteuning worden ontvangen. |
+| [Frequente problemen met klantenondersteuning](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | We hebben een nieuwe sectie toegevoegd aan ons documentatieportaal, die antwoorden bevat op de meest voorkomende vragen die door ons team voor klantenondersteuning worden ontvangen. |
 
+* Probleem verholpen waarbij een onjuiste rapportage van [adresseerbare soorten publiek](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html) werd veroorzaakt voor segmenten die id&#39;s voor mobiele apparaten bevatten. Na deze update ziet u mogelijk een toename in het aantal [adresseerbare doelgroepen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html).
 * Probleem verholpen waarbij de knoppen [!UICONTROL Testen] dupliceren en Toewijzingssjabloon [!UICONTROL dupliceren in] Audience Lab  niet werkten. (AM-53388)
 * Oplossing een kwestie die het [!UICONTROL Tarief] van de Gelijke en Adresseerbare publiek [!UICONTROL van het] Segment ertoe bracht om als 0 worden getoond wanneer een bestemming wordt gevormd om UUIDs uit te voeren. Het [!UICONTROL Tarief] van de Gelijke en [!UICONTROL Doelpubliek] van het Segment worden nu getoond als 100%. (AM-51615)
 * Probleem verholpen waarbij namen van kenmerken die speciale tekens bevatten, tweemaal met HTML werden gecodeerd. (AM-54001)
