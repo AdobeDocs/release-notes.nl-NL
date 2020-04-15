@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 26ff9349ed0c5dc19167e4d21c03f5261f802e73
+source-git-commit: 69b6adbefa394d7d44939588dcef27c89890b00b
 
 ---
 
@@ -31,7 +31,7 @@ Nieuwe functies en oplossingen in het deelvenster [!DNL Adobe Experience Cloud].
 * [Adobe-systeemstatus](#status)
 * [Ervaar de interface van de Wolk en de kerndiensten](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (Wijziging **van releasedatum - zie update op 15 april**)
 * [Auditiebeheer](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -114,56 +114,59 @@ Eenheid 4.19.0 (10 maart 2020):
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Analytics]{#analytics}
 
-Releasedatum: 16 **april 2020**
+>[!IMPORTANT]
+>
+>De onderhoudsrelease van Adobe Analytics April is verplaatst naar 21 mei 2020. Zie Opmerkingen bij de release van [maart voor de meest recente informatie over de release van Analytics](c-legacy-releases\2020\03122020.md)
 
-* [Nieuwe functies, verbeteringen en correcties in Adobe Analytics](#aa-features)
-* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 7 april 2020)
-* [AppMeasurement](#appm)
+<!-- * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
+* [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
+* [AppMeasurement](#appm) -->
+
 * [Nieuwe zelfstudies voor analyse](#tutorials-analytics)
 
-### Nieuwe functies, verbeteringen en correcties in Adobe Analytics {#aa-features}
+<!-- ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
 
-| Functie | Beschrijving |
+| Feature    | Description  |
 | -----------| ---------- |
-| [!UICONTROL Klantenreisanalyse]: [!UICONTROL Geautomatiseerde back-up van gegevensset] | Met deze nieuwe optie kunt u alle historische gegevens voor een verbinding importeren in [!UICONTROL Klantenreisanalyse]. (Te volgen documentatie) |
-| Analysesupport voor [!UICONTROL Experience Edge] | U kunt nu gegevens die naar [!UICONTROL Experience Edge] zijn verzonden doorsturen naar Analytics. |
-| [!UICONTROL Werkruimte]: Automatisch Freeform-tabellen maken op basis van een leeg frame | Eerder kon u componenten niet direct in een leeg project of leeg paneel laten vallen; u moest eerst een vrije vormlijst toevoegen. U kunt componenten nu rechtstreeks in een leeg project of deelvenster neerzetten. Een vrije-vormtabel wordt automatisch voor u gemaakt in een aanbevolen indeling. Bovendien zijn verbeteringen aangebracht in de manier waarop gemengde componenttypen (zoals afmetingen en metriek) worden verwerkt wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
+|[!UICONTROL Customer Journey Analytics]: [!UICONTROL Automated Dataset Backfill]|This new option lets you import all historical data for a connection in [!UICONTROL Customer Journey Analytics]. (Documentation to follow)|
+|Analytics support for [!UICONTROL Experience Edge] |You can now forward data that was sent to [!UICONTROL Experience Edge] to Analytics.|
+|[!UICONTROL Workspace]: Automatically build Freeform Tables from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a freeform table first. You can now drop components directly into a blank project or panel, and a freeform table will automatically be built for you in a recommended format. Additionally, improvements were made to how mixed component types (e.g. dimensions & metrics) are handled when dropped into a blank freeform table together.|
 
-#### Correcties voor analysemogelijkheden
+#### Analytics fixes
 
-* Probleem verholpen waarbij ontbrekende gegevens van het analysesegment in Audience Manager werden veroorzaakt. (AN-206221)
-* Probleem verholpen waarbij de verkeerde datums werden weergegeven bij de verwerking van [!UICONTROL gegevensbronnen] . (AN-213604)
-* Probleem verholpen waarbij classificatiebestanden niet goed naar FTP werden geüpload. (AN-214102)
-* Probleem verholpen waarbij de API-methode `Segments.Get` geen volledige reactie retourneerde. (AN-206210)
-* Probleem verholpen waarbij tabelregelitems werden geconverteerd naar speciale tekens in [!DNL Workspace] PDF-download. (AN-196153)
-* Probleem verholpen met aanroep van Adobe Analytics API 1.4 werkt `visattrcustomeridcustomerattributes` niet correct. (AN-186873)
-* Probleem verholpen waarbij gegevens in rapporten werden weergegeven maar niet in de [!UICONTROL gegevensfeed]stonden. (AN-211923)
-* Correctie van een probleem met het niet kopiëren van [!UICONTROL productprofielmachtigingen] . (AN-21113)
-* Probleem verholpen waarbij gebruikers met federatieve id&#39;s zich niet konden aanmelden bij Report Builder. (AN-207750)
-* Probleem verholpen waarbij [!UICONTROL AdWords] -gegevens niet werden weergegeven in [!UICONTROL Advertising Analytics]. (AN-213249)
-* Probleem verholpen waarbij classificatiegegevens niet werden weergegeven in de trendweergave. (AN-212761)
-* Probleem verholpen die een onjuist gepubliceerd segmentaantal in [!UICONTROL Segmentbeheer]veroorzaakte. (AN-213374)
+* Fixed an issue that caused missing Analytics segment data in Audience Manager. (AN-206221)
+* Fixed an issue with [!UICONTROL Data Sources] processing showing the wrong dates. (AN-213604)
+* Fixed an issue with classification files not getting uploaded to FTP properly. (AN-214102)
+* Fixed an issue with the API method `Segments.Get` not returning a full response. (AN-206210)
+* Fixed an issue where table line items were converted to special characters in [!DNL Workspace] PDF download. (AN-196153)
+* Fixed an issue with Adobe Analytics API 1.4 call `visattrcustomeridcustomerattributes` not working properly. (AN-186873)
+* Fixed an issue with data appearing in reports but missing from the [!UICONTROL Data Feed]. (AN-211923)
+* Fixed an issue with being unable to copy [!UICONTROL Product Profile] permissions. (AN-211113)
+* Fixed an issue where users with Federated IDs were not able to log in to Report Builder. (AN-207750)
+* Fixed an issue with [!UICONTROL AdWords] data not showing in [!UICONTROL Advertising Analytics]. (AN-213249)
+* Fixed an issue where classification data did not display in the trended view. (AN-212761)
+* Fixed an issue that caused an incorrect published segment count in the [!UICONTROL Segment Manager]. (AN-213374)
 
-#### Extra correcties voor Analytics
+#### Additional Analytics fixes
 
 AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-160480; AN-199299; AN-209486; AN-212961; AN-211539; AN-213095; AN-212653; AN-211826; AN-206948; AN-208607; AN-204286; AN-214401; AN-212130; AN-211943; AN-212709; AN-212833; AN-211550; AN-212977; AN-213422; AN-213450; AN-214528; AN-213827; AN-214094; AN-214153; AN-214234; AN-214355; AN-214427; AN-214642; AN-214691; AN-214924; AN-215080; AN-215212
 
-### Belangrijke kennisgevingen voor [!DNL Analytics] beheerders {#aa-notices}
+### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
-| Kennisgeving | Datum toegevoegd of bijgewerkt | Beschrijving |
+| Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-| Wijzigen in hoe [!UICONTROL items/uitgangen] worden berekend in [!UICONTROL werkruimte] | 7 april 2020 | In de Werkruimte [!UICONTROL van de]Analyse, sinds Maart 2020, zijn wij veranderd hoe de waarde van _niets_ met [!UICONTROL Ingangen/Uitgangen]in wisselwerking staat. Omdat u _Nonen_ nu kunt in- en uitschakelen in de [!UICONTROL analysewerkruimte], wordt de waarde _Geen_ na de invoer of het einde toegepast, terwijl deze (voor eVars) voorheen werd toegepast. Stel dat de eerste hit van een bezoek geen waarde heeft voor Vars, maar de tweede hit wel. In [!UICONTROL Rapporten &amp; Analytics] zal het als _Niet gespecificeerd_ voor de Ingang verschijnen, maar in de Werkruimte [!UICONTROL van de] Analyse zal het als waarde op de tweede klap verschijnen. |
-| EOL van instelling voor **[!UICONTROL conversieniveau]** | 3 maart 2020 | De instelling Niet-functionerend [conversieniveau](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** wordt op 12 maart 2020 verwijderd uit de interface. |
-| EOL van **[!UICONTROL dashboardarchief]** | 27 maart 2020 | De instelling **[!UICONTROL Archief]** weergeven onder **[!UICONTROL Dashboards]** beheren in [!UICONTROL Reports &amp; Analytics] is niet meer beschikbaar vanaf oktober 2020. |
-| Einde van ondersteuning voor TLS 1.1 | 3 oktober 2019 | Op 31 maart 2020 verwijdert Adobe Analytics de ondersteuning voor TLS 1.1. Deze verandering maakt deel uit van onze voortdurende inspanningen om de hoogste veiligheidsnormen te handhaven en de veiligheid van klantengegevens te bevorderen. |
-| Nieuw Adobe Analytics-domein | 18 dec. 2019 | Op 16 januari 2020 is Adobe Analytics naar een nieuw domein gegaan - `https://experience.adobe.com/analytics.`<br>**Opmerking:**Deze wijziging geldt voor alle gebruikers die toegang hebben tot Analytics met hun Adobe-id of Enterprise-id.<ul><li>De domeinwijziging kan tijdens het laden van Analytics in Safari cookies veroorzaken. Als u de selectie van _Zoeken_ tussen verschillende sites voorkomen in de [!DNL Safari] privacyvoorkeuren opheft, worden cookies in verschillende domeinen ingeschakeld (en alle ervaringen die op andere sites beschikbaar zijn) en kan Analytics werken op dit nieuwe Adobe Experience Cloud-domein. U kunt andere browsers zonder problemen gebruiken, omdat dit alleen voor [!DNL Safari] gebruikers geldt.</li><li>De domeinwijziging kan ertoe leiden dat [!UICONTROL Activiteitenkaart] niet langer werkt voor bepaalde klanten [in specifieke gevallen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
-| Einde van levensduur - Verouderde API&#39;s voor analyse | 9 januari 2020 | In november 2020, zullen de volgende Analytics Legacy API diensten hun eind-van-leven bereiken en zullen sluiten. De huidige integraties die met deze services zijn gemaakt, werken niet meer. <ul><li>1.3 API&#39;s voor analyse</li><li>1.4 API&#39;s voor SOAP-analyse</li><li>Oudere OAuth-verificatie (OAuth en JWT)</li></ul>We hebben een [verouderde API EOL-veelgestelde vragen](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) beschikbaar gesteld die u helpen uw vragen te beantwoorden en aanwijzingen te geven voor het verdere verloop. API-integratie die van deze services gebruik maakt, kan migreren naar de [1.4 Analytics REST API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [2.0 Analytics API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integratieaccount, dat kan worden gebruikt voor toegang tot de API&#39;s voor 1.4 Analytics en 2.0 Analytics. |
-| San Jose FTP Broker Ending voor Londen en Singapore | juli 2020 | Voor klanten in Londen en Singapore zullen we niet langer de tussenhandel in gegevens tussen Londen of Singapore en het San Jose datacenter [ftp.omniture.com](ftp://ftp.omniture.com/)steunen.<br/><ul><li>Voor Londen gebruikt u [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Gebruik voor Singapore [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
-| EOL van ad-hocanalyse | 6 aug. 2018 | Adobe kondigde het voornemen aan om Ad hoc Analyse te beëindigen. Een einddatum wordt gedeeld zodra deze beschikbaar is. Voor meer informatie gaat u naar [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
+|Change to how [!UICONTROL Entries/Exits] are calculated in [!UICONTROL Workspace]|April 7, 2020|In [!UICONTROL Analysis Workspace], as of March 2020, we have changed how the _None_ value interacts with [!UICONTROL Entries/Exits]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before. For example, assume the first hit of a visit has no value for eVars, but the second hit does. In [!UICONTROL Reports & Analytics] it will show up as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit.|
+|EOL of **[!UICONTROL Conversion Level]** setting|March 3, 2020|The non-functioning [Conversion Level](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) setting in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** will be removed from the interface on March 12, 2020.|
+|EOL of **[!UICONTROL Dashboard Archive]**|March 27, 2020|The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] will no longer be available as of October, 2020.|
+|End of Support for TLS 1.1 | October 3, 2019 | By March 31, 2020, Adobe Analytics will remove support for TLS 1.1. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data.|
+|New Adobe Analytics domain|Dec. 18, 2019|On January 16, 2020, Adobe Analytics began moving to a new domain - `https://experience.adobe.com/analytics.`<br>**Note:** This change applies to all users accessing Analytics with their Adobe ID or Enterprise ID. <ul><li>The domain change may cause cookie issues when loading Analytics in Safari. Deselecting _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. You can use other browsers without issue because this affects only [!DNL Safari] users.</li><li>The domain change may cause [!UICONTROL Activity Map] to stop working for some customers [in specific cases](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul>|
+|End of Life - Analytics Legacy APIs|January 9, 2020|In November 2020, the following Analytics Legacy API services will reach their end-of-life and will be shutdown. Current integrations built using these services will stop working. <ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe IO](https://console.adobe.io/home?mv=email) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs.|
+|San Jose FTP Broker Ending for London and Singapore|July 2020|For customers in London and Singapore, we will no longer support brokering of data between London or Singapore and the San Jose data center [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>For London, use [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>For Singapore, use [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul>|
+|EOL of Ad Hoc Analysis|Aug 6, 2018|Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available. For more information, visit [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/).|
 
 ### [!DNL AppMeasurement] {#appm}
 
-Zie [AppMeasurement voor Javascript-releaseopmerkingen](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Versie 2.20.0 is uitgebracht op 5 maart 2020.
+See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 was released on March 5, 2020. -->
 
 ### Nieuwe zelfstudies voor analyse {#tutorials-analytics}
 
