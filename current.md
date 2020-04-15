@@ -116,7 +116,7 @@ Eenheid 4.19.0 (10 maart 2020):
 
 >[!IMPORTANT]
 >
->De onderhoudsrelease van Adobe Analytics April is verplaatst naar 21 mei 2020. Zie Opmerkingen bij de release van [maart voor de meest recente informatie over de release van Analytics](c-legacy-releases\2020\03122020.md)
+>De onderhoudsrelease van Adobe Analytics April is verplaatst naar 21 mei 2020. Zie Opmerkingen bij de release van [maart voor de meest recente informatie over de release van Analytics](c-legacy-releases/2020/03122020.md)
 
 <!-- * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
