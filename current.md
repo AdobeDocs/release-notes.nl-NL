@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5f42fc9ac718298602c7c02897b38a5e6009b893
+source-git-commit: 41c551a6c2e3e8b621abacb5afe2240c30b851da
 
 ---
 
@@ -119,9 +119,9 @@ Eenheid 4.19.0 (10 maart 2020):
 >Het grootste deel van de onderhoudsrelease van Adobe Analytics April is verplaatst naar 21 mei 2020. Zie Opmerkingen bij de release van [maart voor de meest recente informatie over de release van Analytics](c-legacy-releases/2020/03122020.md)
 
 * [Klantreisanalyse](#cust-journey)
-* [Nieuwe functies in Adobe Analytics](#aa-features)
+<!--* [New features in Adobe Analytics](#aa-features)-->
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 7 april 2020)
-* [AppMeasurement](#appm) —>
+* [AppMeasurement](#appm)
 * [Nieuwe zelfstudies voor analyse](#tutorials-analytics)
 
 ### Klantreisanalyse {#cust-journey}
@@ -130,12 +130,12 @@ Eenheid 4.19.0 (10 maart 2020):
 | -----------| ---------- |
 | [!UICONTROL Klantenreisanalyse]: Geautomatiseerde back-up van gegevensset | Met deze nieuwe optie kunt u alle historische gegevens voor een verbinding importeren in [!UICONTROL Klantenreisanalyse]. [Meer informatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html) |
 
-### Nieuwe functies in Adobe Analytics {#aa-features}
+<!--### New features in Adobe Analytics {#aa-features}
 
-| Functie | Beschrijving |
+| Feature    | Description  |
 | -----------| ---------- |
-| Analysesupport voor [!UICONTROL Experience Edge] | U kunt nu gegevens die naar [!UICONTROL Experience Edge] zijn verzonden doorsturen naar Analytics. |
-<!-- |[!UICONTROL Workspace]: Automatically build Freeform Tables from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a freeform table first. You can now drop components directly into a blank project or panel, and a freeform table will automatically be built for you in a recommended format. Additionally, improvements were made to how mixed component types (e.g. dimensions & metrics) are handled when dropped into a blank freeform table together.|
+|Analytics support for [!UICONTROL Experience Edge] |You can now forward data that was sent to [!UICONTROL Experience Edge] to Analytics.|
+ |[!UICONTROL Workspace]: Automatically build Freeform Tables from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a freeform table first. You can now drop components directly into a blank project or panel, and a freeform table will automatically be built for you in a recommended format. Additionally, improvements were made to how mixed component types (e.g. dimensions & metrics) are handled when dropped into a blank freeform table together.|
 
 #### Analytics fixes
 
