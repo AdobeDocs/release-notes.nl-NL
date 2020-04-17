@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 78a2b7841c4b404cc96b912cef2a3702c7e29ec8
+source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
 
 ---
 
@@ -27,7 +27,7 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 **Releasedatum: 2020**
 
 * [Adobe-systeemstatus](#status)
-* [Ervaar Cloud en [!UICONTROL kernservices]](#ecloud)
+* [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
 * [Analyse](#analytics)
 * [Auditiebeheer](#aam)
@@ -48,7 +48,7 @@ Functies en oplossingen.
 
 Zie [Adobe System Status](https://status.adobe.com/).
 
-## Ervaar Cloud en [!UICONTROL kernservices]{#ecloud}
+## Experience Cloud-interface{#ecloud}
 
 Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en kernservices (klantkenmerken, publiek, triggers, cookies, enzovoort).
 
@@ -59,7 +59,7 @@ Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder behee
 
 Functies en oplossingen.
 
-Raadpleeg [Experience Cloud en Core Services voor productdocumentatie](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
+Zie [Experience Cloud-interface voor productdocumentatie](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
 
 ### Beheer en ontwikkeling {#admin}
 
@@ -69,7 +69,9 @@ Zie Gebruikers en producten [](https://docs.adobe.com/content/help/en/core-servi
 
 ## [!UICONTROL Experience Platform]{#platform}
 
-Opmerkingen bij de release voor het [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] [!UICONTROL Journey Orchestration,] [!UICONTROL Mobile Services,] en beveiligingsbulletins.
+## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+
+Opmerkingen bij de release [!DNL Experience Platform,] inclusief [!DNL Experience Platform Launch,] Reisorganisatie [!UICONTROL ,]Aanbiedingen [!UICONTROL ,]Personen [!UICONTROL ,]Plaatsen , Mobiele Services en beveiligingsbulletins.
 
 * [Experience Cloud ID Service](#ecid)
 * [Opmerkingen bij de release Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
@@ -219,9 +221,9 @@ De volgende documentatiesets van AEM zijn gemigreerd naar een nieuw platform voo
 
 ### Aanvullende bronnen
 
-* [AEM 6.4 Thuis leren &amp; ondersteuning](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 - Introductie van informatie en ondersteuning](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 Thuis leren &amp; ondersteuning](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [AEM 6.4 Thuis leren &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-4.html)
+* [AEM 6.3 - Introductie van informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-3.html)
+* [AEM 6.2 Thuis leren &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-2.html)
 * [Gebruikershandleiding voor Cloud Manager](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
 * [Oudere versies van AEM-documentatie](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [Opmerkingen bij de release van Scene7 Publishing System](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
@@ -347,7 +349,7 @@ Nieuwe en recente zelfhulpartikelen en video&#39;s. <!--`https://jira.corp.adobe
 | [!DNL Adobe Campaign] - AEP Data Connector | Video - [Gegevens van zaadtabel toewijzen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Leer hoe u uw zaadgegevens/testprofielen met het Platform van de Ervaring van Adobe in kaart brengt. |
 | [!DNL Adobe Campaign]- Bestemmingen van het publiek | Video - [Wijzig de doeldimensie van een levering voor een publiek Platform](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Leer hoe u de doeldimensie van een levering voor een platformpubliek wijzigt buiten de tabel met het primaire profiel in Adobe Campagnestandaard. |
 | [!DNL Adobe Campaign] | Video - [Groot gegevensbeheer op Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Gebruik de Snowflake-connector in Adobe Campaign Classic. |
-| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van het publiek (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
+| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van de doelgroep (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campagne Standard. |
 | [!DNL Adobe Target] - Mobile SDK | Zelfstudie - [Een persoonlijk tintje toevoegen aan apps met Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementeer Adobe Target in uw eigen Android-app. Valideer de installatie van de SDK van de Mobiele Diensten en voer [!DNL Target] verzoeken zoals pre-haalt inhoud uit, het blokkeren van verzoeken, en meer. |
 | Adobe Analytics | Video - [Adobe Summit 2019 - Supersessie](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Bekijk gekrulde clips van de high-tech &#39;super sessie&#39; op Top 2019. |
 | Adobe Analytics | Video - [Inleiding tot Berekende Metriek in de Analyse van de Reis van de Klant](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Doorloop de grondbeginselen van het creëren van [!UICONTROL Berekende Metriek] in de Analyse [!UICONTROL van de Reis van de]Klant. |
