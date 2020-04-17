@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
+source-git-commit: f2687895a6795bb636ddb5c10f60fe9d6231e8c5
 
 ---
 
@@ -29,7 +29,6 @@ Nieuwe functies en oplossingen in het deelvenster [!DNL Adobe Experience Cloud].
 (De specifieke data van de oplossingsversie kunnen variëren.)
 
 * [Adobe-systeemstatus](#status)
-* [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Datum wijziging release - zie update op 15 april)**
 * [Auditiebeheer](#aam)
@@ -59,7 +58,7 @@ Op zoek naar hulp thuis? Raadpleeg de documentatie bij [Adobe Experience Cloud](
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud-interface {#ecloud}
 
-Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en services zoals klantkenmerken, publiek, triggers, enzovoort):
+Nieuwe functies en oplossingen in de Experience Cloud-interface:
 
 * De pagina Experience Cloud [!UICONTROL Feed] is vervangen. (EXC-8505)
 * De aanmeldingspagina van Experience Cloud is bijgewerkt met nieuwe merkelementen. (EXC-10747)
@@ -81,7 +80,7 @@ Updates zijn:
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Opmerkingen bij de release voor het [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services en beveiligingsbulletins.
+Opmerkingen bij de release [!DNL Experience Platform,] inclusief [!DNL Experience Platform Launch,] Reisorganisatie [!UICONTROL ,]Aanbiedingen [!UICONTROL ,]Personen [!UICONTROL ,]Plaatsen , Mobiele Services en beveiligingsbulletins.
 
 ### Reisorkest {#journey}
 
