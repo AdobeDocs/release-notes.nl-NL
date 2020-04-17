@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
+source-git-commit: 16804e8f1eeb1d836b904c85a8c538077166242b
 
 ---
 
@@ -26,7 +26,7 @@ Nieuwe functies en oplossingen in het deelvenster [!DNL Adobe Experience Cloud].
 
 **Releasedatum: april 2020**
 
-(De specifieke data van de oplossingsversie kunnen variëren.)
+(De specifieke versiedata kunnen variëren.)
 
 * [Adobe-systeemstatus](#status)
 * [Experience Platform](#platform)
@@ -34,10 +34,10 @@ Nieuwe functies en oplossingen in het deelvenster [!DNL Adobe Experience Cloud].
 * [Auditiebeheer](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (koppelingen naar Help-pagina voor oplossing)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (koppelingen naar de Help-pagina van Target)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (koppelingen naar Help-pagina voor oplossing)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (koppelingen naar de Help-pagina van Primetime)
 
 Op zoek naar hulp thuis? Raadpleeg de documentatie bij [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -71,9 +71,9 @@ Adobe werkt de domein- en interfaceheader bij om uw ervaring in alle Experience 
 
 Updates zijn:
 
-* Nieuwe oplossing-URL&#39;s: `experience.adobe.com/<application name>`:
+* Nieuwe toepassings-URL&#39;s: `experience.adobe.com/<application name>`:
    * Uiteindelijk zullen alle producten dit patroon URL goedkeuren. Nieuwe URL&#39;s worden de hele maand van kracht.
-   * Browserondersteuning: Tot de ondersteunde browsers behoren [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]en [!DNL Opera] (de nieuwste versies). **Opmerking:** Hoewel de interface Experience Cloud deze browsers ondersteunt, wordt mogelijk niet elke browser ondersteund door afzonderlijke oplossingen. ( [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) biedt bijvoorbeeld geen ondersteuning [!DNL Opera]en [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) biedt geen ondersteuning voor [!DNL Safari].)
+   * Browserondersteuning: Tot de ondersteunde browsers behoren [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]en [!DNL Opera] (de nieuwste versies). **Opmerking:** Hoewel de interface Experience Cloud deze browsers ondersteunt, wordt mogelijk niet elke browser door afzonderlijke toepassingen ondersteund. ( [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) biedt bijvoorbeeld geen ondersteuning [!DNL Opera]en [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) biedt geen ondersteuning voor [!DNL Safari].)
    * ([!DNL Safari] Alleen) De domeinwijziging kan problemen met cookies veroorzaken in [!DNL Safari]. Als u de selectie van _Zoeken_ tussen verschillende sites in de [!DNL Safari] privacyvoorkeuren opheft, worden cookies in verschillende domeinen (en alle ervaringen die op andere sites worden gegenereerd) ingeschakeld en werkt Experience Cloud op dit nieuwe domein.
 * Eenvoudiger overschakelen tussen uw organisaties of op een andere toepassing.
 * Verbeterde producthulp: De [!UICONTROL Experience League] is geïntegreerd in het product, zodat een zoekopdracht in de Help ook resultaten bevat van gemeenschapsforums en video-inhoud. Deze wijziging vereenvoudigt de toegang tot meer inhoud en helpt u optimaal te profiteren van Experience Cloud. Klik bovendien op **[!UICONTROL Help]** > **[!UICONTROL Feedback]** om problemen te melden of uw ideeën te delen met Adobe.
@@ -194,7 +194,7 @@ Nieuwe functies en oplossingen in Adobe Audience Manager:
 * Probleem verholpen waarbij de knoppen [!UICONTROL Testen] dupliceren en Toewijzingssjabloon [!UICONTROL dupliceren in] Audience Lab  niet werkten. (AM-53388)
 * Oplossing een kwestie die het [!UICONTROL Tarief] van de Gelijke en Adresseerbare publiek [!UICONTROL van het] Segment ertoe bracht om als 0 worden getoond wanneer een bestemming wordt gevormd om UUIDs uit te voeren. Het [!UICONTROL Tarief] van de Gelijke en [!UICONTROL Doelpubliek] van het Segment worden nu getoond als 100%. (AM-51615)
 * Probleem verholpen waarbij namen van kenmerken die speciale tekens bevatten, tweemaal met HTML werden gecodeerd. (AM-54001)
-* Probleem verholpen waarbij bepaalde gebruikers werden verhinderd om vanuit de [!DNL Audience Manager] gebruikersinterface over te schakelen op andere Adobe Experience Cloud-oplossingen. (AM-52917)
+* Probleem verholpen waarbij bepaalde gebruikers werden verhinderd om vanuit de [!DNL Audience Manager] gebruikersinterface over te schakelen naar andere Adobe Experience Cloud-toepassingen. (AM-52917)
 * Probleem verholpen waarbij sommige gebruikers werden verhinderd een SHA256-gegevensbron voor op mensen gebaseerde doelen te maken. (AM-53525)
 * Meerdere toegankelijkheidsverbeteringen in de interface. (AAM-48986, AAM-49009, AAM-48984, AAM-48939, AAM-48940, AAM-48964, AAM-49032, AAM-493) 60)
 
@@ -307,7 +307,7 @@ Voor de versienota&#39;s van Magento, zie:
 
 ## ![Pictogram](/assets/marketo.png) [!DNL Marketo]{#marketo}
 
-[!DNL Marketo Engage] is een volledige oplossing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten te gaan werken.
+[!DNL Marketo Engage] is een volledige toepassing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten te engageren.
 
 ### Core Marketo Engineering-updates
 
