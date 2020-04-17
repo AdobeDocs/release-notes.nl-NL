@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6bd8e1af2afa691e6796769ad1f8cb5f29433d8e
+source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
 
 ---
 
@@ -29,7 +29,7 @@ Nieuwe functies en oplossingen in het deelvenster [!DNL Adobe Experience Cloud].
 (De specifieke data van de oplossingsversie kunnen variëren.)
 
 * [Adobe-systeemstatus](#status)
-* [Ervaar de interface van de Wolk en de kerndiensten](#ecloud)
+* [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Datum wijziging release - zie update op 15 april)**
 * [Auditiebeheer](#aam)
@@ -46,7 +46,7 @@ Op zoek naar hulp thuis? Raadpleeg de documentatie bij [Adobe Experience Cloud](
 
 [!UICONTROL De Status] van het Systeem van Adobe verstrekt gedetailleerde informatie, statusupdates, en e-mailberichten over de producten van de wolk van Adobe en de gebeurtenissen van de dienststroomonderbreking, en van het onderhoud. Ga naar [status.adobe.com](https://status.adobe.com/).
 
-**Nieuwe functies**
+**Wat is er nieuw**
 
 * Met uw Adobe-id kunt u zich met meer granulariteit abonneren op gebeurtenismeldingen, tot aan het productaanbod en het invoegniveau. Bovendien wordt in de meest recente versie van onze versie een selectie van producten en services aanbevolen op basis van uw productrechten. Dit zou het abonnementsproces moeten stroomlijnen door het aantal besluiten of kliks te verminderen die worden vereist om uw abonnementen tot stand te brengen, en het belangrijkste, leveren meer relevante berichten in uw Postbus. Ga aan de slag op [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
 
@@ -57,9 +57,9 @@ Op zoek naar hulp thuis? Raadpleeg de documentatie bij [Adobe Experience Cloud](
 | Gepersonaliseerde abonnementen op basis van rechten | <ul><li>Vooraf geselecteerde abonnementsaanbevelingen op basis van de DX-rechten van de gebruiker.</li><li>Aanbevolen abonnementen worden boven aan de productlijst gemarkeerd voor snelle visualisatie.</li><li>De ontvangen e-mailmeldingen zijn relevant voor de productrechten van de gebruiker.</li></ul> |
 | Eenvoudiger beheer van abonnementen | <ul><li>**[!UICONTROL Abonnementen]** beheren heeft een nieuwe gebruikerservaring om zowel product- als gebeurtenisabonnementen te beheren.</li><li>Nieuwe optie om product- en gebeurtenisabonnementen afzonderlijk weer te geven en te bewerken.</li><li>Met de optie **[!UICONTROL Verwijderen]** kunt u een product- of gebeurtenissenabonnement opzeggen.</li><li>De optie **[!UICONTROL Abonnement met één klik opzeggen is allemaal]** beschikbaar voor productabonnementen.</li><li>UX-ondersteuning is beschikbaar voor Web/Mobile/Tablet-oppervlakken en lokalisatie in 19 talen.</li></ul> |
 
-## ![Icon](/assets/ec_appicon_24.png) Experience Cloud-interface en kernservices {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud-interface {#ecloud}
 
-Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en kernservices (klantkenmerken, publiek, triggers, cookies, enzovoort):
+Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en services zoals klantkenmerken, publiek, triggers, enzovoort):
 
 * De pagina Experience Cloud [!UICONTROL Feed] is vervangen. (EXC-8505)
 * De aanmeldingspagina van Experience Cloud is bijgewerkt met nieuwe merkelementen. (EXC-10747)
