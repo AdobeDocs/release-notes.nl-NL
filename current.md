@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2d9a0e6ae9e796bdb09ce7d27e4e4a765462283a
+source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
 
 ---
 
@@ -26,7 +26,7 @@ Nieuwe functies en oplossingen in het deelvenster [!DNL Adobe Experience Cloud].
 
 * [Adobe-systeemstatus](#status)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) **(Datum wijziging release - zie update op 15 april)**
+* [!DNL Analytics](#analytics) **(Bijgewerkt op 16 april)**
 * [Auditiebeheer](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -115,7 +115,7 @@ Eenheid 4.19.0 (10 maart 2020):
 
 * [Klantreisanalyse](#cust-journey)
 <!--* [New features in Adobe Analytics](#aa-features)-->
-* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 7 april 2020)
+* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 16 april 2020)
 * [AppMeasurement](#appm)
 * [Nieuwe zelfstudies voor analyse](#tutorials-analytics)
 
@@ -155,6 +155,7 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 | Kennisgeving | Datum toegevoegd of bijgewerkt | Beschrijving |
 | -----------| ---------- | ---------- |
+| De controle &quot;Segment toegepast in Data Warehouse&quot; is verwijderd | 16 april 2020 | Vanaf 16 april 2020, controleren wij niet meer om te zien of wordt een segment toegepast in een verzoek van het Pakhuis van Gegevens, van binnen de Bouwer van het Segment. Eerder, zocht deze controle op enige die segmenten in de verzoeken van het Pakhuis van Gegevens worden toegepast (het uitgesloten toegepaste veelvoudige segmenten), en keerde een waarschuwingsbericht terug als waar. Deze verandering beïnvloedt niet de het productverenigbaarheidscontrole van het Pakhuis van Gegevens voor segmenten. |
 | Wijzigen in hoe [!UICONTROL items/uitgangen] worden berekend in [!UICONTROL werkruimte] | 7 april 2020 | In de Werkruimte [!UICONTROL van de]Analyse, sinds Maart 2020, zijn wij veranderd hoe de waarde van _niets_ met [!UICONTROL Ingangen/Uitgangen]in wisselwerking staat. Omdat u _Nonen_ nu kunt in- en uitschakelen in de [!UICONTROL analysewerkruimte], wordt de waarde _Geen_ na de invoer of het einde toegepast, terwijl deze (voor eVars) voorheen werd toegepast. Stel dat de eerste hit van een bezoek geen waarde heeft voor Vars, maar de tweede hit wel. In [!UICONTROL Rapporten &amp; Analytics] zal het als _Niet gespecificeerd_ voor de Ingang verschijnen, maar in de Werkruimte [!UICONTROL van de] Analyse zal het als waarde op de tweede klap verschijnen. |
 | EOL van instelling voor **[!UICONTROL conversieniveau]** | 3 maart 2020 | De instelling Niet-functionerend [conversieniveau](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** wordt op 12 maart 2020 verwijderd uit de interface. |
 | EOL van **[!UICONTROL dashboardarchief]** | 27 maart 2020 | De instelling **[!UICONTROL Archief]** weergeven onder **[!UICONTROL Dashboards]** beheren in [!UICONTROL Reports &amp; Analytics] is niet meer beschikbaar vanaf oktober 2020. |
