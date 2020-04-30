@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d3802d290f1d5192e5bc31f4003ee12fd0ad1ff4
+source-git-commit: bf3e1b2ed24c2f106ee3e6bfcc888ffa7eda7ba0
 
 ---
 
@@ -22,7 +22,7 @@ Nieuwe functies en oplossingen in [!DNL Adobe Experience Cloud].
 
 **Releasedatum: april 2020**
 
-Laatste update: 30 **april 2020**
+Laatste update: **30 april 2020**
 
 (Specifieke versiedata kunnen variëren.)
 
@@ -190,7 +190,7 @@ Nieuwe functies en oplossingen in Adobe Audience Manager:
 
 | Functie | Beschrijving |
 | -----------| ---------- |  
-| [Voorspelend publiek](../features/algorithmic-models/predictive-audiences.md) | [!UICONTROL Met voorspellende doelgroepen] kunt u een onbekend publiek in real-time indelen in verschillende personen met behulp van geavanceerde technieken voor gegevenswetenschap. <br><br> In een marketingcontext is een persoon een publiekssegment dat wordt gedefinieerd door bezoekers, gebruikers of potentiële kopers en dat een specifieke reeks kenmerken deelt, zoals demografie, bruisende gewoonten, winkelgeschiedenis, enz.<br><br>[!UICONTROL De voorspellende modellen van het publiek] nemen dit concept een stap verder, door u toe te laten om de machine van de Manager van het Publiek te gebruiken om onbekend publiek in verschillende karakters te classificeren. <br><br>De Manager van de Publiek helpt u dit bereiken door de neiging van uw onbekend eerderepubliek voor een reeks bekende eerste-partijpubliek te berekenen. |
+| [Voorspelend publiek](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | [!UICONTROL Met voorspellende doelgroepen] kunt u een onbekend publiek in real-time indelen in verschillende personen met behulp van geavanceerde technieken voor gegevenswetenschap. <br><br> In een marketingcontext is een persoon een publiekssegment dat wordt gedefinieerd door bezoekers, gebruikers of potentiële kopers en dat een specifieke reeks kenmerken deelt, zoals demografie, bruisende gewoonten, winkelgeschiedenis, enz.<br><br>[!UICONTROL De voorspellende modellen van het publiek] nemen dit concept een stap verder, door u toe te laten om de machine van de Manager van het Publiek te gebruiken om onbekend publiek in verschillende karakters te classificeren. <br><br>De Manager van de Publiek helpt u dit bereiken door de neiging van uw onbekend eerderepubliek voor een reeks bekende eerste-partijpubliek te berekenen. |
 | Verbeteringen in aanvullende [!UICONTROL regels] voor het samenvoegen van profielen | [!UICONTROL De Regels] van de Fusie van het profiel geven de klanten van de Manager van de Publiek de capaciteit om, publiekssegmenten te bepalen te beheren en te activeren die op identiteit eerder dan apparaten worden gebaseerd. <br><br> Vanaf 29 april, zullen de klanten van de Manager van de Publiek de uitsplitsing van apparaat en dwars-apparaat bevolkingen van identiteitskaart voor eigenschap en segmenten binnen zowel individuele segmentatie als bulkrapportering in de UI van de Manager van de Publiek beter kunnen begrijpen. <br><br> Dit zal voor betere inzichten in identiteit binnen de Manager van het Publiek toestaan, die klanten een holistische mening over totale segmentbevolking door apparaat, persoon, en huishouden geven. De bulkexport van zowel apparaat- als apparaat-id&#39;s wordt ook bijgewerkt met deze verbeteringen.<br><br>  Specifieke updates omvatten de mogelijkheid om: <ul><li>rapporteren tegen [apparaat-id&#39;s](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) in de rapporten [Algemeen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/general-reports.html) en [Trend](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/trend-reports.html) ;</li><li>Verbeter de [!UICONTROL Trait Selector] in de [Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html) om de populaties van trekvogels die van [CRM-id&#39;s](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html)zijn afgesneden, op te nemen;</li><li>Nauwkeurige export van [apparaatoverschrijdende id&#39;s](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html)maken;</li><li>Nauwkeurige export van [apparaat-id&#39;s](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) maken (moet geverifieerde kenmerken uitsluiten);</li><li>Retourneer correcte aantallen voor kenmerken verbonden aan [CRM IDs](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) wanneer gevraagd gebruikend het hulpmiddel [BAAAM](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) .</li></ul> |
 | [Belangrijkste problemen met klantenondersteuning](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | We hebben een nieuwe sectie toegevoegd aan onze documentatieportal, die antwoorden bevat op de meest gestelde vragen die ons team voor klantenondersteuning ontvangt. |
 
