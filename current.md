@@ -4,11 +4,11 @@ description: Sjabloon voor releaseopmerkingen bij Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: ht
-source-git-commit: bf3e1b2ed24c2f106ee3e6bfcc888ffa7eda7ba0
-workflow-type: ht
-source-wordcount: '3523'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 77e4ac05707d9aa42ddf2e7fb93027b3226058e9
+workflow-type: tm+mt
+source-wordcount: '3518'
+ht-degree: 99%
 
 ---
 
@@ -88,7 +88,7 @@ Releaseopmerkingen voor de [!DNL Experience Platform,] inclusief [!DNL Experienc
 Met behulp van het Adobe Experience Platform kunt u individuele customer journeys op schaal orkestreren via verschillende ervaringskanalen ordenen door intelligent en in real time te anticiperen op wat ieder individu nodig heeft, waar de reis ook heen gaat.
 
 * [Documentatie](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Releaseopmerkingen](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
+* [Releaseopmerkingen](http://www.adobe.com/go/platform-release-notes-en)
 * [Instructievideo&#39;s](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobile Services en mobiele SDK&#39;s {#mobile}
