@@ -4,11 +4,11 @@ description: Sjabloon voor releaseopmerkingen bij Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 77e4ac05707d9aa42ddf2e7fb93027b3226058e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3518'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -221,7 +221,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
    **Selectieve publicatie** - Wanneer u deze optie selecteert, betekent dit dat assets automatisch worden gepubliceerd voor uitsluitend beveiligde voorvertoning en expliciet kunnen worden gepubliceerd naar AEM zonder dat ze naar DMS7 worden gepubliceerd voor aflevering in het publieke domein.
 
-   Zie [Configuring Dynamic Media Cloud Service configureren](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#configuring-dynamic-media-cloud-services).
+   Zie [Configuring Dynamic Media Cloud Service configureren](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#configuring-dynamic-media-cloud-services).
 
 * **Dynamic Media - Slimme beeldbewerking**
 
@@ -239,7 +239,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
    U kunt nu assets van AEM Assets als Cloud Service naar AEM Assets Brand Portal publiceren.
 
-   Zie [AEM Assets met Brand Portal configureren](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) en [Assets naar Brand Portal publiceren](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html).
+   Zie [AEM Assets met Brand Portal configureren](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) en [Assets naar Brand Portal publiceren](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html).
 
 * **Adobe Asset Link 2.0 uitgebracht**
 
@@ -270,7 +270,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 ### Aanvullende Help-bronnen
 
-* [AEM als Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
+* [AEM als Cloud Service](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 Informatie en ondersteuning Support-startpagina](https://helpx.adobe.com/nl/support/experience-manager/6-5.html)
 * [AEM 6.4 Informatie en ondersteuning Support-startpagina](https://helpx.adobe.com/nl/support/experience-manager/6-4.html)
 * [AEM 6.3 Informatie en ondersteuning Support-startpagina](https://helpx.adobe.com/nl/support/experience-manager/6-3.html)
