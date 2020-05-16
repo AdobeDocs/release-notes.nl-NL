@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
+source-git-commit: ea42901b975981a10d42b9681d494604c385018c
 workflow-type: tm+mt
-source-wordcount: '4580'
+source-wordcount: '4582'
 ht-degree: 32%
 
 ---
@@ -50,6 +50,8 @@ Hebt u hulp nodig? Ga naar [[!DNL Adobe Experience League]](https://experiencele
 
 [!UICONTROL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval-, onderbrekings- en onderhoudsgebeurtenissen van Adobe Cloud-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
+Releasedatum: **21 mei 2020**
+
 **Wat is er nieuw**
 
 * Met uw Adobe ID kunt u lid worden van gebeurtenismeldingen met meer granulariteit, tot aan het aanbod van producten en invoegtoepassingen. Om u te helpen uw abonnement sneller in te stellen, raadt het proces voor zelfinschrijving nu een selectie van producten en aanbiedingen aan op basis van uw productrechten. Zo verkleint u het aantal e-mailberichten dat u ontvangt en levert u meer relevante meldingen in uw Postvak IN. Ga aan de slag op [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
@@ -58,7 +60,7 @@ Hebt u hulp nodig? Ga naar [[!DNL Adobe Experience League]](https://experiencele
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Verbeterde gebruikerservaring voor abonnementen en meldingen | <ul><li>[!DNL Marketo Engage] de regionale locaties worden nu gefilterd op basis van de geselecteerde lijst met productaanbiedingen .</li><li>[!DNL Marketo Engage] e-mailmeldingen zijn relevant voor de regio, locatie en voorkeuren van de omgeving van een gebruiker.</li></ul> |
+| Verbeterde gebruikerservaring voor abonnementen en meldingen | <ul><li>[!DNL Marketo Engage] de regionale locaties worden nu gefilterd op basis van de geselecteerde lijst met productaanbiedingen .</li><li>[!DNL Marketo Engage] e-mailmeldingen zijn relevant voor de regio, locatie en omgeving van de gebruiker.</li></ul> |
 | Bevestiging van abonnement op gebeurtenis | <ul><li>U kunt nu een e-mailbevestiging krijgen wanneer u zich abonneert op lopende updates voor één gebeurtenis.</li></ul> |
 | Verbeteringen voor algemene bruikbaarheid van navigatie | <ul><li>Consistente gebruikerservaring met `Adobe.com` het navigatiemenu op het hoogste niveau.</li></ul> |
 
@@ -317,7 +319,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 | Inhoud | Beschrijving |
 | -----------| ---------- |  
-| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met de SDK&#39;s [!UICONTROL AEM as a Cloud Service] [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
+| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met behulp van de [!UICONTROL AEM as a Cloud Service] SDK&#39;s [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
 | [Aan de slag met AEM Assets](https://video.tv.adobe.com/v/33624?captions=dut) | Een introductievideo over aan de slag gaan met AEM Assets voor zakelijke gebruikers. |
 | [Metagegevensmappenschema&#39;s](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-folder-schemas.html) | Met mappenschema&#39;s voor metagegevens kunnen gebruikers metagegevens die aan elementmappen zijn gekoppeld, zelf beheren en controleren in plaats van rechtstreeks op elementen. |
 | [Tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/tagging.html) | Tags zijn een integraal hulpmiddel voor het beheer van elementen in de maphiërarchie van verschillende elementen. Het instellen van een tagtaxonomie is van essentieel belang om gebruikers in staat te stellen bedrijfsmiddelen in AEM te vinden en te organiseren. |
