@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b41cdd18c7e3251218bf41aee62979e5f79a4c2a
+source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
 workflow-type: tm+mt
-source-wordcount: '4538'
-ht-degree: 33%
+source-wordcount: '4580'
+ht-degree: 32%
 
 ---
 
@@ -317,7 +317,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 | Inhoud | Beschrijving |
 | -----------| ---------- |  
-| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met behulp van de [!UICONTROL AEM as a Cloud Service] SDK&#39;s [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
+| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met de SDK&#39;s [!UICONTROL AEM as a Cloud Service] [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
 | [Aan de slag met AEM Assets](https://video.tv.adobe.com/v/33624?captions=dut) | Een introductievideo over aan de slag gaan met AEM Assets voor zakelijke gebruikers. |
 | [Metagegevensmappenschema&#39;s](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-folder-schemas.html) | Met mappenschema&#39;s voor metagegevens kunnen gebruikers metagegevens die aan elementmappen zijn gekoppeld, zelf beheren en controleren in plaats van rechtstreeks op elementen. |
 | [Tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/tagging.html) | Tags zijn een integraal hulpmiddel voor het beheer van elementen in de maphiërarchie van verschillende elementen. Het instellen van een tagtaxonomie is van essentieel belang om gebruikers in staat te stellen bedrijfsmiddelen in AEM te vinden en te organiseren. |
@@ -345,39 +345,41 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 ### Campaign Standard
 
-Release van regelpaneel:
-
-| Functie | Beschrijving |
-| -----------| ---------- |  
-| Beheer van GPG-sleutels | Installeer en/of produceer GPG sleutels op een marketing instantie, om gegevens te coderen die van Campagne worden verzonden en inkomende gegevens te decrypteren. |
-| Certificaatbeheer voor CNAME-subdomeinen | Het Controlebord staat u nu toe om de SSL certificaten van uw subdomeinen te vernieuwen die met de methode CNAME zijn afgevaardigd. |
-
-* [Adobe Campaign Standard 20.3](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)
+* [Adobe Campagne Standard 20.3-release](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)
 
 ### Campaign Classic
 
 * [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
-### Nieuwe tutorials voor Campaign Standard {#tutorials-acs}
+### Campagne
+
+| Functie | Beschrijving |
+| -----------| ---------- |  
+| Beheer van GPG-sleutels | Installeer en/of produceer GPG sleutels op een marketing instantie, om gegevens te coderen die van Campagne worden verzonden en inkomende gegevens te decrypteren. |
+| Certificaatbeheer voor CNAME-subdomeinen | Het Controlebord staat u nu toe om de SSL certificaten van uw subdomeinen te vernieuwen die met de methode CNAME zijn afgevaardigd. |
+
+### Nieuwe zelfstudies voor campagnes
+
+* Nieuwe tutorials voor Campaign Standard
 
 | Inhoud | Beschrijving |
 | -----------| ---------- |  
 | [Configuratiescherm - Google TXT-recordbeheer](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Leer hoe u verificatiegegevens van de Google TXT-site toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm van de Campagne. |
 | [Een workflow configureren en uitvoeren met de externe API-activiteit](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Leer hoe te om een extern REST API eindpunt te roepen gebruikend de Externe API activiteit. |
-| (ACS) [Aan de slag met pushmeldingen voor Android-zelfstudie](https://jira.corp.adobe.com/browse/KT-3846) | In deze zelfstudie worden de stappen beschreven die nodig zijn om pushmeldingen in te stellen met ACS en Android App. |
+| (ACS) [Aan de slag met pushmeldingen voor Android-zelfstudie](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | In deze zelfstudie worden de stappen beschreven die nodig zijn om pushmeldingen in te stellen met Campagnestandaard en Android App. |
 
-### New Campaign Classic tutorials {#tutorials-acc}
+* Nieuwe lesbestanden over klassieke campagnes
 
 | Inhoud | Beschrijving |
 | -----------| ---------- |  
 | [Groot gegevensbeheer op Snowflake](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Begrijp hoe u de Snowflake-aansluiting kunt gebruiken in Adobe Campaign Classic. |
 | [Configuratiescherm - Google TXT-recordbeheer](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html) | Leer hoe u verificatiegegevens van de Google TXT-site toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm van de Campagne. |
 
-### Aanvullende Help-bronnen voor Campaign
+### Bronnen voor hulp bij campagnes
 
-* Adobe Campaign Standard: [Documentatie](https://helpx.adobe.com/nl/support/campaign/standard.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [Instructievideo&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Releaseplanning](https://helpx.adobe.com/nl/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Documentatie](https://helpx.adobe.com/nl/support/campaign/classic.html) - [Releaseopmerkingen](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Instructievideo&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campagnestandaard: [Help Center](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) &#39;s - [Release-planning](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.htmll) - [Nieuwste documentatieupdates] (https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Hoe kan ik-video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)&#39;s - [Nieuwste documentatieupdates] (https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
