@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 16d1b900c55d8e9674275c4113298a109de09df6
+source-git-commit: 4ad9ee85f4eba950bf6cc1a6a18ece9d3eb5e61a
 workflow-type: tm+mt
-source-wordcount: '4607'
+source-wordcount: '4631'
 ht-degree: 32%
 
 ---
@@ -165,6 +165,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics dashboards] | [!UICONTROL Adobe Analytics dashboards] is een mobiele app waarmee gebruikers altijd en overal toegang hebben tot inzichten van Adobe Analytics. Deze app is bedoeld voor managers die onderweg toegang zoeken tot belangrijke metriek. Het maakt toegang mogelijk tot gekrulde, interactieve scorecards en is beschikbaar voor zowel de iOS- als Android-besturingssystemen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace]: Automatisch samenstellen [!UICONTROL Freeform Tables] vanuit een leeg frame | Eerder kon u componenten niet direct in een leeg project of leeg paneel laten vallen; u moest een [!UICONTROL Freeform Table] eerste toevoegen. U kunt componenten nu rechtstreeks neerzetten in een leeg project of deelvenster en een [!UICONTROL Freeform Table] sjabloon wordt automatisch voor u gemaakt in een aanbevolen indeling. Bovendien, werden de verbeteringen aangebracht aan hoe de gemengde componenttypes (zoals afmetingen en metriek) wanneer gelaten vallen in een lege Lijst Freeform samen worden behandeld. |
 | [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
+| Toegankelijkheidsverbeteringen | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. |
 
 #### Oplossingen voor Adobe Analytics
 
@@ -324,7 +325,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 | Inhoud | Beschrijving |
 | -----------| ---------- |  
-| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met behulp van de [!UICONTROL AEM as a Cloud Service] SDK&#39;s [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
+| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met de SDK&#39;s [!UICONTROL AEM as a Cloud Service] [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
 | [Aan de slag met AEM Assets](https://video.tv.adobe.com/v/33624?captions=dut) | Een introductievideo over aan de slag gaan met AEM Assets voor zakelijke gebruikers. |
 | [Metagegevensmappenschema&#39;s](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-folder-schemas.html) | Met mappenschema&#39;s voor metagegevens kunnen gebruikers metagegevens die aan elementmappen zijn gekoppeld, zelf beheren en controleren in plaats van rechtstreeks op elementen. |
 | [Tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/tagging.html) | Tags zijn een integraal hulpmiddel voor het beheer van elementen in de maphiërarchie van verschillende elementen. Het instellen van een tagtaxonomie is van essentieel belang om gebruikers in staat te stellen bedrijfsmiddelen in AEM te vinden en te organiseren. |
