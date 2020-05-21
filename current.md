@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
+source-git-commit: 2a41fbc7e69c9c2a262c71e20808e6b672037c6a
 workflow-type: tm+mt
-source-wordcount: '4691'
+source-wordcount: '4811'
 ht-degree: 31%
 
 ---
@@ -144,6 +144,7 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 * [Nieuwe functies in de reisanalyse van klanten](#cust-journey)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (**bijgewerkt tot 21 mei 2020**)
+* [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt tot 21 mei 2020**)
 * [AppMeasurement](#appm)
 * [Nieuwe tutorials voor Analytics](#tutorials-analytics)
 
@@ -167,8 +168,10 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
 | Toegankelijkheidsverbeteringen | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. |
 
-#### Oplossingen voor Adobe Analytics
+#### Oplossingen voor Adobe Analytics (#aa-fixes)
 
+* Adobe heeft de [!UICONTROL Time Spent] maatstaf gewijzigd en nooit &quot;none&quot; opgenomen. Dit betekent dat, ongeacht of de UI zegt om niets of niet te omvatten, wij een speciale uitzondering maken om &quot;niets&quot;altijd in de [!UICONTROL Time Spent] berekening uit te sluiten. Daarom zelfs als u een rapport vormde dat [!UICONTROL Time Spent] metrisch omvatte om &quot;niets&quot;te omvatten, zou het altijd 0 tijd terugkeren die voor het &quot;niets&quot;lijnpunt wordt doorgebracht. Merk op dat dit historische rapportage in Rapporten &amp; Analytics evenals de Rapporterende API v1.4 kon veranderen. (AN-197958)
+* Probleem verholpen waarbij Instance/bezoek/bezoeker niet in de noemer voor de [!UICONTROL Time Spent] meetgegevens werd meegeteld.  Dit gebeurt wanneer een hit zonder waarde voor de dimensie (bijvoorbeeld [!UICONTROL Pagename]) in dezelfde seconde wordt gevolgd. (AN-211074)
 * Probleem verholpen waarbij ontbrekende [!DNL Analytics] segmentgegevens werden veroorzaakt in Audience Manager. (AN-206221)
 * Probleem verholpen waarbij bij [!UICONTROL Data Sources] verwerking onjuiste datums werden weergegeven. (AN-213604)
 * Probleem verholpen waarbij classificatiebestanden niet goed naar FTP werden geüpload. (AN-214102)
@@ -326,7 +329,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 | Inhoud | Beschrijving |
 | -----------| ---------- |  
-| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met behulp van de [!UICONTROL AEM as a Cloud Service] SDK&#39;s [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
+| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met de SDK&#39;s [!UICONTROL AEM as a Cloud Service] [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
 | [Aan de slag met AEM Assets](https://video.tv.adobe.com/v/33624?captions=dut) | Een introductievideo over aan de slag gaan met AEM Assets voor zakelijke gebruikers. |
 | [Metagegevensmappenschema&#39;s](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-folder-schemas.html) | Met mappenschema&#39;s voor metagegevens kunnen gebruikers metagegevens die aan elementmappen zijn gekoppeld, zelf beheren en controleren in plaats van rechtstreeks op elementen. |
 | [Tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/tagging.html) | Tags zijn een integraal hulpmiddel voor het beheer van elementen in de maphiërarchie van verschillende elementen. Het instellen van een tagtaxonomie is van essentieel belang om gebruikers in staat te stellen bedrijfsmiddelen in AEM te vinden en te organiseren. |
