@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4ad9ee85f4eba950bf6cc1a6a18ece9d3eb5e61a
+source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
 workflow-type: tm+mt
-source-wordcount: '4631'
-ht-degree: 32%
+source-wordcount: '4689'
+ht-degree: 31%
 
 ---
 
@@ -29,12 +29,12 @@ Deze pagina bevat nieuwe functies, correcties en belangrijke kennisgevingen in [
 
 **Releasedatum: mei 2020**
 
-Laatste update: **19 mei 2020**
+Laatste update: **21 mei 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Bijgewerkt op 21 mei 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -143,7 +143,7 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 
 * [Nieuwe functies in de reisanalyse van klanten](#cust-journey)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices)
+* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (**bijgewerkt tot 21 mei 2020**)
 * [AppMeasurement](#appm)
 * [Nieuwe tutorials voor Analytics](#tutorials-analytics)
 
@@ -210,6 +210,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | -----------| ---------- | ---------- |
+| Verbeterde redundantie voor beschikbaarheid van analysewerkruimte | 21 mei 2020 | Om beschikbaarheid van de Werkruimte van de Analyse te verzekeren, voegen wij een secundaire CDN (het Netwerk van de Levering van de Inhoud) voor betere overtolligheid toe. De volgende URL&#39;s moeten worden toegevoegd aan de vereiste whitelists van de netwerkfirewall:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Wijzigen in hoe [!UICONTROL Entries/Exits] wordt berekend in [!UICONTROL Workspace] | 7 april 2020 | Sinds maart 2020 is in [!UICONTROL Analysis Workspace] gewijzigd hoe de waarde _Geen_ communiceert met [!UICONTROL Entries/Exits]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. Stel dat de eerste hit van een bezoek geen waarde heeft voor Vars, maar de tweede hit wel. In [!UICONTROL Reports & Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
 | EOL van **[!UICONTROL Conversion Level]**-instelling | 3 maart 2020 | De niet-functionerende instelling [Conversieniveau](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** wordt op 12 maart 2020 uit de interface verwijderd. |
 | EOL van **[!UICONTROL Dashboard Archive]** | 27 maart 2020 | De instelling **[!UICONTROL View Archive]** onder **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] zal vanaf oktober 2020 niet meer beschikbaar zijn. |
@@ -325,7 +326,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 | Inhoud | Beschrijving |
 | -----------| ---------- |  
-| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met de SDK&#39;s [!UICONTROL AEM as a Cloud Service] [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
+| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met behulp van de [!UICONTROL AEM as a Cloud Service] SDK&#39;s [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
 | [Aan de slag met AEM Assets](https://video.tv.adobe.com/v/33624?captions=dut) | Een introductievideo over aan de slag gaan met AEM Assets voor zakelijke gebruikers. |
 | [Metagegevensmappenschema&#39;s](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-folder-schemas.html) | Met mappenschema&#39;s voor metagegevens kunnen gebruikers metagegevens die aan elementmappen zijn gekoppeld, zelf beheren en controleren in plaats van rechtstreeks op elementen. |
 | [Tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/tagging.html) | Tags zijn een integraal hulpmiddel voor het beheer van elementen in de maphiërarchie van verschillende elementen. Het instellen van een tagtaxonomie is van essentieel belang om gebruikers in staat te stellen bedrijfsmiddelen in AEM te vinden en te organiseren. |
