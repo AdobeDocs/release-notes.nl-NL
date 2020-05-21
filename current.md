@@ -7,7 +7,7 @@ author: mfrei
 translation-type: tm+mt
 source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
 workflow-type: tm+mt
-source-wordcount: '4689'
+source-wordcount: '4691'
 ht-degree: 31%
 
 ---
@@ -161,7 +161,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Analyseondersteuning voor [!UICONTROL Adobe Experience Platform Edge Network] | Hiermee kunt u één tag gebruiken om gegevens naar meerdere Adobe-oplossingen te verzenden, zoals Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile en Experience Cloud ID Service. [Meer informatie...](https://docs.adobe.com/content/help/en/experience-platform/edge/home.html) |
+| Analyseondersteuning voor [!UICONTROL Adobe Experience Platform Edge Network] | Hiermee kunt u één tag gebruiken om gegevens naar meerdere Adobe-oplossingen te verzenden, zoals Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile en Experience Cloud ID Service. [Meer informatie...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analytics dashboards] | [!UICONTROL Adobe Analytics dashboards] is een mobiele app waarmee gebruikers altijd en overal toegang hebben tot inzichten van Adobe Analytics. Deze app is bedoeld voor managers die onderweg toegang zoeken tot belangrijke metriek. Het maakt toegang mogelijk tot gekrulde, interactieve scorecards en is beschikbaar voor zowel de iOS- als Android-besturingssystemen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace]: Automatisch samenstellen [!UICONTROL Freeform Tables] vanuit een leeg frame | Eerder kon u componenten niet direct in een leeg project of leeg paneel laten vallen; u moest een [!UICONTROL Freeform Table] eerste toevoegen. U kunt componenten nu rechtstreeks neerzetten in een leeg project of deelvenster en een [!UICONTROL Freeform Table] sjabloon wordt automatisch voor u gemaakt in een aanbevolen indeling. Bovendien, werden de verbeteringen aangebracht aan hoe de gemengde componenttypes (zoals afmetingen en metriek) wanneer gelaten vallen in een lege Lijst Freeform samen worden behandeld. |
 | [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
