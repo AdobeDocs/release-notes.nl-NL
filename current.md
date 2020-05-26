@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1784b66efbcd85c25145fbf5b84f95c0285412ab
+source-git-commit: be366e4ce14fe1f095ba60b85cc9adcd633cb3eb
 workflow-type: tm+mt
-source-wordcount: '4784'
+source-wordcount: '4827'
 ht-degree: 31%
 
 ---
@@ -25,12 +25,12 @@ Deze pagina bevat nieuwe functies, correcties en belangrijke kennisgevingen in [
 
 **Releasedatum: mei 2020**
 
-Laatste update: **21 mei 2020**
+Laatste update: **26 mei 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Bijgewerkt op 21 mei 2020**)
+* [!DNL Analytics](#analytics) (**Bijgewerkt op 26 mei 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -139,7 +139,7 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 
 * [Nieuwe functies in de reisanalyse van klanten](#cust-journey)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (**bijgewerkt tot 21 mei 2020**)
+* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (**bijgewerkt op 26 mei 2020**)
 * [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt tot 21 mei 2020**)
 * [AppMeasurement](#appm)
 * [Nieuwe tutorials voor Analytics](#tutorials-analytics)
@@ -209,6 +209,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | -----------| ---------- | ---------- |
+| Technologie-whitelist van derden | 12 maart 2020 (ingangsdatum) | Adobe Analytics is begonnen technologieën van derden te gebruiken voor functionaliteit-implementatiebeheer en ondersteuning in producten. De volgende URL&#39;s moeten worden toegevoegd aan de whitelisten van de netwerkfirewall om volledige toegang tot de functies te garanderen:<ul><li>Verzicht: https://esp.aptrinsic.com</li><li>Donkerder starten: https://app.launchdarkly.com</li></ul> |
 | Verbeterde redundantie voor beschikbaarheid van analysewerkruimte | 21 mei 2020 | Om beschikbaarheid van de Werkruimte van de Analyse te verzekeren, voegen wij een secundaire CDN (het Netwerk van de Levering van de Inhoud) voor betere overtolligheid toe. De volgende URL&#39;s moeten worden toegevoegd aan de vereiste whitelists van de netwerkfirewall:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Wijzigen in hoe [!UICONTROL Entries/Exits] wordt berekend in [!UICONTROL Workspace] | 7 april 2020 | Sinds maart 2020 is in [!UICONTROL Analysis Workspace] gewijzigd hoe de waarde _Geen_ communiceert met [!UICONTROL Entries/Exits]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. Stel dat de eerste hit van een bezoek geen waarde heeft voor Vars, maar de tweede hit wel. In [!UICONTROL Reports & Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
 | EOL van **[!UICONTROL Conversion Level]**-instelling | 3 maart 2020 | De niet-functionerende instelling [Conversieniveau](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** wordt op 12 maart 2020 uit de interface verwijderd. |
@@ -261,7 +262,7 @@ Deze updates zijn alleen beschikbaar voor gebruikers die zich aanmelden met een 
 **Oplossingen**
 
 * Probleem verholpen waarbij trendrapporten de timing uitmaakten voor mappen met een groot aantal kenmerken. (AAM-54457)
-* Het probleem waarbij klanten de gegevens niet konden zien [!UICONTROL Expression builder] in de workflow voor het maken/bewerken van de taak, is opgelost. (AAM-54255)
+* Probleem verholpen waarbij klanten de gegevens niet konden zien [!UICONTROL Expression builder] in de workflow voor het maken/bewerken van de taak. (AAM-54255)
 * Probleem verholpen waarbij foutberichten in de gebruikersinterface slechts voor een korte tijd zouden worden weergegeven, die zouden verdwijnen voordat klanten de kans kregen ze te lezen. Dit kwam bijvoorbeeld voor wanneer het proberen om een segment te schrappen dat aan een bestemming in kaart werd gebracht. (AAM-54031)
 * Probleem verholpen waarbij klanten die de e-mails [!UICONTROL Audience Marketplace] niet meer gebruiken maandelijks factureren. (AAM-54602)
 * Probleem verholpen waarbij klanten die op bepaalde kenmerken van andere locaties in de gebruikersinterface klikken, verbroken koppelingen zouden zien in plaats van de kenmerken. (AAM-54768)
