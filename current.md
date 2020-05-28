@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: fd2f8976431bd49e32939414b71f08edbe9e245e
+source-git-commit: 0256f7a16a4a3b0909d83256d82e5f44cafa43da
 workflow-type: tm+mt
-source-wordcount: '4924'
-ht-degree: 30%
+source-wordcount: '4829'
+ht-degree: 31%
 
 ---
 
@@ -141,7 +141,7 @@ Bijgewerkt op 27 **mei 2020**
 
 * [Nieuwe functies in de reisanalyse van klanten](#cust-journey)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Media Analytics](#media-aa) (**bijgewerkt op 27 mei 2020**)
+<!-- * [New features in Media Analytics](#media-aa) (**Updated May 27, 2020**) -->
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (**bijgewerkt op 26 mei 2020**)
 * [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt tot 21 mei 2020**)
 * [AppMeasurement](#appm)
@@ -167,17 +167,17 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
 | Toegankelijkheidsverbeteringen | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. |
 
-#### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
+<!-- #### New features in [!UICONTROL Media Analytics] {#media-aa}
 
-Toegevoegde datum: **27 mei 2020**
+Date added: **May 27, 2020**
 
-**Volgen van spelerstatus:** [!UICONTROL Media Analytics] klanten kunnen tijdens het afspelen viewerinteractie vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpgesteld. U hebt ook de flexibiliteit om aangepaste spelerstatussen te maken. Variabelen voor het bijhouden van Player-statussen kunnen nu worden gerapporteerd in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist:
+**Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
 
-* Media [!DNL JavaScript] SDK 3.0 of hoger
-* Voor gebruik met de [!DNL Adobe Experience Platform] (AEP) SDK:
-   * [!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor audio en video v1.0 of hoger
-   * [!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger
-* [!UICONTROL Media Collection] API
+* Media [!DNL JavaScript] SDK 3.0 or higher
+* For use with the [!DNL Adobe Experience Platform] (AEP) SDK:
+  * [!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher
+  * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
+* [!UICONTROL Media Collection] API -->
 
 #### Oplossingen voor Adobe Analytics {#aa-fixes}
 
@@ -341,7 +341,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 | Inhoud | Beschrijving |
 | -----------| ---------- |  
-| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met de SDK&#39;s [!UICONTROL AEM as a Cloud Service] [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
+| [Lokale AEM-runtime instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kan lokaal worden uitgevoerd met behulp van de [!UICONTROL AEM as a Cloud Service] SDK&#39;s [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
 | [Aan de slag met AEM Assets](https://video.tv.adobe.com/v/33624?captions=dut) | Een introductievideo over aan de slag gaan met AEM Assets voor zakelijke gebruikers. |
 | [Metagegevensmappenschema&#39;s](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-folder-schemas.html) | Met mappenschema&#39;s voor metagegevens kunnen gebruikers metagegevens die aan elementmappen zijn gekoppeld, zelf beheren en controleren in plaats van rechtstreeks op elementen. |
 | [Tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/tagging.html) | Tags zijn een integraal hulpmiddel voor het beheer van elementen in de maphiërarchie van verschillende elementen. Het instellen van een tagtaxonomie is van essentieel belang om gebruikers in staat te stellen bedrijfsmiddelen in AEM te vinden en te organiseren. |
