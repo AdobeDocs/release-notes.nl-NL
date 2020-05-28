@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: be366e4ce14fe1f095ba60b85cc9adcd633cb3eb
+source-git-commit: fd2f8976431bd49e32939414b71f08edbe9e245e
 workflow-type: tm+mt
-source-wordcount: '4827'
-ht-degree: 31%
+source-wordcount: '4924'
+ht-degree: 30%
 
 ---
 
@@ -25,12 +25,12 @@ Deze pagina bevat nieuwe functies, correcties en belangrijke kennisgevingen in [
 
 **Releasedatum: mei 2020**
 
-Laatste update: **26 mei 2020**
+Laatste update: **27 mei 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Bijgewerkt op 26 mei 2020**)
+* [!DNL Analytics](#analytics) (**Bijgewerkt op 27 mei 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,8 +137,11 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
+Bijgewerkt op 27 **mei 2020**
+
 * [Nieuwe functies in de reisanalyse van klanten](#cust-journey)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
+* [Nieuwe functies in Media Analytics](#media-aa) (**bijgewerkt op 27 mei 2020**)
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (**bijgewerkt op 26 mei 2020**)
 * [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt tot 21 mei 2020**)
 * [AppMeasurement](#appm)
@@ -163,6 +166,18 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Workspace]: Automatisch samenstellen [!UICONTROL Freeform Tables] vanuit een leeg frame | Eerder kon u componenten niet direct in een leeg project of leeg paneel laten vallen; u moest een [!UICONTROL Freeform Table] eerste toevoegen. U kunt componenten nu rechtstreeks neerzetten in een leeg project of deelvenster en een [!UICONTROL Freeform Table] sjabloon wordt automatisch voor u gemaakt in een aanbevolen indeling. Bovendien, werden de verbeteringen aangebracht aan hoe de gemengde componenttypes (zoals afmetingen en metriek) wanneer gelaten vallen in een lege Lijst Freeform samen worden behandeld. |
 | [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
 | Toegankelijkheidsverbeteringen | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. |
+
+#### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
+
+Toegevoegde datum: **27 mei 2020**
+
+**Volgen van spelerstatus:** [!UICONTROL Media Analytics] klanten kunnen tijdens het afspelen viewerinteractie vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpgesteld. U hebt ook de flexibiliteit om aangepaste spelerstatussen te maken. Variabelen voor het bijhouden van Player-statussen kunnen nu worden gerapporteerd in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist:
+
+* Media [!DNL JavaScript] SDK 3.0 of hoger
+* Voor gebruik met de [!DNL Adobe Experience Platform] (AEP) SDK:
+   * [!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor audio en video v1.0 of hoger
+   * [!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger
+* [!UICONTROL Media Collection] API
 
 #### Oplossingen voor Adobe Analytics {#aa-fixes}
 
@@ -262,7 +277,7 @@ Deze updates zijn alleen beschikbaar voor gebruikers die zich aanmelden met een 
 **Oplossingen**
 
 * Probleem verholpen waarbij trendrapporten de timing uitmaakten voor mappen met een groot aantal kenmerken. (AAM-54457)
-* Probleem verholpen waarbij klanten de gegevens niet konden zien [!UICONTROL Expression builder] in de workflow voor het maken/bewerken van de taak. (AAM-54255)
+* Het probleem waarbij klanten de gegevens niet konden zien [!UICONTROL Expression builder] in de workflow voor het maken/bewerken van de taak, is opgelost. (AAM-54255)
 * Probleem verholpen waarbij foutberichten in de gebruikersinterface slechts voor een korte tijd zouden worden weergegeven, die zouden verdwijnen voordat klanten de kans kregen ze te lezen. Dit kwam bijvoorbeeld voor wanneer het proberen om een segment te schrappen dat aan een bestemming in kaart werd gebracht. (AAM-54031)
 * Probleem verholpen waarbij klanten die de e-mails [!UICONTROL Audience Marketplace] niet meer gebruiken maandelijks factureren. (AAM-54602)
 * Probleem verholpen waarbij klanten die op bepaalde kenmerken van andere locaties in de gebruikersinterface klikken, verbroken koppelingen zouden zien in plaats van de kenmerken. (AAM-54768)
