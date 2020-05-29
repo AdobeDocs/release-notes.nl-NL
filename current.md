@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5283f48c529ee5d1eca229bbd0164bb9e8864aa6
+source-git-commit: 8e6be9e0d672aceac0cb99ec0973de6122e3ad51
 workflow-type: tm+mt
-source-wordcount: '4964'
+source-wordcount: '4975'
 ht-degree: 88%
 
 ---
@@ -25,12 +25,12 @@ Deze pagina bevat nieuwe functies, correcties en belangrijke kennisgevingen in [
 
 **Releasedatum: mei 2020**
 
-Laatste update: **27 mei 2020**
+Laatste update: **29 mei 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Bijgewerkt op 27 mei 2020**)
+* [!DNL Analytics](#analytics) (**Bijgewerkt op 29 mei 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,11 +137,11 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Updated **May 27, 2020**
+Updated **May 29, 2020**
 
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Media Analytics](#media-aa) (**bijgewerkt op 27 mei 2020**)
+* [Nieuwe functies in Media Analytics](#media-aa) (**bijgewerkt op 29 mei 2020**)
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (**bijgewerkt op 26 mei 2020**)
 * [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt tot 21 mei 2020**)
 * [AppMeasurement](#appm)
@@ -169,7 +169,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 #### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
-Toegevoegde datum: **27 mei 2020**
+Datum bijgewerkt: **29 mei 2020**
 
 **Volgen van spelerstatus:** [!UICONTROL Media Analytics] klanten kunnen tijdens het afspelen viewerinteractie vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpgesteld. U hebt ook de flexibiliteit om aangepaste spelerstatussen te maken. Variabelen voor het bijhouden van Player-statussen kunnen nu worden gerapporteerd in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist:
 
@@ -179,7 +179,7 @@ Toegevoegde datum: **27 mei 2020**
    * [!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger
 * [!UICONTROL Media Collection]
 
-Koppeling naar inhoud wordt weergegeven.
+Zie [Informatie over het bijhouden](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html)van spelerstatussen.
 
 #### Adobe Analytics-oplossingen {#aa-fixes}
 
