@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8e6be9e0d672aceac0cb99ec0973de6122e3ad51
+source-git-commit: 6c9c4b782fdf3dc9283d98d78d459bd38fef648d
 workflow-type: tm+mt
-source-wordcount: '4975'
-ht-degree: 88%
+source-wordcount: '5085'
+ht-degree: 86%
 
 ---
 
@@ -25,12 +25,12 @@ Deze pagina bevat nieuwe functies, correcties en belangrijke kennisgevingen in [
 
 **Releasedatum: mei 2020**
 
-Laatste update: **29 mei 2020**
+Laatste update: **1 juni 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Bijgewerkt op 29 mei 2020**)
+* [!DNL Analytics](#analytics) (**Bijgewerkt op 1 juni 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -142,7 +142,7 @@ Updated **May 29, 2020**
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Media Analytics](#media-aa) (**bijgewerkt op 29 mei 2020**)
-* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (**bijgewerkt op 26 mei 2020**)
+* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (1 juni 2020 **bijgewerkt**)
 * [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt tot 21 mei 2020**)
 * [AppMeasurement](#appm)
 * [Nieuwe tutorials voor Analytics](#tutorials-analytics)
@@ -226,6 +226,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | -----------| ---------- | ---------- |
+| Migratie naar één productdomein | Ingangsdatum: 28 mei 2020 | De migratie naar een uniform productdomein voor Adobe Analytics, dat in januari 2020 is gestart, is op 28 mei 2020 voltooid. Hoewel Adobe Analytics werkt om alle `omniture.com` domeinverwijzingen uit zijn architectuur te verwijderen, is het belangrijk om `omniture.com` als derdekoekjes te whitelist. Wanneer de volledige architectuurmigratie (binnenkort) is voltooid, stellen we u via de releaseopmerkingen op de hoogte en deze whitelist-stap is dan niet meer nodig. [Hier](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is een volledige lijst van geadviseerde IP adressen en domeinen die u zou moeten whitelist.<br>Als uw organisatie cookies van derden blokkeert, neemt u contact op met de klantenservice om uw toegang tot Adobe Analytics te herstellen. |
 | Nieuwe standaardlandingspagina voor Adobe Analytics | Ingangsdatum: 18 juni 2020 | Op 18 juni 2020 verandert de standaard bestemmingspagina voor Adobe Analytics van [!UICONTROL Reports] naar [!UICONTROL Workspace]. Deze wijziging vindt plaats voor alle gebruikers die nog geen aangepaste bestemmingspagina hebben ingesteld. |
 | Technologie-whitelist van derden | (Ingangsdatum: 12 maart 2020 | Adobe Analytics is begonnen technologieën van derden te gebruiken voor functionaliteit-implementatiebeheer en ondersteuning in producten. De volgende URL&#39;s moeten worden toegevoegd aan de whitelisten van de netwerkfirewall om volledige toegang tot de functies te garanderen:<ul><li>Verzicht: https://esp.aptrinsic.com</li><li>Donkerder starten: https://app.launchdarkly.com</li></ul> |
 | Verbeterde redundantie voor beschikbaarheid van analysewerkruimte | 21 mei 2020 | Om beschikbaarheid van de Werkruimte van de Analyse te verzekeren, voegen wij een secundaire CDN (het Netwerk van de Levering van de Inhoud) voor betere overtolligheid toe. De volgende URL&#39;s moeten worden toegevoegd aan de vereiste whitelists van de netwerkfirewall:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
