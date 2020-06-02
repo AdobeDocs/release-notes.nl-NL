@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 02f473e0c7908d44aa0444ce99f4540d9e79b254
+source-git-commit: 4e1e40af6c04665ce8a44e4fb30156da2d5d9357
 workflow-type: tm+mt
-source-wordcount: '5133'
+source-wordcount: '5142'
 ht-degree: 85%
 
 ---
@@ -163,9 +163,9 @@ Updated **May 29, 2020**
 | API voor het invoegen van bulkgegevens | 31 mei 2020 | Hiermee kunt u eenvoudig en onafhankelijk batches met analysegegevens invoeren. Nuttig voor server-kant en off-line gegevens. [Meer informatie...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
 | Analytics-ondersteuning voor [!UICONTROL Adobe Experience Platform Edge Network] | 31 mei 2020 | Hiermee kunt u één tag gebruiken om data te verzenden naar meerdere Adobe-oplossingen zoals Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile en Experience Cloud ID Service. [Meer informatie...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analytics dashboards] | 31 mei 2020 | [!UICONTROL Adobe Analytics dashboards] is een mobiele app waarmee gebruikers altijd en overal toegang hebben tot inzichten van Adobe Analytics. Deze app is bedoeld voor managers die onderweg toegang willen tot belangrijke cijfers. Hiermee is toegang mogelijk tot geselecteerde, interactieve scorecards en de app is beschikbaar voor zowel iOS- als Android-besturingssystemen. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Workspace]: Automatisch bouwen [21 mei 2020!UICONTROL Freeform Tables] van een lege staat | Vroeger konden onderdelen niet rechtstreeks in een leeg project of leeg venster paneel worden neergezet; u moest eerst een [!UICONTROL Freeform Table] toevoegen. Nu kunt u onderdelen rechtstreeks neerzetten in een leeg project of deelvenster en wordt er automatisch een [!UICONTROL Freeform Table] voor u gemaakt in een aanbevolen indeling. Bovendien zijn er verbeteringen toegevoegd in de manier waarop gemengde onderdeeltypen (zoals dimensies en cijfers) wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
+| [!UICONTROL Workspace]: automatisch [!UICONTROL Freeform Tables] samenstellen vanuit een lege status | [21 mei 2020] | Vroeger konden onderdelen niet rechtstreeks in een leeg project of leeg venster paneel worden neergezet; u moest eerst een [!UICONTROL Freeform Table] toevoegen. Nu kunt u onderdelen rechtstreeks neerzetten in een leeg project of deelvenster en wordt er automatisch een [!UICONTROL Freeform Table] voor u gemaakt in een aanbevolen indeling. Bovendien zijn er verbeteringen toegevoegd in de manier waarop gemengde onderdeeltypen (zoals dimensies en cijfers) wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
 | [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | 21 mei 2020 | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
-| Toegankelijkheidsverbeteringen | 21 mei 2020 | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. |
+| Toegankelijkheidsverbeteringen | 21 mei 2020 | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 #### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
