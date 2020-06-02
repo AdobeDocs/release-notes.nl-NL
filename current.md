@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6c9c4b782fdf3dc9283d98d78d459bd38fef648d
+source-git-commit: 02f473e0c7908d44aa0444ce99f4540d9e79b254
 workflow-type: tm+mt
-source-wordcount: '5085'
-ht-degree: 86%
+source-wordcount: '5133'
+ht-degree: 85%
 
 ---
 
@@ -25,12 +25,12 @@ Deze pagina bevat nieuwe functies, correcties en belangrijke kennisgevingen in [
 
 **Releasedatum: mei 2020**
 
-Laatste update: **1 juni 2020**
+Laatste update: **2 juni 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Bijgewerkt op 1 juni 2020**)
+* [!DNL Analytics](#analytics) (**Bijgewerkt op 2 juni 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -140,7 +140,7 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 Updated **May 29, 2020**
 
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
-* [Nieuwe functies in Adobe Analytics](#aa-features)
+* [Nieuwe functies in Adobe Analytics](#aa-features) (**Bijgewerkt op 2 juni 2020**)
 * [Nieuwe functies in Media Analytics](#media-aa) (**bijgewerkt op 29 mei 2020**)
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (1 juni 2020 **bijgewerkt**)
 * [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt tot 21 mei 2020**)
@@ -156,16 +156,16 @@ Updated **May 29, 2020**
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
-<!-- Bulk Ingest: Enables you to ingest batches of Analytics data. Useful for server-side and offline data. Learn more...
-First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
+<!--First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
 
-| Functie | Beschrijving |
-| -----------| ---------- |
-| Analytics-ondersteuning voor [!UICONTROL Adobe Experience Platform Edge Network] | Hiermee kunt u één tag gebruiken om data te verzenden naar meerdere Adobe-oplossingen zoals Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile en Experience Cloud ID Service. [Meer informatie...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
-| [!UICONTROL Adobe Analytics dashboards] | [!UICONTROL Adobe Analytics dashboards] is een mobiele app waarmee gebruikers altijd en overal toegang hebben tot inzichten van Adobe Analytics. Deze app is bedoeld voor managers die onderweg toegang willen tot belangrijke cijfers. Hiermee is toegang mogelijk tot geselecteerde, interactieve scorecards en de app is beschikbaar voor zowel iOS- als Android-besturingssystemen. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Workspace]: automatisch [!UICONTROL Freeform Tables] samenstellen vanuit een lege status | Vroeger konden onderdelen niet rechtstreeks in een leeg project of leeg venster paneel worden neergezet; u moest eerst een [!UICONTROL Freeform Table] toevoegen. Nu kunt u onderdelen rechtstreeks neerzetten in een leeg project of deelvenster en wordt er automatisch een [!UICONTROL Freeform Table] voor u gemaakt in een aanbevolen indeling. Bovendien zijn er verbeteringen toegevoegd in de manier waarop gemengde onderdeeltypen (zoals dimensies en cijfers) wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
-| [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
-| Toegankelijkheidsverbeteringen | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. |
+| Functie | Algemene beschikbaarheidsdatum | Beschrijving |
+| -----------| ------------ | ---------- |
+| API voor het invoegen van bulkgegevens | 31 mei 2020 | Hiermee kunt u eenvoudig en onafhankelijk batches met analysegegevens invoeren. Nuttig voor server-kant en off-line gegevens. [Meer informatie...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| Analytics-ondersteuning voor [!UICONTROL Adobe Experience Platform Edge Network] | 31 mei 2020 | Hiermee kunt u één tag gebruiken om data te verzenden naar meerdere Adobe-oplossingen zoals Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile en Experience Cloud ID Service. [Meer informatie...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
+| [!UICONTROL Adobe Analytics dashboards] | 31 mei 2020 | [!UICONTROL Adobe Analytics dashboards] is een mobiele app waarmee gebruikers altijd en overal toegang hebben tot inzichten van Adobe Analytics. Deze app is bedoeld voor managers die onderweg toegang willen tot belangrijke cijfers. Hiermee is toegang mogelijk tot geselecteerde, interactieve scorecards en de app is beschikbaar voor zowel iOS- als Android-besturingssystemen. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/mobapp/home.html) |
+| [!UICONTROL Workspace]: Automatisch bouwen [21 mei 2020!UICONTROL Freeform Tables] van een lege staat | Vroeger konden onderdelen niet rechtstreeks in een leeg project of leeg venster paneel worden neergezet; u moest eerst een [!UICONTROL Freeform Table] toevoegen. Nu kunt u onderdelen rechtstreeks neerzetten in een leeg project of deelvenster en wordt er automatisch een [!UICONTROL Freeform Table] voor u gemaakt in een aanbevolen indeling. Bovendien zijn er verbeteringen toegevoegd in de manier waarop gemengde onderdeeltypen (zoals dimensies en cijfers) wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
+| [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | 21 mei 2020 | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
+| Toegankelijkheidsverbeteringen | 21 mei 2020 | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. |
 
 #### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
