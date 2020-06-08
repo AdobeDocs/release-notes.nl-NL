@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9ca2b181b020052ec1f2cc968e9c2cf1bdfa7fdc
+source-git-commit: feb921205059c7ab4ba9d59964fae9b1954d12a0
 workflow-type: tm+mt
-source-wordcount: '5149'
-ht-degree: 85%
+source-wordcount: '5370'
+ht-degree: 93%
 
 ---
 
 
-# Opmerkingen bij de release Adobe Experience Cloud - mei 2020
+# Adobe Experience Cloud-releaseopmerkingen - mei 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -25,12 +25,12 @@ Deze pagina bevat nieuwe functies, correcties en belangrijke kennisgevingen in [
 
 **Releasedatum: mei 2020**
 
-Laatste update: **2 juni 2020**
+Laatste update: **4 juni 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Bijgewerkt op 2 juni 2020**)
+* [!DNL Analytics](#analytics) (**Bijgewerkt op 4 juni 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -46,7 +46,7 @@ Hulp nodig? Ga naar [[!DNL Adobe Experience League]](https://experienceleague.ad
 
 [!UICONTROL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval-, onderbrekings- en onderhoudsgebeurtenissen van Adobe Cloud-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
-Release date: **May 21, 2020**
+Releasedatum: **21 mei 2020**
 
 **Wat is er nieuw**
 
@@ -56,7 +56,7 @@ Release date: **May 21, 2020**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Verbeterde gebruikerservaring voor lidmaatschap en meldingen | <ul><li>[!DNL Marketo Engage] regionale locaties worden nu gefilterd op basis van de geselecteerde lijst met productaanbiedingen.</li><li>[!DNL Marketo Engage] e-mailmeldingen zijn relevant voor de regio, locatie en omgeving van de gebruiker.</li></ul> |
+| Verbeterde gebruikerservaring voor lidmaatschap en meldingen | <ul><li>[!DNL Marketo Engage] regionale locaties worden nu gefilterd op basis van de geselecteerde lijst met productaanbiedingen.</li><li>[!DNL Marketo Engage] e-mailmeldingen zijn relevant voor de regio, locatie en omgevingsvoorkeuren van de gebruiker.</li></ul> |
 | Bevestiging van gebeurtenislidmaatschap | <ul><li>U kunt nu een e-mailbevestiging krijgen wanneer u een lidmaatschap hebt voor lopende updates van één gebeurtenis.</li></ul> |
 | Verbeteringen van de algemene navigatiebruikbaarheid | <ul><li>Consistente gebruikerservaring met `Adobe.com` in het hoogste navigatiemenu.</li></ul> |
 
@@ -96,7 +96,7 @@ De volgende applicaties gebruiken het nieuwe domein experience.adobe.com:
 
 >[!NOTE]
 >
->**[!UICONTROL Board & Collections]**, een verouderd filter in de [!UICONTROL Marketing Cloud Assets] kiezer, wordt uitgeschakeld.
+>**[!UICONTROL Board & Collections]**, een verouderd filter in de [!UICONTROL Marketing Cloud Assets]-kiezer, wordt uitgeschakeld.
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -137,43 +137,49 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
-* [Nieuwe functies in Adobe Analytics](#aa-features) (**Bijgewerkt op 2 juni 2020**)
+* [Nieuwe functies in Adobe Analytics](#aa-features) (**bijgewerkt op 4 juni 2020**)
+* [Nieuwe functies in de analyse](#cust-journey) van de Reis van de Klant (**Bijgewerkt 4 juni 2020**)
 * [Nieuwe functies in Media Analytics](#media-aa) (**bijgewerkt op 29 mei 2020**)
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (1 juni 2020 **bijgewerkt**)
-* [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt tot 21 mei 2020**)
+* [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt op 21 mei 2020**)
 * [AppMeasurement](#appm)
 * [Nieuwe tutorials voor Analytics](#tutorials-analytics)
 
-### Nieuwe functies in Customer Journey Analytics {#cust-journey}
-
-| Functie | Beschrijving |
-| -----------| ---------- |
-| [!UICONTROL Customer Journey Analytics]: wereldwijde beschikbaarheid | Maakt [!UICONTROL Customer Journey Analytics] beschikbaar voor klanten in EMEA en APAC. |
-| [!UICONTROL Customer Journey Analytics]: ondersteuning voor [!UICONTROL Adobe Experience Platform Sandboxes] | Hiermee kunt u specifieke [!UICONTROL Adobe Experience Platform Sandboxes] selecteren om CJA-verbindingen te maken. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics-platform/using/cja-connections/create-connection.html) |
-
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
-<!--First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
+<!--First-Party Domains Available in China RDC: June 18 - Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... 
+Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank panel in WS now includes panels and vizs - June 18; -->
 
-| Functie | [Algemene beschikbaarheidsdatum doel](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) | Beschrijving |
+| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ------------ | ---------- |
-| API voor het invoegen van bulkgegevens | 31 mei 2020 | Hiermee kunt u eenvoudig en onafhankelijk batches met analysegegevens invoeren. Nuttig voor server-kant en off-line gegevens. [Meer informatie...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
-| Analytics-ondersteuning voor [!UICONTROL Adobe Experience Platform Edge Network] | 31 mei 2020 | Hiermee kunt u één tag gebruiken om data te verzenden naar meerdere Adobe-oplossingen zoals Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile en Experience Cloud ID Service. [Meer informatie...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
-| [!UICONTROL Adobe Analytics dashboards] | 21 mei 2020 | [!UICONTROL Adobe Analytics dashboards] is een mobiele app waarmee gebruikers altijd en overal toegang hebben tot inzichten van Adobe Analytics. Deze app is bedoeld voor managers die onderweg toegang willen tot belangrijke cijfers. Hiermee is toegang mogelijk tot geselecteerde, interactieve scorecards en de app is beschikbaar voor zowel iOS- als Android-besturingssystemen. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Workspace]: automatisch [!UICONTROL Freeform Tables] samenstellen vanuit een lege status | [21 mei 2020] | Vroeger konden onderdelen niet rechtstreeks in een leeg project of leeg venster paneel worden neergezet; u moest eerst een [!UICONTROL Freeform Table] toevoegen. Nu kunt u onderdelen rechtstreeks neerzetten in een leeg project of deelvenster en wordt er automatisch een [!UICONTROL Freeform Table] voor u gemaakt in een aanbevolen indeling. Bovendien zijn er verbeteringen toegevoegd in de manier waarop gemengde onderdeeltypen (zoals dimensies en cijfers) wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
-| [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level] pagina | 21 mei 2020 | U kunt nu bekijken aan welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft op **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
-| Toegankelijkheidsverbeteringen | 21 mei 2020 | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in de analysewerkruimte, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
+| [!UICONTROL Analytics for Target] in [!UICONTROL Workspace] | 25 juni 2020 | In het deelvenster [!UICONTROL Analytics for Target] (A4T) kunt u uw Adobe Target-activiteiten en -ervaringen analyseren in [!UICONTROL Analysis Workspace.] Meer [informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL Quick Insights] in [!UICONTROL Workspace] | 25 juni 2020 | [!UICONTROL Quick Insights] biedt begeleiding voor niet-analisten en nieuwe gebruikers van [!UICONTROL Analysis Workspace] om te leren hoe u bedrijfsvragen snel en gemakkelijk kunt beantwoorden. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL Bulk Data Insertion] API | 31 Mei 2020 | Hiermee kunt u eenvoudig en onafhankelijk batches met analysegegevens invoeren. Nuttig voor server-kant en off-line gegevens. [Meer informatie...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| Adobe Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] | 31 Mei 2020 | Hiermee kunt u één tag gebruiken om data te verzenden naar meerdere Adobe-oplossingen zoals Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile en Experience Cloud ID Service. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/experience-platform/edge/solutions/analytics/analytics-overview.html) |
+| [!UICONTROL Adobe Analytics dashboards] | 21 Mei 2020 | [!UICONTROL Adobe Analytics dashboards] is een mobiele app waarmee gebruikers altijd en overal toegang hebben tot inzichten van Adobe Analytics. Deze app is bedoeld voor managers die onderweg toegang willen tot belangrijke cijfers. Hiermee is toegang mogelijk tot geselecteerde, interactieve scorecards en de app is beschikbaar voor zowel iOS- als Android-besturingssystemen. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/mobapp/home.html) |
+| [!UICONTROL Workspace]: automatisch [!UICONTROL Freeform Tables] samenstellen vanuit een lege status | [21 Mei 2020 | Vroeger konden onderdelen niet rechtstreeks in een leeg project of leeg venster paneel worden neergezet; u moest eerst een [!UICONTROL Freeform Table] toevoegen. Nu kunt u onderdelen rechtstreeks neerzetten in een leeg project of deelvenster en wordt er automatisch een [!UICONTROL Freeform Table] voor u gemaakt in een aanbevolen indeling. Bovendien zijn er verbeteringen toegevoegd in de manier waarop gemengde onderdeeltypen (zoals dimensies en cijfers) wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
+| [!UICONTROL Adobe Analytics Package] toegevoegd aan [!UICONTROL Feature Access Level]-pagina | 21 Mei 2020 | U kunt nu bekijken aan op welke [!UICONTROL Adobe Analytics Package] (SKU) uw bedrijf recht heeft **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
+| Toegankelijkheidsverbeteringen | 21 Mei 2020 | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in Analysis Workspace, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
+
+### Nieuwe functies in Customer Journey Analytics {#cust-journey}
+
+| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
+| -----------| --------- | ---------- |
+| [!UICONTROL Quick Insights] in [!UICONTROL Workspace] | 25 juni 2020 | [!UICONTROL Quick Insights] biedt begeleiding voor niet-analisten en nieuwe gebruikers van [!UICONTROL Analysis Workspace] om te leren hoe u bedrijfsvragen snel en gemakkelijk kunt beantwoorden. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL Customer Journey Analytics]: wereldwijde beschikbaarheid | 21 Mei 2020 | Maakt [!UICONTROL Customer Journey Analytics] beschikbaar voor klanten in EMEA en APAC. |
+| [!UICONTROL Customer Journey Analytics]: ondersteuning voor [!UICONTROL Adobe Experience Platform Sandboxes] | 21 Mei 2020 | Hiermee kunt u specifieke [!UICONTROL Adobe Experience Platform Sandboxes] selecteren om CJA-verbindingen te maken. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics-platform/using/cja-connections/create-connection.html) |
+| [!UICONTROL Workspace]: automatisch [!UICONTROL Freeform Tables] samenstellen vanuit een lege status | [21 Mei 2020 | Vroeger konden onderdelen niet rechtstreeks in een leeg project of leeg venster paneel worden neergezet; u moest eerst een [!UICONTROL Freeform Table] toevoegen. Nu kunt u onderdelen rechtstreeks neerzetten in een leeg project of deelvenster en wordt er automatisch een [!UICONTROL Freeform Table] voor u gemaakt in een aanbevolen indeling. Bovendien zijn er verbeteringen toegevoegd in de manier waarop gemengde onderdeeltypen (zoals dimensies en cijfers) wanneer deze samen in een lege vrije-vormtabel worden neergezet. |
+| Toegankelijkheidsverbeteringen | 21 Mei 2020 | Het Adobe Analytics-team heeft verschillende toegankelijkheidsverbeteringen doorgevoerd in Analysis Workspace, waaronder verbeterde toetsenbordnavigatie, kleurcontrast en ondersteuning voor schermlezers. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 #### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
 Datum bijgewerkt: **29 mei 2020**
 
-**Volgen van spelerstatus:** [!UICONTROL Media Analytics] klanten kunnen tijdens het afspelen viewerinteractie vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpgesteld. U hebt ook de flexibiliteit om aangepaste spelerstatussen te maken. Variabelen voor het bijhouden van Player-statussen kunnen nu worden gerapporteerd in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist:
+**Volgen van Player-status:** [!UICONTROL Media Analytics] klanten kunnen tijdens het afspelen viewerinteracties vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpstelling. U kunt desgewenst ook aangepaste Player-statussen te maken. Variabelen voor het bijhouden van Player-statussen kunnen nu worden gerapporteerd in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist:
 
 * Media [!DNL JavaScript] SDK 3.0 of hoger
 * Voor gebruik met de [!DNL Adobe Experience Platform] (AEP) SDK:
-   * [!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor audio en video v1.0 of hoger
+   * [!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor Audio &amp; Video v1.0 of hoger
    * [!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger
 * [!UICONTROL Media Collection]
 
@@ -181,8 +187,8 @@ Zie [Informatie over het bijhouden](https://docs.adobe.com/content/help/en/media
 
 #### Adobe Analytics-oplossingen {#aa-fixes}
 
-* Adobe heeft de [!UICONTROL Time Spent] maatstaf zodanig gewijzigd dat deze nooit &quot;Niet opgegeven&quot; in de berekening opneemt. Dit betekent dat, ongeacht of de UI zegt om &quot;Niet gespecificeerd&quot;te omvatten, wij een speciale uitzondering maken om &quot;Ongespecificeerd&quot;altijd in de [!UICONTROL Time Spent] berekening uit te sluiten. Daarom zelfs als u een rapport vormde dat [!UICONTROL Time Spent] metrisch bevat om &quot;Niet gespecificeerd&quot;te omvatten, zal het altijd 0 tijd terugkeren die voor het &quot;Niet gespecificeerde&quot;lijnpunt wordt doorgebracht. Merk op dat dit historische rapporten in Rapporten &amp; Analytics evenals de Rapporterende API v1.4 kan veranderen. (AN-197958)
-* Probleem verholpen waarbij Instance/bezoek/bezoeker niet in de noemer voor de [!UICONTROL Time Spent] meetgegevens werd meegeteld.  Dit gebeurt wanneer een hit zonder waarde voor de dimensie (bijvoorbeeld [!UICONTROL Pagename]) in dezelfde seconde wordt gevolgd. (AN-211074)
+* Adobe heeft de [!UICONTROL Time Spent]-metric zodanig gewijzigd dat &quot;Niet-opgegeven&quot; items niet in de berekening worden opgenomen. Dit betekent dat we een speciale uitzondering maken en dat &quot;Niet-gespecificeerde&quot; items altijd van de [!UICONTROL Time Spent]-berekening worden uitgesloten (ook als de UI aangeeft dat deze items worden opgenomen). Daarom wordt altijd 0 geretourneerd als tijdwaarde voor het lijnitem &quot;Niet-gespecificeerd&quot;, zelfs als u een rapport hebt geconfigureerd met de metric [!UICONTROL Time Spent] om het lijnitem &quot;Niet gespecificeerd&quot; op te nemen. Merk op dat historische rapporten in Reports &amp; Analytics hierdoor kunnen worden gewijzigd, evenals die van Reporting API v1.4. (AN-197958)
+* Probleem verholpen waarbij een instantie/bezoek/bezoeker niet in de noemer voor de [!UICONTROL Time Spent]-metrics werd meegeteld.  Dit gebeurt wanneer een hit zonder waarde voor de dimensie (bijvoorbeeld [!UICONTROL Pagename]) in dezelfde seconde wordt gevolgd. (AN-211074)
 * Er is een probleem opgelost waardoor [!DNL Analytics]-segmentdata ontbraken in Audience Manager. (AN-206221)
 * Er is een probleem opgelost waardoor bij [!UICONTROL Data Sources]-verwerking verkeerde datums werden weergegeven. (AN-213604)
 * Er is een probleem opgelost waardoor classificatiebestanden niet goed naar de FTP werden geüpload. (AN-214102)
@@ -226,8 +232,8 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 | -----------| ---------- | ---------- |
 | Migratie naar één productdomein | Ingangsdatum: 28 mei 2020 | De migratie naar een uniform productdomein voor Adobe Analytics, dat in januari 2020 is gestart, is op 28 mei 2020 voltooid. Hoewel Adobe Analytics werkt om alle `omniture.com` domeinverwijzingen uit zijn architectuur te verwijderen, is het belangrijk om `omniture.com` als derdekoekjes te whitelist. Wanneer de volledige architectuurmigratie (binnenkort) is voltooid, stellen we u via de releaseopmerkingen op de hoogte en deze whitelist-stap is dan niet meer nodig. [Hier](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is een volledige lijst van geadviseerde IP adressen en domeinen die u zou moeten whitelist.<br>Als uw organisatie cookies van derden blokkeert, neemt u contact op met de klantenservice om uw toegang tot Adobe Analytics te herstellen. |
 | Nieuwe standaardlandingspagina voor Adobe Analytics | Ingangsdatum: 18 juni 2020 | Op 18 juni 2020 verandert de standaard bestemmingspagina voor Adobe Analytics van [!UICONTROL Reports] naar [!UICONTROL Workspace]. Deze wijziging vindt plaats voor alle gebruikers die nog geen aangepaste bestemmingspagina hebben ingesteld. |
-| Technologie-whitelist van derden | (Ingangsdatum: 12 maart 2020 | Adobe Analytics is begonnen technologieën van derden te gebruiken voor functionaliteit-implementatiebeheer en ondersteuning in producten. De volgende URL&#39;s moeten worden toegevoegd aan de whitelisten van de netwerkfirewall om volledige toegang tot de functies te garanderen:<ul><li>Verzicht: https://esp.aptrinsic.com</li><li>Donkerder starten: https://app.launchdarkly.com</li></ul> |
-| Verbeterde redundantie voor beschikbaarheid van analysewerkruimte | 21 mei 2020 | Om beschikbaarheid van de Werkruimte van de Analyse te verzekeren, voegen wij een secundaire CDN (het Netwerk van de Levering van de Inhoud) voor betere overtolligheid toe. De volgende URL&#39;s moeten worden toegevoegd aan de vereiste whitelists van de netwerkfirewall:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
+| Technologie-whitelist van derde partijen | (Ingangsdatum: 12 maart 2020 | Adobe Analytics is gestart met het gebruik van technologieën van derden voor doorlopend implementatiebeheer van functies en voor ondersteuning in het product. De volgende URL&#39;s moeten worden toegevoegd aan de vereiste whitelists voor de netwerkfirewall om volledige toegang tot de functies te garanderen:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
+| Verbeterde redundantie voor de beschikbaarheid van Analysis Workspace | 21 Mei 2020 | Om de beschikbaarheid van Analysis Workspace te verzekeren, voegen we een secundair CDN (Content Delivery Network) toe voor een verbeterde redundantie. De volgende URL&#39;s moeten worden toegevoegd aan de vereiste whitelists voor de netwerkfirewall:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Wijzigen in hoe [!UICONTROL Entries/Exits] wordt berekend in [!UICONTROL Workspace] | 7 april 2020 | Sinds maart 2020 is in [!UICONTROL Analysis Workspace] gewijzigd hoe de waarde _Geen_ communiceert met [!UICONTROL Entries/Exits]. Omdat u _Geen_ nu kunt in- en uitschakelen in [!UICONTROL Analysis Workspace], gebruiken we de waarde _Geen_ na openen en afsluiten, waar dit (voor eVars) vroeger werd toegepast vóór openen en afsluiten. Stel bijvoorbeeld dat de eerste hit van een bezoek geen waarde heeft voor eVars, maar de tweede hit wel. In [!UICONTROL Reports & Analytics] verschijnt de eerste hit als _Niet gespecificeerd_ voor de vermelding, maar in [!UICONTROL Analysis Workspace] verschijnt dit als de waarde voor de tweede hit. |
 | EOL van **[!UICONTROL Conversion Level]**-instelling | 3 maart 2020 | De niet-functionerende instelling [Conversieniveau](https://docs.adobe.com/content/help/nl-NL/analytics/admin/admin-tools/general-acct-settings-admin.html) in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** wordt op 12 maart 2020 uit de interface verwijderd. |
 | EOL van **[!UICONTROL Dashboard Archive]** | 27 maart 2020 | De instelling **[!UICONTROL View Archive]** onder **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] zal vanaf oktober 2020 niet meer beschikbaar zijn. |
@@ -358,7 +364,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 * [AEM 6.4 Informatie en ondersteuning Support-startpagina](https://helpx.adobe.com/nl/support/experience-manager/6-4.html)
 * [AEM 6.3 Informatie en ondersteuning Support-startpagina](https://helpx.adobe.com/nl/support/experience-manager/6-3.html)
 * [AEM 6.2 Informatie en ondersteuning Support-startpagina](https://helpx.adobe.com/nl/support/experience-manager/6-2.html)
-* [Gebruikershandleiding voor Cloud Manager](https://helpx.adobe.com/nl/experience-manager/cloud-manager/user-guide.html)
+* [Gebruikershandleiding voor Cloud Manager](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [Releaseopmerkingen bij AEM Cloud Manager](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 * [Oudere versies van AEM-documentatie](https://helpx.adobe.com/nl/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic Help-startpagina](https://docs.adobe.com/content/help/nl-NL/dynamic-media-classic/using/home.html)
@@ -371,21 +377,21 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 ### Campaign Standard
 
-* [Adobe Campagne Standard 20.3-release](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html)
+* [Adobe Campaign Standard 20.3-release](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html)
 
 ### Campaign Classic
 
 * [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
-### Campagne
+### Campaign-besturingsdeelvenster
 
 | Functie | Beschrijving |
 | -----------| ---------- |  
 | Beheer van GPG-codes | Installeer en/of genereer GPG-codes op een marketinginstantie om data die vanuit Campaign worden verzonden, te coderen en inkomende data te ontcijferen. |
 | Certificaatbeheer voor CNAME-subdomeinen | Met het besturingsdeelvenster kunt u nu de SSL-certificaten van uw subdomeinen vernieuwen die zijn gedelegeerd met de CNAME-methode. |
 
-### Nieuwe zelfstudies voor campagnes
+### Nieuwe zelfstudies voor Campaign
 
 * Nieuwe tutorials voor Campaign Standard
 
@@ -393,7 +399,7 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 | -----------| ---------- |  
 | [Besturingsdeelvenster - Google TXT-recordbeheer](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Leer hoe u verificatiedata van de Google TXT-site toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Campaign-besturingsdeelvenster. |
 | [Een workflow configureren en uitvoeren met de externe-API-activiteit](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Leer een extern REST-API-eindpunt op te roepen met de externe-API-activiteit. |
-| [Aan de slag met pushmeldingen voor Android-tutorial](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | In deze zelfstudie worden de stappen beschreven die nodig zijn om pushmeldingen in te stellen met Campagnestandaard en Android App. |
+| [Aan de slag met pushmeldingen voor Android-tutorial](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | In deze zelfstudie worden de stappen beschreven die nodig zijn om pushmeldingen in te stellen met Campaign Standard en de Android-app. |
 
 * Nieuwe tutorials voor Campaign Classic
 
@@ -402,10 +408,10 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 | [Beheer van big data op Snowflake](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Krijg inzicht in het gebruik van de Snowflake-connector in Adobe Campaign Classic. |
 | [Besturingsdeelvenster - Google TXT-recordbeheer](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html) | Leer hoe u verificatiedata van de Google TXT-site toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Campaign-besturingsdeelvenster. |
 
-### Bronnen voor hulp bij campagnes
+### Help-informatie en bronnen voor Campaign
 
-* Adobe Campagnestandaard: [Help Center](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html) - [Release Notes](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) &#39;s - [Release-planning](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
-* Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)&#39;s - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
+* Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Releaseplanning](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/campaign-classic-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html)
 
 ## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
