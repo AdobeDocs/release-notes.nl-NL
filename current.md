@@ -138,7 +138,7 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 ## ![Pictogram](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
 * [Nieuwe functies in Adobe Analytics](#aa-features) (**bijgewerkt op 4 juni 2020**)
-* [Nieuwe functies in de analyse](#cust-journey) van de Reis van de Klant (**Bijgewerkt 4 juni 2020**)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey) (**bijgewerkt op 4 juni 2020**)
 * [Nieuwe functies in Media Analytics](#media-aa) (**bijgewerkt op 29 mei 2020**)
 * [Belangrijke kennisgevingen voor Analytics-beheerders](#aa-notices) (**bijgewerkt op 1 juni 2020**)
 * [Oplossingen voor](#aa-fixes) Adobe Analytics (**bijgewerkt op 21 mei 2020**)
@@ -150,9 +150,9 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 <!--First-Party Domains Available in China RDC: June 18 - Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... 
 Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank panel in WS now includes panels and vizs - June 18; -->
 
-| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
+| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Target-datum | Beschrijving |
 | -----------| ------------ | ---------- |
-| [!UICONTROL Analytics for Target] in [!UICONTROL Workspace] | 25 juni 2020 | In het deelvenster [!UICONTROL Analytics for Target] (A4T) kunt u uw Adobe Target-activiteiten en -ervaringen analyseren in [!UICONTROL Analysis Workspace.] Meer [informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL Analytics for Target] in [!UICONTROL Workspace] | 25 juni 2020 | Met het [!UICONTROL Analytics for Target] (A4T)-deelvenster kunt u uw Adobe Target-activiteiten en -ervaringen analyseren in [!UICONTROL Analysis Workspace.] Meer [informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
 | [!UICONTROL Quick Insights] in [!UICONTROL Workspace] | 25 juni 2020 | [!UICONTROL Quick Insights] biedt begeleiding voor niet-analisten en nieuwe gebruikers van [!UICONTROL Analysis Workspace] om te leren hoe u bedrijfsvragen snel en gemakkelijk kunt beantwoorden. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
 | [!UICONTROL Bulk Data Insertion] API | 31 Mei 2020 | Hiermee kunt u eenvoudig en onafhankelijk batches met Analytics-gegevens invoeren. Nuttig voor serverzijde en offline gegevens. [Meer informatie...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
 | Adobe Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] | 31 Mei 2020 | Hiermee kunt u één tag gebruiken om data te verzenden naar meerdere Adobe-oplossingen zoals Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile en Experience Cloud ID Service. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/experience-platform/edge/solutions/analytics/analytics-overview.html) |
@@ -163,7 +163,7 @@ Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank pa
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
-| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
+| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Target-datum | Beschrijving |
 | -----------| --------- | ---------- |
 | [!UICONTROL Quick Insights] in [!UICONTROL Workspace] | 25 juni 2020 | [!UICONTROL Quick Insights] biedt begeleiding voor niet-analisten en nieuwe gebruikers van [!UICONTROL Analysis Workspace] om te leren hoe u bedrijfsvragen snel en gemakkelijk kunt beantwoorden. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
 | [!UICONTROL Customer Journey Analytics]: wereldwijde beschikbaarheid | 21 Mei 2020 | Maakt [!UICONTROL Customer Journey Analytics] beschikbaar voor klanten in EMEA en APAC. |
