@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e239cc0afb9ebde272f37fa0181b1454412ac2ae
+source-git-commit: dd357da4e362c01ab350891b1082020c90eb77fe
 workflow-type: tm+mt
-source-wordcount: '6341'
+source-wordcount: '6343'
 ht-degree: 33%
 
 ---
@@ -404,7 +404,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 | [AEM-webconsolecomponenten](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components) | Videozelfstudie | Leer over het zuiveren AEM als lokale quickstart van Cloud Service SDK gebruikend de het Webconsole van Componenten. |
 | [Fouten opsporen in lokale QuickStart van AEM SDK met behulp van logbestanden](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | Videozelfstudie | Meer informatie over foutopsporing in AEM als lokale quickstart van een Cloud Service SDK met de Bundles-webconsole. |
 | [Foutopsporing op afstand van de AEM als lokale quickstart van de Cloud Service SDK](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/remote-debugging.html) | Videozelfstudie | Leer over verre het zuiveren van Java van uw winde, die u toestaat om door levende code uitvoering in AEM te stappen om de nauwkeurige uitvoeringsstroom te begrijpen. |
-| [Slimme tag instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | Stapsgewijze instructies voor de integratie van Adobe Experience Manager (AEM) met de Smart Content Service met behulp van Adobe I/O. |
+| [Slimme tag instellen](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | Videozelfstudie | Stapsgewijze instructies voor de integratie van Adobe Experience Manager (AEM) met de Smart Content Service met behulp van Adobe I/O. |
 | [Batch genereren van documenten](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/interactive-communications/batch-generation-interactive-communications.html) | Artikel | Leer over het gebruiken van de Band API om veelvoudige interactieve mededelingen van een malplaatje te produceren. |
 | [Kanaaldocument afdrukken maken in AEM Forms](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html) | Artikel | Leer de stappen die nodig zijn om een interactieve communicatie voor het afdrukkanaal te maken. |
 | [Adobe-elementkoppeling openen](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html) | Videozelfstudie | Leer meer over het benaderen van inhoud die is opgeslagen in Adobe Experience Manager Assets (AEM Assets) zonder de Creative Cloud-bureaubladtoepassingen te verlaten waarmee u vertrouwd bent. |
