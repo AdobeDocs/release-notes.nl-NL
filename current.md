@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c794742334033a11c712fd6cabfcc1b382fbefce
+source-git-commit: 7f127b38a8c27f5e7a439d7130dd2577d987bf0d
 workflow-type: tm+mt
-source-wordcount: '6378'
+source-wordcount: '6332'
 ht-degree: 34%
 
 ---
@@ -183,7 +183,7 @@ Updated **June 10, 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-----|
-| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 Juni 2020 | Het [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] gebruik van statistische technieken om dynamisch de optimale allocatie van krediet voor de geselecteerde maatstaf te bepalen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
+| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 Juni 2020 | Het [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] gebruik statistische technieken om dynamisch de optimale allocatie van krediet voor de geselecteerde maatstaf te bepalen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Attributie-IQ: Aangepaste terugzoekvensters | 18 Juni 2020 | U kunt nu elk attributiemodel configureren in [!UICONTROL Attribution IQ] om aanraakpunten op te nemen van maximaal 90 dagen vóór de rapportperiode. Dit zal de toewijzingsnauwkeurigheid voor gebeurtenissen die zich vroegtijdig in de verslagperiode voordoen, doorgaans verhogen door de verwerking van interacties die in de voorafgaande maand(en) hebben plaatsgevonden. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
 | ondersteuning voor [!UICONTROL Anomaly Detection] | 18 Juni 2020 | [!UICONTROL Anomaly Detection] verschaft een statistische methode om te bepalen hoe een bepaalde meting is gewijzigd ten opzichte van eerdere gegevens. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
 | Projectrollen voor gedeelde [!UICONTROL Workspace] projecten | 18 Juni 2020 | Wanneer het delen van een [!UICONTROL Workspace] project, kunt u ontvangers in één van drie projectrollen nu plaatsen, afhankelijk van de projectervaring u hen wilt hebben: Bewerken, dupliceren en weergeven. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
@@ -435,33 +435,21 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één berichten af te leveren via online en offline marketingkanalen. U kunt nu anticiperen op wat uw klanten willen met behulp van ervaringen die worden bepaald door hun gewoonten en voorkeuren.
 
-### Campaign Standard
+### Nieuwe productreleases
 
-#### Nieuwe standaardcursussen en zelfstudies voor campagne
+[Adobe Campaign Classic versie](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html) 20.2 bevat:
+
+* _Ondersteuning voor Emoticon_ - _Azure Synapse FDA Connector_ - _Nieuwe privacyregels_
+* Configuratiescherm: [Actieve profielcontrole](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html)
+
+### Nieuwe cursussen en zelfstudies voor campagnes
 
 | Inhoud | Inhoudstype | Beschrijving |
 | -----------| ---------- | ---------- |  
 | [Aan de slag met Adobe Campaign Standard for Business Users](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | Cursus | Leer hoe te om de interface te navigeren, met leveringen te werken, en ontvankelijke gegevens tot stand te brengen en te beheren. |
+| [De Adobe Campaign-client installeren en instellen](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | Video | Leer hoe u de Adobe Campaign Client Console downloadt en installeert, uw verbindingen maakt en beheert met meerdere omgevingen en de toegang tot de Adobe Campaign Client Console verifieert |
 
-### Campaign Classic
-
-#### Laatste release
-
-[Adobe Campaign Classic 20.2-release](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html)
-
-#### Campaign Classic-zelfstudies
-
-| Inhoud | Inhoudstype | Beschrijving |
-| -----------| ---------- | ---------- |  
-| [De Adobe Campaign-client installeren en instellen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/install-and-setup-the-adobe-campaign-client.html) | Videozelfstudie | Leer hoe u de Adobe Campaign Client Console downloadt en installeert, uw verbindingen maakt en beheert met meerdere omgevingen en de toegang tot de Adobe Campaign Client Console verifieert. |
-
-### Campaign-besturingsdeelvenster
-
-| Functie | Beschrijving |
-| -----------| ---------- |  
-| Controle van actieve profielen | Met het Configuratiescherm kunt u het actieve profielgebruik voor elk van uw campagneinstanties controleren. Deze functie is in bèta beschikbaar voor klanten die worden gehost op AWS van Campaign Standard 10368-build en Campaign Classic 8931-build. [Meer informatie](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html) |
-
-### Help-informatie en bronnen voor Campaign
+### Help-bronnen
 
 * Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html) - [Releaseplanning](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/campaign-classic-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/documentation-updates.html)
