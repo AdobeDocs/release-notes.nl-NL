@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dd357da4e362c01ab350891b1082020c90eb77fe
+source-git-commit: 233093d41875b9fba88afefa0ecbfc9ace21a900
 workflow-type: tm+mt
-source-wordcount: '6343'
+source-wordcount: '6378'
 ht-degree: 34%
 
 ---
@@ -31,13 +31,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 De releasedatums van het product kunnen variëren. Controleer regelmatig of er updates zijn.
 
-Laatste update: **12 juni 2020**
+Laatste update: **15 juni 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)
+* [Analytics](#analytics) (en [Customer Journey Analytics](#cust-journey))
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campagne](#ac)
@@ -169,22 +169,22 @@ Updated **June 10, 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-------|
-| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 Juni 2020 | Het [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] gebruik van statistische technieken om dynamisch de optimale allocatie van krediet voor de geselecteerde maatstaf te bepalen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
-| Attributie-IQ: Aangepaste terugzoekvensters | 18 Juni 2020 | U kunt nu elk attributiemodel configureren in [!UICONTROL Attribution IQ] om aanraakpunten op te nemen van maximaal 90 dagen vóór de rapportperiode. Dit zal de toewijzingsnauwkeurigheid voor gebeurtenissen die zich vroegtijdig in de verslagperiode voordoen, doorgaans verhogen door de verwerking van interacties die in de voorafgaande maand(en) hebben plaatsgevonden. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projectrollen voor gedeelde [!UICONTROL Workspace] projecten | 18 Juni 2020 | Wanneer het delen van een [!UICONTROL Workspace] project, kunt u ontvangers in één van drie projectrollen nu plaatsen, afhankelijk van de projectervaring u hen wilt hebben: Bewerken, dupliceren en weergeven. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Alleen-weergeven [!UICONTROL Workspace] projecten | 18 Juni 2020 | [!UICONTROL Workspace] projecten kunnen _[!UICONTROL Can View]_alleen aan gebruikers worden gedeeld. Wanneer een ontvanger van de Mening het gedeelde project opent, ontvangen zij een meer restrictieve projectervaring zonder linkerspoorstaaf en beperkte interactie.[Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Mogelijkheid om projecten te [!UICONTROL Workspace] bewerken | 18 Juni 2020 | Ontvangers die aan de _[!UICONTROL Can Edit]_rol zijn toegevoegd, kunnen een project opslaan dat aan hen is gedeeld. Dit geldt zowel voor beheerders als niet-beheerders.[Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Bijgewerkt leeg deelvenster in [!UICONTROL Workspace] | 18 Juni 2020 | Het deelvenster Lege in bevat [!UICONTROL Workspace] nu deelvensters en visualisaties, zodat u een naadloze manier hebt om de analyseworkflow te kiezen die het beste voor u werkt. |
-| Eerste-partijdomeinen beschikbaar in China RDC | 18 Juni 2020 | Laat klanten met een `.cn` domein toe om een 1st-partijdomein voor gebruik binnen het Chinese vasteland aan te vragen. (Documentatie beschikbaar bij de aankoop van China Performance Optimization SKU.) |
-| Deelvenster Snelle inzichten in [!UICONTROL Workspace] | 25 Juni 2020 | Quick Insights provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| Deelvenster [!UICONTROL Analytics for Target] in [!UICONTROL Workspace] | 25 Juni 2020 | The [!UICONTROL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences in [!UICONTROL Analysis Workspace]. [Learn more...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| Attributie-IQ: Algorithmic Attribution | 18 Juni 2020 | Het [!UICONTROL Algorithmic Attribution] model in Analysis Workspace gebruikt statistische technieken om dynamisch de optimale allocatie van het krediet voor de geselecteerde maatstaf te bepalen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
+| Attributie-IQ: Aangepaste terugzoekvensters | 18 Juni 2020 | U kunt nu elk toewijzingsmodel configureren in [!UICONTROL Attribution IQ] om aanraakpunten op te nemen van maximaal 90 dagen vóór de rapportperiode. Dit zal de toewijzingsnauwkeurigheid voor gebeurtenissen die zich vroegtijdig in de verslagperiode voordoen, doorgaans verhogen door de verwerking van interacties die in de voorafgaande maand(en) hebben plaatsgevonden. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
+| Projectrollen voor gedeelde werkruimteprojecten | 18 Juni 2020 | Wanneer het delen van een project van de Werkruimte, kunt u ontvangers in één van drie projectrollen nu plaatsen, afhankelijk van de projectervaring u hen wilt hebben: Bewerken, dupliceren en weergeven. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Alleen-weergeven werkruimteprojecten | 18 Juni 2020 | Werkruimteprojecten kunnen aan gebruikers worden gedeeld als &quot;Alleen kan bekijken&quot;. Wanneer een ontvanger van de Mening het gedeelde project opent, ontvangen zij een meer restrictieve projectervaring, zonder linkerspoorstaaf en beperkte interactie. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
+| Mogelijkheid om werkruimteprojecten samen te bewerken | 18 Juni 2020 | Ontvangers die aan de rol &quot;Kan uitgeven&quot;worden toegevoegd kunnen over een project bewaren dat aan hen is gedeeld. Dit geldt zowel voor beheerders als niet-beheerders. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Bijgewerkt leeg deelvenster in werkruimte | 18 Juni 2020 | Het lege deelvenster in Workspace bevat nu deelvensters en visualisaties, zodat u een naadloze manier hebt om de analyseworkflow te kiezen die het beste voor u werkt. |
+| Eerste-partijdomeinen beschikbaar in China RDC | 18 Juni 2020 | Laat klanten met een `.cn` domein toe om een 1st-partijdomein voor gebruik binnen het Chinese vasteland aan te vragen. (Documentatie beschikbaar bij de aankoop van SKU &quot;China Performance Optimization&quot;.) |
+| Deelvenster Snelle inzichten in werkruimte | 25 Juni 2020 | Quick Insights biedt hulp aan niet-analisten en nieuwe gebruikers van Analysis Workspace om te leren hoe zakelijke vragen snel en eenvoudig te beantwoorden. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| Deelvenster Analytics for Target in Workspace | 25 Juni 2020 | Met het deelvenster Analytics for Target (A4T) kunt u uw Adobe Target-activiteiten en -ervaringen in Analysis Workspace met een optillen en vertrouwen analyseren. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-----|
 | Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 Juni 2020 | Het [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] gebruik statistische technieken om dynamisch de optimale allocatie van krediet voor de geselecteerde maatstaf te bepalen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
-| Attributie-IQ: Aangepaste terugzoekvensters | 18 Juni 2020 | U kunt nu elk attributiemodel configureren in [!UICONTROL Attribution IQ] om aanraakpunten op te nemen van maximaal 90 dagen vóór de rapportperiode. Dit zal de toewijzingsnauwkeurigheid voor gebeurtenissen die zich vroeg in de verslagperiode voordoen, doorgaans verhogen door de verwerking van interacties die in de voorafgaande maand(en) hebben plaatsgevonden. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
+| Attributie-IQ: Aangepaste terugzoekvensters | 18 Juni 2020 | U kunt nu elk attributiemodel configureren in [!UICONTROL Attribution IQ] om aanraakpunten op te nemen van maximaal 90 dagen vóór de rapportperiode. Dit zal de toewijzingsnauwkeurigheid voor gebeurtenissen die zich vroegtijdig in de verslagperiode voordoen, doorgaans verhogen door de verwerking van interacties die in de voorafgaande maand(en) hebben plaatsgevonden. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
 | ondersteuning voor [!UICONTROL Anomaly Detection] | 18 Juni 2020 | [!UICONTROL Anomaly Detection] verschaft een statistische methode om te bepalen hoe een bepaalde meting is gewijzigd ten opzichte van eerdere gegevens. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
 | Projectrollen voor gedeelde [!UICONTROL Workspace] projecten | 18 Juni 2020 | Wanneer het delen van een [!UICONTROL Workspace] project, kunt u ontvangers in één van drie projectrollen nu plaatsen, afhankelijk van de projectervaring u hen wilt hebben: Bewerken, dupliceren en weergeven. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Alleen-weergeven [!UICONTROL Workspace] projecten | 18 Juni 2020 | [!UICONTROL Workspace] projecten kunnen _[!UICONTROL Can View]_alleen aan gebruikers worden gedeeld. Wanneer een ontvanger van de Mening het gedeelde project opent, ontvangen zij een meer restrictieve projectervaring zonder linkerspoorstaaf en beperkte interactie.[Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
