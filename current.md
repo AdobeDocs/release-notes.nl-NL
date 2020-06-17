@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a69ecde6ebbe9ffbb67d6a82daf7d026e28ed19
+source-git-commit: 0c5c9f6f0c03b68eb4c5695db71fca94afc9141b
 workflow-type: tm+mt
-source-wordcount: '6335'
+source-wordcount: '6334'
 ht-degree: 34%
 
 ---
@@ -360,7 +360,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 
 * **Kernonderdelen**
 
-   Versie 2.9.0 van de Componenten van de kern introduceert integratie met de Laag [van Gegevens van de Cliënt van](https://github.com/adobe/adobe-client-data-layer) Adobe en een nieuwe Component van de Bar van de Voortgang en is nu beschikbaar samen met [auteursdocumentatie](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) en [ontwikkelaardetails en projectdownload beschikbaar op GitHub](https://github.com/adobe/aem-core-wcm-components).
+   De Componenten van de kern 2.9.0 introduceert integratie met de Laag [van Gegevens van de Cliënt van](https://github.com/adobe/adobe-client-data-layer) Adobe en een nieuwe Component van de Bar van de Voortgang en is nu beschikbaar samen met [auteursdocumentatie](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) en [ontwikkelaardetails en projectdownload beschikbaar op GitHub](https://github.com/adobe/aem-core-wcm-components).
 
 * **Overstappen naar AEM as a Cloud Service**
 
