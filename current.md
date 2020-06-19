@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 07935d47bd84291ede7cfd2dcfab422a95b7cf71
+source-git-commit: 7901dd8a4f8a701dca516e90b72ec9e4ae0f6ded
 workflow-type: tm+mt
-source-wordcount: '6412'
-ht-degree: 33%
+source-wordcount: '6492'
+ht-degree: 32%
 
 ---
 
@@ -181,7 +181,7 @@ Updated **June 10, 2020**
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-----|
 | Ondersteuning voor objectarrays | 18 Juni 2020 | CJA-klanten kunnen nu de afmetingen en metriek rapporteren die in Object-arrays worden weergegeven binnen hun schema&#39;s voor de gegevensset van Adobe Experience Platforms. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html) |
-| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 Juni 2020 | Het [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] gebruik van statistische technieken om dynamisch de optimale allocatie van krediet voor de geselecteerde maatstaf te bepalen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
+| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 Juni 2020 | Het [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] gebruik statistische technieken om dynamisch de optimale allocatie van krediet voor de geselecteerde maatstaf te bepalen. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
 | Attributie-IQ: Aangepaste terugzoekvensters | 18 Juni 2020 | U kunt nu elk attributiemodel configureren in [!UICONTROL Attribution IQ] om aanraakpunten op te nemen van maximaal 90 dagen vóór de rapportperiode. Dit zal de toewijzingsnauwkeurigheid voor gebeurtenissen die zich vroegtijdig in de verslagperiode voordoen, doorgaans verhogen door de verwerking van interacties die in de voorafgaande maand(en) hebben plaatsgevonden. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html) |
 | ondersteuning voor [!UICONTROL Anomaly Detection] | 18 Juni 2020 | [!UICONTROL Anomaly Detection] verschaft een statistische methode om te bepalen hoe een bepaalde meting is gewijzigd ten opzichte van eerdere gegevens. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
 | Projectrollen voor gedeelde [!UICONTROL Workspace] projecten | 18 Juni 2020 | Wanneer het delen van een [!UICONTROL Workspace] project, kunt u ontvangers in één van drie projectrollen nu plaatsen, afhankelijk van de projectervaring u hen wilt hebben: Bewerken, dupliceren en weergeven. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
@@ -192,17 +192,12 @@ Updated **June 10, 2020**
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
-Datum bijgewerkt: **29 mei 2020**
+Datum bijgewerkt: **18 juni 2020**
 
-**Volgen van Player-status:** [!UICONTROL Media Analytics] klanten kunnen tijdens het afspelen viewerinteracties vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpstelling. U kunt desgewenst ook aangepaste Player-statussen te maken. Variabelen voor het bijhouden van Player-statussen kunnen nu worden gerapporteerd in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist:
-
-* Media [!DNL JavaScript] SDK 3.0 of hoger
-* Voor gebruik met de [!DNL Adobe Experience Platform] (AEP) SDK:
-   * [!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor Audio &amp; Video v1.0 of hoger
-   * [!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger
-* [!UICONTROL Media Collection]
-
-Zie [Informatie over het bijhouden van Player-status](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/player-state-tracking/player-state-overview.html).
+| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
+| -----------| ---------- | ---------- |
+| [Ondersteunde apparaten en platforms](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 18 Juni 2020 | De extensie Media Launch met AEP SDK ondersteunt nu de volgende OTT-apparaten:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android-tv</li></ul> |  | [Ondersteunde apparaten en platforms](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 18 Juni 2020 | De extensie Media Launch met AEP SDK ondersteunt nu de volgende OTT-apparaten:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android-tv</li></ul> |
+| [Player-status bijhouden](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 Mei 2020 | [!UICONTROL Media Analytics] klanten kunnen tijdens het afspelen viewerinteractie vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpgesteld. U kunt desgewenst ook aangepaste Player-statussen te maken. Variabelen voor het bijhouden van Player-statussen kunnen nu worden gerapporteerd in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist: <ul><li>Media [!DNL JavaScript] SDK 3.0 of hoger</li><li>Voor gebruik met de [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor Audio &amp; Video v1.0 of hoger</li><li>[!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger</li><li>[!UICONTROL Media Collection]</li></ul> |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
@@ -244,7 +239,7 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 Nieuwe cursussen, zelfstudievideo&#39;s en artikelen in Analytics en Customer Journey Analytics.
 
 | Inhoud | Inhoudstype | Beschrijving |
-| -----------| ---------- | ---------- | 
+| -----------| ---------- | ---------- |
 | [Aan de slag met Customer Journey Analytics for Users](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-U-1-2020.1) | Cursus | In deze cursus leert u hoe u Customer Journey Analytics (CJA) kunt gebruiken om gegevens uit vele verschillende gegevensbronnen te analyseren. U leert de verschillen tussen Adobe Analytics en Customer Journey Analytics en hoe de gegevens worden verwerkt in CJA. Na het volgen van deze cursus, zou u kanaalvisualisaties voor meer inzicht in uw klanten moeten kunnen tot stand brengen en aanpassen. |
 | [Aan de slag met Customer Journey Analytics voor beheerders](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-A-1-2020.1) | Cursus | Leer hoe te vormen en te gebruiken [!UICONTROL Journey Orchestration]. Deze cursus behandelt de belangrijkste concepten en de configuratiestappen die worden vereist om de orchestratie van een Reizen toe te laten. U leert hoe u uw georkestreerde reizen kunt maken, publiceren en analyseren. |
 | [Aan de slag met Customer Journey Analytics for Data Engineers](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-D-1-2020.1) | Cursus | In deze cursus leert u meer over de gegevens die in Customer Journey Analytics worden ingevoerd en over de invloed ervan op de rapporten voor de analist. Deze cursus bouwt voort op uw algemene kennis van het Adobe Experience Platform. |
