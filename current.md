@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a88748f592df569028641cd53d563e3b6c1d1201
+source-git-commit: 1fe0c0a5b892802837115df53c2f178e6e0ee81c
 workflow-type: tm+mt
-source-wordcount: '6520'
-ht-degree: 32%
+source-wordcount: '6906'
+ht-degree: 30%
 
 ---
 
@@ -458,11 +458,23 @@ Updated **June 3, 2020**
 
 ### Nieuwe functies in Advertising Cloud DSP {#adcloud-dsp}
 
+Updated **June 23, 2020**
+
 | Functie | Beschrijving |
 | -----------| ---------- |
+| Domeinmigratie | (Release van 22 juni) De Advertising Cloud DSP is gemigreerd van https://www.tubemogul.com naar [https://advertising.adobe.com](https://advertising.adobe.com). |
+| Adobe Analytics-integratie | (Release 18 juni) DSP kan nu optioneel de AMO-kostenmeting onderdrukken van de gegevens die het naar Analytics verzendt. Neem contact op met uw accountmanager van Adobe om de meting te onderdrukken. |
+| Apparaatgrafiek op basis van personen | (release van 22 juni) Self-serve DSP-klanten kunnen nu een apparaatgrafiek (Adobe Experience Cloud Device Co-op of LiveRamp) gebruiken voor op mensen gebaseerde doelen en frequentiebeheer voor alle nieuwe campagnes. Op deze manier bereikt u uw publiek op alle apparaten waarvan u eigenaar bent en kunt u de belichting van de advertentie beperken. |
+| CCPA opt-Out-of-Sales | (22 juni) U kunt CCPA-verzoeken om niet te verkopen nu aan Advertising Cloud meedelen met behulp van een nieuw CCPA-opt-out-of-sale segment, dat u kunt maken van [!UICONTROL Audiences > Segments]. U kunt ook maandelijkse rapporten ophalen van id&#39;s die klanten hebben verzonden voor een aanvraag om te weigeren te verkopen voor de account a) van [!UICONTROL Audiences > Segments] of b) met de Advertising Cloud-API voor mensenhandel. Zie [https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html voor meer informatie.](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html) |
+| DoubleVerify Authentic Brand Safety | (Release van 22 juni) Adverteerders kunnen zich nu richten op één DoubleVerify-segment-ID-voorbod, met uitgebreide merkveiligheidsfilters om hun blokkeringsregels na het bod na te bootsen met DoubleVerify. U kunt dit nu doen in het gedeelte Mediakwaliteit dat als doel is ingesteld in de advertentie-instellingen op [!UICONTROL Settings > Advertiser]. Neem contact op met programmaticsales@doubleverify.com voor meer informatie over de service. Voor deze functie zijn extra kosten van toepassing. |
+| CPA/ROAS optimaliseren | (release van 20 mei) Campagnebeheerders hoeven geen nieuwe plaatsingen in pakketten meer te beperken om overbesteding van de begroting te voorkomen. Plaatsen krijgen nu een dynamische begrotingstoewijzing op basis van hun CPM- of CPA/ROAS-prestaties. |
 | [!UICONTROL Campaign] Home | (Release van 3 juni) Er zijn nieuwe maatstaven voor het afstemmen op campagnemeniveau beschikbaar op basis van het beschikbare campagnebudget en de verstreken tijd. |
+| [!UICONTROL Placements] | (Release van 22 juni) De filters Sitescheiding en Player Size zijn verwijderd om de plaatsingsinstellingen te vereenvoudigen. |
 | Placement Forecasting | (Release 3 juni) Voor CTV- en videokoppelingen met optimalisatie op plaatsingsniveau bevat de plaatsingsinstellingen nu een voorspelling voor meerdere advertentiedengten (15 sec en 30 sec). Zij omvatten ook prognoses voor zowel de VAST- als de VPAID-inventaris. |
 | CPA/ROAS optimaliseren | (release van 20 mei) Campagnebeheerders hoeven geen nieuwe plaatsingen in pakketten meer te beperken om overbesteding van de begroting te voorkomen. Plaatsen krijgen nu een dynamische begrotingstoewijzing op basis van hun CPM- of CPA/ROAS-prestaties. |
+| [!UICONTROL Inventory] | (22 juni bètaversie) Met een nieuw deal-id-formulier kunt u snel een persoonlijke deal instellen waarover u al hebt onderhandeld. |
+|  | (22 juni bètaversie) Interactieve pre-roll is nu beschikbaar voor VAST-inventarisatie. U kunt één interactieve pre-rol en plaatsing opzetten, die het aantal uw advertenties en plaatsingen verminderen. |
+| ACTV-doellens | (Release 18 juni) Met Poortlenzen kunnen gebruikers secundaire publiekslezen maken en toepassen op hun workflows voor planning, volgorde en rapportage. Hierdoor kunnen ze (1) snel inzicht krijgen in secundaire doelgroepen, (2) beschikken over de flexibiliteit om te handelen op voorkeursdoelgroepen en (3) de uitvoering van een campagne meten via de &quot;lens&quot; van meerdere doelgroepen. |
 
 ### Nieuwe functies in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
