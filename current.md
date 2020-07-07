@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d081c9c185e4709eb758c1562466af2f92af593e
+source-git-commit: efd848cda1046613c889825fff57b868b67e1c80
 workflow-type: tm+mt
-source-wordcount: '6826'
-ht-degree: 100%
+source-wordcount: '6849'
+ht-degree: 99%
 
 ---
 
@@ -250,6 +250,10 @@ Nieuwe cursussen, videotutorials en artikelen in Analytics en Customer Journey A
 | [Aan de slag met Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) | Cursus | Leer hoe u aan de slag kunt met Analysis Workspace. Bouw uw eerste project, leer hoe u datumbereiken definieert, segmenten toepast en projecten deelt en eraan samenwerkt. |
 | [Scorecard Builder voor Adobe Analytics-dashboards](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html) | Videotutorial | In deze video leert u hoe u [!UICONTROL Scorecards] in [!UICONTROL Analysis Workspace] maakt en deelt voor weergave in Adobe Analytics-dashboards (mobiele app). |
 | [In-app ervaring met Adobe Analytics-dashboards](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.html) | Videotutorial | In deze video leert u hoe u Adobe Analytics-dashboards (mobiele app) kunt gebruiken voor toegang tot en weergave van [!UICONTROL Scorecards] die door u zijn gemaakt of met u zijn gedeeld. |
+
+#### AppMeasurement {#appm}
+
+Voor de meest recente updates over AppMeasurement-releases raadpleegt u [AppMeasurement voor JavaScript-releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/analytics/implementation/appmeasurement-updates.html).
 
 #### Bronnen voor Analytics Help
 
