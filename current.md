@@ -4,11 +4,11 @@ description: Adobe Experience Cloud-releaseopmerkingen
 doc-type: release notes
 last-update: June 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: efd848cda1046613c889825fff57b868b67e1c80
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6849'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -253,7 +253,7 @@ Nieuwe cursussen, videotutorials en artikelen in Analytics en Customer Journey A
 
 #### AppMeasurement {#appm}
 
-Voor de meest recente updates over AppMeasurement-releases raadpleegt u [AppMeasurement voor JavaScript-releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/analytics/implementation/appmeasurement-updates.html).
+Voor de meest recente updates over AppMeasurement-releases raadpleegt u [Releaseopmerkingen bij AppMeasurement voor JavaScript](https://docs.adobe.com/content/help/nl-NL/analytics/implementation/appmeasurement-updates.html).
 
 #### Bronnen voor Analytics Help
 
