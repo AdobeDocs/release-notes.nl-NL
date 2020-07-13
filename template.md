@@ -1,14 +1,14 @@
 ---
 title: Releaseopmerkingen bij Adobe Experience Cloud
-description: Opmerkingen bij de release van Experience Cloud
+description: Experience Cloud-releaseopmerkingen
 doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b99aa5d06316964f374b99547215643ad8208bbf
+source-git-commit: bd027ba7bbbfd6c8e510b48e4e0fff9168403da8
 workflow-type: tm+mt
-source-wordcount: '2461'
-ht-degree: 25%
+source-wordcount: '2458'
+ht-degree: 28%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 25%
 Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 
 >[!IMPORTANT]
->>Deze pagina bevat inhoud die vóór de release beschikbaar is en kan worden gewijzigd voordat de geplande release wordt uitgebracht.
-
+>
+>Deze pagina bevat pre-releasecontent en kan vóór de geplande release worden gewijzigd.
 
 >[!NOTE]
->>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
-
+>
+>Meld u aan voor de [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om via e-mail op de hoogte te worden gebracht van komende releases. Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
 
 **Releasedatum: 2020**
 
@@ -35,7 +35,7 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campagne](#ac)
+* [Campaign](#ac)
 * [Target](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html) (koppelingen naar Help bij oplossing)
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
@@ -55,7 +55,7 @@ See [Adobe System Status](https://status.adobe.com/).
 
 Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en kernservices (klantkenmerken, publiek, triggers, cookies, enzovoort).
 
-* [[!UICONTROL Core-services]](#core-services)
+* [[!UICONTROL Core services]](#core-services)
 * [Beheer en ontwikkeling](#admin)
 
 ### [!UICONTROL Core services] {#core-services}
@@ -97,9 +97,9 @@ Zie [Experience Platform Launch](https://docs.adobe.com/content/help/nl-NL/launc
 
 Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
-#### Aanvullende bronnen voor [!UICONTROL Journey Orchestration]
+#### Additional resources for [!UICONTROL Journey Orchestration]
 
-[Documentatie](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html) - [Release-aantekeningen](https://docs.adobe.com/content/help/nl-NL/journeys/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[Documentatie](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/journeys/using/release-notes/release-notes.html) - [Instructievideo&#39;s](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### [!UICONTROL Mobile Services] en [!UICONTROL Mobile SDK] {#mobile}
 
@@ -227,7 +227,7 @@ De volgende documentatiesets van AEM zijn gemigreerd naar een nieuw platform voo
 * [AEM 6.4 Thuis leren &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-4.html)
 * [AEM 6.3 - Introductie van informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-3.html)
 * [AEM 6.2 Thuis leren &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-2.html)
-* [Gebruikershandleiding voor Cloud Manager](https://helpx.adobe.com/nl/experience-manager/cloud-manager/user-guide.html)
+* [Gebruikershandleiding voor Cloud Manager](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [Oudere versies van AEM-documentatie](https://helpx.adobe.com/nl/experience-manager/aem-previous-versions.html)
 * [Opmerkingen bij de release van Scene7 Publishing System](https://docs.adobe.com/content/help/nl-NL/dynamic-media-developer-resources/release-notes/s7rn2017.html)
 * [Releaseopmerkingen bij Livefyre](https://docs.adobe.com/content/help/nl-NL/livefyre/using/release-notes/c-rn.html)
@@ -352,7 +352,7 @@ Nieuwe en recente zelfhulpartikelen en video&#39;s. <!--`https://jira.corp.adobe
 | [!DNL Adobe Campaign] - AEP Data Connector | Video - [Gegevens van zaadtabel toewijzen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Leer hoe u zaadgegevens/testprofielen met het Adobe Experience Platform in kaart brengt. |
 | [!DNL Adobe Campaign]- Bestemmingen van het publiek | Video - De doeldimensie van een levering voor een publiek Platform [wijzigen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Leer hoe u de doeldimensie van een levering voor een publiek Platform buiten de hoofdprofieltabel in Adobe Campaign Standard wijzigt. |
 | [!DNL Adobe Campaign] | Video - [Big data management on Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Gebruik de Snowflake-connector in Adobe Campaign Classic. |
-| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van de doelgroep (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campaign Standard. |
+| [!DNL Adobe Campaign] - Bestemmingen van het publiek | Artikel - [Doelstellingen van het publiek (BETA) - Overzicht](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Leer hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campaign Standard. |
 | [!DNL Adobe Target] - Mobile SDK | Lesbestand - [Een persoonlijk tintje toevoegen aan Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementeer Adobe Target in uw eigen Android-app. Valideer de installatie van de SDK van de Mobiele Diensten en voer [!DNL Target] verzoeken zoals pre-haalt inhoud uit, het blokkeren van verzoeken, en meer. |
 | Adobe Analytics | Video - [Adobe Summit 2019 - Supersessie](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Bekijk gekrulde clips van de high-tech &#39;super sessie&#39; op Top 2019. |
 | Adobe Analytics | Video - [Introductie tot berekende cijfers in Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Doorloop de grondbeginselen van het maken [!UICONTROL Calculated Metrics] in [!UICONTROL Customer Journey Analytics]. |
