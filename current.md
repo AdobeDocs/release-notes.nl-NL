@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 985ec5f911f0cfa433e12abb5e55724dbecadb2e
+source-git-commit: 64307f885074b216956a8711384b60a4806a13a3
 workflow-type: tm+mt
-source-wordcount: '4293'
-ht-degree: 55%
+source-wordcount: '4280'
+ht-degree: 56%
 
 ---
 
@@ -144,8 +144,8 @@ Releasedatum: **16 juli 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-------|
-| Werkruimte: Nieuwe voorinstellingen voor datumbereik | Er zijn vier nieuwe datumbereiken toegevoegd (_Deze week/maand/kwartaal/jaar_ (behalve vandaag)), zodat gebruikers kunnen kiezen uit datumbereiken die geen gegevens van vandaag voor een gedeeltelijke dag bevatten. |
-| API voor gegevensherstel - openbare bètaversie (update **juli 2020**) | De API voor gegevensherstel biedt u een mechanisme voor het verwijderen of bewerken van bepaalde bestaande Adobe Analytics-gegevens. De verzoeken van de Reparatie van gegevens worden gedaan door een baandefinitie aan de API van de Reparatie van Gegevens voor te leggen, die de rapportreeks, datumwaaier, variabelen, en acties omvat die op de gegevens moeten worden toegepast. Na het starten van de openbare bètaversie ondersteunt de API voor gegevensherstel het verwijderen van Activity Map-gegevens. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice om deel te nemen aan de openbare bètaversie van de API voor gegevensherstel. [Meer informatie...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
+| Werkruimte: Nieuwe voorinstellingen voor datumbereik | 16 juli 2020 | Er zijn vier nieuwe datumbereiken toegevoegd (_Deze week/maand/kwartaal/jaar_ (behalve vandaag)), zodat gebruikers kunnen kiezen uit datumbereiken die geen gegevens van vandaag voor een gedeeltelijke dag bevatten. |
+| Data Repair API public beta | 14 juli 2020 | Het [!UICONTROL Data Repair API] biedt u een mechanisme voor het verwijderen of bewerken van bepaalde bestaande Adobe Analytics-gegevens. [!UICONTROL Data Repair] verzoeken worden gedaan door een baandefinitie aan het voor te leggen [!UICONTROL Data Repair API], die de rapportreeks, datumwaaier, variabelen, en acties omvat die op de gegevens moeten worden toegepast. Bij het begin van de openbare bètaversie [!UICONTROL Data Repair API] zal de Commissie het verwijderen van [!UICONTROL Activity Map] gegevens ondersteunen. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice om deel te nemen aan de openbare bètaversie van de API voor gegevensherstel. [Meer informatie...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -155,7 +155,7 @@ Releasedatum: **16 juli 2020**
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
-Datum bijgewerkt: **16 juli 2020**
+Releasedatum: **16 juli 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- | ---------- |
