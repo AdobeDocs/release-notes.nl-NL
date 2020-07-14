@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2de2c1053df1b2e243efc3e918c0cc27612d040b
+source-git-commit: 985ec5f911f0cfa433e12abb5e55724dbecadb2e
 workflow-type: tm+mt
-source-wordcount: '4212'
-ht-degree: 57%
+source-wordcount: '4293'
+ht-degree: 55%
 
 ---
 
@@ -31,13 +31,13 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 
 De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zijn.
 
-Laatste update: **13 juli 2020**
+Laatste update: **14 juli 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) en [Customer Journey Analytics](#cust-journey) (bijgewerkt op 13 juli 2020)
+* [Analytics](#analytics) en [Customer Journey Analytics](#cust-journey) (bijgewerkt op 14 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -145,7 +145,7 @@ Releasedatum: **16 juli 2020**
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-------|
 | Werkruimte: Nieuwe voorinstellingen voor datumbereik | Er zijn vier nieuwe datumbereiken toegevoegd (_Deze week/maand/kwartaal/jaar_ (behalve vandaag)), zodat gebruikers kunnen kiezen uit datumbereiken die geen gegevens van vandaag voor een gedeeltelijke dag bevatten. |
-| API voor gegevensherstel - openbare bèta | De API voor gegevensherstel biedt klanten een zelfbedieningsoptie om kolommen met Adobe Analytics-gegevens te verwijderen. Na de release van de openbare bètaversie biedt de API ondersteuning voor het verwijderen van Activity Map-gegevens. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice voor toegang tot deze API. |
+| API voor gegevensherstel - openbare bètaversie (update **juli 2020**) | De API voor gegevensherstel biedt u een mechanisme voor het verwijderen of bewerken van bepaalde bestaande Adobe Analytics-gegevens. De verzoeken van de Reparatie van gegevens worden gedaan door een baandefinitie aan de API van de Reparatie van Gegevens voor te leggen, die de rapportreeks, datumwaaier, variabelen, en acties omvat die op de gegevens moeten worden toegepast. Na het starten van de openbare bètaversie ondersteunt de API voor gegevensherstel het verwijderen van Activity Map-gegevens. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice om deel te nemen aan de openbare bètaversie van de API voor gegevensherstel. [Meer informatie...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -175,6 +175,7 @@ Datum bijgewerkt: **16 juli 2020**
 * Probleem verholpen waarbij [!UICONTROL Intelligent Alerts] de e-mailkoppeling _Weigeren uit deze planning_ niet werkte. (AN-223875)
 * Probleem verholpen met een onjuiste valutaweergave voor een virtuele rapportsuite. (AN-224781)
 * Probleem verholpen met _ontbrekende componentfouten_ in virtuele rapportsuites. (AN-224782)
+* Probleem verholpen waarbij een indeling van een dimensie met een andere wordt opgesplitst en lege resultaten kunnen worden gegeven bij gebruik met een berekende metrische waarde met een deelnemingstoewijzing. (AN-214089)
 
 #### Nog meer oplossingen in Adobe Analytics
 
@@ -184,7 +185,7 @@ AN-222672, AN-222813; AN-222892; AN-223272, AN-223432; AN-224062; AN-224108; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | -----------| ---------- | ---------- |
-| Einde van de levensduur: Adobe-gegevensverbindingen | 13 juli 2020 | Adobe Data Connectors worden aangedreven door verouderde technologie die niet meer levensvatbaar of ondersteund is. Wij hebben een nieuwe norm in het Programma [van de Partner van de Uitwisseling van](https://partners.adobe.com/exchangeprogram/experiencecloud) Adobe dat voor om het even welke integratie zou moeten worden goedgekeurd die willen blijven aangeboden en gesteund. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html) |
+| EOL van Adobe Data Connectors | 13 juli 2020 | Adobe Data Connectors worden aangedreven door verouderde technologie die niet meer levensvatbaar of ondersteund is. Wij hebben een nieuwe norm in het Programma [van de Partner van de Uitwisseling van](https://partners.adobe.com/exchangeprogram/experiencecloud) Adobe dat voor om het even welke integratie zou moeten worden goedgekeurd die willen blijven aangeboden en gesteund. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Set mapping rapporteren aan IMS org | Juli 2020 | Het hulpmiddel van de het kaartbepaling van de rapportsuite zal in november 2020 worden stopgezet. Met deze functie kunt u integratie mogelijk maken, zoals het publiceren van Analytics- en Experience Cloud-segmentpublicaties in Adobe Analytics. Een rapportsuite moet worden toegewezen aan een IMS-org om deze en andere services in te schakelen. Nieuwere rapportsuites worden automatisch toegewezen bij het maken. Oudere rapportsuites moeten echter handmatig worden toegewezen aan een IMS-org. Zie de het rapportreeksen van de [Kaart aan een organisatie](https://docs.adobe.com/content/help/nl-NL/core-services/interface/about-core-services/report-suite-mapping.html) in de de gebruikersgids van de Diensten van de Kern om ervoor te zorgen alle rapportreeksen tot een org IMS behoren. |
 | Migratie naar uniform productdomein | Ingangsdatum: 28 mei 2020 | De migratie naar een uniform productdomein voor Adobe Analytics dat in januari 2020 is gestart, is op 28 mei 2020 voltooid. Hoewel Adobe Analytics probeert om alle `omniture.com`-domeinverwijzingen uit zijn architectuur te verwijderen, is het belangrijk om `omniture.com` als cookie van een derde partij op de allowlist te plaatsen. Wanneer de volledige architectuurmigratie (binnenkort) is voltooid, stellen we u via de releaseopmerkingen op de hoogte en is deze allowlist-stap niet meer nodig. [Hier](https://helpx.adobe.com/nl/analytics/kb/adobe-ip-addresses.html) vindt u de volledige lijst met aanbevolen IP-adressen en domeinen die u op de allowlist moet plaatsen.<br>Als uw organisatie cookies van derden blokkeert, neemt u contact op met de klantenservice om uw toegang tot Adobe Analytics te herstellen. |
 | Nieuwe standaard landingspagina voor Adobe Analytics | Ingangsdatum: 18 juni 2020 | Op 18 juni 2020 verandert de standaard landingspagina voor Adobe Analytics van [!UICONTROL Reports] naar [!UICONTROL Workspace]. Deze wijziging vindt plaats voor alle gebruikers die nog geen aangepaste landingspagina hebben ingesteld. |
@@ -192,7 +193,7 @@ AN-222672, AN-222813; AN-222892; AN-223272, AN-223432; AN-224062; AN-224108; AN-
 | Verbeterde redundantie voor de beschikbaarheid van [!UICONTROL Analysis Workspace] | 21 mei 2020 | Om de beschikbaarheid van [!UICONTROL Analysis Workspace] te verzekeren, voegen we een secundair CDN (Content Delivery Network) toe voor verbeterde redundantie. De volgende URL&#39;s moeten worden toegevoegd aan de vereiste allowlists voor de netwerkfirewall:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Wijzigen in hoe [!UICONTROL Entries/Exits] wordt berekend in [!UICONTROL Workspace] | 7 april 2020 | Sinds maart 2020 is in [!UICONTROL Analysis Workspace] gewijzigd hoe de waarde _Geen_ communiceert met [!UICONTROL Entries/Exits]. Omdat u _Geen_ nu kunt in- en uitschakelen in [!UICONTROL Analysis Workspace], gebruiken we de waarde _Geen_ na openen en afsluiten, waar dit (voor eVars) vroeger werd toegepast vóór openen en afsluiten. Stel bijvoorbeeld dat de eerste hit van een bezoek geen waarde heeft voor eVars, maar de tweede hit wel. In [!UICONTROL Reports & Analytics] verschijnt de eerste hit als _Niet gespecificeerd_ voor de vermelding, maar in [!UICONTROL Analysis Workspace] verschijnt dit als de waarde voor de tweede hit. |
 | EOL van **[!UICONTROL Dashboard Archive]** | 27 maart 2020 | De instelling **[!UICONTROL View Archive]** onder **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] zal vanaf oktober 2020 niet meer beschikbaar zijn. |
-| Einde van levensduur - Verouderde Analytics-API&#39;s | 9 januari 2020 | In november 2020 zullen de volgende verouderder Analytics-API-services het eind van hun levensduur bereiken en worden afgesloten. De huidige integraties die met deze services zijn gemaakt, werken niet meer. <ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>We hebben gezorgd voor een [Verouderde API EOL - Veelgestelde vragen](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) om uw vragen te beantwoorden en richtlijnen te geven voor het vervolg. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
+| EOL van Analytics Legacy API&#39;s | 9 januari 2020 | In november 2020 zullen de volgende verouderder Analytics-API-services het eind van hun levensduur bereiken en worden afgesloten. De huidige integraties die met deze services zijn gemaakt, werken niet meer. <ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>We hebben gezorgd voor een [Verouderde API EOL - Veelgestelde vragen](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) om uw vragen te beantwoorden en richtlijnen te geven voor het vervolg. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
 | San Jose FTP Broker eindigt voor Londen en Singapore | Juli 2020 | Voor klanten in Londen en Singapore zullen we de datatussenhandel tussen Londen of Singapore en het datacenter in San Jose [ftp.omniture.com](ftp://ftp.omniture.com/) niet meer ondersteunen.<br/><ul><li>Voor Londen gebruikt u [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Voor Singapore gebruikt u [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
 | EOL van Ad Hoc Analysis | 6 aug. 2018 | Adobe heeft aangekondigd dat Ad Hoc Analysis zal worden beëindigd. De einddatum wordt gedeeld zodra deze beschikbaar is. Ga voor meer informatie naar [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
