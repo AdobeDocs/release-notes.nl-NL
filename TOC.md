@@ -3,11 +3,11 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Releaseopmerkingen bij Adobe Experience Cloud
 user-guide-url: https://www.adobe.com
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c6a73c783440eeeedcb612a1ea898271766684b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 + [Release-opmerkingen](current.md)
 + Opmerkingen bij vorige release {#previous}
    + 2020 {#2020}
-      + [juni 2020](c-legacy-releases/2020/06182020.md)
+      + [Juni 2020](c-legacy-releases/2020/06182020.md)
       + [Mei 2020](c-legacy-releases/2020/05212020.md)
       + [April 2020](c-legacy-releases/2020/04162020.md)
       + [Maart 2020](c-legacy-releases/2020/03122020.md)
