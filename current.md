@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 156d25a099ea7bf1a0f8b7fff148dbfdd615f69e
 workflow-type: tm+mt
 source-wordcount: '4263'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ Laatste update: **14 juli 2020**
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 14 juli 2020)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey)  (Bijgewerkt op 14 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -112,9 +112,9 @@ De volgende applicaties gebruiken het nieuwe domein experience.adobe.com:
 
 Release-opmerkingen voor [!DNL Experience Platform] en applicatieservices, waaronder [!DNL Experience Platform Launch,] [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], en beveiligingsbulletins.
 
-Latest release date: **June 10, 2020**
+Laatste releasedatum: **10 juni 2020**
 
-Zie Opmerkingen bij de release van [Experience Platform](https://docs.adobe.com/content/help/nl-NL/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) voor de meest recente informatie over Experience Platform.
+Zie [Opmerkingen bij de release van Experience Platform](https://docs.adobe.com/content/help/nl-NL/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) voor de meest recente informatie over Experience Platform.
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
@@ -132,7 +132,7 @@ Releasedatum: **16 juli 2020**
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
 * [Nieuwe functies in Media Analytics](#media-aa)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
-* [Belangrijke berichten voor Analytics-beheerders](#aa-notices) (Bijgewerkt op 13 juli 2020)
+* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)  (Bijgewerkt op 13 juli 2020)
 * [Nieuwe cursussen en tutorials voor Adobe Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -141,7 +141,7 @@ Releasedatum: **16 juli 2020**
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-------|
 | Workspace: Nieuwe voorinstellingen voor datumbereik | 16 juli 2020 | Er zijn vier nieuwe datumbereiken toegevoegd (_Deze week/maand/kwartaal/jaar_ (behalve vandaag)), zodat gebruikers kunnen kiezen uit datumbereiken die geen data van vandaag voor een gedeeltelijke dag bevatten. |
-| Data Repair API public beta | 14 juli 2020 | Het [!UICONTROL Data Repair API] biedt u een mechanisme voor het verwijderen of bewerken van bepaalde bestaande Adobe Analytics-gegevens. [!UICONTROL Data Repair] verzoeken worden gedaan door een baandefinitie aan het voor te leggen [!UICONTROL Data Repair API], die de rapportreeks, datumwaaier, variabelen, en acties omvat die op de gegevens moeten worden toegepast. Upon commencement of the public beta, the [!UICONTROL Data Repair API] will support deletion of [!UICONTROL Activity Map] data. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice om deel te nemen aan de openbare bètaversie van de API voor gegevensherstel. [Meer informatie...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
+| API voor dataherstel - openbare bèta | 14 juli 2020 | De [!UICONTROL Data Repair API] biedt u een mechanisme voor het verwijderen of bewerken van bepaalde bestaande Adobe Analytics-gegevens. [!UICONTROL Data Repair]-verzoeken worden gedaan door een taakdefinitie te verzenden naar de [!UICONTROL Data Repair API], inclusief rapportsuite, datumbereik, variabelen, en acties die op de gegevens moeten worden toegepast. Bij de start van de openbare bètaversie biedt de [!UICONTROL Data Repair API] ondersteuning voor het verwijderen van [!UICONTROL Activity Map]-data. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice om deel te nemen aan de openbare bètaversie van de API voor gegevensherstel. [Meer informatie...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -171,7 +171,7 @@ Releasedatum: **16 juli 2020**
 * Er is een probleem verholpen in [!UICONTROL Intelligent Alerts] waardoor de e-mailkoppeling _Afmelden voor deze planning_ niet werkte. (AN-223875)
 * Er is een probleem verholpen met een onjuiste valutaweergave voor een virtuele rapportsuite. (AN-224781)
 * Er is een probleem verholpen met _ontbrekende componentfouten_ in virtuele rapportsuites. (AN-224782)
-* Probleem verholpen waarbij een indeling van een dimensie met een andere wordt opgesplitst en lege resultaten kunnen worden gegeven bij gebruik met een berekende metrische waarde met een deelnemingstoewijzing. (AN-214089)
+* Er is een probleem verholpen waarbij het opsplitsen van een classificatie van een dimensie kan leiden tot lege resultaten bij gebruik van een berekende standaard met participatietoewijzingsreeks. (AN-214089)
 
 #### Nog meer oplossingen in Adobe Analytics
 
@@ -181,7 +181,7 @@ AN-222672, AN-222813; AN-222892; AN-223272, AN-223432; AN-224062; AN-224108; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | -----------| ---------- | ---------- |
-| EOL van Adobe Data Connectors | 13 juli 2020 | Adobe Data Connectors worden aangedreven door verouderde technologie die niet meer levensvatbaar of ondersteund is. Wij hebben een nieuwe norm in het Programma [van de Partner van de Uitwisseling van](https://partners.adobe.com/exchangeprogram/experiencecloud) Adobe dat voor om het even welke integratie zou moeten worden goedgekeurd die willen blijven aangeboden en gesteund. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html) |
+| EOL van Adobe Data Connectors | 13 juli 2020 | Adobe Data Connectors worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. We hebben een nieuwe standaard in het [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) dat moet worden gebruikt voor alle integraties waarvoor aanbod en ondersteuning gewenst is. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Toewijzing rapportsuite aan IMS-org | Juli 2020 | De tool voor toewijzing van rapportsuites wordt in november 2020 gediscontinueerd. Met deze functie kunt u integratie mogelijk maken zoals het publiceren van Advertising Analytics- en Experience Cloud-segmenten in Adobe Analytics. Een rapportsuite moet worden toegewezen aan een IMS-org om deze en andere services in te schakelen. Nieuwere rapportsuites worden automatisch toegewezen bij het maken. Oudere rapportsuites moeten echter handmatig worden toegewezen aan een IMS-org. Zie [Rapportsuites aan een organisatie toewijzen](https://docs.adobe.com/content/help/nl-NL/core-services/interface/about-core-services/report-suite-mapping.html) in de gebruikershandleiding Kernservices om ervoor te zorgen dat alle rapportsuites bij een IMS-org horen. |
 | Migratie naar uniform productdomein | Ingangsdatum: 28 mei 2020 | De migratie naar een uniform productdomein voor Adobe Analytics dat in januari 2020 is gestart, is op 28 mei 2020 voltooid. Hoewel Adobe Analytics probeert om alle `omniture.com`-domeinverwijzingen uit zijn architectuur te verwijderen, is het belangrijk om `omniture.com` als cookie van een derde partij op de allowlist te plaatsen. Wanneer de volledige architectuurmigratie (binnenkort) is voltooid, stellen we u via de releaseopmerkingen op de hoogte en is deze allowlist-stap niet meer nodig. [Hier](https://helpx.adobe.com/nl/analytics/kb/adobe-ip-addresses.html) vindt u de volledige lijst met aanbevolen IP-adressen en domeinen die u op de allowlist moet plaatsen.<br>Als uw organisatie cookies van derden blokkeert, neemt u contact op met de klantenservice om uw toegang tot Adobe Analytics te herstellen. |
 | Nieuwe standaard landingspagina voor Adobe Analytics | Ingangsdatum: 18 juni 2020 | Op 18 juni 2020 verandert de standaard landingspagina voor Adobe Analytics van [!UICONTROL Reports] naar [!UICONTROL Workspace]. Deze wijziging vindt plaats voor alle gebruikers die nog geen aangepaste landingspagina hebben ingesteld. |
@@ -341,7 +341,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 * Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html) - [Releaseplanning](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/campaign-classic-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html)  - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
