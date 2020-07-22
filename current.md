@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bfcc23bd8eaf02956fd2dacf711ce774d6bddb85
+source-git-commit: 07dd75d1b05e0768cf41934eaf40b5460ca85696
 workflow-type: tm+mt
-source-wordcount: '4284'
+source-wordcount: '4295'
 ht-degree: 99%
 
 ---
@@ -27,13 +27,13 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 
 De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zijn.
 
-Laatste update: **14 juli 2020**
+Laatste update: **21 juli 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey)  (Bijgewerkt op 14 juli 2020)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey)  (Bijgewerkt op 21 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -128,11 +128,11 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 
 Releasedatum: **16 juli 2020**
 
-* [Nieuwe functies in Adobe Analytics](#aa-features)
+* [Nieuwe functies in Adobe Analytics](#aa-features) (bijgewerkt op 21 juli 2020)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
 * [Nieuwe functies in Media Analytics](#media-aa)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
-* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)  (Bijgewerkt op 13 juli 2020)
+* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
 * [Nieuwe cursussen en tutorials voor Adobe Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -140,7 +140,7 @@ Releasedatum: **16 juli 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-------|
-| CDA: Veldgebaseerde stitching | 27 juli 2020 | Een nieuwe methode voor Analytics voor verschillende apparaten waarmee u bezoekers kunt identificeren met behulp van een aangepaste variabele. |
+| CDA: Veldgebaseerde stitching | 27 juli 2020 | Een nieuwe methode voor Analytics voor verschillende apparaten waarmee u bezoekers kunt identificeren met behulp van een aangepaste variabele. &lt;!-->[Meer informatie...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html)&lt;--> |
 | Workspace: Nieuwe voorinstellingen voor datumbereik | 16 juli 2020 | Er zijn vier nieuwe datumbereiken toegevoegd (_Deze week/maand/kwartaal/jaar_ (behalve vandaag)), zodat gebruikers kunnen kiezen uit datumbereiken die geen data van vandaag voor een gedeeltelijke dag bevatten. |
 | API voor dataherstel - openbare bèta | 14 juli 2020 | De [!UICONTROL Data Repair API] biedt u een mechanisme voor het verwijderen of bewerken van bepaalde bestaande Adobe Analytics-gegevens. [!UICONTROL Data Repair]-verzoeken worden gedaan door een taakdefinitie te verzenden naar de [!UICONTROL Data Repair API], inclusief rapportsuite, datumbereik, variabelen, en acties die op de gegevens moeten worden toegepast. Bij de start van de openbare bètaversie biedt de [!UICONTROL Data Repair API] ondersteuning voor het verwijderen van [!UICONTROL Activity Map]-data. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice om deel te nemen aan de openbare bètaversie van de API voor gegevensherstel. [Meer informatie...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
