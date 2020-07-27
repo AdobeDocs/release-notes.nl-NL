@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 07dd75d1b05e0768cf41934eaf40b5460ca85696
+source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
 workflow-type: tm+mt
-source-wordcount: '4295'
-ht-degree: 99%
+source-wordcount: '4467'
+ht-degree: 95%
 
 ---
 
@@ -30,12 +30,12 @@ De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zi
 Laatste update: **21 juli 2020**
 
 * [Adobe-systeemstatus](#status)
-* [Experience Cloud-interface](#ecloud)
+* [Experience Cloud-interface](#ecloud) (Bijgewerkt op 27 juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 21 juli 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) (Bijgewerkt op 27 juli 2020)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html)
@@ -66,6 +66,14 @@ Uitgegeven: **21 mei 2020**
 ## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud-interface {#ecloud}
 
 Algemene updates van Experience Cloud-interface.
+
+### Nieuwe documentatie van Adobe Summit Lab
+
+Nieuwe inhoud gepubliceerd van Adobe Summit labs in 2020.
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| 27 juli 2020 | [Digitale ervaringen opdoen met Adobe Document Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | In dit laboratorium, neem uw productiviteit en creativiteit aan het volgende niveau door te leren hoe te om digitaal te gaan en meer met PDF te doen, en klant en werknemerservaringen om te zetten. |
 
 **Bijgewerkt interfacemenu**
 
@@ -267,6 +275,8 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 27 juli 2020 | [Patroondetectie](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referenties  | Deze optie is alleen beschikbaar via het `upgrade.log` programma tijdens een Experience Manager-upgrade. |
+| 27 juli 2020 | [Softwaredistributie](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Vanaf juni 2020 vervangt de Experience Cloud Solution Software Distribution de downloadplatforms [!UICONTROL PackageShare] voor AEM en [!DNL Neolane] voor [!DNL Campaign] en biedt een efficiëntere ervaring om uw software te zoeken en te downloaden. Dankzij een intuïtieve gebruikersinterface, een vereenvoudigde zoekfunctie en een sterk verbeterde downloadsnelheid is het downloaden van softwarepakketten voor Experience Cloud-producten een geweldige gebruikerservaring. |
 | 25 juni 2020 | [Aan de slag met adaptieve formulieren](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Deze tutorials leiden u door de vereiste stappen voor het maken van adaptieve formulieren met meerdere tabbladen. Leer lijsten, accordeonlay-out en de regeleditor te gebruiken om bedrijfsregels te maken. |
 | 25 juni 2020 | [Een revisieworkflow maken in AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=dut) | Video | Leer een workflow te maken voor het reviewen van verzonden data van een actieve formulierverzending. |
 | 23 juni 2020 | [Profielen verwerken](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | Video | Met verwerkingsprofielen worden de weergaven gedefinieerd die moeten worden gemaakt voor assets in AEM als Cloud Service. |
@@ -370,7 +380,9 @@ Voor de versienota&#39;s van Magento raadpleegt u:
 
 ### Belangrijke Marketo Engage-updates
 
-Zie [!DNL Marketo] [releaseopmerkingen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor de recentste releasegegevens.
+Documentatie voor [!UICONTROL Marketo Sky] is nu gepubliceerd op de website van [Hier](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
+
+Zie [!DNL Marketo] [releaseopmerkingen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720) voor de recentste releasegegevens.
 
 ### Aanstaande functies
 
