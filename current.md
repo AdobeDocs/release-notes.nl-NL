@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
+source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
 workflow-type: tm+mt
-source-wordcount: '4467'
+source-wordcount: '4465'
 ht-degree: 95%
 
 ---
@@ -380,8 +380,6 @@ Voor de versienota&#39;s van Magento raadpleegt u:
 
 ### Belangrijke Marketo Engage-updates
 
-Documentatie voor [!UICONTROL Marketo Sky] is nu gepubliceerd op de website van [Hier](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
-
 Zie [!DNL Marketo] [releaseopmerkingen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720) voor de recentste releasegegevens.
 
 ### Aanstaande functies
@@ -401,5 +399,9 @@ De volgende functies komen gedurende het komende kwartaal beschikbaar:
 
 * **Assetparameter API &quot;_method&quot;:** Na september 2020 laten Asset API Endpoints `_method` geen queryparameters meer passeren in een POST-body om URI-lengterestricties te omzeilen.
 * **Afschaffing van Internet Explorer-ondersteuning:** Vanaf de juli-release op 31 juli 2020 wordt de Marketo Engage-gebruikersinterface niet meer ondersteund in Internet Explorer.
+
+>[!NOTE]
+>
+>Documentatie voor de [!UICONTROL Marketo Sky] interface is [hier](https://docs.adobe.com/content/help/en/marketo/sky/home.html)beschikbaar.
 
 Zie [Marketo-releaseopmerkingen](https://docs.marketo.com/x/CgA6Ag) voor cumulatieve en historische releaseopmerkingen.
