@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
+source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
 workflow-type: tm+mt
-source-wordcount: '4465'
-ht-degree: 95%
+source-wordcount: '4522'
+ht-degree: 94%
 
 ---
 
@@ -27,13 +27,13 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 
 De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zijn.
 
-Laatste update: **21 juli 2020**
+Laatste update: **29 juli 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud) (Bijgewerkt op 27 juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 21 juli 2020)
+* [Analytics](#analytics) en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 29 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Bijgewerkt op 27 juli 2020)
 * [Campaign](#ac)
@@ -69,11 +69,11 @@ Algemene updates van Experience Cloud-interface.
 
 ### Nieuwe documentatie van Adobe Summit Lab
 
-Nieuwe inhoud gepubliceerd van Adobe Summit labs in 2020.
+Nieuwe inhoud gepubliceerd op de Adobe Summit labs in 2020.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juli 2020 | [Digitale ervaringen opdoen met Adobe Document Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | In dit laboratorium, neem uw productiviteit en creativiteit aan het volgende niveau door te leren hoe te om digitaal te gaan en meer met PDF te doen, en klant en werknemerservaringen om te zetten. |
+| 27 juli 2020 | [Digitale ervaringen met Adobe Document Cloud opdoen](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | In dit laboratorium, neem uw productiviteit en creativiteit aan het volgende niveau door te leren hoe te om digitaal te gaan en meer met PDF te doen, en klant en werknemerservaringen om te zetten. |
 
 **Bijgewerkt interfacemenu**
 
@@ -137,7 +137,7 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 Releasedatum: **16 juli 2020**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features) (bijgewerkt op 21 juli 2020)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey) (bijgewerkt op 29 juli 2020)
 * [Nieuwe functies in Media Analytics](#media-aa)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
@@ -148,7 +148,7 @@ Releasedatum: **16 juli 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-------|
-| CDA: Veldgebaseerde stitching | 27 juli 2020 | Een nieuwe methode voor Analytics op verschillende apparaten waarmee u bezoekers kunt identificeren met behulp van een aangepaste variabele. &lt;!-->[Meer informatie...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html)&lt;--> |
+| CDA: Veldgebaseerde stitching | 27 juli 2020 | Een nieuwe methode voor Analytics op verschillende apparaten waarmee u bezoekers kunt identificeren met behulp van een aangepaste variabele. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html) |
 | Workspace: Nieuwe voorinstellingen voor datumbereik | 16 juli 2020 | Er zijn vier nieuwe datumbereiken toegevoegd (_Deze week/maand/kwartaal/jaar_ (behalve vandaag)), zodat gebruikers kunnen kiezen uit datumbereiken die geen data van vandaag voor een gedeeltelijke dag bevatten. |
 | API voor dataherstel - openbare bèta | 14 juli 2020 | De [!UICONTROL Data Repair API] biedt u een mechanisme voor het verwijderen of bewerken van bepaalde bestaande Adobe Analytics-gegevens. [!UICONTROL Data Repair]-verzoeken worden gedaan door een taakdefinitie te verzenden naar de [!UICONTROL Data Repair API], inclusief rapportsuite, datumbereik, variabelen, en acties die op de gegevens moeten worden toegepast. Bij de start van de openbare bètaversie biedt de [!UICONTROL Data Repair API] ondersteuning voor het verwijderen van [!UICONTROL Activity Map]-data. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice om deel te nemen aan de openbare bètaversie van de API voor gegevensherstel. [Meer informatie...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
@@ -156,7 +156,7 @@ Releasedatum: **16 juli 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-----|
-| Geen nieuwe functies deze maand |  |  |
+| Identiteitskaart, optie voor identiteitskaart | 26 juni 2020 | Identiteitskaart is een structuur van kaartgegevens die u toestaat om sleutel -> waardeparen als deel van het creëren van een verbinding in Customer Journey Analytics te uploaden. De sleutels zijn identiteitsnaamruimten en de waarde is een structuur die de identiteitswaarde houdt. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
@@ -275,8 +275,8 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juli 2020 | [Patroondetectie](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referenties  | Deze optie is alleen beschikbaar via het `upgrade.log` programma tijdens een Experience Manager-upgrade. |
-| 27 juli 2020 | [Softwaredistributie](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Vanaf juni 2020 vervangt de Experience Cloud Solution Software Distribution de downloadplatforms [!UICONTROL PackageShare] voor AEM en [!DNL Neolane] voor [!DNL Campaign] en biedt een efficiëntere ervaring om uw software te zoeken en te downloaden. Dankzij een intuïtieve gebruikersinterface, een vereenvoudigde zoekfunctie en een sterk verbeterde downloadsnelheid is het downloaden van softwarepakketten voor Experience Cloud-producten een geweldige gebruikerservaring. |
+| 27 juli 2020 | [Patroondetectie](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referenties  | Beschikbaar slechts van de `upgrade.log` tijdens een verbetering van de Experience Manager. |
+| 27 juli 2020 | [Softwaredistributie](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Vanaf juni 2020 vervangt de Experience Cloud oplossing Software Distribution de downloadplatforms [!UICONTROL PackageShare] voor AEM en [!DNL Neolane] voor [!DNL Campaign] en biedt een efficiëntere ervaring om uw software te zoeken en te downloaden. Dankzij een intuïtieve gebruikersinterface, een vereenvoudigde zoekfunctie en een sterk verbeterde downloadsnelheid is het downloaden van softwarepakketten voor Experience Cloud-producten een geweldige gebruikerservaring. |
 | 25 juni 2020 | [Aan de slag met adaptieve formulieren](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Deze tutorials leiden u door de vereiste stappen voor het maken van adaptieve formulieren met meerdere tabbladen. Leer lijsten, accordeonlay-out en de regeleditor te gebruiken om bedrijfsregels te maken. |
 | 25 juni 2020 | [Een revisieworkflow maken in AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=dut) | Video | Leer een workflow te maken voor het reviewen van verzonden data van een actieve formulierverzending. |
 | 23 juni 2020 | [Profielen verwerken](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | Video | Met verwerkingsprofielen worden de weergaven gedefinieerd die moeten worden gemaakt voor assets in AEM als Cloud Service. |
