@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
+source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
-source-wordcount: '4522'
-ht-degree: 94%
+source-wordcount: '4501'
+ht-degree: 95%
 
 ---
 
@@ -275,7 +275,6 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juli 2020 | [Patroondetectie](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referenties  | Beschikbaar slechts van de `upgrade.log` tijdens een verbetering van de Experience Manager. |
 | 27 juli 2020 | [Softwaredistributie](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Vanaf juni 2020 vervangt de Experience Cloud oplossing Software Distribution de downloadplatforms [!UICONTROL PackageShare] voor AEM en [!DNL Neolane] voor [!DNL Campaign] en biedt een efficiëntere ervaring om uw software te zoeken en te downloaden. Dankzij een intuïtieve gebruikersinterface, een vereenvoudigde zoekfunctie en een sterk verbeterde downloadsnelheid is het downloaden van softwarepakketten voor Experience Cloud-producten een geweldige gebruikerservaring. |
 | 25 juni 2020 | [Aan de slag met adaptieve formulieren](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Deze tutorials leiden u door de vereiste stappen voor het maken van adaptieve formulieren met meerdere tabbladen. Leer lijsten, accordeonlay-out en de regeleditor te gebruiken om bedrijfsregels te maken. |
 | 25 juni 2020 | [Een revisieworkflow maken in AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=dut) | Video | Leer een workflow te maken voor het reviewen van verzonden data van een actieve formulierverzending. |
