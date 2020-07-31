@@ -33,7 +33,7 @@ Laatste update: **29 juli 2020**
 * [Experience Cloud-interface](#ecloud) (Bijgewerkt op 27 juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 29 juli 2020)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey)  (Bijgewerkt op 29 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Bijgewerkt op 27 juli 2020)
 * [Campaign](#ac)
@@ -148,7 +148,7 @@ Releasedatum: **16 juli 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-------|
-| CDA: Veldgebaseerde stitching | 27 juli 2020 | Een nieuwe methode voor Analytics op verschillende apparaten waarmee u bezoekers kunt identificeren met behulp van een aangepaste variabele. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html) |
+| CDA: Veldgebaseerde stitching | 27 juli 2020 | Een nieuwe methode voor Analytics op verschillende apparaten waarmee u bezoekers kunt identificeren met behulp van een aangepaste variabele. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/components/cda/field-based-stitching.html) |
 | Workspace: Nieuwe voorinstellingen voor datumbereik | 16 juli 2020 | Er zijn vier nieuwe datumbereiken toegevoegd (_Deze week/maand/kwartaal/jaar_ (behalve vandaag)), zodat gebruikers kunnen kiezen uit datumbereiken die geen data van vandaag voor een gedeeltelijke dag bevatten. |
 | API voor dataherstel - openbare bèta | 14 juli 2020 | De [!UICONTROL Data Repair API] biedt u een mechanisme voor het verwijderen of bewerken van bepaalde bestaande Adobe Analytics-gegevens. [!UICONTROL Data Repair]-verzoeken worden gedaan door een taakdefinitie te verzenden naar de [!UICONTROL Data Repair API], inclusief rapportsuite, datumbereik, variabelen, en acties die op de gegevens moeten worden toegepast. Bij de start van de openbare bètaversie biedt de [!UICONTROL Data Repair API] ondersteuning voor het verwijderen van [!UICONTROL Activity Map]-data. Extra functies worden later geïntroduceerd. Neem contact op met de klantenservice om deel te nemen aan de openbare bètaversie van de API voor gegevensherstel. [Meer informatie...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
@@ -351,7 +351,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 * Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html) - [Releaseplanning](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/campaign-classic-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html)  - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
