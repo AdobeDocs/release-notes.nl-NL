@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
 source-wordcount: '4501'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Laatste update: **29 juli 2020**
 * [Experience Cloud-interface](#ecloud) (Bijgewerkt op 27 juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey)  (Bijgewerkt op 29 juli 2020)
+* [Analytics](#analytics) en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 29 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Bijgewerkt op 27 juli 2020)
 * [Campaign](#ac)
@@ -67,13 +67,13 @@ Uitgegeven: **21 mei 2020**
 
 Algemene updates van Experience Cloud-interface.
 
-### Nieuwe documentatie van Adobe Summit Lab
+### Nieuwe documentatie van Adobe Summit-labs
 
-Nieuwe inhoud gepubliceerd op de Adobe Summit labs in 2020.
+Nieuwe content die in 2020 is gepubliceerd tijdens Adobe Summit-labs.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juli 2020 | [Digitale ervaringen met Adobe Document Cloud opdoen](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | In dit laboratorium, neem uw productiviteit en creativiteit aan het volgende niveau door te leren hoe te om digitaal te gaan en meer met PDF te doen, en klant en werknemerservaringen om te zetten. |
+| 27 juli 2020 | [Profiteer optimaal van digitale ervaringen met Adobe Document Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | In dit lab verlegt u de grenzen van uw productiviteit en creativiteit door te leren hoe u kunt overstappen op digitaal en meer kunt doen met PDF, en de ervaring van klanten en medewerkers kunt transformeren. |
 
 **Bijgewerkt interfacemenu**
 
@@ -156,7 +156,7 @@ Releasedatum: **16 juli 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-----|
-| Identiteitskaart, optie voor identiteitskaart | 26 juni 2020 | Identiteitskaart is een structuur van kaartgegevens die u toestaat om sleutel -> waardeparen als deel van het creëren van een verbinding in Customer Journey Analytics te uploaden. De sleutels zijn identiteitsnaamruimten en de waarde is een structuur die de identiteitswaarde houdt. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
+| Identity Map-optie voor persoons-id | 26 juni 2020 | Identity Map is een structuur van kaartgegevens waarmee u sleutel -> waardeparen kunt uploaden als onderdeel van het maken van een verbinding in Customer Journey Analytics. De sleutels zijn identiteitsnaamruimten en de waarde is een structuur die de identiteitswaarde bevat. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
@@ -275,7 +275,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juli 2020 | [Softwaredistributie](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Vanaf juni 2020 vervangt de Experience Cloud oplossing Software Distribution de downloadplatforms [!UICONTROL PackageShare] voor AEM en [!DNL Neolane] voor [!DNL Campaign] en biedt een efficiëntere ervaring om uw software te zoeken en te downloaden. Dankzij een intuïtieve gebruikersinterface, een vereenvoudigde zoekfunctie en een sterk verbeterde downloadsnelheid is het downloaden van softwarepakketten voor Experience Cloud-producten een geweldige gebruikerservaring. |
+| 27 juli 2020 | [Softwaredistributie](https://docs.adobe.com/content/help/nl-NL/experience-cloud/software-distribution/home.html) | Artikel | Sinds juni 2020 vervangt de Experience Cloud-oplossing Softwaredistributie de downloadplatforms [!UICONTROL PackageShare] voor AEM en [!DNL Neolane] voor [!DNL Campaign], en biedt dit een efficiëntere ervaring om uw software te zoeken en te downloaden. Dankzij een intuïtieve gebruikersinterface, een vereenvoudigde zoekfunctie en een sterk verbeterde downloadsnelheid is het downloaden van softwarepakketten voor Experience Cloud-producten een geweldige gebruikerservaring. |
 | 25 juni 2020 | [Aan de slag met adaptieve formulieren](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Deze tutorials leiden u door de vereiste stappen voor het maken van adaptieve formulieren met meerdere tabbladen. Leer lijsten, accordeonlay-out en de regeleditor te gebruiken om bedrijfsregels te maken. |
 | 25 juni 2020 | [Een revisieworkflow maken in AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=dut) | Video | Leer een workflow te maken voor het reviewen van verzonden data van een actieve formulierverzending. |
 | 23 juni 2020 | [Profielen verwerken](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | Video | Met verwerkingsprofielen worden de weergaven gedefinieerd die moeten worden gemaakt voor assets in AEM als Cloud Service. |
@@ -351,7 +351,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 * Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html) - [Releaseplanning](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/campaign-classic-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html)  - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -401,6 +401,6 @@ De volgende functies komen gedurende het komende kwartaal beschikbaar:
 
 >[!NOTE]
 >
->Documentatie voor de [!UICONTROL Marketo Sky] interface is [hier](https://docs.adobe.com/content/help/en/marketo/sky/home.html)beschikbaar.
+>Documentatie voor de [!UICONTROL Marketo Sky]-interface vindt u [hier](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
 
 Zie [Marketo-releaseopmerkingen](https://docs.marketo.com/x/CgA6Ag) voor cumulatieve en historische releaseopmerkingen.
