@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dab2c3fb8b9920f079195693a584f7c48b813e23
+source-git-commit: 94f346f9c1f7f23630c731769e4457bc5e0b7222
 workflow-type: tm+mt
-source-wordcount: '6017'
+source-wordcount: '6019'
 ht-degree: 41%
 
 ---
@@ -75,9 +75,9 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 
 Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubliceerd.
 
-| Gepubliceerd | Naam | Beschrijving |
-| ----------- | ---------- | ---------- |  
-| 10 juli 2020 | [Dagboekevenementen aan Adobe Experience Platform melden](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html) | Leer hoe de gebeurtenissen van de reisstap zijn en welke gegevensstappen automatisch op Experience Platform worden gecreeerd en hoe te om deze te onderzoeken. |
+| Gepubliceerd | Naam | Type | Beschrijving |
+| ----------- | ---------- | ---------- |---------- |  
+| 10 juli 2020 | [Dagboekevenementen aan Adobe Experience Platform melden](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html) | Zelfstudie | Leer hoe de gebeurtenissen van de reisstap zijn en welke gegevensstappen automatisch op Experience Platform worden gecreeerd en hoe te om deze te onderzoeken. |
 
 ### Aanvullende bronnen voor Journey Orchestration
 
@@ -159,7 +159,7 @@ Voor de meest recente updates over AppMeasurement-releases raadpleegt u [Release
 
 Nieuwe cursussen, videotutorials en artikelen in Analytics en Customer Journey Analytics.
 
-| Gepubliceerd | Naam | Oplossing | Beschrijving |
+| Gepubliceerd | Naam | Type | Beschrijving |
 | ----------- | ----------- | ---------- | ---------- |  
 | 30 juli 2020 | [Toegang tot rapportsuite beperken in de Admin Console](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/limit-report-suite-access-in-the-admin-console.html) | Zelfstudie | Leer hoe u de code gebruikt [!UICONTROL Admin Console] om ervoor te zorgen dat gebruikers alleen toegang hebben tot de rapportsuite(s) die nodig zijn voor hun rol. |
 | 24 juli 2020 | [Beheerders toevoegen aan Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/adding-an-administrator-to-adobe-analytics.html) | Zelfstudie | Leer hoe u een gebruiker als beheerder in de Adobe toevoegt [!UICONTROL Admin Console]. |
@@ -203,7 +203,7 @@ Releasedatum: **13 augustus 2020**
 
 ### Nieuwe Audience Manager-tutorials {#tutorials-aam}
 
-| Gepubliceerd | Naam | Oplossing | Beschrijving |
+| Gepubliceerd | Naam | Type | Beschrijving |
 | ----------- | ----------- | ---------- | ---------- |
 | 7 augustus 2020 | [Bespaar geld en optimaliseer de ervaring van klanten door advertenties aan converters te onderdrukken](https://experienceleague.adobe.com/?recommended=AudienceManager-A-1-2020.1) | Zelfstudie | In deze cursus, leer alle concepten van begin tot eind met het gebruiksgeval gaan om geld te besparen en de klantenervaring te optimaliseren door bestaande klanten uit uw bereikcampagnes te verwijderen. Dit omvat de bouw van eigenschappen en segmenten, toevoegend de juiste profielfusieregels, toevoegend segmenten aan bestemmingen, en zelfs het berekenen van ROI aangezien u dit gebruiksgeval gebruikt. |
 | 7 augustus 2020 | [De regel voor het samenvoegen van profielen rechts kiezen](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.html) | Zelfstudie | In deze video ziet u drie van de meest gebruikte gevallen voor [!UICONTROL Profile Merge Rules]en hoe u uw marketingactiviteiten kunt verbeteren. |
@@ -341,7 +341,7 @@ Releasegegevens voor Campaign Classic, Campaign Standard en Control Panel.
 
 Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubliceerd.
 
-| Gepubliceerd | Naam | Oplossing | Beschrijving |
+| Gepubliceerd | Naam | Type | Beschrijving |
 | ----------- | ----------- | ---------- | ---------- |  
 | 10 juli 2020 | [Configuratiescherm - GPG-sleutelbeheer - Gegevens ontsleutelen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | Leer hoe u een openbare sleutel maakt en deze kunt importeren en installeren in een Campaign-instantie voor het decoderen van binnenkomende data. |
 | 10 juli 2020 | [Configuratiescherm - GPG-sleutelbeheer - Een GPG-sleutel gebruiken om gegevens te coderen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Leer hoe u data exporteert met een GPG-sleutel die is geïnstalleerd in het Configuratiescherm. |
