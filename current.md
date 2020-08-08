@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 94f346f9c1f7f23630c731769e4457bc5e0b7222
+source-git-commit: 4692634440160952dc46ee85c9dbdb77b9778fbf
 workflow-type: tm+mt
-source-wordcount: '6019'
+source-wordcount: '5984'
 ht-degree: 41%
 
 ---
@@ -113,7 +113,6 @@ Releasedatum: **16 juli 2020**
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- | ---------- |
 | [Ondersteunde apparaten en platforms](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/supported-devices.html) | 18 juni 2020 | De [!UICONTROL Media Launch Extension] met AEP SDK ondersteunt nu de volgende OTT-apparaten:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android-tv</li></ul> |
-| [Ondersteunde apparaten en platforms](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/supported-devices.html) | 18 juni 2020 | De extensie Media Launch met AEP SDK ondersteunt nu de volgende OTT-apparaten:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android-tv</li></ul> |
 | [Player-status bijhouden](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 mei 2020 | [!UICONTROL Media Analytics]-klanten kunnen tijdens het afspelen viewerinteracties vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpstelling. U kunt desgewenst ook aangepaste Player-statussen te maken. [!UICONTROL Player State Tracking] variabelen zijn nu beschikbaar voor rapportage in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist: <ul><li>Media [!DNL JavaScript] SDK 3.0 of hoger</li><li>Voor gebruik met de [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor Audio &amp; Video v1.0 of hoger</li><li>[!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger</li><li>[!UICONTROL Media Collection]</li></ul> |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
