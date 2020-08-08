@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4692634440160952dc46ee85c9dbdb77b9778fbf
+source-git-commit: c3d6d35f2a56d003514549150db7b060440389f9
 workflow-type: tm+mt
-source-wordcount: '5984'
-ht-degree: 41%
+source-wordcount: '6097'
+ht-degree: 40%
 
 ---
 
@@ -228,6 +228,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
    * AEM Commerce is nu beschikbaar op Cloud Service. Zie [Aan de slag met AEM Handel als Cloud Service.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/commerce/getting-started.html)
    * Connectors voor Adobe Target- en Adobe Analytics-verbeteringen zijn onder andere verbeterd gebruikersinterface, vervanging van de klassieke gebruikersinterface en integratie bij het starten van Adobe. Zie [Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/integrations/integrating-adobe-analytics.html) integreren en Adobe Target [integreren.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html)
    * De dienst van de Compute van activa is een scalable en verlengbare dienst om activa te verwerken. De beheerders kunnen Experience Manager vormen om douanearbeider aan te halen die gebruikend de Dienst van de Berekening van Activa wordt gecreeerd. De ontwikkelaars kunnen de dienst gebruiken om gespecialiseerde douanearbeiders tot stand te brengen die aan complexe gebruiksgevallen behandelen. Deze webservice kan miniaturen genereren voor verschillende bestandstypen, afbeeldingen van hoge kwaliteit in de bestandsindelingen Adobe, video&#39;s coderen (in de toekomst), metagegevens extraheren, volledige tekst uitnemen als voorloper voor indexering en een element uitvoeren via alle beschikbare Sensei-services. Zie [Elementmicroservices en verwerkingsprofielen gebruiken.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/asset-microservices-configure-and-use.html)
+   * [Asset Compute Service](https://docs.adobe.com/content/help/en/asset-compute/using/home.html) is beschikbaar voor uitbreiding om een aangepaste toepassing te maken. Het is een schaalbare en uitbreidbare service voor het verwerken van digitale elementen [!DNL Adobe Experience Cloud] . U kunt afbeeldingen, video, documenten en andere bestandsindelingen transformeren in verschillende uitvoeringen, zoals miniaturen, uitgenomen tekst en metagegevens, archieven en nog veel meer. Ontwikkelaars kunnen aangepaste toepassingen (ook wel aangepaste workers genoemd) maken voor het afhandelen van aangepaste gebruiksgevallen. Het wordt gebouwd gebruikend [Project Firefly](https://www.adobe.io/apis/experienceplatform/project-firefly/docs.html) en werkt in serverless [Adobe I/O Runtime](https://www.adobe.io/apis/experienceplatform/runtime.html).
    * Meerdere verbeteringen voor workflowmodellen en Dynamic Media in AEM als Cloud Service.
    * Release 2.11.0 van de [AEM Core Components](https://docs.adobe.com/content/help/nl-NL/experience-manager-core-components/using/introduction.html) is nu beschikbaar als onderdeel van AEM Sites, waaronder:
       * Introductie van een nieuwe [PDF Viewer-component.](https://aemcomponents.dev/content/core-components-examples/library/page-authoring/pdf-viewer.html)
@@ -241,6 +242,10 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
    * Zie de [volledige versienota&#39;s voor AEM als Cloud Service.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9)
 
 ### Zelfondersteuning
+
+* **AEM Assets**
+
+   * Meer tips voor het [oplossen van problemen toegevoegd](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/troubleshoot.html) voor desktop-app van Experience Manager.
 
 * **AEM Forms**
 
