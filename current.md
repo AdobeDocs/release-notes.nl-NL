@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 287bdc8c8460e9700474bb0bf1e79631182945bb
+source-git-commit: bc30808217e8734e639246602be45efd02d2dc60
 workflow-type: tm+mt
 source-wordcount: '6210'
 ht-degree: 39%
@@ -101,7 +101,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 | Verbeteringen voor de gegevensverzameling in China | 13 aug. 2020 | Tot de verbeteringen behoren: ondersteuning voor Experience Cloud ID-service; ondersteuning voor first-party SSL; en steun voor server-kant door:sturen. Neem voor documentatie contact op met uw Adobe-verkoper. |
 | [!UICONTROL Cross-Device Analytics]: Beschikbaarheid in EMEA en APAC | 31 augustus 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) en een persoonlijke grafiek zijn beschikbaar voor klanten in EMEA en APAC. |
 | Verbetering van het op het veld gebaseerde stitching in [!UICONTROL Cross-Device Analytics] (beschikbaar in Amerika en EMEA) | 17 augustus 2020 | Deze vereenvoudigde implementatie voor nieuwe [!UICONTROL Cross-Device Analytics] klanten geeft u de optie om vast te maken op basis van een gebruikers-id die is opgeslagen in een veld Analytics (prop of eVar) in plaats van apparaatgrafiek (co-op of private) te gebruiken. De verbetering schrapt het vereiste om ECID uit te voeren en schrapt het vereiste om identiteitskaart toe te passen synchroniseren voor doeleinden van CDA. (Voor bepaalde andere functies zijn ECID- en ID-synchronisatie nog steeds vereist.) |
-| Werkruimte: Download 50 kB items voor één dimensie | 17 september 2020 | [Vroege aankondiging] U zult 50.000 punten voor één enkele afmeting in een vrije lijst, met toegepaste segmenten en filters kunnen downloaden. Hierdoor hebt u toegang tot meer dan 400 rijen gegevens buiten Analysis Workspace. |
+| (Vroege aankondiging) Werkruimte: Download 50 kB items voor één dimensie | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan 400 rijen gegevens buiten Analysis Workspace. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
