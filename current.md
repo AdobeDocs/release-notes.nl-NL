@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8eec282ba5b97526aecf904b58819b446be35db0
+source-git-commit: 287bdc8c8460e9700474bb0bf1e79631182945bb
 workflow-type: tm+mt
-source-wordcount: '6147'
-ht-degree: 40%
+source-wordcount: '6210'
+ht-degree: 39%
 
 ---
 
@@ -190,6 +190,7 @@ Releasedatum: **13 augustus 2020**
 
 ### Nieuwe functies en oplossingen in Adobe Audience Manager
 
+* U kunt [Mensen-Gebaseerde Doelen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) nu gebruiken aan doelgebruikers via [!DNL Google Customer Match]. Alvorens u kunt gebruiken [!UICONTROL People-Based Destinations] om uw segment van het eerste partijpubliek naar een [!DNL Google Customer Match] bestemming te verzenden, is het verplicht dat u aan hun lijst van gewenste personen [!DNL Google] toevoegt. Raadpleeg de [documentatie bij Op mensen gebaseerde doelen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) voor meer informatie. (PLAT-53962)
 * [Voorspelend publiek](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) ondersteunt nu de selectie van een [!UICONTROL Profile Merge Rule] model tijdens het maken van het model. (AAM-55178)
 * Begin- en einddatum van doeltoewijzing zijn nu zichtbaar op de pagina van elk segment. (AAM-40056)
 * Probleem verholpen waarbij de waarde [!UICONTROL Device Type] van een eigenschap automatisch werd ingesteld [!UICONTROL Cross-Device] bij het maken van een nieuwe eigenschap. (AAM-55368)
@@ -381,7 +382,7 @@ Releaseopmerkingen bij Adobe Advertising Cloud.
 | Functie | Beschrijving |
 | -----------| ---------- |
 | [!UICONTROL Portfolios] | Posielimieten op Portfolio-niveau zijn niet meer beschikbaar in portfolioinstellingen. Eerder gemaakte positielimieten zijn verwijderd. |
-| [!UICONTROL Constraints] | Op positie gebaseerde beperkingen en beperkingsvoorwaarden worden niet meer ondersteund:<br/><ul><li>De meeste beperkingen van Pos en Max van Pos zijn niet meer beschikbaar en zijn verwijderd uit alle eerder gemaakte beperkingen van het Bod &amp; van de Positie en van het Aandeel van de Impressie.</li><li>Bestaande boden- en positiebeperkingen die plaatsingsbeperkingen bevatten, maar geen biedbeperkingen zijn gepauzeerd. Zij zijn nog beschikbaar in UI en in rapporten.</li><li>Bod- en positiebeperkingen zijn hernoemd tot biedingsbeperkingen.</li><li>Alle op positie-gebaseerde voorwaarden (gebruikend Gemiddelde Positie, Gewogen Gemiddelde Positie, of Laatste Bekende Pos metriek) in om het even welk type van beperking werden verwijderd.</li></ul><br/>**Opmerking:**Positiegegevens blijven ingevuld zolang deze beschikbaar zijn in de zoekmachines. Microsoft Ads zal in september 2020 met pensioen gaan. |  |
+| [!UICONTROL Constraints] | Op positie gebaseerde beperkingen en beperkingsvoorwaarden worden niet meer ondersteund:<br/><ul><li>De meeste beperkingen van Pos en Max van Pos zijn niet meer beschikbaar en zijn verwijderd uit alle eerder gemaakte beperkingen van het Bod &amp; van de Positie en van het Aandeel van de Impressie.</li><li>Bestaande boden- en positiebeperkingen die plaatsingsbeperkingen bevatten, maar geen biedbeperkingen zijn gepauzeerd. Zij zijn nog beschikbaar in UI en in rapporten.</li><li>Bod- en positiebeperkingen zijn hernoemd tot biedingsbeperkingen.</li><li>Alle op positie-gebaseerde voorwaarden (gebruikend Gemiddelde Positie, Gewogen Gemiddelde Positie, of Laatste Bekende Pos metriek) in om het even welk type van beperking werden verwijderd.</li></ul><br/>**Opmerking:** Positiegegevens blijven ingevuld zolang deze beschikbaar zijn in de zoekmachines. Microsoft Ads zal in september 2020 met pensioen gaan. |  |
 | [!UICONTROL Campaigns] | (Google Ads-campagnes) Advertising Cloud Search ondersteunt nu RSA&#39;s (responsieve zoekadvertenties) en biedt klanten deze mogelijkheid. Eerder, werden zij gesteund in alle advertentietypes behalve RSAs. |
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento] {#magento}
