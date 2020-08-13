@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bc30808217e8734e639246602be45efd02d2dc60
+source-git-commit: 5fa62cfefa6118c72d3c997c198f9f5ad7123b6d
 workflow-type: tm+mt
-source-wordcount: '6210'
-ht-degree: 39%
+source-wordcount: '6179'
+ht-degree: 40%
 
 ---
 
@@ -31,13 +31,13 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 
 De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zijn.
 
-Laatste update: **11 augustus 2020**
+Laatste update: **13 augustus 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) (Bijgewerkt op 11 augustus 2020) en [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (Bijgewerkt op 13 augustus 2020) en [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -94,13 +94,12 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
-(Bijgewerkt op 11 augustus 2020)
+(Bijgewerkt op 13 augustus 2020)
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | -----------| ---------- |-------|
-| Verbeteringen voor de gegevensverzameling in China | 13 aug. 2020 | Tot de verbeteringen behoren: ondersteuning voor Experience Cloud ID-service; ondersteuning voor first-party SSL; en steun voor server-kant door:sturen. Neem voor documentatie contact op met uw Adobe-verkoper. |
 | [!UICONTROL Cross-Device Analytics]: Beschikbaarheid in EMEA en APAC | 31 augustus 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) en een persoonlijke grafiek zijn beschikbaar voor klanten in EMEA en APAC. |
-| Verbetering van het op het veld gebaseerde stitching in [!UICONTROL Cross-Device Analytics] (beschikbaar in Amerika en EMEA) | 17 augustus 2020 | Deze vereenvoudigde implementatie voor nieuwe [!UICONTROL Cross-Device Analytics] klanten geeft u de optie om vast te maken op basis van een gebruikers-id die is opgeslagen in een veld Analytics (prop of eVar) in plaats van apparaatgrafiek (co-op of private) te gebruiken. De verbetering schrapt het vereiste om ECID uit te voeren en schrapt het vereiste om identiteitskaart toe te passen synchroniseren voor doeleinden van CDA. (Voor bepaalde andere functies zijn ECID- en ID-synchronisatie nog steeds vereist.) |
+| Verbetering van het op het veld gebaseerde stitching in [!UICONTROL Cross-Device Analytics] (beschikbaar in Amerika en EMEA) | 31 augustus 2020 | Deze vereenvoudigde implementatie voor nieuwe [!UICONTROL Cross-Device Analytics] klanten geeft u de optie om vast te maken op basis van een gebruikers-id die is opgeslagen in een veld Analytics (prop of eVar) in plaats van apparaatgrafiek (co-op of private) te gebruiken. De verbetering schrapt het vereiste om ECID uit te voeren en schrapt het vereiste om identiteitskaart toe te passen synchroniseren voor doeleinden van CDA. (Voor bepaalde andere functies zijn ECID- en ID-synchronisatie nog steeds vereist.) |
 | (Vroege aankondiging) Werkruimte: Download 50 kB items voor één dimensie | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan 400 rijen gegevens buiten Analysis Workspace. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
