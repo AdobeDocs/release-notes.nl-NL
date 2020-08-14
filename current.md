@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b570d8c8abaaea1d18fb4d09486adef522486572
+source-git-commit: 1fc011a1dbdc71052547679e69ac4f853f7fa4c2
 workflow-type: tm+mt
-source-wordcount: '6180'
+source-wordcount: '6244'
 ht-degree: 39%
 
 ---
@@ -369,6 +369,15 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 ## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Releaseopmerkingen bij Adobe Advertising Cloud.
+
+* [Nieuwe functies in Advertising Cloud DSP](#adcloud-dsp)
+* [Nieuwe functies in Advertising Cloud Search](#adcloud-search)
+
+### Nieuwe functies in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
+
+| Functie | Beschrijving |
+| -----------| ---------- |
+| Interactieve pre-roll uitgebreid om VAST inventaris op te nemen | Elke interactieve pre-roll plaatsing en advertentie kan nu zowel VPAID als VAST inventaris steunen. **Opmerking:** Als uw primaire KPI kan worden weergegeven, blijft u afzonderlijke VPAID- en VAST-plaatsingen en -advertenties maken, omdat er geen zichtbare indrukken beschikbaar zijn voor VAST-advertenties. |
 
 ### Nieuwe functies in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
