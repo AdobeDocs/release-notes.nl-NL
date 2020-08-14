@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dc785dde4088570baa004f5296d134d16a503562
+source-git-commit: b570d8c8abaaea1d18fb4d09486adef522486572
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6180'
+ht-degree: 39%
 
 ---
 
@@ -93,7 +93,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 (Bijgewerkt op 13 augustus 2020)
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
-| -----------| ---------- |-------|
+| ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: Beschikbaarheid in EMEA en APAC | 31 augustus 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) en een persoonlijke grafiek zijn beschikbaar voor klanten in EMEA en APAC. |
 | Verbetering van het op het veld gebaseerde stitching in [!UICONTROL Cross-Device Analytics] (beschikbaar in Amerika en EMEA) | 31 augustus 2020 | Deze vereenvoudigde implementatie voor nieuwe [!UICONTROL Cross-Device Analytics] klanten geeft u de optie om vast te maken op basis van een gebruikers-id die is opgeslagen in een veld Analytics (prop of eVar) in plaats van apparaatgrafiek (co-op of private) te gebruiken. De verbetering schrapt het vereiste om ECID uit te voeren en schrapt het vereiste om identiteitskaart toe te passen synchroniseren voor doeleinden van CDA. (Voor bepaalde andere functies zijn ECID- en ID-synchronisatie nog steeds vereist.) |
 | (Vroege aankondiging) Werkruimte: Download 50 kB items voor één dimensie | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan 400 rijen gegevens buiten Analysis Workspace. |
@@ -101,7 +101,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
-| -----------| ---------- |-----|
+| ----------- | ---------- | ----- |
 | [!UICONTROL Identity Map] optie voor persoon-id | 26 juni 2020 | [!UICONTROL Identity Map] is een structuur van kaartgegevens waarmee u sleutelwaardeparen kunt uploaden als onderdeel van het maken van een verbinding in [!UICONTROL Customer Journey Analytics]. De sleutels zijn identiteitsnaamruimten en de waarde is een structuur die de identiteitswaarde bevat. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
@@ -109,7 +109,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 Releasedatum: **16 juli 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
-| -----------| ---------- | ---------- |
+| ----------- | ---------- | ---------- |
 | [Ondersteunde apparaten en platforms](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/supported-devices.html) | 18 juni 2020 | De [!UICONTROL Media Launch Extension] met AEP SDK ondersteunt nu de volgende OTT-apparaten:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android-tv</li></ul> |
 | [Player-status bijhouden](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 mei 2020 | [!UICONTROL Media Analytics]-klanten kunnen tijdens het afspelen viewerinteracties vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpstelling. U kunt desgewenst ook aangepaste Player-statussen te maken. [!UICONTROL Player State Tracking] variabelen zijn nu beschikbaar voor rapportage in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist: <ul><li>Media [!DNL JavaScript] SDK 3.0 of hoger</li><li>Voor gebruik met de [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor Audio &amp; Video v1.0 of hoger</li><li>[!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger</li><li>[!UICONTROL Media Collection]</li></ul> |
 
@@ -135,7 +135,7 @@ AN-219351; AN-220960; AN-223788; AN-224630; AN-224948; AN-225618; AN-226261; AN-
 ### Belangrijke berichten voor [!DNL Analytics]-beheerders {#aa-notices}
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
-| -----------| ---------- | ---------- |
+| ----------- | ---------- | ---------- |
 | EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. We hebben een nieuwe standaard in het [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) dat moet worden gebruikt voor alle integraties waarvoor aanbod en ondersteuning gewenst is. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Toewijzing rapportsuite aan IMS-org | Juli 2020 | De tool voor toewijzing van rapportsuites wordt in november 2020 gediscontinueerd. Met deze functie kunt u integratie mogelijk maken zoals het publiceren van Advertising Analytics- en Experience Cloud-segmenten in Adobe Analytics. Een rapportsuite moet worden toegewezen aan een IMS-org om deze en andere services in te schakelen. Nieuwere rapportsuites worden automatisch toegewezen bij het maken. Oudere rapportsuites moeten echter handmatig worden toegewezen aan een IMS-org. See [Map report suites to an organization](https://docs.adobe.com/content/help/nl-NL/core-services/interface/about-core-services/report-suite-mapping.html) in the Experience Cloud interface (Core Services) user guide to make sure all report suites belong to an IMS org. |
 | Migratie naar uniform productdomein | Ingangsdatum: 28 mei 2020 | De migratie naar een uniform productdomein voor Adobe Analytics dat in januari 2020 is gestart, is op 28 mei 2020 voltooid. Hoewel Adobe Analytics probeert om alle `omniture.com`-domeinverwijzingen uit zijn architectuur te verwijderen, is het belangrijk om `omniture.com` als cookie van een derde partij op de allowlist te plaatsen. Wanneer de volledige architectuurmigratie (binnenkort) is voltooid, stellen we u via de releaseopmerkingen op de hoogte en is deze allowlist-stap niet meer nodig. [Hier](https://helpx.adobe.com/nl/analytics/kb/adobe-ip-addresses.html) vindt u de volledige lijst met aanbevolen IP-adressen en domeinen die u op de allowlist moet plaatsen.<br>Als uw organisatie cookies van derden blokkeert, neemt u contact op met de klantenservice om uw toegang tot Adobe Analytics te herstellen. |
@@ -157,7 +157,7 @@ Voor de meest recente updates over AppMeasurement-releases raadpleegt u [Release
 Nieuwe cursussen, videotutorials en artikelen in Analytics en Customer Journey Analytics.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
-| ----------- | ----------- | ---------- | ---------- |  
+| ----------- | ----------- | ---------- | ---------- |
 | 30 juli 2020 | [Toegang tot rapportsuite beperken in de Admin Console](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/limit-report-suite-access-in-the-admin-console.html) | Zelfstudie | Leer hoe u de code gebruikt [!UICONTROL Admin Console] om ervoor te zorgen dat gebruikers alleen toegang hebben tot de rapportsuite(s) die nodig zijn voor hun rol. |
 | 24 juli 2020 | [Beheerders toevoegen aan Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/adding-an-administrator-to-adobe-analytics.html) | Zelfstudie | Leer hoe u een gebruiker als beheerder in de Adobe toevoegt [!UICONTROL Admin Console]. |
 | 17 juli 2020 | [Deelvenster Snelle inzichten in Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.html) | Zelfstudie | Quick Insights biedt richtlijnen voor niet-analisten en nieuwe gebruikers van Analysis Workspace hoe ze zakelijke vragen snel en eenvoudig kunnen beantwoorden. |
@@ -269,7 +269,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
 Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubliceerd.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
-| -----------| ---------- | ---------- | ---------- |
+| ----------- | ---------- | ---------- | ---------- |
 | 7 augustus 2020 | [Aan de slag met beheer van meerdere sites voor zakelijke gebruikers](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites.msm) | Cursus | Leer hoe u een solide basis voor uw AEM Assets-implementatie kunt leggen door de kernproblemen te configureren, van het instellen van een basisarchitectuur voor inhoud en taxonomie tot het aanpassen van metagegevens en het verwerken van bedrijfsmiddelen. |
 | 7 augustus 2020 | [AEM Assets voor beheerders configureren](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2020.1.assets) | Zelfstudie | Beschrijving |
 | 19 juli 2020 | [Het gereedschap Inhoud overbrengen gebruiken](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/migration/content-transfer-tool.html) | Zelfstudie | Het [!UICONTROL Content Transfer] hulpmiddel is de geadviseerde manier om inhoud van een op-gebouw of AMS ontvangen versie van Experience Manager aan een [!UICONTROL AEM as a Cloud Service] milieu te migreren. |
@@ -293,7 +293,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 | 21 juli 2020 | [AEM Postvak IN](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/inbox-customization/introduction.html) | Zelfstudie | [!UICONTROL AEM Inbox] consolideert meldingen en taken van verschillende AEM, waaronder Forms-workflows. |
 | 21 juli 2020 | [Fouten opsporen in lokale quickstart van AEM SDK met behulp van logbestanden](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | Zelfstudie | De logboeken handelen als frontline voor het zuiveren AEM toepassingen, maar zijn afhankelijk van het adequate registreren in de opgestelde AEM toepassing. |
 | 21 juli 2020 | [Introductie van SPA-editor](https://video.tv.adobe.com/v/37705?quality=12&learn=on&captions=dut) | Zelfstudie | Een cursusinleiding aan het Worden begonnen met AEM Redacteur van het KUUROORD voor ontwikkelaars. |
-| 2020 | [Machtigingen basislijn](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/baseline-permissions.html) | Zelfstudie | Het beheren van gebruikerstoegang in de mappen met basiselementen is een essentieel aspect van het beheer en zorgt ervoor dat de processen correct worden ondersteund. |
+| 21 juli 2020 | [Machtigingen basislijn](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/baseline-permissions.html) | Zelfstudie | Het beheren van gebruikerstoegang in de mappen met basiselementen is een essentieel aspect van het beheer en zorgt ervoor dat de processen correct worden ondersteund. |
 | 21 juli 2020 | [Workflows automatisch starten](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/auto-start-workflows.html) | Zelfstudie | Workflows voor automatisch opstarten breiden de verwerking van bedrijfsmiddelen in AEM als Cloud Service uit door automatisch een aangepaste workflow aan te roepen bij het uploaden of opnieuw verwerken. |
 | 21 juli 2020 | [Fouten opsporen in lokale quickstart van AEM SDK met behulp van logbestanden](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | Zelfstudie | De logboeken handelen als frontline voor het zuiveren AEM toepassingen, maar zijn afhankelijk van het adequate registreren in de opgestelde AEM toepassing. |
 | 21 juli 2020 | [Aangepaste formuliersjabloon maken](https://video.tv.adobe.com/v/37324?captions=dut) | Zelfstudie | Wanneer auteurs de sjabloon gebruiken om een adaptief formulier te maken, neemt het nieuwe formulier de structuur en componenten over die u in de sjabloon hebt opgegeven. |
@@ -345,7 +345,7 @@ Releasegegevens voor Campaign Classic, Campaign Standard en Control Panel.
 Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubliceerd.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
-| ----------- | ----------- | ---------- | ---------- |  
+| ----------- | ----------- | ---------- | ---------- |
 | 10 juli 2020 | [Configuratiescherm - GPG-sleutelbeheer - Gegevens ontsleutelen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | Leer hoe u een openbare sleutel maakt en deze kunt importeren en installeren in een Campaign-instantie voor het decoderen van binnenkomende data. |
 | 10 juli 2020 | [Configuratiescherm - GPG-sleutelbeheer - Een GPG-sleutel gebruiken om gegevens te coderen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Leer hoe u data exporteert met een GPG-sleutel die is geïnstalleerd in het Configuratiescherm. |
 | 10 juli 2020 | [Configuratiescherm - GPG-sleutels voor gegevenscodering genereren en installeren](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html) | Campaign Classic | Leer hoe u een openbare/persoonlijke GPG-sleutelpaar genereert en de openbare sleutel in het Configuratiescherm installeert om gegevens te kunnen versleutelen voordat u deze vanuit uw instantie verzendt. |
@@ -375,9 +375,9 @@ Releaseopmerkingen bij Adobe Advertising Cloud.
 **8 augustus** release
 
 | Functie | Beschrijving |
-| -----------| ---------- |
+| ----------- | ---------- |
 | [!UICONTROL Portfolios] | Posielimieten op Portfolio-niveau zijn niet meer beschikbaar in portfolioinstellingen. Eerder gemaakte positielimieten zijn verwijderd. |
-| [!UICONTROL Constraints] | Op positie gebaseerde beperkingen en beperkingsvoorwaarden worden niet meer ondersteund:<br/><ul><li>De meeste beperkingen van Pos en Max van Pos zijn niet meer beschikbaar en zijn verwijderd uit alle eerder gemaakte beperkingen van het Bod &amp; van de Positie en van het Aandeel van de Impressie.</li><li>Bestaande boden- en positiebeperkingen die plaatsingsbeperkingen bevatten, maar geen biedbeperkingen zijn gepauzeerd. Zij zijn nog beschikbaar in UI en in rapporten.</li><li>Bod- en positiebeperkingen zijn hernoemd tot biedingsbeperkingen.</li><li>Alle op positie-gebaseerde voorwaarden (gebruikend Gemiddelde Positie, Gewogen Gemiddelde Positie, of Laatste Bekende Pos metriek) in om het even welk type van beperking werden verwijderd.</li></ul><br/>**Opmerking:** Positiegegevens blijven ingevuld zolang deze beschikbaar zijn in de zoekmachines. Microsoft Ads zal in september 2020 met pensioen gaan. |  |
+| [!UICONTROL Constraints] | Op positie gebaseerde beperkingen en beperkingsvoorwaarden worden niet meer ondersteund: <br/> <ul><li>De meeste beperkingen van Pos en Max van Pos zijn niet meer beschikbaar en zijn verwijderd uit alle eerder gemaakte beperkingen van het Bod &amp; van de Positie en van het Aandeel van de Impressie.</li><li>Bestaande boden- en positiebeperkingen die plaatsingsbeperkingen bevatten, maar geen biedbeperkingen zijn gepauzeerd. Zij zijn nog beschikbaar in UI en in rapporten.</li><li>Bod- en positiebeperkingen zijn hernoemd tot biedingsbeperkingen.</li><li>Alle op positie-gebaseerde voorwaarden (gebruikend Gemiddelde Positie, Gewogen Gemiddelde Positie, of Laatste Bekende Pos metriek) in om het even welk type van beperking werden verwijderd.</li></ul> <br/> **Opmerking:** Positiegegevens blijven ingevuld zolang deze beschikbaar zijn in de zoekmachines. Microsoft Ads zal in september 2020 met pensioen gaan. |
 | [!UICONTROL Campaigns] | (Google Ads-campagnes) Advertising Cloud Search ondersteunt nu RSA&#39;s (responsieve zoekadvertenties) en biedt klanten deze mogelijkheid. Eerder, werden zij gesteund in alle advertentietypes behalve RSAs. |
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento] {#magento}
@@ -400,7 +400,7 @@ Zie [!DNL Marketo] [releaseopmerkingen](https://docs.marketo.com/display/public/
 De volgende functies komen gedurende het komende kwartaal beschikbaar:
 
 | Functie | Beschrijving |
-|------|---------|
+| ------ | --------- |
 | [!DNL Bizible] | <ul><li>Nieuwe op accounts gebaseerde segmentatie</li><li>Dashboardspecifieke filters opslaan</li><li>Bizible-dashboards exporteren als PDF&#39;s</li></ul> |
 | Sales Connect | Venster- en Opdrachtcentrum-updates/verbeteringen maken |
 
