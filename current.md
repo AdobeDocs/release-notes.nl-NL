@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d88e6054e3a1c93d7c867dd1ee6de0c67bc2eaf5
+source-git-commit: f62e9f844bf396cda7fc711808a0f532de75a52d
 workflow-type: tm+mt
-source-wordcount: '6253'
+source-wordcount: '6319'
 ht-degree: 94%
 
 ---
@@ -27,10 +27,10 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 
 De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zijn.
 
-Laatste update: **13 augustus 2020**
+Laatste update: **19 augustus 2020**
 
 * [Adobe-systeemstatus](#status)
-* [Experience Cloud-interface](#ecloud)
+* [Experience Cloud-interface](#ecloud) (bijgewerkt op 19 **augustus 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  (Bijgewerkt op 13 augustus 2020) en [Customer Journey Analytics](#cust-journey)
@@ -52,6 +52,12 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 Zie [21 mei 2020](c-legacy-releases/2020/05212020.md#status) voor de meest recente releasegegevens.
 
 ## ![Pictogram ](/assets/ec_appicon_24.png){#ecloud}
+
+Bijgewerkt: **19 augustus 2020**
+
+| Functie | Beschrijving |
+| -----------| ---------- |
+| Beheer - functie- en prestatieverbeteringen | Met de release van augustus 2020 [!UICONTROL Admin Tool] kunnen systeembeheerders een lijst met productprofielen weergeven en een gedetailleerde weergave van elk productprofiel bekijken of exporteren. Er zijn prestatieverbeteringen toegevoegd voor het laden van de laatste aanmeldingsgegevens, waardoor problemen met de time-out zijn verholpen. Zie [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) voor meer informatie. |
 
 Zie de [opmerkingen bij de vorige release](c-legacy-releases/2020/07162020.md#ecloud) voor de recentste release-informatie over de bijgewerkte interface en het uniforme productdomein.
 
