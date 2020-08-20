@@ -8,12 +8,12 @@ translation-type: tm+mt
 source-git-commit: f62e9f844bf396cda7fc711808a0f532de75a52d
 workflow-type: tm+mt
 source-wordcount: '6319'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
 
-# Opmerkingen bij de release van Adobe Experience Cloud - augustus 2020
+# Releaseopmerkingen bij Adobe Experience Cloud - augustus 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -33,7 +33,7 @@ Laatste update: **19 augustus 2020**
 * [Experience Cloud-interface](#ecloud) (bijgewerkt op 19 **augustus 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  (Bijgewerkt op 13 augustus 2020) en [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics)   (bijgewerkt op 13 augustus 2020) en [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -45,13 +45,13 @@ Laatste update: **19 augustus 2020**
 
 Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/#home) om te zoeken naar product- en technische documentatie, door Adobe georganiseerde cursussen, videotutorials, snelle antwoorden, communityinzichten en training onder leiding van instructeurs.
 
-## ![Pictogram ](/assets/adobe.png){#status}
+## ![Pictogram](/assets/adobe.png) Adobe-systeemstatus {#status}
 
 [!UICONTROL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval-, onderbrekings- en onderhoudsgebeurtenissen van Adobe Cloud-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
 Zie [21 mei 2020](c-legacy-releases/2020/05212020.md#status) voor de meest recente releasegegevens.
 
-## ![Pictogram ](/assets/ec_appicon_24.png){#ecloud}
+## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud-interface {#ecloud}
 
 Bijgewerkt: **19 augustus 2020**
 
@@ -61,7 +61,7 @@ Bijgewerkt: **19 augustus 2020**
 
 Zie de [opmerkingen bij de vorige release](c-legacy-releases/2020/07162020.md#ecloud) voor de recentste release-informatie over de bijgewerkte interface en het uniforme productdomein.
 
-## ![Pictogram ](/assets/experience_platform_appicon_24.png){#platform}
+## ![Pictogram](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
 Release-opmerkingen voor [!DNL Experience Platform] en applicatieservices, waaronder [!DNL Experience Platform Launch,] [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], en beveiligingsbulletins.
 
@@ -69,7 +69,7 @@ Laatste releasedatum: **15 juli 2020**
 
 Zie [Opmerkingen bij de release van Experience Platform](https://docs.adobe.com/content/help/nl-NL/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) voor de meest recente informatie over Experience Platform.
 
-## ![Pictogram ](/assets/experience_platform_appicon_24.png){#journey-orch}
+## ![Pictogram](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
 Met behulp van het Adobe Experience Platform kunt u individuele customer journeys op schaal orkestreren via verschillende ervaringskanalen ordenen door intelligent en in real time te anticiperen op wat ieder individu nodig heeft, waar de reis ook heen gaat.
 
@@ -85,7 +85,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 [Documentatie](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/journeys/using/release-notes/release-notes.html) - [Instructievideo&#39;s](https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
-## ![Pictogram ](/assets/analytics.png)[!DNL Adobe Analytics]{#analytics}
+## ![Pictogram](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
@@ -102,7 +102,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: beschikbaarheid in EMEA en APAC | 31 augustus 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/nl-NL/analytics/components/cda/overview.html) en een persoonlijke grafiek zijn beschikbaar voor klanten in EMEA en APAC. |
 | Verbetering van veldgebaseerde stitching in [!UICONTROL Cross-Device Analytics] (beschikbaar in Amerika en EMEA) | 31 augustus 2020 | Deze vereenvoudigde implementatie voor nieuwe [!UICONTROL Cross-Device Analytics]-klanten geeft u de optie om gegevens te koppelen op basis van een gebruikers-id die is opgeslagen in een Analytics-veld (prop of eVar) in plaats van een (coöperatieve of persoonlijke) apparaatgrafiek te gebruiken. Dankzij de verbetering is het niet langer nodig om ECID te implementeren of id-synchronisatie toe te passen voor CDA-doeleinden. (Voor bepaalde andere functies zijn ECID en id-synchronisatie nog steeds vereist.) |
-| (Vroege aankondiging) Werkruimte: Download 50 kB items voor één dimensie | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan 400 rijen gegevens buiten Analysis Workspace. |
+| (Vroege aankondiging) Workspace: 50.000 items voor één dimensie downloaden | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan de 400 rijen gegevens buiten Analysis Workspace. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -183,7 +183,7 @@ Nieuwe cursussen, videotutorials en artikelen in Analytics en Customer Journey A
 * [Adobe Analytics-tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
 * [Adobe Analytics-productdocumentatie](https://docs.adobe.com/content/help/nl-NL/analytics/landing/home.html)
 
-## ![Pictogram ](/assets/audience-manager.png){#aam}
+## ![Pictogram](/assets/audience-manager.png) Adobe Audience Manager {#aam}
 
 Nieuwe functies, correcties, documentatie en tutorials in Audience Manager.
 
@@ -191,7 +191,7 @@ Releasedatum: **13 augustus 2020**
 
 ### Nieuwe functies en oplossingen in Adobe Audience Manager
 
-* U kunt [Mensen-Gebaseerde Doelen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) nu gebruiken aan doelgebruikers via [!DNL Google Customer Match]. Alvorens u kunt gebruiken [!UICONTROL People-Based Destinations] om uw segment van het eerste partijpubliek naar een [!DNL Google Customer Match] bestemming te verzenden, is het verplicht dat u aan hun lijst van gewenste personen [!DNL Google] toevoegt. Raadpleeg de [documentatie bij Op mensen gebaseerde doelen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) voor meer informatie. (PLAT-53962)
+* U kunt nu [Op mensen gebaseerde bestemmingen](https://docs.adobe.com/content/help/nl-NL/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) gebruiken om u op gebruikers te richten via [!DNL Google Customer Match]. Voordat u [!UICONTROL People-Based Destinations] kunt gebruiken om uw eigen doelgroepsegmenten naar een [!DNL Google Customer Match]-bestemming te verzenden, moet u door [!DNL Google] aan de desbetreffende lijst van gewenste personen worden toegevoegd. Raadpleeg de documentatie bij [Op mensen gebaseerde bestemmingen](https://docs.adobe.com/content/help/nl-NL/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) voor meer informatie. (PLAT-53962)
 * [Predictive Audiences](https://docs.adobe.com/content/help/nl-NL/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) ondersteunt nu de selectie van een [!UICONTROL Profile Merge Rule] per model tijdens het maken van het model. (AAM-55178)
 * Begin- en einddatum van doeltoewijzing zijn nu zichtbaar op de pagina van elk segment. (AAM-40056)
 * Er is een probleem opgelost waarbij [!UICONTROL Device Type] voor een eigenschap automatisch werd ingesteld op [!UICONTROL Cross-Device] bij het maken van een nieuwe eigenschap. (AAM-55368)
@@ -220,7 +220,7 @@ Releasedatum: **13 augustus 2020**
 | 15 juli 2020 | [ROI meten in een use case voor klantonderdrukking](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.html) | Tutorial | Leer om met een paar formules uw campagnekostenbesparingen te bepalen door advertenties aan bestaande klanten te onderdrukken. |
 | 10 juli 2020 | [Een segment maken om advertenties aan klanten te onderdrukken](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.html) | Tutorial | In deze video wordt ingegaan op opties voor het maken van segmenten ter uitsluiting van degenen die al naar klantstatus zijn geconverteerd. |
 
-## ![Pictogram ](/assets/aem.png){#aem}
+## ![Pictogram](/assets/aem.png) Adobe Experience Manager {#aem}
 
 Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe adviseert klanten met implementaties op locatie om de nieuwste patches te implementeren om een grotere stabiliteit, beveiliging en prestaties te garanderen.
 
@@ -233,7 +233,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
    * AEM Commerce is nu beschikbaar in Cloud Service. Zie [Aan de slag met AEM Commerce as a Cloud Service](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/commerce/getting-started.html).
    * Connectors voor Adobe Target en Adobe Analytics zijn uitgebreid met een verbeterde gebruikersinterface, vervanging van de klassieke gebruikersinterface en Adobe Launch-integratie. Zie [Adobe Analytics integreren](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/sites/integrations/integrating-adobe-analytics.html) en [Adobe Target integreren.](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html)
    * Asset Compute Service is een schaalbare en uitbreidbare service om assets te verwerken. De beheerders kunnen Experience Manager configureren voor het aanroepen van aangepaste workers die met de Asset Compute Service zijn gemaakt. De ontwikkelaars kunnen de service gebruiken om gespecialiseerde aangepaste workers te maken die geschikt zijn voor complexe use cases. Deze webservice kan miniaturen voor verschillende bestandstypen (afbeeldingen van hoge kwaliteit op basis van Adobe-bestandsindelingen) genereren, video&#39;s coderen (in de toekomst), metadata extraheren, volledige tekst extraheren als voorloper van indexering, en een asset uitvoeren via alle beschikbare Sensei-services. Zie [Microservices en verwerkingsprofielen voor assets gebruiken.](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/assets/manage/asset-microservices-configure-and-use.html)
-   * [Asset Compute Service](https://docs.adobe.com/content/help/en/asset-compute/using/home.html) is beschikbaar voor uitbreiding om een aangepaste toepassing te maken. Het is een schaalbare en uitbreidbare service voor het verwerken van digitale elementen [!DNL Adobe Experience Cloud] . U kunt afbeeldingen, video, documenten en andere bestandsindelingen transformeren in verschillende uitvoeringen, zoals miniaturen, uitgenomen tekst en metagegevens, archieven en nog veel meer. Ontwikkelaars kunnen aangepaste toepassingen (ook wel aangepaste workers genoemd) maken voor het afhandelen van aangepaste gebruiksgevallen. Het wordt gebouwd gebruikend [Project Firefly](https://www.adobe.io/apis/experienceplatform/project-firefly/docs.html) en werkt in serverless [Adobe I/O Runtime](https://www.adobe.io/apis/experienceplatform/runtime.html).
+   * [Asset Compute Service](https://docs.adobe.com/content/help/en/asset-compute/using/home.html) is beschikbaar en kan worden uitgebreid met de mogelijkheid om aangepaste applicaties te maken. Het is een schaalbare en uitbreidbare service van [!DNL Adobe Experience Cloud] voor het verwerken van digitale assets. U kunt afbeeldingen, video, documenten en andere bestandsindelingen transformeren in verschillende weergaven, zoals miniaturen, geëxtraheerde tekst en metadata, archieven en nog veel meer. Ontwikkelaars kunnen aangepaste applicaties (ofwel aangepaste workers) maken voor het afhandelen van aangepaste use cases. De service is gemaakt met [Project Firefly](https://www.adobe.io/apis/experienceplatform/project-firefly/docs.html) en werkt in serverless [Adobe I/O Runtime](https://www.adobe.io/apis/experienceplatform/runtime.html).
    * Meerdere verbeteringen voor workflowmodellen en Dynamic Media in AEM as a Cloud Service.
    * Release 2.11.0 van de [AEM Core Components](https://docs.adobe.com/content/help/nl-NL/experience-manager-core-components/using/introduction.html) is nu beschikbaar als onderdeel van AEM Sites, met de volgende nieuwe functionaliteit:
       * Introductie van een nieuwe [PDF Viewer-component.](https://aemcomponents.dev/content/core-components-examples/library/page-authoring/pdf-viewer.html)
@@ -243,14 +243,14 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
    * Cloud Manager-pijplijnen ondersteunen nu door de klant ingestelde variabelen en geheimen. Zie [Pijplijnvariabelen.](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/onboarding/getting-access/creating-aem-application-project.html#pipeline-variables)
    * [Logboeken kunnen naar Splunk-accounts worden doorgestuurd](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/logging.html#splunk-logs), waardoor organisaties hun [!DNL Splunk]-investering kunnen maximaliseren.
    * U kunt [een statisch, speciaal IP-adres](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/development-guidelines.html#dedicated-egress-ip-address) voor uitgaand verkeer toewijzen, die in Java-code is geprogrammeerd, wat voor sommige integraties nuttig kan zijn.
-   * [!UICONTROL Cloud Readiness Analyzer] v1.0.2 is uitgebracht. See detailed [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-7-0.html#cloud-readiness-analyzer) for more information. Om met te beginnen, zie het [!UICONTROL Cloud Readiness Analyzer]Gebruiken van de Analysator [](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html)van de Gereedheid van de Wolk.
-   * Zie de [volledige releaseopmerkingen voor AEM as a Cloud Service.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9)
+   * [!UICONTROL Cloud Readiness Analyzer] v1.0.2 is uitgebracht. Zie [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-7-0.html#cloud-readiness-analyzer) voor meer informatie. Zie [Cloud Readiness Analyzer gebruiken](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html) om aan de slag te gaan met [!UICONTROL Cloud Readiness Analyzer].
+   * Zie de [volledige releaseopmerkingen voor AEM as a Cloud Service.](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9)
 
 ### Zelfondersteuning
 
 * **AEM Assets**
 
-   * Meer tips voor het [oplossen van problemen toegevoegd](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/troubleshoot.html) voor desktop-app van Experience Manager.
+   * Meer [tips voor het oplossen van problemen](https://docs.adobe.com/content/help/nl-NL/experience-manager-desktop-app/using/troubleshoot.html) toegevoegd voor de Experience Manager-desktop-app.
 
 * **AEM Forms**
 
@@ -334,7 +334,7 @@ Alle Experience Manager-releaseopmerkingen worden op de volgende pagina&#39;s bi
 * [Oudere versies van AEM-documentatie](https://helpx.adobe.com/nl/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic Help-startpagina](https://docs.adobe.com/content/help/nl-NL/dynamic-media-classic/using/home.html)
 
-## ![Pictogram ](/assets/campaign.png)[!DNL Adobe Campaign]{#ac}
+## ![Pictogram](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
 Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één berichten af te leveren via online en offline marketingkanalen. U kunt nu anticiperen op wat uw klanten willen met behulp van ervaringen die worden bepaald door hun gewoonten en voorkeuren.
 
@@ -370,9 +370,9 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 * Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html) - [Releaseplanning](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/campaign-classic-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html)  - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html)   - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
-## ![Pictogram ](/assets/advertising-cloud.png){#adcloud}
+## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Releaseopmerkingen bij Adobe Advertising Cloud.
 
@@ -383,7 +383,7 @@ Releaseopmerkingen bij Adobe Advertising Cloud.
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Interactieve pre-roll uitgebreid om VAST inventaris op te nemen | Elke interactieve pre-roll plaatsing en advertentie kan nu zowel VPAID als VAST inventaris steunen. **Opmerking:** Als uw primaire KPI kan worden weergegeven, blijft u afzonderlijke VPAID- en VAST-plaatsingen en -advertenties maken, omdat er geen zichtbare indrukken beschikbaar zijn voor VAST-advertenties. |
+| Interactieve pre-roll uitgebreid met VAST-inventory | Elke interactieve pre-roll-plaatsing en -advertentie ondersteunt nu zowel VPAID- als VAST-inventory. **Opmerking:** als uw primaire KPI zichtbaarheid is, blijft u afzonderlijke VPAID- en VAST-plaatsingen en -advertenties maken, omdat er geen zichtbare impressies beschikbaar zijn voor VAST-advertenties. |
 
 ### Nieuwe functies in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
@@ -395,14 +395,14 @@ Release van **8 augustus**
 | [!UICONTROL Constraints] | Op positie gebaseerde restricties en restrictievoorwaarden worden niet meer ondersteund: <br/> <ul><li>De meeste Min Pos- en Max Pos-restricties zijn niet meer beschikbaar en zijn verwijderd uit alle eerder gemaakte Bid &amp; Position-restricties en Impression Share-restricties.</li><li>Bestaande Bid &amp; Position-restricties die wel positierestricties maar geen bodrestricties bevatten, zijn opgeschort. Zij zijn nog beschikbaar in de UI en in rapporten.</li><li>Bid &amp; Position-restricties zijn hernoemd tot Bid-restricties.</li><li>Alle positiegebaseerde voorwaarden (die gebruikmaken van metrics voor gemiddelde positie, gewogen gemiddelde positie, of laatst bekende positie) zijn verwijderd uit alle typen restricties.</li></ul> <br/> **Opmerking:** Positiegegevens worden nog steeds ingevuld zolang deze beschikbaar zijn in de zoekmachines. Positie is met ingang van september 2020 niet langer beschikbaar in Microsoft Ads. |
 | [!UICONTROL Campaigns] | (Google Ads-campagnes) Advertising Cloud Search ondersteunt nu advertentie-aanpassers in RSA&#39;s (responsieve zoekadvertenties). Voorheen werden deze ondersteund in alle advertentietypen behalve RSA&#39;s. |
 
-## ![Pictogram ](/assets/magento.png)[!DNL Magento]{#magento}
+## ![Pictogram](/assets/magento.png) [!DNL Magento] {#magento}
 
 Voor de versienota&#39;s van Magento raadpleegt u:
 
 * [Magento Commerce 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
 * [Magento Open Source 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
 
-## ![Pictogram ](/assets/marketo.png)[!DNL Marketo Engage]{#marketo}
+## ![Pictogram](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
 [!DNL Marketo Engage] is een volledige applicatie voor leadmanagement en B2B-marketeers die klantervaringen willen transformeren door betrokkenheid in elke fase van complexe kooptrajecten.
 
