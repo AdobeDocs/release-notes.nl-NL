@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 949872e465b54e68051c62f61530591117f54a6a
+source-git-commit: d714bd852687c7121f44bc31e35fe1ccc0eef43a
 workflow-type: tm+mt
 source-wordcount: '2447'
 ht-degree: 29%
@@ -118,7 +118,7 @@ Zie [Mobiele services](https://docs.adobe.com/content/help/en/mobile-services/us
 
 Voor meer informatie over de Mobiele SDKs, zie: [Android SDK 4.x voor Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) en [iOS SDK 4.x voor Experience Cloud Solutions](https://docs.adobe.com/content/help/nl-NL/mobile-services/ios/overview.html).
 
-## Analytics {#analytics}
+## Analytics{#analytics}  
 
 Nieuwe functies en oplossingen in Adobe Analytics:
 
@@ -195,7 +195,7 @@ Zie de [releasehistorie](https://docs.adobe.com/content/help/en/analytics/implem
 
 Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe adviseert klanten met implementaties op locatie om de nieuwste patches te implementeren om een grotere stabiliteit, beveiliging en prestaties te garanderen.
 
-### Productintroducties
+### Productreleases
 
 **Functienaam**
 
@@ -203,11 +203,11 @@ Beschrijving van functies.
 
 **Functienaam**
 
-Beschrijving.
+Beschrijving
 
 **Functienaam**
 
-Beschrijving.
+Beschrijving
 
 **Kernonderdelen**
 
