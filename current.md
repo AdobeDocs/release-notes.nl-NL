@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
 workflow-type: tm+mt
 source-wordcount: '6424'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -30,7 +30,7 @@ De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zi
 Laatste update: **21 augustus 2020**
 
 * [Adobe-systeemstatus](#status)
-* [Experience Cloud-interface](#ecloud) (bijgewerkt op 19 **augustus 2020**)
+* [Experience Cloud-interface](#ecloud) (bijgewerkt op **19 augustus 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)   (bijgewerkt op 21 augustus 2020) en [Customer Journey Analytics](#cust-journey)
@@ -38,7 +38,7 @@ Laatste update: **21 augustus 2020**
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [[!DNL-doel]](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html)
+* [[!DNL Target]](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/nl-NL/primetime/release-notes/home.html)
@@ -57,7 +57,7 @@ Bijgewerkt: **19 augustus 2020**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Beheer - functie- en prestatieverbeteringen | Met de release van augustus 2020 [!UICONTROL Admin Tool] kunnen systeembeheerders een lijst met productprofielen weergeven en een gedetailleerde weergave van elk productprofiel bekijken of exporteren. Er zijn prestatieverbeteringen toegevoegd voor het laden van de laatste aanmeldingsgegevens, waardoor problemen met de time-out zijn verholpen. Zie [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) voor meer informatie. |
+| Beheertool - Functie- en prestatieverbeteringen | In de [!UICONTROL Admin Tool]-release van augustus 2020 kunnen systeembeheerders een lijst met productprofielen weergeven en een gedetailleerde weergave van elk productprofiel bekijken of exporteren. De meest recente aanmeldingsgegevens worden nu sneller geladen zodat er geen time-outproblemen meer optreden. Zie [Help voor de Experience Cloud-beheertool](https://docs.adobe.com/content/help/nl-NL/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) voor meer informatie. |
 
 Zie de [opmerkingen bij de vorige release](c-legacy-releases/2020/07162020.md#ecloud) voor de recentste release-informatie over de bijgewerkte interface en het uniforme productdomein.
 
