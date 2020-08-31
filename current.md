@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7349731bb72163473efc26069df9f1d77f0f7c23
+source-git-commit: b91db168aeb1b9f653061f0cd6e19ec8d36a8155
 workflow-type: tm+mt
-source-wordcount: '6448'
-ht-degree: 99%
+source-wordcount: '6503'
+ht-degree: 96%
 
 ---
 
@@ -27,13 +27,13 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 
 De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zijn.
 
-Laatste update: **21 augustus 2020**
+Laatste update: **31 augustus 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud) (bijgewerkt op **19 augustus 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) (bijgewerkt op 21 augustus 2020) en [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (bijgewerkt op 31 augustus 2020) en [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -96,28 +96,29 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
-(Bijgewerkt op 13 augustus 2020)
+(Bijgewerkt op 31 augustus 2020)
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: beschikbaarheid in EMEA en APAC | 31 augustus 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/nl-NL/analytics/components/cda/overview.html) en een persoonlijke grafiek zijn beschikbaar voor klanten in EMEA en APAC. |
 | Verbetering van veldgebaseerde stitching in [!UICONTROL Cross-Device Analytics] (beschikbaar in Amerika en EMEA) | 31 augustus 2020 | Deze vereenvoudigde implementatie voor nieuwe [!UICONTROL Cross-Device Analytics]-klanten geeft u de optie om gegevens te koppelen op basis van een gebruikers-id die is opgeslagen in een Analytics-veld (prop of eVar) in plaats van een (coöperatieve of persoonlijke) apparaatgrafiek te gebruiken. Dankzij de verbetering is het niet langer nodig om ECID te implementeren of id-synchronisatie toe te passen voor CDA-doeleinden. (Voor bepaalde andere functies zijn ECID en id-synchronisatie nog steeds vereist.) |
-| (Vroege aankondiging) Workspace: 50.000 items voor één dimensie downloaden | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan de 400 rijen gegevens buiten Analysis Workspace. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| Werkruimte: Download 50 kB items voor één dimensie | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan de 400 rijen gegevens buiten Analysis Workspace. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| Werkruimte: Verbeterde lijnvisualisatie | 17 sep. 2020 | <ul><li>U kunt de x-as en de y-as van elke lijnvisualisatie weergeven of verbergen. Dit kan vooral nuttig zijn wanneer uw lijnvisualisaties compacter zijn.</li><li>U kunt een minimum- en maximumwaardelabel bedekken met elke lijnvisualisatie om de pieken en dalen snel in een metrische kleur te markeren.</li><li>U kunt verschillende regressietendensen lijnen op om het even welke lijnvisualisatie bedekken om de trend in de gegevens gemakkelijker te zien. De opties omvatten Lineair, Logaritmisch, Exponential, Macht en Quadratic.</li></ul> [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
+
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ----- |
-| [!UICONTROL Identity Map]-optie voor persoon-id | 26 juni 2020 | [!UICONTROL Identity Map] is een structuur van kaartgegevens waarmee u sleutel-waardeparen kunt uploaden als onderdeel van het maken van een verbinding in [!UICONTROL Customer Journey Analytics]. De sleutels zijn identiteitsnaamruimten en de waarde is een structuur die de identiteitswaarde bevat. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
+| Werkruimte: Verbeterde lijnvisualisatie | 17 sep. 2020 | <ul><li>U kunt de x-as en de y-as van elke lijnvisualisatie weergeven of verbergen. Dit kan vooral nuttig zijn wanneer uw lijnvisualisaties compacter zijn.</li><li>U kunt een minimum- en maximumwaardelabel bedekken met elke lijnvisualisatie om de pieken en dalen snel in een metrische kleur te markeren.</li><li>U kunt verschillende regressietrendlines op om het even welke lijnvisualisatie bedekken om de trend in de gegevens gemakkelijker te zien. De opties omvatten Lineair, Logaritmisch, Exponential, Macht en Quadratic.</li></ul> |
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
-Releasedatum: **16 juli 2020**
+(Bijgewerkt op 31 augustus 2020)
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ---------- |
-| [Ondersteunde apparaten en platforms](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/supported-devices.html) | 18 juni 2020 | De [!UICONTROL Media Launch Extension] met AEP SDK ondersteunt nu de volgende OTT-apparaten:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android-tv</li></ul> |
-| [Player-status bijhouden](https://docs.adobe.com/content/help/nl-NL/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 mei 2020 | [!UICONTROL Media Analytics]-klanten kunnen tijdens het afspelen viewerinteracties vastleggen met een standaardset oplossingsvariabelen voor volledig scherm, ondertiteling, dempen, beeld-in-beeld en scherpstelling. U kunt desgewenst ook aangepaste Player-statussen te maken. [!UICONTROL Player State Tracking]-variabelen zijn nu beschikbaar voor rapportage in [!UICONTROL Analysis Workspace]. Voor deze functie is een van de volgende opties vereist: <ul><li>Media [!DNL JavaScript] SDK 3.0 of hoger</li><li>Voor gebruik met de [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (voor web): [!UICONTROL Adobe Media Analytics] (3.x SDK) voor Audio &amp; Video v1.0 of hoger</li><li>[!UICONTROL Media Analytics Extension] (voor mobiele apparaten): [!UICONTROL Adobe Media Analytics for Audio] en Video v2.0 of hoger</li><li>[!UICONTROL Media Collection]</li></ul> |
+| Deelvenster Mediagelijktijdige viewer in werkruimte | 17 september 2020 | Met het deelvenster Mediagelijktijdige viewers kunt u precies zien waar de piekgelijktijdige optreden optrad of waar de neerzetprocedure is gestart.  Het biedt waardevolle inzichten in de kwaliteit van de betrokkenheid van de inhoud en viewer en helpt bij het oplossen van problemen of het plannen van volumes/schaal. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html) |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
