@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b91db168aeb1b9f653061f0cd6e19ec8d36a8155
+source-git-commit: c6a071b2e8946d2b7fcfe20f835354ca6d552575
 workflow-type: tm+mt
-source-wordcount: '6503'
-ht-degree: 96%
+source-wordcount: '6515'
+ht-degree: 95%
 
 ---
 
@@ -110,7 +110,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ----- |
-| Werkruimte: Verbeterde lijnvisualisatie | 17 sep. 2020 | <ul><li>U kunt de x-as en de y-as van elke lijnvisualisatie weergeven of verbergen. Dit kan vooral nuttig zijn wanneer uw lijnvisualisaties compacter zijn.</li><li>U kunt een minimum- en maximumwaardelabel bedekken met elke lijnvisualisatie om de pieken en dalen snel in een metrische kleur te markeren.</li><li>U kunt verschillende regressietrendlines op om het even welke lijnvisualisatie bedekken om de trend in de gegevens gemakkelijker te zien. De opties omvatten Lineair, Logaritmisch, Exponential, Macht en Quadratic.</li></ul> |
+| Werkruimte: Verbeterde lijnvisualisatie | 17 sep. 2020 | <ul><li>U kunt de x-as en de y-as van elke lijnvisualisatie weergeven of verbergen. Dit kan vooral nuttig zijn wanneer uw lijnvisualisaties compacter zijn.</li><li>U kunt een minimum- en maximumwaardelabel bedekken met elke lijnvisualisatie om de pieken en dalen snel in een metrische kleur te markeren.</li><li>U kunt verschillende regressietrendlines op om het even welke lijnvisualisatie bedekken om de trend in de gegevens gemakkelijker te zien. De opties omvatten Lineair, Logaritmisch, Exponential, Macht en Quadratic.</li></ul>[Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
