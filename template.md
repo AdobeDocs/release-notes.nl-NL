@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a73b43fedf1c745f89640a11b7aa64244a78bc4
+source-git-commit: 1ec71f66a34b17fb62831973cd46426ecc9f0d10
 workflow-type: tm+mt
-source-wordcount: '2445'
+source-wordcount: '2446'
 ht-degree: 29%
 
 ---
@@ -87,7 +87,7 @@ Releaseopmerkingen voor de [!DNL Experience Platform,] inclusief [!DNL Experienc
 
 Functies en oplossingen.
 
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+For product documentation, see [Experience Cloud ID service](https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html).
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
@@ -116,9 +116,9 @@ Beschrijving van nieuwe functies. Gebruik koppen of een tabel.
 
 Zie [Mobiele services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)voor productdocumentatie.
 
-Voor meer informatie over de Mobiele SDKs, zie: [Android SDK 4.x voor Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) en [iOS SDK 4.x voor Experience Cloud Solutions](https://docs.adobe.com/content/help/nl-NL/mobile-services/ios/overview.html).
+Voor meer informatie over de Mobiele SDKs, zie: [Android SDK 4.x voor Experience Solutions](https://docs.adobe.com/content/help/nl-NL/mobile-services/android/overview.html) en [iOS SDK 4.x voor Experience Cloud Solutions](https://docs.adobe.com/content/help/nl-NL/mobile-services/ios/overview.html).
 
-## Analytics{#analytics}  
+## Analytics {#analytics}
 
 Nieuwe functies en oplossingen in Adobe Analytics:
 
