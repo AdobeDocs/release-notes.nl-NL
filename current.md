@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 9e8ab72d5c5ac0db9cde3ca99013a42e33251aa0
 workflow-type: tm+mt
 source-wordcount: '6518'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -102,7 +102,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: beschikbaarheid in EMEA en APAC | 31 augustus 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/nl-NL/analytics/components/cda/overview.html) en een persoonlijke grafiek zijn beschikbaar voor klanten in EMEA en APAC. |
 | Verbetering van veldgebaseerde stitching in [!UICONTROL Cross-Device Analytics] (beschikbaar in Amerika en EMEA) | 31 augustus 2020 | Deze vereenvoudigde implementatie voor nieuwe [!UICONTROL Cross-Device Analytics]-klanten geeft u de optie om gegevens te koppelen op basis van een gebruikers-id die is opgeslagen in een Analytics-veld (prop of eVar) in plaats van een (coöperatieve of persoonlijke) apparaatgrafiek te gebruiken. Dankzij de verbetering is het niet langer nodig om ECID te implementeren of id-synchronisatie toe te passen voor CDA-doeleinden. (Voor bepaalde andere functies zijn ECID en id-synchronisatie nog steeds vereist.) |
-| Werkruimte: Download 50 kB items voor één dimensie | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan de 400 rijen gegevens buiten Analysis Workspace. [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| Werkruimte: Download 50 kB items voor één dimensie | 17 september 2020 | U kunt 50.000 items downloaden voor één dimensie in een vrije-vormtabel, met toegepaste segmenten en filters. Hierdoor hebt u toegang tot meer dan de 400 rijen gegevens buiten Analysis Workspace. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
 | Werkruimte: Verbeterde lijnvisualisatie | 17 sep. 2020 | <ul><li>U kunt de x-as en de y-as van elke lijnvisualisatie weergeven of verbergen. Dit kan vooral nuttig zijn wanneer uw lijnvisualisaties compacter zijn.</li><li>U kunt een minimum- en maximumwaardelabel bedekken met elke lijnvisualisatie om de pieken en dalen snel in een metrische kleur te markeren.</li><li>U kunt verschillende regressietendensen lijnen op om het even welke lijnvisualisatie bedekken om de trend in de gegevens gemakkelijker te zien. De opties omvatten Lineair, Logaritmisch, Exponential, Macht en Quadratic.</li></ul> [Meer informatie...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 
@@ -384,11 +384,11 @@ Releaseopmerkingen bij Adobe Advertising Cloud.
 
 ### Nieuwe functies in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
 
-**Bijgewerkt op 20 augustus**
+**Bijgewerkt: 20 augustus**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Prognoses voor Roku | Voorspelling is nu beschikbaar voor Roku-plaatsingen. |
+| Prognoses voor Roku | De prognosefunctie is nu beschikbaar voor Roku-plaatsingen. |
 | Interactieve pre-roll uitgebreid met VAST-inventory | Elke interactieve pre-roll-plaatsing en -advertentie ondersteunt nu zowel VPAID- als VAST-inventory. **Opmerking:** als uw primaire KPI zichtbaarheid is, blijft u afzonderlijke VPAID- en VAST-plaatsingen en -advertenties maken, omdat er geen zichtbare impressies beschikbaar zijn voor VAST-advertenties. |
 
 ### Nieuwe functies in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
