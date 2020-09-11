@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7dd8e1b33661cc751ce8a384ee1ac4fc2f563d9b
+source-git-commit: 3de788a32337c5917e54eb6c23234c20c2910d98
 workflow-type: tm+mt
-source-wordcount: '6426'
+source-wordcount: '6409'
 ht-degree: 39%
 
 ---
 
 
-# Vroege toegang - Opmerkingen bij de release van Adobe Experience Cloud - september 2020
+# Opmerkingen bij de release van Adobe Experience Cloud - september 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen in [!DNL Adobe Experience Cloud]. Ook worden nieuwe documentatie, trainingscursussen en videotutorials onder de aandacht gebracht om u te helpen optimaal te profiteren van Experience Cloud.
-
->[!IMPORTANT]
->
->Deze pagina bevat pre-releasecontent en kan vóór de geplande release worden gewijzigd.
 
 >[!NOTE]
 >
