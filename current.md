@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
+source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
 workflow-type: tm+mt
-source-wordcount: '6394'
+source-wordcount: '6391'
 ht-degree: 32%
 
 ---
@@ -123,7 +123,7 @@ Release september - Zie Opmerkingen bij de [release voor Journey Orchestration](
 | [!UICONTROL Workspace]: Help-pagina voor prestaties | 22 okt. 2020 | Op de pagina met Help over Analysis Workspace-prestaties worden verschillende factoren weergegeven die van invloed zijn op de projectprestaties en worden koppelingen naar tips voor optimalisatie weergegeven. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Workspace] [!UICONTROL Line] visualisatie: Gemiddelde trendline verplaatsen, optie | 8 okt. 2020 | Het bewegingsgemiddelde is toegevoegd aan de montages van de trendlijn van de visualisatie van de Lijn. Een voortschrijdend gemiddelde wordt ook wel een voortschrijdend gemiddelde genoemd. Een voortschrijdend gemiddelde gebruikt een specifiek aantal gegevenspunten (bepaald door een [!UICONTROL Periods] selectie), gemiddeld deze en gebruikt het gemiddelde als een punt in de lijn. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL Data Repair] API | 8 okt. 2020 | De [!UICONTROL Data Repair] API is een hulpmiddel om gegevens uit Analytics te schrappen- rapportreeksen. In de release van oktober kunt u opgegeven variabelen voor eVars, props en Activity Map voor een opgegeven datumbereik verwijderen. In de toekomst worden aanvullende functies vrijgegeven. Met de API voor gegevensherstel worden bestaande Adobe Analytics-gegevens permanent verwijderd. We raden een zorgvuldige aanpak aan voor het uitvoeren van de reparatie om onbedoelde verwijdering tot een minimum te beperken. Voor toegang tot de API voor gegevensherstel is een contract vereist. Neem contact op met uw accountteam voor meer informatie. [Meer informatie](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
-| Verbeteringen aan interface voor analytische dashboards | 23 okt. 2020 | Wanneer u een mobiele scorecard maakt in Workspace, komt de opmaak van de scorecard nu overeen met die van de app. |
+| Verbeteringen voor interface voor analytische dashboards | 23 okt. 2020 | Wanneer u een mobiele scorecard maakt in Workspace, komt de opmaak van de scorecard nu overeen met die van de app. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -298,13 +298,13 @@ De documentatie van de Redacteur van de RTF wordt bijgewerkt om van alle gesteun
 
 * Als de gebruikers [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) hebben gewijzigd om de onderbrekingsconfiguratie te plaatsen om minder dan de tijd te nemen het voor activa om te uploaden, dan kan de gebruiker sessieonderbrekingssituatie ontmoeten.De gebruikers, daarom, moeten veranderen `chunkUploadMinFileSize` en `chunksize`, zodat elke brokkenverzoek de zitting vernieuwt. Zie [Elementen](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets)uploaden voor meer informatie.
 
-* Elementen kunnen ook worden [verplaatst naar mappen op hetzelfde niveau met behulp van sleepbewerkingen](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) , behalve [!UICONTROL Move (m)] bewerkingen waarmee de [!UICONTROL Move Assets] wizard wordt geopend.
+* Elementen kunnen ook worden [verplaatst naar mappen op hetzelfde niveau met behulp van sleepbewerkingen](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) , behalve [!UICONTROL Move(m)] bewerkingen waarmee de [!UICONTROL Move Assets] wizard wordt geopend.
 
 * Gebruik [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)voor Assets-inzichten. [De DTM-integratie](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) wordt in de documenten als een verouderde methode genoemd.
 
 **[!DNL Adobe Experience Manager]bureaubladtoepassing**
 
-* Gebruikers die zich aanmelden bij de bureaubladtoepassing nadat ze zich hebben afgemeld of zich voor het eerst hebben aangemeld, moeten hun [!DNL Experience Manager] server-URL opgeven in de notatie https://[aem-server-url]:[port]/ en vervolgens de [!UICONTROL Connect] optie selecteren om de fout &quot;De toepassing heeft een onbekende fout aangetroffen&quot; te voorkomen. Zie Adobe Experience Manager-bureaubladtoepassing [](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html)gebruiken voor meer informatie.
+* Gebruikers die zich aanmelden bij de bureaubladtoepassing nadat ze zich voor het eerst hebben afgemeld of zich voor het eerst hebben aangemeld, moeten hun [!DNL Experience Manager] server-URL opgeven in de indeling `https://[aem-server-url]:[port]/` en vervolgens de [!UICONTROL Connect] optie selecteren om de fout &quot;De toepassing heeft een onbekende fout aangetroffen&quot; te voorkomen. Zie Adobe Experience Manager-bureaubladtoepassing [](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html)gebruiken voor meer informatie.
 
 ### Community
 
