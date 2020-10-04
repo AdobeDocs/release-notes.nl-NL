@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e6add243b6c74b59f138543c460d55817bddf761
+source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
 workflow-type: tm+mt
-source-wordcount: '6309'
+source-wordcount: '6394'
 ht-degree: 32%
 
 ---
@@ -282,7 +282,13 @@ See the [AEM as a Cloud Service release notes.](https://docs.adobe.com/content/h
 
 ### Zelfondersteuning
 
+**[!DNL Experience Manager]Sites**
+
+De documentatie van de Redacteur van de RTF wordt bijgewerkt om van alle gesteunde protocollen voor verbindingen in RTE [](https://docs.adobe.com/content/help/en/experience-manager-65/administering/operations/configure-rich-text-editor-plug-ins.html#linkstyles)een lijst te maken.
+
 **[!DNL Experience Manager]Assets**
+
+* Er is nieuwe Help-inhoud beschikbaar over de [manier waarop AEM Assets voor alle gebruikers toegankelijk](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/accessibility.html) is.
 
 * **[De parameter](https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/search-assets.html#assetpicker)** Viewmode wordt toegevoegd aan de elementenkiezer (de elementenkiezer) om de elementenkiezer in de zoekmodus te openen. Als u een elementkiezer wilt openen in de zoekmodus en deze wilt gebruiken met `assettype` en `mimetype`, moet de gebruiker de `viewmode=search` parameter achtervoegsel in de URL plaatsen `https://[aem-server]:[port]/aem/assetpicker.html`. Bijvoorbeeld, `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
 
@@ -293,6 +299,8 @@ See the [AEM as a Cloud Service release notes.](https://docs.adobe.com/content/h
 * Als de gebruikers [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) hebben gewijzigd om de onderbrekingsconfiguratie te plaatsen om minder dan de tijd te nemen het voor activa om te uploaden, dan kan de gebruiker sessieonderbrekingssituatie ontmoeten.De gebruikers, daarom, moeten veranderen `chunkUploadMinFileSize` en `chunksize`, zodat elke brokkenverzoek de zitting vernieuwt. Zie [Elementen](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets)uploaden voor meer informatie.
 
 * Elementen kunnen ook worden [verplaatst naar mappen op hetzelfde niveau met behulp van sleepbewerkingen](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) , behalve [!UICONTROL Move (m)] bewerkingen waarmee de [!UICONTROL Move Assets] wizard wordt geopend.
+
+* Gebruik [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)voor Assets-inzichten. [De DTM-integratie](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) wordt in de documenten als een verouderde methode genoemd.
 
 **[!DNL Adobe Experience Manager]bureaubladtoepassing**
 
