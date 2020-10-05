@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
+source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
 workflow-type: tm+mt
-source-wordcount: '6391'
-ht-degree: 32%
+source-wordcount: '6398'
+ht-degree: 33%
 
 ---
 
@@ -64,7 +64,7 @@ De vroeger genoemde _Experience Cloud core diensten_, de [Experience Cloud diens
 
 Niet bijgewerkt in september.
 
-See [Cumulative release notes](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) for the latest release information.
+Zie Opmerkingen bij de [Cumulatieve release voor Experience Cloud-services](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) voor de meest recente releasegegevens.
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -105,6 +105,8 @@ Release september - Zie Opmerkingen bij de [release voor Journey Orchestration](
 [Documentatie](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/journeys/using/release-notes/release-notes.html) - [Instructievideo&#39;s](https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
+
+Releasedatum: **8 oktober 2020**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
@@ -397,9 +399,9 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | ----------- | ----------- | ---------- | ---------- |
-| 22 september 2020 | [Journey AI - Predictive send time optimization - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Begrijp welke werkschema&#39;s worden vereist om gegevens tussen Adobe Campaign en het model van Journey AI te synchroniseren. Leer hoe u de verzendtijdscores weergeeft op het niveau van elk afzonderlijk profiel en hoe u e-mailleveringen uitvoert met een verzendtijdformule. |
-| 22 september 2020 | [Journey AI - Predictive betrokkenheidsscoring - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Leer hoe u de betrokkenheidsscores op het individuele profielniveau kunt weergeven, scores kunt gebruiken voor betrokken gebruikers en moedige gebruikers kunt onderdrukken en hoe u typologische regels kunt maken om de moeheid van de klant te beheren. |
-| 22 september 2020 | [Het besturen van een groep toevoegen aan een levering - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Leer hoe te om een controlegroep voor uw levering te bepalen en hoe te om de profielen te halen die aan de controlegroep worden toegewezen nadat de levering is verzonden. |
+| 22 september 2020 | [Journey AI - Predictive send time optimization - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Begrijp welke workflows nodig zijn om gegevens tussen Adobe Campaign en het Journey AI-model te synchroniseren. Leer hoe u verzendtijdscores weergeeft op individueel profielniveau en hoe u e-mailverzendingen uitvoert met een verzendtijdformule. |
+| 22 september 2020 | [Journey AI - Predictive betrokkenheidsscoring - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Leer hoe u de betrokkenheidsscores op het individuele profielniveau kunt weergeven, scores kunt gebruiken voor targeting van betrokken gebruikers en onderdrukking van vermoeide gebruikers, en hoe u typologische regels kunt maken om vermoeidheid van de klant aan te pakken. |
+| 22 september 2020 | [Een besturingsgroep toevoegen aan een levering - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Leer hoe u een controlegroep voor uw levering kunt definiëren en hoe u de profielen die aan de controlegroep zijn toegewezen, kunt extraheren nadat de levering is uitgevoerd. |
 | 11 sep. 2020 | [Subdomeinen delegeren](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Met het Configuratiescherm van Adobe Campaign kunt u een subdomein volledig delegeren aan Adobe Campaign. |
 | 3 sep. 2020 | [IP-adressen toevoegen aan lijsten van gewenste personen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | In het Configuratiescherm kunt u nieuwe verbindingen met uw instanties maken door IP-adressen aan de lijst met toegestane adressen toe te voegen. Standaard is een Adobe Campaign Classic-instantie niet toegankelijk via verschillende IP-adressen. |
 | 3 sep. 2020 | [Configuratiescherm - URL-machtigingen toevoegen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | In het Configuratiescherm kunt u nieuwe verbindingen met uw instanties maken door IP-adressen aan de lijst met toegestane adressen toe te voegen. Standaard is een Adobe Campaign Classic-instantie niet toegankelijk via verschillende IP-adressen. |
