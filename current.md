@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4f7fd84dcf6c1edcee352fd1c7592d1a0f36ed36
+source-git-commit: 8d32193d5e42d33f9ca087154da628fa83f607b4
 workflow-type: tm+mt
-source-wordcount: '6480'
+source-wordcount: '6472'
 ht-degree: 33%
 
 ---
@@ -52,7 +52,7 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 >[!NOTE]
 >
->Experience Cloud-documentatie gaat naar Experience League. In oktober worden alle opmerkingen bij de release, artikelen, video&#39;s en zelfstudies verplaatst van hun huidige locatie naar `docs.adobe.com` en beschikbaar als onderdeel van Experience League. Deze beweging zorgt ervoor dat al het leren, zelfhulp, enablement, en communautaire inhoud van één enkele plaats wordt gediend: Experience League. Wanneer deze wijziging optreedt, hoeft u niets te doen, aangezien alle koppelingen naar de nieuwe locatie worden omgeleid. De opmerkingen bij de release worden bijgewerkt wanneer de cutover begint.
+>Experience Cloud-documentatie gaat naar Experience League. In oktober worden alle opmerkingen bij de release, artikelen, video&#39;s en zelfstudies verplaatst van de huidige locatie op `docs.adobe.com` Experience League naar. Deze beweging zorgt ervoor dat al het leren, zelfhulp, enablement, en communautaire inhoud van één enkele plaats wordt gediend. Wanneer deze wijziging optreedt, hoeft u niets te doen, aangezien alle koppelingen naar Experience League worden omgeleid. De opmerkingen bij de release worden bijgewerkt wanneer de cutover begint.
 
 ## ![Pictogram](/assets/adobe.png) Adobe-systeemstatus {#status}
 
