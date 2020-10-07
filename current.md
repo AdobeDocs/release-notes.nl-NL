@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1e425034bd7ac32833d74b826562f9761b2c05d5
+source-git-commit: 0eba5dbf803e9eefd45065b942fe49258c4c1d32
 workflow-type: tm+mt
-source-wordcount: '6636'
-ht-degree: 33%
+source-wordcount: '6707'
+ht-degree: 32%
 
 ---
 
@@ -31,13 +31,13 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 
 De productreleasedatums kunnen variëren. Controleer regelmatig of er updates zijn.
 
-Laatste update: **2 oktober 2020**
+Laatste update: **7 oktober 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud en administratie](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 2 oktober 2020)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 7 oktober 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -113,7 +113,7 @@ Release september - Zie Opmerkingen bij de [release voor Journey Orchestration](
 Releasedatum: **8 oktober 2020**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey) (Bijgewerkt op 7 oktober 2020)
 * [Nieuwe functies in Media Analytics](#media-aa)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
@@ -142,6 +142,7 @@ Releasedatum: **8 oktober 2020**
 | Analysis Workspace Performance Help-pagina | 22 okt. 2020 | Op de pagina met Help over Analysis Workspace-prestaties worden verschillende factoren weergegeven die van invloed zijn op de projectprestaties en worden koppelingen naar tips voor optimalisatie weergegeven. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Line] visualisatie: Gemiddelde trendline verplaatsen, optie | 8 okt. 2020 | Het bewegingsgemiddelde is toegevoegd aan de montages van de trendlijn van de visualisatie van de Lijn. Een voortschrijdend gemiddelde berekent het gemiddelde voor een gespecificeerde voorafgaande periode en gebruikt dat als trendlijngegevenspunt, dan zich aan de volgende periode beweegt. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Beperking van backfill verwijderen | 19 okt. 2020 | Eerder was het mogelijk om maximaal 2,5 miljard rijen te herstellen tijdens het maken van een verbinding. We verwijderen de beperking van de backfill en stellen u in staat om maximaal 13 maanden aan gegevens te herstellen, ongeacht de grootte. |
+| Sstitching op basis van CJA | 30 okt. 2020 | CJA op veld-gebaseerde stitching laat klanten toe om een Adobe Analytics (of andere) gebeurtenisdataset in de gegevensmeerwaarden van Adobe Experience Platform van één identiteitskaart te herleiden namespace aan een andere. Typisch, betekent dit het opnieuw sluiten van de gebeurtenisdataset van een op koekje-gebaseerde identiteitskaart aan een op persoon-gebaseerde identiteitskaart Op deze manier kan de opnieuw vergrendelde gegevensset worden gecombineerd met andere op personen gebaseerde gegevens in een CJA-verbinding, waardoor cross-device/cross-channel analyse in Analysis Workspace mogelijk wordt. |
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
@@ -171,7 +172,7 @@ AN-205046; AN-206847; AN-209003; AN-211746;  AN-214104; AN-215367; AN-215484; AN
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
 | HSTS-header toevoegen aan alle binnenkomende HTTPS-aanvragen | 29 september 2020 | Op 29 september 2020, begonnen wij de kopbal van HSTS aan alle inkomende verzoeken toe te voegen die HTTPS gebruiken. Dit instrueert browser/cliënt om alle toekomstige verzoeken in HTTPS te doen, die als best praktijken van de veiligheid wordt beschouwd. Op dit punt, zullen wij dit voor inkomende verzoeken niet afdwingen gebruikend HTTP. |
-| Instelling voor cookies van Experience Cloud ID-service wijzigen | 22 september 2020 | Een update van de privacy-instellingen voor Chrome versie 80 beïnvloedde de mogelijkheid van Adobe Analytics om sommige gebruikers die Google AMP-pagina&#39;s bekijken te volgen. Zo voorkomt u met name dat gebruikers die door Google gehoste AMP-pagina&#39;s bekijken, in verschillende domeinen kunnen volgen. Dit kan leiden tot een opblaasbaar aantal unieke bezoekers. Met deze correctie kunnen gebruikers dit probleem verhelpen door de instellingen voor hun ECID-cookies te wijzigen.<br>Momenteel stelt Analytics CID-cookies (Experience Cloud ID Service) in met de instelling `SameSite = Lax` die, voorafgaand aan versie 80 van Chrome, interdomeintracering toestaat. Dat is niet langer het geval. Met deze wijziging kunnen gebruikers de SameSite-instelling voor ECID-cookies bijwerken naar `None`.<br>Merk op dat dit het koekje van Analytics om in meer situaties toestaat te worden gedeeld, maar de koekjes van Analytics bevatten geen gevoelige informatie. Als u deze instelling kiest, moeten cookies worden ingesteld op `Secure` zodat gegevens alleen via HTTPS-verbindingen kunnen worden doorgegeven. Als u deze wijziging wilt doorvoeren, moet u een door u ondersteund gebruiker een ticket laten openen met de klantenservice. |
+| Instelling voor cookies van Experience Cloud ID-service wijzigen | 22 september 2020 | Een update van de privacy-instellingen voor Chrome versie 80 beïnvloedde de mogelijkheid van Adobe Analytics om sommige gebruikers die Google AMP-pagina&#39;s bekijken, bij te houden. Zo voorkomt u met name dat gebruikers die door Google gehoste AMP-pagina&#39;s bekijken, in verschillende domeinen kunnen volgen. Dit kan leiden tot een opblaasbaar aantal unieke bezoekers. Met deze correctie kunnen gebruikers dit probleem verhelpen door de instellingen voor hun ECID-cookies te wijzigen.<br>Momenteel stelt Analytics CID-cookies (Experience Cloud ID Service) in met de instelling `SameSite = Lax` die, voorafgaand aan versie 80 van Chrome, interdomeintracering toestaat. Dat is niet langer het geval. Met deze wijziging kunnen gebruikers de SameSite-instelling voor ECID-cookies bijwerken naar `None`.<br>Merk op dat dit het koekje van Analytics om in meer situaties toestaat te worden gedeeld, maar de koekjes van Analytics bevatten geen gevoelige informatie. Als u deze instelling kiest, moeten cookies worden ingesteld op `Secure` zodat gegevens alleen via HTTPS-verbindingen kunnen worden doorgegeven. Als u deze wijziging wilt doorvoeren, moet u een door u ondersteund gebruiker een ticket laten openen met de klantenservice. |
 | Migratie van `omniture.com` naar `adobe.com`-domein | 21 augustus 2020 | Op 13 augustus 2020 is de front-end architectuur van Adobe Analytics gemigreerd van `omniture.com|http://omniture.com/` naar het `adobe.com|http://adobe.com/`-domein. Deze wijziging verhelpt problemen met cookies van derden die optraden na de aanvankelijke productdomeinwijziging van 28 mei 2020. As a result of this update, the browser may prompt users to trust the new an `.adobe.com|http://an.adobe.com/` or `experience.adobe.com|http://experience.adobe.com/` domain. |
 | Update over compatibiliteit met Ad Hoc Analysis Java 8 | 21 augustus 2020 | Ad Hoc Analysis is momenteel niet compatibel met Java 8-versies 1.8.0_261+. Om ervoor te zorgen dat uw toegang tot deze tool niet wordt beëindigd voordat de [einddatum](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) is bereikt, raden we u aan een Java 8-versie te gebruiken die ouder is dan 1.8.0_261. |
 | EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. We hebben een nieuwe standaard in het [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) dat moet worden gebruikt voor alle integraties waarvoor aanbod en ondersteuning gewenst is. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/import/dataconnectors/data-connectors-eol.html) |
