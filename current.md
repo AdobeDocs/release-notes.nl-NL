@@ -7,7 +7,7 @@ author: mfrei
 translation-type: tm+mt
 source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
 workflow-type: tm+mt
-source-wordcount: '6740'
+source-wordcount: '6731'
 ht-degree: 32%
 
 ---
@@ -242,7 +242,7 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
    Wat is er nieuw in AEM as a Cloud Service?
 
    * **Adobe Experience Manager Sites als Cloud Service**
-      * De redacteur Javascript SDK van de Redacteur van de Toepassing van de Enige Pagina (SPA) is [nu open bron.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/headless/spa/reference-materials.html)
+      * De JavaScript SDK van de Editor voor één pagina (SPA) is [nu open source.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/headless/spa/reference-materials.html)
    * **Adobe Experience Manager Assets as a Cloud Service**
 
       * Watermerken van afbeeldingsbestanden wordt ondersteund voor uitvoeringen die worden gegenereerd met Asset microservices. Deze kan worden geconfigureerd als een verwerkingsprofiel en gebruikt een PNG-bestand als watermerk. Zie [watermerk uw elementen.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/watermark-assets.html)
@@ -411,7 +411,7 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 | 22 september 2020 | [Journey AI - Predictive betrokkenheidsscoring - Video](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Leer hoe u de betrokkenheidsscores op het individuele profielniveau kunt weergeven, scores kunt gebruiken voor targeting van betrokken gebruikers en onderdrukking van vermoeide gebruikers, en hoe u typologische regels kunt maken om vermoeidheid van de klant aan te pakken. |
 | 22 september 2020 | [Een besturingsgroep toevoegen aan een levering - Video](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Leer hoe u een controlegroep voor uw levering kunt definiëren en hoe u de profielen die aan de controlegroep zijn toegewezen, kunt extraheren nadat de levering is uitgevoerd. |
 | 11 sep. 2020 | [Subdomeinen delegeren](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Met het Configuratiescherm van Adobe Campaign kunt u een subdomein volledig delegeren aan Adobe Campaign. |
-| 3 sep. 2020 | [IP-adressen toevoegen aan lijsten van gewenste personen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | In het Configuratiescherm kunt u nieuwe verbindingen met uw instanties maken door IP-adressen aan de lijst met toegestane adressen toe te voegen. Standaard is een Adobe Campaign Classic-instantie niet toegankelijk via verschillende IP-adressen. |
+| 3 sep. 2020 | [IP-adressen toevoegen aan lijsten met gewenste adressen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | In het Configuratiescherm kunt u nieuwe verbindingen met uw instanties maken door IP-adressen aan de lijst met toegestane adressen toe te voegen. Standaard is een Adobe Campaign Classic-instantie niet toegankelijk via verschillende IP-adressen. |
 | 3 sep. 2020 | [Configuratiescherm - URL-machtigingen toevoegen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | In het Configuratiescherm kunt u nieuwe verbindingen met uw instanties maken door IP-adressen aan de lijst met toegestane adressen toe te voegen. Standaard is een Adobe Campaign Classic-instantie niet toegankelijk via verschillende IP-adressen. |
 
 ### Help-bronnen voor Help
