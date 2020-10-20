@@ -2,14 +2,14 @@
 cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Releaseopmerkingen bij Adobe Experience Cloud
-breadcrumb-title: Handleiding voor opmerkingen bij de release
+breadcrumb-title: Release-opmerkingen
 user-guide-description: Meer informatie over nieuwe functies, correcties en belangrijke kennisgevingen in Adobe Experience Cloud.
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: e6add243b6c74b59f138543c460d55817bddf761
+source-git-commit: f043f2e12fdb7fa72fa20e00198234a04a1367de
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 85%
+source-wordcount: '104'
+ht-degree: 88%
 
 ---
 
