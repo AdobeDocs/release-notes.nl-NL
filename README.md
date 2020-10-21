@@ -1,13 +1,20 @@
 ---
-source-git-commit: d97a18edd04952f15a93be3197cf707c3de729d0
+source-git-commit: f15603c29aa5f6df6eb7dc630ca72cc4e8292caa
+workflow-type: tm+mt
 translation-type: tm+mt
+source-wordcount: '529'
+ht-degree: 8%
 
 ---
 # Contribute-artikel
 
-We zijn blij met de bijdragen van onze gemeenschap en van Adobe-medewerkers van buiten de documentatieteams.
+| EXL-PR | EXL | Voorvertoning | Activeren | Gepubliceerd | Help |
+|--- |--- |--- |--- |--- |--- |
+| [![Status samenstellen](https://docs.ci.corp.adobe.com/view/exl-pr/job/release-notes.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/release-notes.en_pr-exl/lastBuild/) | [![Status samenstellen](https://docs.ci.corp.adobe.com/view/exl-pr/job/release-notes.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/release-notes.en_exl/lastBuild/lastBuild) | [Voorbeeld-URL](https://experienceleague.corp.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [Live URL](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) | [Ontwerphandleiding](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
-## Adobe Open Source Code of Conduct
+Wij verwelkomen de bijdragen van onze gemeenschap en van Adobe werknemers van buiten de documentatieteams.
+
+## Adobe Open-Source-gedragscode
 
 
 Dit project heeft de [Adobe-gedragscode voor open source](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) of de [.NET Foundation-gedragscode](https://dotnetfoundation.org/code-of-conduct) overgenomen. Zie het artikel [Bijdragen](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html) voor meer informatie.
@@ -20,13 +27,13 @@ Hoe u een bijdrage levert, hangt af van wie u bent en van het soort veranderinge
 
 ### Kleine wijzigingen
 
-Als u minder belangrijke updates uit de goodness van uw hart bijdraagt, bezoek het artikel en klik de **Edit** verbinding in het artikel dat naar de bron GitHub voor het artikel gaat. Dan, gebruik enkel GitHub UI om uw updates te maken. Zie de algemene handleiding voor [Adobe Docs-medewerkers](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) voor meer informatie.
+Als u minder belangrijke updates uit de goodness van uw hart bijdraagt, bezoek het artikel en klik de **Edit** verbinding in het artikel dat naar de bron GitHub voor het artikel gaat. Dan, gebruik enkel GitHub UI om uw updates te maken. Raadpleeg de algemene handleiding voor [Adobe Docs-contribuanten](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) voor meer informatie.
 
-Kleine correcties of verduidelijkingen die u voor documentatie en codevoorbeelden in dit antwoord opgeeft, worden behandeld in de gebruiksvoorwaarden van Adobe.
+Kleine correcties of verduidelijkingen die u ter documentatie en codevoorbeelden in dit antwoord aanbrengt, worden behandeld in de gebruiksvoorwaarden van de Adobe.
 
 ### Belangrijke wijzigingen of nieuwe artikelen van leden van de gemeenschap
 
-Als u deel uitmaakt van de Adobe-community en u een nieuw artikel wilt maken of belangrijke wijzigingen wilt indienen, gebruikt u het tabblad Problemen in de Git-opslagplaats om een uitgave in te dienen die een gesprek met het documentatieteam kan starten. Zodra u met een plan hebt ingestemd, zult u met een werknemer moeten werken helpen die nieuwe inhoud door een combinatie van het werk in de openbare en privé bewaarplaatsen brengen.
+Als u deel uitmaakt van de gemeenschap van de Adobe en u een nieuw artikel wilt creëren of belangrijke veranderingen voorleggen, gelieve het lusje van Kwesties in de bewaarplaats van de it te gebruiken om een kwestie voor te leggen om een gesprek met het documentatieteam te beginnen. Zodra u met een plan hebt ingestemd, zult u met een werknemer moeten werken helpen die nieuwe inhoud door een combinatie van het werk in de openbare en privé bewaarplaatsen brengen.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
@@ -34,7 +41,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Belangrijke wijzigingen van Adobe-medewerkers
 
-Als u een technisch schrijver, programmamanager of ontwikkelaar van het productteam bent voor een Adobe Experience Cloud-oplossing en het uw taak is om een bijdrage te leveren aan technische artikelen of om technische artikelen te schrijven, moet u de persoonlijke opslagruimte gebruiken `https://git.corp.adobe.com/AdobeDocs`. <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
+Als u een technisch schrijver, programmamanager, of ontwikkelaar van het productteam voor een oplossing van Adobe Experience Cloud bent en het uw baan is om aan of auteur technische artikelen bij te dragen, zou u de privé bewaarplaats moeten gebruiken `https://git.corp.adobe.com/AdobeDocs`. <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## Gereedschappen en instellen
 
