@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
+source-git-commit: 15322b62554e6ef8b5100ee43a231f59b3dd20a7
 workflow-type: tm+mt
-source-wordcount: '6731'
-ht-degree: 32%
+source-wordcount: '6698'
+ht-degree: 30%
 
 ---
 
@@ -427,21 +427,25 @@ Releaseopmerkingen bij Adobe Advertising Cloud.
 * [Nieuwe functies in Advertising Cloud DSP](#adcloud-dsp)
 * [Nieuwe functies in Advertising Cloud Search](#adcloud-search)
 
-### Nieuwe functies in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
+### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+
+Releasedatum: 15 oktober 2020
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Interactieve pre-roll uitgebreid met VAST-inventory | Elke interactieve pre-roll-plaatsing en -advertentie ondersteunt nu zowel VPAID- als VAST-inventory. **Opmerking:** Als uw primaire KPI de weergavemogelijkheid is, blijft u afzonderlijke VPAID- en VAST-plaatsingen en -advertenties maken, omdat zichtbare indrukkingen niet beschikbaar zijn voor VAST-advertenties. |
+| Privévoorraad | Alle gebruikers kunnen de details van dealidentiteitskaart nu opstelling en uitgeven gebruikend een nieuw vorm van identiteitskaart van de deal, dat een vereenvoudigde versie van de erfenisvorm [!UICONTROL Smart Ad Serving] is. Om de nieuwe details van identiteitskaart van de overeenkomst te plaatsen, ga naar **[!UICONTROL Inventory > Deals]**, klik **[!UICONTROL Create]**, en klik dan **[!UICONTROL Deal ID Beta]**. |
+| Prognose van plaatsing | Voor plaatsing met plaatsing-vlakke het plaatsen, omvat de [!UICONTROL Forecast] sectie van de plaatsingsmontages een nieuwe [!UICONTROL Estimated Maximums] sectie, die erop wijst hoeveel meer capaciteit met de huidige het richten configuratie beschikbaar is. |
 
-### Nieuwe functies in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
+### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Releasedatum: **8 augustus 2020**
+Releasedatum: 17 oktober 2020
 
 | Functie | Beschrijving |
-| ----------- | ---------- |
-| [!UICONTROL Portfolios] | Positielimieten op portfolioniveau zijn niet meer beschikbaar in portfolioinstellingen. Eerder gemaakte positielimieten zijn verwijderd. |
-| [!UICONTROL Constraints] | Op positie gebaseerde restricties en restrictievoorwaarden worden niet meer ondersteund: <br/> <ul><li>[!UICONTROL Min Pos] en [!UICONTROL Max Pos] beperkingen niet meer beschikbaar zijn en zijn verwijderd uit alle eerder gemaakte [!UICONTROL Bid & Position] beperkingen en [!UICONTROL Impression Share] beperkingen.</li><li>Existing [!UICONTROL Bid & Position] constraints that included position constraints but no bid constraints were paused. Zij zijn nog beschikbaar in de UI en in rapporten.</li><li>[!UICONTROL Bid & Position] de namen van de beperkingen werden gewijzigd in [!UICONTROL Bid] beperkingen .</li><li>Alle op positie-gebaseerde voorwaarden (het gebruiken [!UICONTROL Average Position], [!UICONTROL Weighted Average Position], of [!UICONTROL Last Known Pos] metriek) in om het even welk type van beperking werden verwijderd.</li></ul> <br/> **Opmerking:** Positiegegevens worden nog steeds ingevuld zolang deze beschikbaar zijn in de zoekmachines. Positie is met ingang van september 2020 niet langer beschikbaar in Microsoft Ads. |
-| [!UICONTROL Campaigns] | (Google Ads-campagnes) Advertising Cloud Search ondersteunt nu advertentie-aanpassers in RSA&#39;s (responsieve zoekadvertenties). Voorheen werden deze ondersteund in alle advertentietypen behalve RSA&#39;s. |
+| -----------| ---------- |
+| Campagnes zoeken | In de [!UICONTROL Accounts] weergave geeft de [!UICONTROL Access] kolom nu aan wanneer [!DNL Advertising Cloud Search] u zich niet kunt aanmelden bij een ingeschakelde zoekprogrammaprogrammaaccount. Als u de oorzaak van de fout wilt zien, houdt u de cursor boven het waarschuwingspictogram. |
+| [!UICONTROL Custom Alerts] | Het eerste [!UICONTROL Alerts Beta] heet nu [!UICONTROL Custom Alerts]. |
+|  | In douanealarm, werd het werkschema om te identificeren wanneer de metriek voor de gespecificeerde datumwaaier van metriek voor de vorige periode zijn verhoogd of verminderd vereenvoudigd en naar het [!UICONTROL Filters] lusje verplaatst. |
+
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento] {#magento}
 
