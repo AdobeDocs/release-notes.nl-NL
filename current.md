@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dba5bf9afced03536adb857f879bd1df349ebbbc
+source-git-commit: 3b533d52ae98c930c3e9af7470825d659ec9b0fe
 workflow-type: tm+mt
-source-wordcount: '6862'
+source-wordcount: '6926'
 ht-degree: 23%
 
 ---
@@ -338,6 +338,7 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 27 oktober 2020 | [Inleiding tot AEM Document Security Extension voor Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | De Uitbreiding van de Veiligheid van het Document van Adobe Experience Manager voor Microsoft Office zorgt ervoor dat slechts de mensen u toestaat Word, Excel, en de dossiers van PowerPoint kunnen gebruiken die uw intellectuele bezit bevatten. Door de Uitbreiding van de Veiligheid van het Document voor Microsoft Office te gebruiken, kunt u vooraf bepaalde vertrouwelijkheidsmontages op uw dossiers toepassen. |
 | 7 oktober 2020 | [Paginagemetriek weergeven in Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artikel | Leer hoe u gegevens die vanaf een Adobe Experience Manager-site zijn vastgelegd, kunt toewijzen aan maateenheden en dimensies in Adobe Analytics-rapportensuites. |
 | 8 oktober 2020 | [Aanpassing van de volledige webpaginamogelijkheden](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-web-page.html) | Video | Leer hoe u een activiteit maakt om uw sitepagina&#39;s die op AEM worden gehost, om te leiden naar een nieuwe pagina met Adobe Target. |
 | 8 oktober 2020 | [Personalisatie met behulp van Visual Experience Composer](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-using-vec.html) | Video | Leer hoe te om een Activiteit van het Doel van de Test te creëren A/B gebruikend Visuele Composer van de Ervaring (VEC). |
@@ -411,7 +412,7 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 Releasegegevens voor Campaign Classic, Campaign Standard en Control Panel.
 
-#### Configuratiescherm
+#### Configuratiescherm 
 
 * Subdomeinconfiguratie met CNAME&#39;s - [Meer informatie](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html#use-cnames)
 
