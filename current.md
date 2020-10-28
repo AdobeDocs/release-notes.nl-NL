@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
+source-git-commit: f16817c423635f6996dd729fe9e07e7d7e63fd06
 workflow-type: tm+mt
-source-wordcount: '7046'
+source-wordcount: '7222'
 ht-degree: 22%
 
 ---
@@ -203,6 +203,10 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Audience Manager.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 28 oktober 2020 | [Getallen in de grafiek Trait begrijpen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Lees wat tips over het begrijpen van de gerapporteerde getallen voor kenmerken in het scherm met informatie over de eigenschap. |
+| 23 oktober 2020 | [Planning Trait Creation from Analytics Data](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Leer wat tips en trucs om u te helpen wanneer u van plan bent om de gegevens van Adobe Analytics in uw eigenschappen in Audience Manager te gebruiken. |
+| 23 oktober 2020 | [Een gegevensbron kiezen bij het maken van sporen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Een van de belangrijke velden die u moet invullen wanneer u eigenschappen maakt, is het veld Gegevensbron. Krijg uiteinden bij het kiezen van de juiste gegevensbron voor op regel-gebaseerde en Onboard eigenschappen. |
+| 14 september 2020 | [Codeweergave gebruiken om sporen te maken en te bewerken](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.html?lang=en#build-and-manage-audiences) | Video | Leer hoe u de codeweergave kunt gebruiken wanneer u nieuwe kenmerken maakt of bestaande kenmerken bewerkt. De codeweergave is een alternatief voor de expressiebouwer bij het instellen van de expressie trait. |
 | 10 oktober 2020 | [Voorspelend publiek](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html) | Video | In deze video zullen we bespreken wat Audience Manager Predictive Audiences zijn, details presenteren over hoe ze werken en wijzen op gebruiksgevallen. |
 
 ## ![Pictogram](/assets/aem.png) Adobe Experience Manager {#aem}
