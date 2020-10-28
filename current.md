@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f16817c423635f6996dd729fe9e07e7d7e63fd06
+source-git-commit: 114222b4df9fd72691065a9a1cdf7bc1e7f95a5d
 workflow-type: tm+mt
-source-wordcount: '7222'
+source-wordcount: '7251'
 ht-degree: 22%
 
 ---
@@ -33,7 +33,7 @@ Laatste update: **28 oktober 2020**
 * [Experience Cloud en administratie](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 22 oktober 2020)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 28 oktober 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Bijgewerkt: **28-10-2020**)
 * [Campaign](#ac)
@@ -100,7 +100,7 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 Releasedatum: **29 oktober 2020**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey) (Bijgewerkt op 28 oktober 2020)
 * [Nieuwe functies in Media Analytics](#media-aa)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
@@ -111,7 +111,7 @@ Releasedatum: **29 oktober 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
-| Adobe Analytics-documentatie | Oktober 2020 | Adobe Analytics-documentatie gaat naar Experience League. In oktober gaan alle artikelen, video&#39;s, opmerkingen bij de release en zelfstudies van de huidige locatie `docs.adobe.com` naar `experienceleague.adobe.com`. Deze beweging zorgt ervoor dat al het leren, zelfhulp, enablement, en communautaire inhoud van één enkele plaats wordt gediend. Wanneer deze wijziging optreedt, hoeft u niets te doen, aangezien alle koppelingen naar Experience League worden omgeleid. De opmerkingen bij de release worden bijgewerkt wanneer de cutover begint. |
+| Adobe Analytics-documentatie | Oktober/nov 2020 | Adobe Analytics-documentatie gaat naar Experience League. In oktober gaan alle artikelen, video&#39;s, opmerkingen bij de release en zelfstudies van de huidige locatie `docs.adobe.com` naar `experienceleague.adobe.com`. Deze beweging zorgt ervoor dat al het leren, zelfhulp, enablement, en communautaire inhoud van één enkele plaats wordt gediend. Wanneer deze wijziging optreedt, hoeft u niets te doen, aangezien alle koppelingen naar Experience League worden omgeleid. De opmerkingen bij de release worden bijgewerkt wanneer de cutover begint. |
 | [!UICONTROL Workspace] [!UICONTROL Line] visualisatie: Gemiddelde trendline verplaatsen, optie | 8 okt. 2020 | Het bewegingsgemiddelde is toegevoegd aan de instellingen van de [!UICONTROL Line] visualisatietendline. Een voortschrijdend gemiddelde wordt ook wel een voortschrijdend gemiddelde genoemd. Een voortschrijdend gemiddelde gebruikt een specifiek aantal gegevenspunten (bepaald door een [!UICONTROL Periods] selectie), gemiddeld deze en gebruikt het gemiddelde als een punt in de lijn. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL Data Repair] API | 8 okt. 2020 | De [!UICONTROL Data Repair] API is een hulpmiddel om gegevens uit Analytics te schrappen- rapportreeksen. De release van oktober bevat de mogelijkheid om opgegeven variabelen, [!UICONTROL Activity Map] eigenschappen en variabelen voor een opgegeven datumbereik te verwijderen. In de toekomst worden aanvullende functies vrijgegeven. Met de [!UICONTROL Data Repair] API worden bestaande Adobe Analytics-gegevens permanent verwijderd. We raden een zorgvuldige aanpak aan voor het uitvoeren van de reparatie om onbedoelde verwijdering tot een minimum te beperken. Voor toegang tot de [!UICONTROL Data Repair] API is een contract vereist. Neem contact op met uw accountteam voor meer informatie. [Meer informatie](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
 | [!UICONTROL Workspace]: Help-pagina voor prestaties | 22 okt. 2020 | De pagina van de [!UICONTROL Analysis Workspace] prestatieshulp toont de verschillende factoren die projectprestaties en verbindingen aan uiteinden voor optimalisering beïnvloeden. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -121,9 +121,9 @@ Releasedatum: **29 oktober 2020**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics-documentatie | Oktober 2020 | Customer Journey Analytics-documentatie gaat naar Experience League. In oktober gaan alle artikelen, video&#39;s, opmerkingen bij de release en zelfstudies van de huidige locatie `docs.adobe.com` naar `experienceleague.adobe.com`. Deze beweging zorgt ervoor dat al het leren, zelfhulp, enablement, en communautaire inhoud van één enkele plaats wordt gediend. Wanneer deze wijziging optreedt, hoeft u niets te doen, aangezien alle koppelingen naar Experience League worden omgeleid. De opmerkingen bij de release worden bijgewerkt wanneer de cutover begint. |
+| Customer Journey Analytics-documentatie | Oktober/nov 2020 | Customer Journey Analytics-documentatie gaat naar Experience League. In oktober gaan alle artikelen, video&#39;s, opmerkingen bij de release en zelfstudies van de huidige locatie `docs.adobe.com` naar `experienceleague.adobe.com`. Deze beweging zorgt ervoor dat al het leren, zelfhulp, enablement, en communautaire inhoud van één enkele plaats wordt gediend. Wanneer deze wijziging optreedt, hoeft u niets te doen, aangezien alle koppelingen naar Experience League worden omgeleid. De opmerkingen bij de release worden bijgewerkt wanneer de cutover begint. |
 | [!UICONTROL Line] visualisatie: Gemiddelde trendline verplaatsen, optie | 8 okt. 2020 | Het bewegingsgemiddelde is toegevoegd aan de montages van de trendlijn van de visualisatie van de Lijn. Een voortschrijdend gemiddelde berekent het gemiddelde voor een gespecificeerde voorafgaande periode en gebruikt dat als trendlijngegevenspunt, dan zich aan de volgende periode beweegt. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
-| Beperking van backfill verwijderen | 19 okt. 2020 | Eerder was het mogelijk om maximaal 2,5 miljard rijen te herstellen tijdens het maken van een verbinding. We verwijderen de beperking van de backfill en stellen u in staat om maximaal 13 maanden aan gegevens te herstellen, ongeacht de grootte. |
+| Beperking van backfill verwijderen | 19 okt. 2020 | Om een betere ervaring van CJA te verstrekken, hebben wij de backfill (historische gegevensimport) beperking geschrapt. Eerder, kon u een maximum van 2.5 miljard rijen op uw en anders vereiste technische betrokkenheid terugvullen. Nu kunt u zonder enige beperking back-ups maken van gegevens. [Meer informatie](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Analysis Workspace Performance Help-pagina | 22 okt. 2020 | Op de pagina met Help over Analysis Workspace-prestaties worden verschillende factoren weergegeven die van invloed zijn op de projectprestaties en worden koppelingen naar tips voor optimalisatie weergegeven. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Componenten > Gebruikersvoorkeuren die zijn toegevoegd aan de CJA-werkruimte | 29 okt. 2020 | Op de pagina Componenten > Gebruikersvoorkeuren kunt u Analysis Workspace-instellingen (en de bijbehorende componenten) voor uw gebruiker beheren. Dit omvat momenteel het scheidingsteken voor duizendtallen en het CSV-scheidingsteken. |
 | Reis-IQ: Kanaaloverschrijdende analyse | 30 okt. 2020 | Reis-IQ: Met de kanaalanalyse kunnen klanten een Adobe Analytics-gegevensset (of andere gegevensset) voor een gebeurtenis in Adobe Experience Platform-gegevenshoek van de ene naamruimte naar de andere opnieuw koppelen. Typisch, betekent dit het opnieuw sluiten van de gebeurtenisdataset van een op koekje-gebaseerde identiteitskaart aan een op persoon-gebaseerde identiteitskaart Op deze manier kan de opnieuw vergrendelde gegevensset worden gecombineerd met andere op personen gebaseerde gegevens in een CJA-verbinding, waardoor cross-device/cross-channel analyse in Analysis Workspace mogelijk wordt. |
