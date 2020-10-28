@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3b533d52ae98c930c3e9af7470825d659ec9b0fe
+source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
 workflow-type: tm+mt
-source-wordcount: '6926'
-ht-degree: 23%
+source-wordcount: '7046'
+ht-degree: 22%
 
 ---
 
@@ -27,7 +27,7 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 >
 >Meld u aan voor de [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om via e-mail op de hoogte te worden gebracht van komende releases.
 
-Laatste update: **23 oktober 2020**
+Laatste update: **28 oktober 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud en administratie](#ecloud)
@@ -35,7 +35,7 @@ Laatste update: **23 oktober 2020**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 22 oktober 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) (Bijgewerkt: **28-10-2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html)
@@ -290,6 +290,15 @@ De documentatie van de Redacteur van de RTF wordt bijgewerkt om van alle gesteun
 * Elementen kunnen ook worden [verplaatst naar mappen op hetzelfde niveau met behulp van sleepbewerkingen](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) , behalve [!UICONTROL Move(m)] bewerkingen waarmee de [!UICONTROL Move Assets] wizard wordt geopend.
 
 * Gebruik [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)voor Assets-inzichten. [De DTM-integratie](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) wordt in de documenten als een verouderde methode genoemd.
+
+Bijgewerkt: **28-10-2020**
+
+* **Verbeteringen** merkportal: De volgende nieuwe functies en meer zijn beschikbaar in [!DNL Brand Portal]:
+
+   * [Verbeterde downloadervaring](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/download/brand-portal-download-assets.html) voor vereenvoudigde, snelle downloads. De extra downloadconfiguraties kunnen door beheerders worden gevormd om een ervaring aan te bieden die de behoeften van de gebruikers en de ondernemingen aanpast.
+   * Een-klik navigatie aan [!UICONTROL Files], [Inzamelingen](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/share/brand-portal-share-collection.html), en [!UICONTROL Shared Links] is nu mogelijk van om het even welke pagina.
+   * Gebruikers kunnen nu specifieke uitvoeringen [selecteren en downloaden](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/download/brand-portal-download-assets.html#download-assets-from-asset-details-page) . De nieuwe optie voor het downloaden van uitvoeringen is beschikbaar in het [!UICONTROL Renditions] deelvenster op de pagina met elementdetails.
+   * Een onderbreking van 15 minuten voor gastgebruikerszittingen verzekert een betere ervaring aan alle gezamenlijke gebruikers.
 
 ### [!DNL Experience Manager] Forms
 
