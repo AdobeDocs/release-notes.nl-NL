@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 114222b4df9fd72691065a9a1cdf7bc1e7f95a5d
+source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
 workflow-type: tm+mt
-source-wordcount: '7251'
-ht-degree: 22%
+source-wordcount: '7377'
+ht-degree: 21%
 
 ---
 
@@ -83,6 +83,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 26 oktober 2020 | [Inleiding tot Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Video | Deze video geeft een overzicht van Offer Decisioning, een toepassingsservice die op Adobe Experience Platform is gebouwd. De video behandelt de zakelijke uitdagingen die Offer Decisioning oplost, de belangrijkste mogelijkheden, de basisarchitectuur en de belangrijkste gebruiksgevallen. |
 | 14 september 2020 | [Bedrijfswaarde van Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Video | [!UICONTROL Attribution AI], als onderdeel van [!UICONTROL Intelligent Services], is een multi-channel, algoritmische attributiedienst die de invloed en het stijgende effect van klanteninteractie tegen gespecificeerde resultaten berekent. Met [!UICONTROL Attribution AI], kunnen de marketers marketing en reclame uitgaven meten en optimaliseren door het effect van elke individuele klanteninteractie over elke fase van de reizen van de klanten te begrijpen. |
 | 14 september 2020 | [Bedrijfswaarde van AI van de Klant](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | Video | In deze video ziet u hoe [!UICONTROL Customer AI] profielen van klanten worden verrijkt met op AI gebaseerde eigenschappen en hoe de segmentatie van klanten en gerichte inspanningen worden versterkt. |
 | 14 september 2020 | [Bedrijfswaarde van Platform en Magento](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | Video | In deze video ziet u hoe Adobe Experience Platform kan worden gebruikt met [!DNL Magento] Commerce om één weergave van klanten te maken en om de ervaringen op een digitale winkel en op verschillende kanalen op een intelligente manier te personaliseren. |
@@ -104,7 +105,7 @@ Releasedatum: **29 oktober 2020**
 * [Nieuwe functies in Media Analytics](#media-aa)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
-* [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
+* [Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
@@ -437,6 +438,8 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | ----------- | ----------- | ---------- | ---------- |
+| 19 oktober 2020 | [Controlebord - Toevoegend een IP waaier aan de lijst van gewenste personen](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Leer hoe te om een IP adreswaaier aan de lijst van gewenste personen in het Controlebord toe te voegen. |
+| 19 oktober 2020 | [Controlebord - Toevoegend een IP waaier aan de lijst van gewenste personen](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Leer hoe te om een IP adreswaaier aan de lijst van gewenste personen in het Controlebord toe te voegen. |
 | 16 oktober 2020 | [Configuratiescherm - Subdomeinen delegeren met gebruik van CNAME (bèta) - Feature-video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het regelpaneel. |
 | 16 oktober 2020 | [Configuratiescherm - Subdomeinen delegeren met gebruik van CNAME (bèta) - Feature-video](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Standard | Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het regelpaneel. |
 
