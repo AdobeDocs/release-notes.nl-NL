@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
+source-git-commit: 244301cf84111e61d3566fff5e515ee0960904c0
 workflow-type: tm+mt
-source-wordcount: '7377'
+source-wordcount: '7447'
 ht-degree: 21%
 
 ---
@@ -37,7 +37,7 @@ Laatste update: **28 oktober 2020**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Bijgewerkt: **28-10-2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud)
+* [Advertising Cloud](#adcloud) (Bijgewerkt: **28-10-2020**)
 * [[!DNL Target]](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -105,7 +105,7 @@ Releasedatum: **29 oktober 2020**
 * [Nieuwe functies in Media Analytics](#media-aa)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
-* [Analytics courses and tutorials](#tutorials-analytics)
+* [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
@@ -458,16 +458,18 @@ Releaseopmerkingen bij Adobe Advertising Cloud.
 
 ### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Releasedatum: 15 oktober 2020
+Bijgewerkt: 28 oktober 2020
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Privévoorraad | Alle gebruikers kunnen de details van dealidentiteitskaart nu opstelling en uitgeven gebruikend een nieuw vorm van identiteitskaart van de deal, dat een vereenvoudigde versie van de erfenisvorm [!UICONTROL Smart Ad Serving] is. Om de nieuwe details van identiteitskaart van de overeenkomst te plaatsen, ga naar **[!UICONTROL Inventory > Deals]**, klik **[!UICONTROL Create]**, en klik dan **[!UICONTROL Deal ID Beta]**. |
-| Prognose van plaatsing | Voor plaatsing met plaatsing-vlakke het plaatsen, omvat de [!UICONTROL Forecast] sectie van de plaatsingsmontages een nieuwe [!UICONTROL Estimated Maximums] sectie, die erop wijst hoeveel meer capaciteit met de huidige het richten configuratie beschikbaar is. |
+| Nieuwe Help | (28 oktober) De oudere Help is vervangen door bijgewerkte pagina&#39;s, die beschikbaar zijn via de koppeling Help in het DSP hoofdmenu en die ook altijd beschikbaar zijn op [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
+| Campagnes | (28 oktober) De vorige Campagne Bètweergaven zijn nu de standaardcameraweergaven, voor snellere inzichten, vereenvoudigde workflows en aangepaste weergaven. |
+| Privévoorraad | (15 oktober versie) Alle gebruikers kunnen de details van dealID nu opstelling en uitgeven gebruikend een nieuwe vorm van identiteitskaart van de deal, die een vereenvoudigde versie van de erfenisvorm is. [!UICONTROL Smart Ad Serving] Om de nieuwe details van identiteitskaart van de overeenkomst te plaatsen, ga naar **[!UICONTROL Inventory > Deals]**, klik **[!UICONTROL Create]**, en klik dan **[!UICONTROL Deal ID Beta]**. |
+| Prognose van plaatsing | (15 oktober) Voor plaatsingen met plaatsing-vlakke het passen, omvat de [!UICONTROL Forecast] sectie van de plaatsingsmontages een nieuwe [!UICONTROL Estimated Maximums] sectie, die erop wijst hoeveel meer capaciteit met de huidige het richten configuratie beschikbaar is. |
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Releasedatum: 17 oktober 2020
+Releasedatum: **17 oktober 2020**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
