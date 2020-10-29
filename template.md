@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ac62e2402e3d41cbcea6670b8e482bc295b9a14
+source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
 workflow-type: tm+mt
 source-wordcount: '1322'
 ht-degree: 61%
@@ -69,8 +69,6 @@ For product documentation, see [Experience Cloud interface](https://docs.adobe.c
 Functies en oplossingen.
 
 Zie Gebruikers en producten [](https://docs.adobe.com/content/help/nl-NL/core-services/interface/manage-users-and-products/admin-getting-started.html)beheren voor productdocumentatie.
-
-## [!UICONTROL Experience Platform] {#platform}
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -302,7 +300,7 @@ Marketo Engage is een volledige oplossing voor het beheer van leads en B2B-marke
 
 Releasedatum: 21 februari 2020
 
-* **Microsoft Dynamics _Change Owner in Microsoft_Flow Action:** Wijzig een lead of contactpersoon rechtstreeks vanuit Marketo Engage.
+* **Microsoft Dynamics _Change Owner in Microsoft_ Flow Action:** Wijzig een lead of contactpersoon rechtstreeks vanuit Marketo Engage.
 * **Verbeteringen aan API-aanroepen:**
    * Gebruikersbeheer-API&#39;s
    * Aangepast objectschema-API&#39;s
