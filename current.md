@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 48d79544adc9225c086b7574d522622df084623b
+source-git-commit: a30288a93dd262f9f9d770242a2bf4fda7812265
 workflow-type: tm+mt
-source-wordcount: '7526'
+source-wordcount: '7561'
 ht-degree: 21%
 
 ---
@@ -68,6 +68,8 @@ Zie Opmerkingen bij de [Cumulatieve release voor Experience Cloud-services](http
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
+Bevat releaseupdategegevens voor Experience Platform en Experience Platform Launch.
+
 Uitgegeven: **14 oktober 2020**
 
 Zie Opmerkingen bij de release van [Experience Platform](https://docs.adobe.com/content/help/nl-NL/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) voor informatie over updates van:
@@ -76,6 +78,10 @@ Zie Opmerkingen bij de release van [Experience Platform](https://docs.adobe.com/
 * Klantprofiel in realtime
 * Segmenteringsservice
 * Bronnen
+
+### Experience Platform Launch
+
+Zie de versienota&#39;s [van de](https://docs.adobe.com/content/help/nl-NL/launch/using/intro/release-notes/current.html) Experience Platform Launch voor informatie over de Lancering van het Platform.
 
 ### Zelfstudies en cursussen over Experience Platform en diensten
 
