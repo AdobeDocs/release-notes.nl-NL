@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
+source-git-commit: 5050a05473619e75107b0874d592322ee5a70d44
 workflow-type: tm+mt
-source-wordcount: '7786'
+source-wordcount: '7839'
 ht-degree: 21%
 
 ---
@@ -27,7 +27,7 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 >
 >Meld u aan voor de [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om via e-mail op de hoogte te worden gebracht van komende releases.
 
-Laatste update: **28 oktober 2020**
+Laatste update: **2 november 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud en administratie](#ecloud)
@@ -35,10 +35,10 @@ Laatste update: **28 oktober 2020**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 28 oktober 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem) (Bijgewerkt: **28-10-2020**)
+* [Experience Manager](#aem) (Bijgewerkt: **(28 oktober 2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud) (Bijgewerkt: **28-10-2020**)
-* [[!DNL Target]](#target)
+* [Advertising Cloud](#adcloud) (Bijgewerkt: **(28 oktober 2020**)
+* [[!DNL Target]](#target) (Bijgewerkt: **(2 november 2020**)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/nl-NL/primetime/release-notes/home.html)
@@ -358,6 +358,7 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 2 november 2020 | [Een doelaanroep laden en in werking stellen](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | Video | Leer hoe te om, parameters tot paginaverzoek over te brengen, en een vraag van het Doel van uw plaatspagina in werking te stellen gebruikend een Regel van de Lancering. De informatie van de pagina wordt teruggewonnen en overgegaan als parameters gebruikend de Laag van Gegevens van de Cliënt van de Adobe die u gegevens over de ervaring van bezoekers op een webpagina kunt verzamelen en opslaan en dan het gemakkelijk maken om tot deze gegevens toegang te hebben. |
 | 28 oktober 2020 | [Slimme video-tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | Video | Experience Manager Assets gebruikt Adobe Sensei om video-elementen op intelligente wijze te labelen met trefwoorden die belangrijke elementen van de video beschrijven, zodat ze gemakkelijk kunnen worden gedetecteerd met behulp van trefwoordzoekopdrachten van AEM gebruikers. |
 | 27 oktober 2020 | [Inleiding tot AEM Document Security Extension voor Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | De Uitbreiding van de Veiligheid van het Document van Adobe Experience Manager voor Microsoft Office zorgt ervoor dat slechts de mensen u toestaat Word, Excel, en de dossiers van PowerPoint kunnen gebruiken die uw intellectuele bezit bevatten. Door de Uitbreiding van de Veiligheid van het Document voor Microsoft Office te gebruiken, kunt u vooraf bepaalde vertrouwelijkheidsmontages op uw dossiers toepassen. |
 | 7 oktober 2020 | [Paginagemetriek weergeven in Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artikel | Leer hoe u gegevens die vanaf een Adobe Experience Manager-site zijn vastgelegd, kunt toewijzen aan maateenheden en dimensies in Adobe Analytics-rapportensuites. |
@@ -385,7 +386,6 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 | 30 september 2020 | [De gegevenslaag van de Adobe-client verkennen](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Artikel | Ontdek de functies en functionaliteit van de gebeurtenisgestuurde Adobe Client Data-laag en de integratie ervan met AEM Sites Core Components. Leer hoe u naar gebeurtenissen kunt luisteren, de huidige status kunt ophalen en de gegevenslaag kunt wijzigen. |
 | 30 september 2020 | [Inleiding aan de Laag van Gegevens van de Cliënt van Adobe](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Video | Leer hoe de gebeurtenisgestuurde Adobe Client Data-laag gegevens van AEM Sites Core Components beschikbaar maakt. Met behulp van de gegevenslaag van de Adobe-client kunnen oplossingen voor labelbeheer, zoals Experience Platform Launch, websitegegevens verzenden naar toepassingen zoals Analytics en Target. |
 | 8 oktober 2020 | [Doelextensie toevoegen aan Starteigenschap](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | Video | Leer hoe te om, parameters tot paginaverzoek over te brengen, en een vraag van het Doel van uw plaatspagina in werking te stellen gebruikend een Regel van de Lancering. De informatie van de pagina wordt teruggewonnen en overgegaan als parameters gebruikend de Laag van Gegevens van de Cliënt van de Adobe die u gegevens over de ervaring van bezoekers op een webpagina kunt verzamelen en opslaan en dan het gemakkelijk maken om tot deze gegevens toegang te hebben. |
-| 8 oktober 2020 | [Doelextensie toevoegen aan Starteigenschap](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | Video | Leer hoe u Adobe Target-extensie toevoegt aan uw Starteigenschap |
 | 7 oktober 2020 | [Adobe Target Cloud Service-account maken](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/setup-aem-target-cloud-service.html) | Video | Leer hoe u Adobe Experience Manager als Cloud Service met Adobe Target integreert met behulp van Cloud Service- en Adobe IMS-verificatie. |
 | 2 oktober 2020 | [Overzicht van AEM en Adobe Target](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/overview.html) | Video | AEM en Target zijn beide krachtige oplossingen met schijnbaar overlappende mogelijkheden. Klanten hebben soms moeite om te begrijpen hoe en wanneer ze deze producten samen moeten gebruiken om persoonlijke ervaring te bieden. Om optimale ervaring voor elke eindgebruiker te bieden, zouden de verschillende teams binnen uw organisatie nauw moeten samenwerken en bepalen wie wat doet. |
 | 2 oktober 2020 | [AEM Forms en Adobe Sign integreren](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.forms) | Cursus | Door samen te werken, kunt u met Adobe Sign en AEM Forms complexe transacties automatiseren en veilige, wettelijke e-handtekeningen opnemen als onderdeel van een naadloze digitale ervaring. |
@@ -445,8 +445,8 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | ----------- | ----------- | ---------- | ---------- |
-| 20 oktober 2020 | [Configuratiescherm - Een SSH-sleutel genereren - Video over functies](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan. |
-| 20 oktober 2020 | [Configuratiescherm - Verbinding maken met een SFTP-server - Functievideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. |
+| 2 november 2020 | [Configuratiescherm - Een SSH-sleutel genereren - Video over functies](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan. |
+| 2 november 2020 | [Configuratiescherm - Verbinding maken met een SFTP-server - Functievideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. |
 | 20 oktober 2020 | [Configuratiescherm - Aan de slag met het Configuratiescherm - Artikel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken. |
 | 20 oktober 2020 | [Configuratiescherm - Aan de slag met het Configuratiescherm - Artikel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken. |
 | 19 oktober 2020 | [Controlebord - Toevoegend een IP waaier aan de lijst van gewenste personen](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Leer hoe te om een IP adreswaaier aan de lijst van gewenste personen in het Controlebord toe te voegen. |
@@ -500,6 +500,8 @@ Voor de versienota&#39;s van Magento raadpleegt u:
 Zie [[!DNL Target]  releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html) voor de recentste releasegegevens.
 
 ### Nieuwe cursussen en zelfstudies voor Adobe Target
+
+Bijgewerkt: **2 november 2020**
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
