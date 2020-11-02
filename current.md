@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a30288a93dd262f9f9d770242a2bf4fda7812265
+source-git-commit: 1dec5a72cc3a6c3592544ab198516f6253f5c50a
 workflow-type: tm+mt
-source-wordcount: '7561'
+source-wordcount: '7527'
 ht-degree: 21%
 
 ---
@@ -210,7 +210,6 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Audience Manager.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| 29 oktober 2020 | [Getallen in de grafiek Trait begrijpen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Lees wat tips over het begrijpen van de gerapporteerde getallen voor kenmerken in het scherm met informatie over de eigenschap. |
 | 28 oktober 2020 | [Getallen in de grafiek Trait begrijpen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Lees wat tips over het begrijpen van de gerapporteerde getallen voor kenmerken in het scherm met informatie over de eigenschap. |
 | 23 oktober 2020 | [Planning Trait Creation from Analytics Data](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Leer wat tips en trucs om u te helpen wanneer u van plan bent om de gegevens van Adobe Analytics in uw eigenschappen in Audience Manager te gebruiken. |
 | 23 oktober 2020 | [Een gegevensbron kiezen bij het maken van sporen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Een van de belangrijke velden die u moet invullen wanneer u eigenschappen maakt, is het veld Gegevensbron. Krijg uiteinden bij het kiezen van de juiste gegevensbron voor op regel-gebaseerde en Onboard eigenschappen. |
