@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1dec5a72cc3a6c3592544ab198516f6253f5c50a
+source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
 workflow-type: tm+mt
-source-wordcount: '7527'
+source-wordcount: '7786'
 ht-degree: 21%
 
 ---
@@ -38,7 +38,7 @@ Laatste update: **28 oktober 2020**
 * [Experience Manager](#aem) (Bijgewerkt: **28-10-2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud) (Bijgewerkt: **28-10-2020**)
-* [[!DNL Target]](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html)
+* [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/nl-NL/primetime/release-notes/home.html)
@@ -445,6 +445,10 @@ Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubl
 
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | ----------- | ----------- | ---------- | ---------- |
+| 20 oktober 2020 | [Configuratiescherm - Een SSH-sleutel genereren - Video over functies](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan. |
+| 20 oktober 2020 | [Configuratiescherm - Verbinding maken met een SFTP-server - Functievideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. |
+| 20 oktober 2020 | [Configuratiescherm - Aan de slag met het Configuratiescherm - Artikel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken. |
+| 20 oktober 2020 | [Configuratiescherm - Aan de slag met het Configuratiescherm - Artikel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken. |
 | 19 oktober 2020 | [Controlebord - Toevoegend een IP waaier aan de lijst van gewenste personen](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Leer hoe te om een IP adreswaaier aan de lijst van gewenste personen in het Controlebord toe te voegen. |
 | 19 oktober 2020 | [Controlebord - Toevoegend een IP waaier aan de lijst van gewenste personen](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Leer hoe te om een IP adreswaaier aan de lijst van gewenste personen in het Controlebord toe te voegen. |
 | 16 oktober 2020 | [Configuratiescherm - Subdomeinen delegeren met gebruik van CNAME (bèta) - Feature-video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het regelpaneel. |
@@ -490,6 +494,16 @@ Voor de versienota&#39;s van Magento raadpleegt u:
 
 * [Magento Commerce 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
 * [Magento Open Source 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
+
+## ![Pictogram](/assets/target.png)[!DNL Target] {#target}
+
+Zie [[!DNL Target]  releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html) voor de recentste releasegegevens.
+
+### Nieuwe cursussen en zelfstudies voor Adobe Target
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| 11 oktober 2020 | [Implementatiemodel voor hybride personalisatie](https://docs.adobe.com/content/help/en/target-learn/tutorials/implementation/hybrid-deployment.html) | Video | Adobe Target biedt een uniek, hybride implementatiemodel voor personalisatie, waarbij implementaties aan client- en server-kant worden gecombineerd. Dit hybride model staat niet-technische gebruikers toe om een experiment of verpersoonlijkingsactiviteit te schrijven gebruikend de Composer van de Visuele Ervaring WYSIWYG en de ervaring te hebben worden uitgevoerd, worden geleverd, en door server-kant voor een hoogst presterende levering teruggegeven. |
 
 ## ![Pictogram](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
