@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 73caf10aa872e7b98875bdd0b8050cc301e3d500
+source-git-commit: d52b26253abaf781eade05e8925943c6b605ae60
 workflow-type: tm+mt
-source-wordcount: '7889'
-ht-degree: 21%
+source-wordcount: '9718'
+ht-degree: 19%
 
 ---
 
@@ -66,6 +66,17 @@ Niet bijgewerkt.
 
 Zie Opmerkingen bij de [Cumulatieve release voor Experience Cloud-services](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) voor de meest recente releasegegevens.
 
+### Experience Cloud-zelfstudies
+
+Bijgewerkt: **2 december 2020**
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| 4 november 2020 | [Inzichten die onder DDOM vallen](https://experienceleague.adobe.com/docs/csuite/using/ddom-insights.html) | Video | Hear over sommige inzichten DDOM hielp Adobe ontdekken en meer te leren over enkele overwegingen om uw eigen versie van DDOM op te zetten. |
+| 4 november 2020 | [Drie pijlers van DDOM](https://experienceleague.adobe.com/docs/csuite/using/ddom-components.html) | Video | Leer hoe Adobe leveraged gegevens, KPIs en Proces &amp; Org om zich rond de klantenreis aan te passen. |
+| 4 november 2020 | [Adobe Transformation Story ](https://experienceleague.adobe.com/docs/csuite/using/transformation-story.html) | Video | Meer informatie over de rol die DDOM speelt in de digitale transformatie van de Adobe om klant-centric omnichannel ervaringen te stimuleren. |
+| 4 november 2020 | [Inleiding tot een gegevensgestuurd besturingssysteem](https://experienceleague.adobe.com/docs/csuite/using/ddom-introduction.html) | Video | Een overzicht van Adobe-gedreven werkend model bouwt een diepgaander inzicht in de klantenreis. |
+
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
 Bevat releaseupdategegevens voor Experience Platform en Experience Platform Launch.
@@ -87,8 +98,11 @@ Zie de versienota&#39;s [van de](https://docs.adobe.com/content/help/nl-NL/launc
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platform en services.
 
+Bijgewerkt: **2 december 2020**
+
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 23 november 2020 | [Cloudopslag op basis van bestanden of e-mailmarketingdoelen configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html?lang=en#destinations) | Video | Krijg uiteinden tijdens een analyse van de configuratie van een op dossier-gebaseerde bestemming in real time CDP van Adobe. Dit geldt voor cloudopslagdoelen (zoals S3 of SFTP) en ook voor E-mailmarketingdoelen. |
 | 26 oktober 2020 | [Inleiding tot Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Video | Deze video geeft een overzicht van [!UICONTROL Offer Decisioning], een applicatieservice die op Adobe Experience Platform is gebouwd. In de video komen de zakelijke uitdagingen die [!UICONTROL Offer Decisioning] oplost aan de orde, evenals de belangrijkste mogelijkheden, de basisarchitectuur en de voornaamste gebruiksscenario’s. |
 | 29 oktober 2020 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | Video | Learn how brands can use Adobe’s new [!UICONTROL Offer Decisioning] service to define and manage their offers,leverage real-time customer data, and deliver the right experiences their customers expect. |
 | 14 september 2020 | [Bedrijfswaarde van Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Video | [!UICONTROL Attribution AI], als onderdeel van [!UICONTROL Intelligent Services], is een multi-channel, algoritmische attributiedienst die de invloed en het stijgende effect van klanteninteractie tegen gespecificeerde resultaten berekent. Met [!UICONTROL Attribution AI], kunnen de marketers marketing en reclame uitgaven meten en optimaliseren door het effect van elke individuele klanteninteractie over elke fase van de reizen van de klanten te begrijpen. |
@@ -176,6 +190,7 @@ Nieuwe cursussen, zelfstudies en artikelen in [!DNL Analytics] en [!UICONTROL Cu
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 10 november 2020 | [Inleiding tot Bulk Management (BAAAM)](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.html?lang=en#build-and-manage-audiences) | Video | Lees meer over &quot;BAAAM&quot;, het hulpprogramma voor bulkbeheer voor kenmerken en segmenten in de Audience Manager, inclusief hoe u het programma zo kunt instellen dat het klaar is voor gebruik. |
 | 8 oktober 2020 | [Freeform Tables, de Stichting van Analyse](https://video.tv.adobe.com/v/41766?captions=dut) | Video | Leer wat u zou moeten weten en wat u zult leren aangezien u aan deze cursusreis begint. |
 | 5 oktober 2020 | [Deelnemings-statistieken gebruiken in Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.html) | Video | Gebruik deze eenvoudige truc om deelname metrisch in [!UICONTROL Analysis Workspace] om het even welk ogenblik te krijgen. |
 | 5 oktober 2020 | [Automatisch vrije-vormtabellen maken in Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.html) | Video | De componenten van de daling direct in een leeg project, een paneel of een vrije vormlijst, en een lijst zal automatisch voor u in een geadviseerde formaat worden gebouwd. |
@@ -210,8 +225,13 @@ Releasedatum: Eind **oktober 2020**
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Audience Manager.
 
+Bijgewerkt op 2 **december 2020**
+
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 25 november 2020 | [Het gebruiken van Getrafte Rapporten met Trekken en Segmenten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-trended-reports-with-traits-and-segments.html?lang=en#reports) | Video | Leer hoe te om de trended rapporten in Audience Manager te gebruiken om te zien hoe de eigenschappen en de segmenten in tijd presteren. |
+| 25 november 2020 | [Algemene rapporten gebruiken met treinen en segmenten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-general-reports-with-traits-and-segments.html?lang=en#reports) | Video | In deze video ziet u hoe u de algemene rapporten in de Audience Manager kunt gebruiken om getallen voor kenmerken en segmenten op te halen. |
+| 2 november 2020 | [Configureren en rapporteren over voorspellend publiek](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=en#build-and-manage-audiences) | Video | In deze video zullen wij door de Predictive configuratie van het Publiek in de interface van de Audience Manager lopen. We zullen ook de verslagen zien die de resultaten van het model weergeven. |
 | 28 oktober 2020 | [Getallen in de grafiek Trait begrijpen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Lees wat tips over het begrijpen van de gerapporteerde getallen voor kenmerken in het scherm met informatie over de eigenschap. |
 | 23 oktober 2020 | [Planning Trait Creation from Analytics Data](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Leer wat tips en trucs om u te helpen wanneer u van plan bent om de gegevens van Adobe Analytics in uw eigenschappen in Audience Manager te gebruiken. |
 | 23 oktober 2020 | [Een gegevensbron kiezen bij het maken van sporen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Een van de belangrijke velden die u moet invullen wanneer u eigenschappen maakt, is het veld Gegevensbron. Krijg uiteinden bij het kiezen van de juiste gegevensbron voor op regel-gebaseerde en Onboard eigenschappen. |
@@ -354,12 +374,32 @@ Daarnaast bevat de gegevensopslagruimte andere belangrijke artikelen, zoals [AEM
 
 ### Nieuwe cursussen en tutorials voor Experience Manager
 
-Bijgewerkt: **21 oktober 2020**
+Bijgewerkt: **2 december 2020**
 
 Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubliceerd.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 2 december 2020 | [Inhoudsfragmenten downloaden](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | Video | Een video-overzicht van de downloadmogelijkheden van Content Fragments. |
+| 2 december 2020 | [Redactiemogelijkheden voor inhoudsfragmenten](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | Video | Een video-overzicht van de geavanceerde mogelijkheden van de Content Fragment-editor. Leer hoe u annotaties en versievergelijking kunt gebruiken met Content Fragments. |
+| 9 november 2020 | [De elementen op uw lokale AEM server implementeren](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/deploy-this-sample.html?lang=en#store-and-retrieve-af-with-2fa) | Video | Creeer het gegevensbestand, stel de bundel van douane OSGi op, en voer de diverse cliënt-zijartefacten in om het gebruiksgeval te krijgen dat op uw lokale AEM instantie loopt. |
+| 2 november 2020 | [Het MyApplication-formulier maken](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-myaccount-form.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Maak het MyApplication-formulier. Dit formulier wordt gebruikt ter bevestiging van de unieke toepassings-id en het telefoonnummer van de persoon die probeert het gedeeltelijk ingevulde adaptieve formulier op te halen. |
+| 10 november 2020 | [Toegang tot AEM voor beheerders configureren](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2020.1.aem) | Cursus | Onderzoek hoe de gebruikers voor authentiek verklaren gebruikend Adobe IMS aan AEM als Cloud Service, en hoe de Gebruikers van Adobe IMS, Gebruikersgroepen, en de Profielen van het Product worden gebruikt om toegang tot AEM en zijn eigenschappen en functionaliteiten te controleren. |
+| 11 november 2020 | [Clientbibliotheken maken die aan de formulieren moeten worden gekoppeld](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-client-lib.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Leer hoe u twee bibliotheken kunt maken: Eén om het dialoogvenster op te nemen `bootbox.js` om het dialoogvenster weer te geven. En een cliëntbibliotheek om de klikgebeurtenis op de [!UICONTROL Save And Exit button]te behandelen. |
+| 11 november 2020 | [Creeer de integratie met de communicatie dienstverlener gebruikend de integratie van het gegevensmodel](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/verify-users-with-otp.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Integreer AEM Forms met de Nexmo REST-API door het wagerbestand te definiëren voor een beschrijving van de REST-API, een gegevensbron en een formuliergegevensmodel te maken. |
+| 11 november 2020 | [servlet maken om het formulier te genereren met opgeslagen gegevens](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/retrieve-saved-form.html?lang=en#store-and-retrieve-af-with-2fa) | Video | Deze servlet wordt geactiveerd wanneer de verificatie van het telefoonnummer is voltooid. |
+| 2 november 2020 | [Het formulier StoreAFWithAttachments maken](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-main-adaptive-form.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Maak het formulier StoreAFWithAttachments. Dit is het hoofdtoepassingsformulier waarin de gebruikersgegevens, waaronder het telefoonnummer, worden vastgelegd en waaraan bijlagen kunnen worden toegevoegd. |
+| 2 november 2020 | [Adobe Experience Manager en Adobe Analytics integreren om paginagegevens te verzamelen](https://video.tv.adobe.com/v/327293?captions=dut) | Video | Deze cursus begeleidt u door een geleidelijke zelfstudie over hoe te om Adobe Analytics met Adobe Experience Manager Sites te integreren om gebruikersgedrag op een pagina te begrijpen door paginagegevens te verzamelen die de laag van cliëntgegevens gebruiken en dan een project van Analysis Workspace binnen Adobe Analytics te creëren. |
+| 11 november 2020 | [Maak een MySQL-databasetabel en een AEM gegevensbron](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/configure-data-source.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Maak een MySQL-databasetabel met de juiste kolommen en de verzamelde gegevensbron voor Apache Sling Connection die naar deze database verwijzen. |
+| 11 november 2020 | [Maak servlet om de vraag van de POST te behandelen](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-servlet.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Creeer serlet in AEM door een eindpunt van REST voor het goedkeuren van de verzoeken van de POST uit te breiden `SlingAllMethodsServlet` en bloot te stellen. |
+| 11 november 2020 | [Formuliergegevens opslaan met de nieuwe bestandskaart voor bijlagen](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-data.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Neem een nieuwe rij in het gegevensbestand op dat door unieke GUID wordt geïdentificeerd. |
+| 11 november 2020 | [Formulierbijlagen opslaan op een nieuwe locatie in CRX](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-attachments.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | De standaardlocatie van de formulierbijlagen bevindt zich in de tijdelijke map die na een bepaalde periode wordt verwijderd. |
+| 4 november 2020 | [Asset compute metagegevensuitvoeringen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/advanced/metadata.html) | Tutorial | Voeg een geavanceerd hoofdstuk toe aan de zelfstudie Asset compute over het genereren van metagegevensuitvoeringen. |
+| 21 oktober 2020 | [Formulierbijlagen samenstellen](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/document-services/assemble-form-attachments.html) | Video | Voeg formulierbijlagen in een PDF samen in een bepaalde volgorde. |
+| 9 november 2020 | [WKND-middelendemo toevoegen aan demo-elementen](http://bit.ly/demoAEM) | Demo | Voeg de WKND Asset Demo toe als een kaart aan Demo Utils die zijn bestaan/beschikbaarheid/installatie instructies bevorderen. |
+| 2 november 2020 | [Inhoudsfragmenten maken](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | Video | Een video-overzicht van het maken van een inhoudsfragment in Adobe Experience Manager (AEM) Assets. |
+| 2 november 2020 | [Inhoudsfragmenten op sitepagina&#39;s gebruiken](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html) | Video | Leer hoe u inhoudsfragmenten op een AEM Sites-pagina kunt gebruiken. Componenten van inhoudsfragmenten kunnen zo nodig worden opgemaakt met AEM stijlsysteem. |
+| 2 november 2020 | [Stijlsysteem](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html) | Video | Creeer een video van het Systeem van de Stijl voor AEM 6.4 gebruikend de component van de Lijst Wij.Retail. |
 | 2 november 2020 | [Een doelaanroep laden en in werking stellen](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | Video | Leer hoe te om, parameters tot paginaverzoek over te brengen, en een vraag van het Doel van uw plaatspagina in werking te stellen gebruikend een Regel van de Lancering. De informatie van de pagina wordt teruggewonnen en overgegaan als parameters gebruikend de Laag van Gegevens van de Cliënt van de Adobe die u gegevens over de ervaring van bezoekers op een webpagina kunt verzamelen en opslaan en dan het gemakkelijk maken om tot deze gegevens toegang te hebben. |
 | 28 oktober 2020 | [Slimme video-tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | Video | Experience Manager Assets gebruikt Adobe Sensei om video-elementen op intelligente wijze te labelen met trefwoorden die belangrijke elementen van de video beschrijven, zodat ze gemakkelijk kunnen worden gedetecteerd met behulp van trefwoordzoekopdrachten van AEM gebruikers. |
 | 27 oktober 2020 | [Inleiding tot AEM Document Security Extension voor Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | De Uitbreiding van de Veiligheid van het Document van Adobe Experience Manager voor Microsoft Office zorgt ervoor dat slechts de mensen u toestaat Word, Excel, en de dossiers van PowerPoint kunnen gebruiken die uw intellectuele bezit bevatten. Door de Uitbreiding van de Veiligheid van het Document voor Microsoft Office te gebruiken, kunt u vooraf bepaalde vertrouwelijkheidsmontages op uw dossiers toepassen. |
@@ -397,7 +437,6 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 | 6 oktober 2020 | [Uw eerste adaptieve formulier maken](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.4.forms) | Cursus | Met AEM Forms kunt u boeiende, responsieve, dynamische en adaptieve formulieren maken. De cursus begint met het maken van een aangepaste formuliersjabloon en begeleidt u door het proces van het maken van een adaptief formulier met behulp van de verschillende formuliercomponenten. |
 | 21 oktober 2020 | [Lokale verzendprogramma&#39;s](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html) | Artikel | AEM Dispatcher is een Apache HTTP Web server module die een veiligheid en prestatieslaag tussen CDN en AEM verstrekt publiceren rij. Leer hoe u de Dispatcher instelt als onderdeel van een lokale ontwikkelomgeving. |
 | 14 oktober 2020 | [Aan de slag met AEM Sites voor ontwikkelaars](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.guided) | Cursus | Met deze cursus wordt een [bestaande cursus](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.2.guided) in Experience League bijgewerkt. |
-| 7 oktober 2020 | [AEM-projectstructuur](https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.html) | Video | Dit artikel beschrijft de veranderingen die aan Adobe Experience Manager Maven projecten worden vereist om als Cloud Service compatibel te worden AEM door ervoor te zorgen dat zij de splitsing van veranderbare en onveranderlijke inhoud eerbiedigen, gebiedsdelen worden gevestigd om niet-strijdige, deterministische plaatsingen tot stand te brengen en dat zij in een plaatsingsable structuur worden verpakt. |
 
 ### Experience Manager-releasegegevens
 
@@ -445,10 +484,23 @@ Releasegegevens voor Campaign Classic, Campaign Standard en Control Panel.
 
 Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubliceerd.
 
+Bijgewerkt op 2 **december 2020**
+
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | ----------- | ----------- | ---------- | ---------- |
-| 2 november 2020 | [Configuratiescherm - Een SSH-sleutel genereren - Video over functies](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan. |
-| 2 november 2020 | [Configuratiescherm - Verbinding maken met een SFTP-server - Functievideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. |
+| 23 november 2020 | [Pushmeldingen configureren en verzenden](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.html) | Campaign Classic | Leer hoe u een pushmelding configureert en verzendt naar gebruikers van de Android-app. |
+| 19 november 2020 | [Een Android-service configureren en een mobiele Android-toepassing maken in Campagne](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.html) | Campaign Classic | Leer hoe u een Android-service configureert en een mobiele Android-toepassing maakt in Campagne. |
+| 2 november 2020 | [Regelpaneel - Een SSH-sleutel genereren](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan. |
+| 28 oktober 2020 | [Configuratiescherm - Het gebruik van databases controleren](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html) | Campaign Classic | Leer hoe u het databasegebruik van uw instanties kunt controleren met het Configuratiescherm. |
+| 28 oktober 2020 | [Configuratiescherm - Databanken controleren](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html) | Campaign Standard | Leer hoe u het databasegebruik van uw instanties kunt controleren met het Configuratiescherm. |
+| 12 oktober 2020 | [Controlebord - Toevoegend een IP waaier aan de lijst van gewenste personen](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Leer hoe te om een IP adreswaaier aan de lijst van gewenste personen in het Controlebord toe te voegen. |
+| 7 oktober 2020 | [Regelpaneel - Een SSH-sleutel genereren](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan. |
+| 2 oktober 2020 | [Configuratiescherm - Verbinding maken met een SFTP-server](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. |
+| 2 oktober 2020 | [Configuratiescherm - Verbinding maken met een SFTP-server](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Standard | Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. |
+| 2 oktober 2020 | [Regelpaneel - Een SSH-sleutel genereren](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Standard | Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan. |
+| 2 november 2020 | [Configuratiescherm - Verbinding maken met een SFTP-server](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. |
+| 6 oktober 2020 | [Configuratiescherm - Aan de slag met het Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken. |
+| 6 oktober 2020 | [Configuratiescherm - Aan de slag met het Configuratiescherm](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken. |
 | 20 oktober 2020 | [Configuratiescherm - Aan de slag met het Configuratiescherm - Artikel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken. |
 | 20 oktober 2020 | [Configuratiescherm - Aan de slag met het Configuratiescherm - Artikel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken. |
 | 19 oktober 2020 | [Controlebord - Toevoegend een IP waaier aan de lijst van gewenste personen](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Leer hoe te om een IP adreswaaier aan de lijst van gewenste personen in het Controlebord toe te voegen. |
@@ -489,6 +541,21 @@ Releasedatum: **17 oktober 2020**
 | Campagnes zoeken | In de [!UICONTROL Accounts] weergave geeft de [!UICONTROL Access] kolom nu aan wanneer [!DNL Advertising Cloud Search] u zich niet kunt aanmelden bij een ingeschakelde zoekprogrammaprogrammaaccount. Als u de oorzaak van de fout wilt zien, houdt u de cursor boven het waarschuwingspictogram. |
 | [!UICONTROL Custom Alerts] | Het eerste [!UICONTROL Alerts Beta] heet nu [!UICONTROL Custom Alerts]. |
 |  | In douanealarm, werd het werkschema om te identificeren wanneer de metriek voor de gespecificeerde datumwaaier van metriek voor de vorige periode zijn verhoogd of verminderd vereenvoudigd en naar het [!UICONTROL Filters] lusje verplaatst. |
+
+### Zelfstudies en cursussen voor Ad Cloud
+
+Bijgewerkt: **2 december 2020**
+
+| Gepubliceerd | Naam | Oplossing | Beschrijving |
+| ----------- | ----------- | ---------- | ---------- |
+| 14 november 2020 | [Advertising Cloud-dashboards maken met Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-dashboards-a4adc.html?lang=en) | Video | Technieken voor het creëren van een Advertising Cloud-dashboard voor het live monitoren van campagnes. |
+| 14 november 2020 | [Rapporten Advertising Cloud-site-item maken](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html?lang=en#analytics) | Video | Een Advertising Cloud-sitemelding maken om de dag van de week, het tijdstip van de dag, de browser en de geografische invloed te controleren. |
+| 14 november 2020 | [Aangepaste metrics voor Analytics maken met Advertising Cloud-gegevens](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en#analytics) | Video | Nuttige aangepaste metrics die u kunt maken wanneer u Advertising Cloud-gegevens gebruikt in Adobe Analytics. |
+| 14 november 2020 | [Analytics-segmenten maken voor activering en rapportage](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-segments-a4adc.html?lang=en#analytics) | Video | Met Advertising Cloud-dimensies kunt u segmenten maken voor schonere rapportage en analyse. |
+| 14 november 2020 | [Voorspelend publiek](https://experienceleague.corp.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html?lang=en#build-and-manage-audiences) | Video | In deze video zullen we bespreken wat Audience Manager Predictive Audiences zijn, details presenteren over hoe ze werken en wijzen op gebruiksgevallen. |
+| 14 november 2020 | [Analyseprofielen maken voor activering en rapportage van Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en#analytics) | Video | Met Adobe Analytics kunt u robuuste retargeting-pools maken voor Advertising Cloud-remarketing. |
+| 14 november 2020 | [Rapporteren met Advertising Cloud Marketing Channel](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=en#analytics) | Video | Hoe Advertising Cloud mening-door en klik-door ingangsgegevens met de Kanalen van de Marketing van Adobe Analytics werkt. |
+| 14 november 2020 | [Een analyse van vóór de introductie van de campagne maken met Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-pre-launch-a4adc.html?lang=en) | Video | Met Adobe Analytics kunt u de basis leggen voor het starten van een Advertising Cloud-mediacampagne. |
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento] {#magento}
 
@@ -543,6 +610,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cl
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 2 november 2020 | [Hoog volume documenten verzamelen met GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en#gather-high-volume-documents-using-gigasign) | Video | Met Gigasign kunt u documenten ter ondertekening naar duizenden personen tegelijk verzenden, verzamelen en bijhouden. Het wordt ontworpen voor high-volume mededelingen met uw werknemers en klanten. GigaSign gebruikt de Adobe Sign API om dezelfde functionaliteit te bieden als MegaSign, maar bevat aanvullende ondersteuning voor meerdere ondertekenaars, groepen ontvangers, rollen voor ontvangers, overeenkomstnamen, koolstofkopie en meer. |
 | 29 september 2020 | [Snelle rondleiding door Adobe Sign](https://docs.adobe.com/content/help/en/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/quick-tour.html) | Video | In deze video maken we een korte rondleiding door Adobe Sign, te beginnen op het Basisscherm. |
 
 Raadpleeg voor hulp bij Documenten Cloud:
