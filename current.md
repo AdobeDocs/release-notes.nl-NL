@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d52b26253abaf781eade05e8925943c6b605ae60
+source-git-commit: 3f1afc6a9c158b461be3ded3bac935bcfac11066
 workflow-type: tm+mt
 source-wordcount: '9718'
 ht-degree: 19%
@@ -27,13 +27,13 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 >
 >Meld u aan voor de [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om via e-mail op de hoogte te worden gebracht van komende releases.
 
-Laatste update: **2 december 2020**
+Laatste update: **8 december 2020**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud en administratie](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 2 **december 2020**)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt op 8 **december 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Bijgewerkt: **(28 oktober 2020**)
 * [Campaign](#ac)
@@ -122,7 +122,7 @@ Met behulp van het Adobe Experience Platform kunt u individuele customer journey
 Releasedatum: **29 oktober 2020**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey) (Bijgewerkt op 2 december 2020)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey) (Bijgewerkt op 8 december 2020)
 * [Nieuwe functies in Media Analytics](#media-aa)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
@@ -149,7 +149,7 @@ Releasedatum: **29 oktober 2020**
 | Analysis Workspace Performance Help-pagina | 22 oktober 2020 | Op de pagina met Help over Analysis Workspace-prestaties worden verschillende factoren weergegeven die van invloed zijn op de projectprestaties en worden koppelingen naar tips voor optimalisatie weergegeven. [Meer informatie](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Time Spent] maatstaven en afmetingen | 30 oktober 2020 | [!UICONTROL Time Spent] Met cijfers en dimensies kunt u zien hoeveel tijd consumenten besteden aan verschillende aspecten van de reis van de klant. Zo kunt u een vollediger beeld krijgen van de betrokkenheid en knelpunten tussen verschillende kanalen. |
 | [!UICONTROL Device] en [!UICONTROL Geography] afmetingen | 30 oktober 2020 | [!UICONTROL Device] en de [!UICONTROL Geography] afmetingen zijn nu standaard beschikbaar als onderdeel van het project &quot;Global Lookup support&quot; in de [Adobe Analytics Source-connector](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). Deze veelgevraagde toevoeging vergroot de [pariteit tussen Adobe Analytics en CJA](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-aa.html). |
-| Reis-IQ: Kanaaloverschrijdende analyse | 11 december 2020 | Reis-IQ: Met de kanaalanalyse kunnen klanten een Adobe Analytics-gegevensset (of andere gegevensset) voor een gebeurtenis in Adobe Experience Platform-gegevenshoek van de ene naamruimte naar de andere opnieuw koppelen. Typisch, betekent dit het opnieuw sluiten van de gebeurtenisdataset van een op koekje-gebaseerde identiteitskaart aan een op persoon-gebaseerde identiteitskaart Op deze manier kan de opnieuw vergrendelde gegevensset worden gecombineerd met andere op personen gebaseerde gegevens in een CJA-verbinding, waardoor cross-device/cross-channel analyse in Analysis Workspace mogelijk wordt. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
+| Reis-IQ: Kanaaloverschrijdende analyse | 11 januari 2021 | Reis-IQ: Met de kanaalanalyse kunnen klanten een Adobe Analytics-gegevensset (of andere gegevensset) voor een gebeurtenis in Adobe Experience Platform-gegevenshoek van de ene naamruimte naar de andere opnieuw koppelen. Typisch, betekent dit het opnieuw sluiten van de gebeurtenisdataset van een op koekje-gebaseerde identiteitskaart aan een op persoon-gebaseerde identiteitskaart Op deze manier kan de opnieuw vergrendelde gegevensset worden gecombineerd met andere op personen gebaseerde gegevens in een CJA-verbinding, waardoor cross-device/cross-channel analyse in Analysis Workspace mogelijk wordt. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
 
 ### Nieuwe functies in [!UICONTROL Media Analytics] {#media-aa}
 
@@ -259,9 +259,9 @@ Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe
    * **Adobe Experience Manager Assets as a Cloud Service**
 
       * Watermerken van afbeeldingsbestanden wordt ondersteund voor uitvoeringen die worden gegenereerd met Asset microservices. Deze kan worden geconfigureerd als een verwerkingsprofiel en gebruikt een PNG-bestand als watermerk. Zie [watermerk uw elementen.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/watermark-assets.html)
-      * Verbeteringen in dynamische media:
-         * Selectieve publicatie - Een marketingteam kan nu toegang krijgen tot [!UICONTROL Dynamic Media] SmartCrop-afbeeldingen en dynamische uitvoeringen die zijn gesynchroniseerd met Dynamic Media, zodat ze promotiemateriaal kunnen maken zonder dat ze deze elementen hoeven te publiceren naar Dynamic Media voor wereldwijde levering. Experience Manager en [!UICONTROL Dynamic Media] publicatie worden ontkoppeld en kunnen daarom afzonderlijk plaatsvinden. Zie [Selectieve publicatie.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/selective-publishing.html)
-         * Wachtwoord opnieuw instellen - Beheerders kunnen nu het wachtwoord voor [!UICONTROL Dynamic Media] Cloud Servicen opnieuw instellen dat bij provisioning wordt ontvangen. De reset kan worden uitgevoerd in de gebruikersinterface van de Experience Manager, zonder dat de [!UICONTROL Dynamic Media] Klassieke desktop app hoeft te worden gebruikt. Zie Het wachtwoord [wijzigen in Dynamische media.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#change-dm-password)
+      * Verbeteringen in Dynamic Media:
+         * Selectieve publicatie - Een marketingteam kan nu toegang krijgen tot [!UICONTROL Dynamic Media] SmartCrop-afbeeldingen en dynamische uitvoeringen die zijn gesynchroniseerd met Dynamic Media, zodat ze promotiemateriaal kunnen maken zonder dat ze deze middelen hoeven te publiceren naar Dynamic Media voor wereldwijde levering. Experience Manager en [!UICONTROL Dynamic Media] publicatie worden ontkoppeld en kunnen daarom afzonderlijk plaatsvinden. Zie [Selectieve publicatie.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/selective-publishing.html)
+         * Wachtwoord opnieuw instellen - Beheerders kunnen nu het wachtwoord voor [!UICONTROL Dynamic Media] Cloud Servicen opnieuw instellen dat bij provisioning wordt ontvangen. De reset kan worden uitgevoerd in de gebruikersinterface van de Experience Manager, zonder dat de [!UICONTROL Dynamic Media] Klassieke desktop app hoeft te worden gebruikt. Zie Het wachtwoord [wijzigen in Dynamic Media.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#change-dm-password)
       * Zie [wat nieuw is in Brand Portal voor informatie over de volgende verbeteringen.](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html)
          * Uitgebreide PDF-voorvertoning met integratie van Adobe Document Cloud View SDK.
          * Downloadfunctionaliteit met één klik.
