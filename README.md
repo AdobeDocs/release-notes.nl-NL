@@ -37,7 +37,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Belangrijke wijzigingen van Adobe-medewerkers
 
-If you are a technical writer, program manager, or developer from the product team for an Adobe Experience Cloud solution and it&#39;s your job to contribute to or author technical articles, you should use the private repository `https://git.corp.adobe.com/AdobeDocs`. <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
+Als u een technisch schrijver, programmamanager, of ontwikkelaar van het productteam voor een oplossing van Adobe Experience Cloud bent en het uw baan is om aan of auteur technische artikelen bij te dragen, zou u de privé bewaarplaats `https://git.corp.adobe.com/AdobeDocs` moeten gebruiken. <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## Tools en instellingen
 
