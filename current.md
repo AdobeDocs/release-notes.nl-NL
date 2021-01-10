@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1beba26ad3096758512a7efbf5454012b686f007
+source-git-commit: 4f4eac5843bd39369950c543749455580b1cb964
 workflow-type: tm+mt
 source-wordcount: '6014'
 ht-degree: 26%
@@ -132,10 +132,8 @@ Releasedatum: **14 januari 2021**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
-<!-- * [New features in Media Analytics](#media-aa) -->
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
-<!-- * [Analytics courses and tutorials](#tutorials-analytics) -->
 * [AppMeasurement](#appm)
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
@@ -185,7 +183,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 | ----------- | ---------- | ---------- |
 | Einde van levensduur voor drie API-analysemogelijkheden | 6 januari 2021 | Op 30 april 2021 zijn de volgende API-services van Analytics Legacy gepland om hun einddatum te bereiken en worden ze afgesloten. De huidige integratie die met deze services wordt gebouwd, werkt niet meer op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Wij hebben een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om u te helpen uw vragen beantwoorden en richtlijnen te geven over hoe te te werk te gaan. API-integratie met deze services kan worden gemigreerd naar de [1.4 Analytics REST API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) en/of de [2.0 Analytics API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
 | HSTS-header toevoegen aan alle binnenkomende HTTPS-aanvragen | 29 september 2020 | Op 29 september 2020, begonnen wij de kopbal van HSTS aan alle inkomende verzoeken toe te voegen die HTTPS gebruiken. Dit instrueert browser/cliënt om alle toekomstige verzoeken in HTTPS te doen, die als best praktijken van de veiligheid wordt beschouwd. Op dit punt, zullen wij dit voor inkomende verzoeken niet afdwingen gebruikend HTTP. |
-| Wijzigen in cookie-instelling [!UICONTROL Experience Cloud ID Service] | 22 september 2020 | Een update van de privacy-instellingen voor Chrome versie 80 beïnvloedde de mogelijkheid van Adobe Analytics om sommige gebruikers die Google AMP-pagina&#39;s bekijken, bij te houden. Zo voorkomt u met name dat gebruikers die door Google gehoste AMP-pagina&#39;s bekijken, in verschillende domeinen kunnen volgen. Dit kan leiden tot een opblaasbaar aantal unieke bezoekers. Met deze correctie kunnen gebruikers dit probleem verhelpen door de instellingen voor hun ECID-cookies te wijzigen.<br>Analytics stelt momenteel  [!UICONTROL Experience Cloud ID Service] (ECID)-cookies in met de instelling  `SameSite = Lax` die, voorafgaand aan versie 80 van Chrome, interdomeintracering toestaat. Dat is niet langer het geval. Met deze wijziging kunnen gebruikers de SameSite-instelling voor ECID-cookies bijwerken naar `None`.<br>Merk op dat dit het koekje van Analytics om in meer situaties toestaat te worden gedeeld, maar de koekjes van Analytics bevatten geen gevoelige informatie. Wanneer u deze instelling kiest, moeten cookies bovendien worden ingesteld op `Secure`, zodat gegevens alleen via HTTPS-verbindingen kunnen worden doorgegeven. Als u deze wijziging wilt doorvoeren, moet u een door u ondersteund gebruiker een ticket laten openen met de klantenservice. |
+| Wijzigen in cookie-instelling [!UICONTROL Experience Cloud ID Service] | 22 september 2020 | Een update van de privacy-instellingen voor Chrome versie 80 beïnvloedde de mogelijkheid van Adobe Analytics om sommige gebruikers die Google AMP-pagina&#39;s bekijken te volgen. Zo voorkomt u met name dat gebruikers die door Google gehoste AMP-pagina&#39;s bekijken, in verschillende domeinen kunnen volgen. Dit kan leiden tot een opblaasbaar aantal unieke bezoekers. Met deze correctie kunnen gebruikers dit probleem verhelpen door de instellingen voor hun ECID-cookies te wijzigen.<br>Analytics stelt momenteel  [!UICONTROL Experience Cloud ID Service] (ECID)-cookies in met de instelling  `SameSite = Lax` die, voorafgaand aan versie 80 van Chrome, interdomeintracering toestaat. Dat is niet langer het geval. Met deze wijziging kunnen gebruikers de SameSite-instelling voor ECID-cookies bijwerken naar `None`.<br>Merk op dat dit het koekje van Analytics om in meer situaties toestaat te worden gedeeld, maar de koekjes van Analytics bevatten geen gevoelige informatie. Wanneer u deze instelling kiest, moeten cookies bovendien worden ingesteld op `Secure`, zodat gegevens alleen via HTTPS-verbindingen kunnen worden doorgegeven. Als u deze wijziging wilt doorvoeren, moet u een door u ondersteund gebruiker een ticket laten openen met de klantenservice. |
 | Migratie van `omniture.com` naar `adobe.com`-domein | 21 aug. 2020 | Op 13 augustus 2020 is de front-end architectuur van Adobe Analytics gemigreerd van `omniture.com|http://omniture.com/` naar het `adobe.com|http://adobe.com/`-domein. Deze wijziging verhelpt problemen met cookies van derden die optraden na de aanvankelijke productdomeinwijziging van 28 mei 2020. Als gevolg van deze update kan de browser gebruikers vragen het nieuwe domein `.adobe.com|http://an.adobe.com/` of `experience.adobe.com|http://experience.adobe.com/` te vertrouwen. |
 | Update over compatibiliteit met Ad Hoc Analysis Java 8 | 21 aug. 2020 | Ad Hoc Analysis is momenteel niet compatibel met Java 8-versies 1.8.0_261+. Om ervoor te zorgen dat uw toegang tot deze tool niet wordt beëindigd voordat de [einddatum](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) is bereikt, raden we u aan een Java 8-versie te gebruiken die ouder is dan 1.8.0_261. |
 | EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. We hebben een nieuwe standaard in het [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) dat moet worden gebruikt voor alle integraties waarvoor aanbod en ondersteuning gewenst is. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/import/dataconnectors/data-connectors-eol.html) |
@@ -312,7 +310,7 @@ Documentatie voor de volgende functies in de 6.5.7.0-release is beschikbaar:
 
 ### Nieuwe cursussen en tutorials voor Experience Manager
 
-Bijgewerkt: **2 december 2020**
+Bijgewerkt: **10 januari 2021**
 
 Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubliceerd.
 
