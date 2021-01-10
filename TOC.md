@@ -6,10 +6,10 @@ breadcrumb-title: Release-opmerkingen
 user-guide-description: Meer informatie over nieuwe functies, correcties en belangrijke kennisgevingen in Adobe Experience Cloud.
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: b8a7c0da3f98d1f7d37713c85ba31dade69c08b7
+source-git-commit: 1beba26ad3096758512a7efbf5454012b686f007
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 78%
+source-wordcount: '58'
+ht-degree: 79%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 78%
 + [Release-opmerkingen](current.md)
 + Opmerkingen bij vorige release {#previous}
    + 2020 {#2020}
+      + [November 2020](c-legacy-releases/2020/10292020.md)
       + [Oktober 2020](c-legacy-releases/2020/10082020.md)
       + [September 2020](c-legacy-releases/2020/09102020.md)
       + [Augustus 2020](c-legacy-releases/2020/08132020.md)
