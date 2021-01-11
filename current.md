@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3d0946fe6fc0bf74ec45a19931c106afb8a8208d
+source-git-commit: 5175e3e92bd445254532c614bda3f7a048f31a86
 workflow-type: tm+mt
-source-wordcount: '6015'
+source-wordcount: '6231'
 ht-degree: 25%
 
 ---
@@ -135,6 +135,7 @@ Releasedatum: **14 januari 2021**
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
 * [AppMeasurement](#appm)
+* [Report Builder](#arb)
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
@@ -181,6 +182,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
+| Vereiste [!UICONTROL Report Builder]-update | 8 januari 2021 | Op 30 april 2021 moeten alle [!UICONTROL Report Builder]-gebruikers de [!UICONTROL Report Builder]-invoegtoepassing bijwerken naar versie 5.6.47 of hoger. Deze versie bevat een kritieke update van het aanmeldingsproces. Gebruikers die geen update naar versie 5.6.47 of hoger uitvoeren, kunnen zich na 30 april 2021 niet meer aanmelden. [!UICONTROL Report Builder] versie 5.6.47 en hoger ondersteunt alleen aanmelding bij Experience Cloud en geen ondersteuning voor oudere aanmeldingen zoals Single Sign-On van SiteCatalyst of de standaardaanmelding. Voor meer informatie, zie [Report Builder Sign-In](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | Einde van levensduur voor drie API-analysemogelijkheden | 6 januari 2021 | Op 30 april 2021 zijn de volgende API-services van Analytics Legacy gepland om hun einddatum te bereiken en worden ze afgesloten. De huidige integratie die met deze services wordt gebouwd, werkt niet meer op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Wij hebben een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om u te helpen uw vragen beantwoorden en richtlijnen te geven over hoe te te werk te gaan. API-integratie met deze services kan worden gemigreerd naar de [1.4 Analytics REST API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) en/of de [2.0 Analytics API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
 | HSTS-header toevoegen aan alle binnenkomende HTTPS-aanvragen | 29 september 2020 | Op 29 september 2020, begonnen wij de kopbal van HSTS aan alle inkomende verzoeken toe te voegen die HTTPS gebruiken. Dit instrueert browser/cliënt om alle toekomstige verzoeken in HTTPS te doen, die als best praktijken van de veiligheid wordt beschouwd. Op dit punt, zullen wij dit voor inkomende verzoeken niet afdwingen gebruikend HTTP. |
 | Wijzigen in cookie-instelling [!UICONTROL Experience Cloud ID Service] | 22 september 2020 | Een update van de privacy-instellingen voor Chrome versie 80 beïnvloedde de mogelijkheid van Adobe Analytics om sommige gebruikers die Google AMP-pagina&#39;s bekijken te volgen. Zo voorkomt u met name dat gebruikers die door Google gehoste AMP-pagina&#39;s bekijken, in verschillende domeinen kunnen volgen. Dit kan leiden tot een opblaasbaar aantal unieke bezoekers. Met deze correctie kunnen gebruikers dit probleem verhelpen door de instellingen voor hun ECID-cookies te wijzigen.<br>Analytics stelt momenteel  [!UICONTROL Experience Cloud ID Service] (ECID)-cookies in met de instelling  `SameSite = Lax` die, voorafgaand aan versie 80 van Chrome, interdomeintracering toestaat. Dat is niet langer het geval. Met deze wijziging kunnen gebruikers de SameSite-instelling voor ECID-cookies bijwerken naar `None`.<br>Merk op dat dit het koekje van Analytics om in meer situaties toestaat te worden gedeeld, maar de koekjes van Analytics bevatten geen gevoelige informatie. Wanneer u deze instelling kiest, moeten cookies bovendien worden ingesteld op `Secure`, zodat gegevens alleen via HTTPS-verbindingen kunnen worden doorgegeven. Als u deze wijziging wilt doorvoeren, moet u een door u ondersteund gebruiker een ticket laten openen met de klantenservice. |
@@ -192,6 +194,12 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 ### AppMeasurement {#appm}
 
 Voor de meest recente updates over AppMeasurement-releases raadpleegt u [Releaseopmerkingen bij AppMeasurement voor JavaScript](https://docs.adobe.com/content/help/nl-NL/analytics/implementation/appmeasurement-updates.html).
+
+### Report Builder {#arb}
+
+| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
+| ----------- | ---------- | ----- |
+| Aanmelden bij Analytics [!UICONTROL Report Builder] | 14 januari 2021 | Met de verbeteringen in het aanmeldingsproces [!UICONTROL Report Builder] worden afhankelijkheden van verouderde technologieën verwijderd en wordt het aanmeldingsproces afgestemd op Adobe Experience Cloud. Met de aanmelding voor Experience Cloud kunt u uw Adobe ID of Enterprise ID (Single Sign-On) gebruiken om u aan te melden bij de Adobe Experience Cloud. Op 30 april 2021 moeten alle [!UICONTROL Report Builder]-gebruikers de [!UICONTROL Report Builder]-invoegtoepassing bijwerken naar versie 5.6.47 of hoger. [!UICONTROL Report Builder] versie 5.6.47 en hoger biedt alleen ondersteuning voor inloggen met Experience Cloud en biedt geen ondersteuning voor verouderde inloggen, zoals Single Sign-On voor SiteCatalyst of de standaard aanmelding. Voor meer informatie, zie [Report Builder Sign-In](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 
 ### Bronnen voor Analytics Help
 
