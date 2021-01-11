@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4f4eac5843bd39369950c543749455580b1cb964
+source-git-commit: 23d521bb24f13ed6ad843b605f72f362262790c2
 workflow-type: tm+mt
-source-wordcount: '6014'
-ht-degree: 26%
+source-wordcount: '6013'
+ht-degree: 25%
 
 ---
 
@@ -453,7 +453,7 @@ Zie [[!DNL Target]  releaseopmerkingen](https://docs.adobe.com/content/help/nl-N
 
 ### Belangrijke Marketo Engage-updates
 
-Zie [!DNL Marketo] [releaseopmerkingen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720) voor de recentste releasegegevens.
+Zie [!DNL Marketo] [releaseopmerkingen](https://docs.marketo.com/display/public/DOCS/Jan+%2721) voor de recentste releasegegevens.
 
 ### Aanstaande functies
 
@@ -469,7 +469,7 @@ De volgende functies komen gedurende het komende kwartaal beschikbaar:
 * **Assetparameter API &quot;_method&quot;:** Na september 2020 laten Asset API Endpoints `_method` geen queryparameters meer passeren in een POST-body om URI-lengterestricties te omzeilen.
 * **Afschaffing van Internet Explorer-ondersteuning:** Vanaf de juli-release op 31 juli 2020 wordt de Marketo Engage-gebruikersinterface niet meer ondersteund in Internet Explorer.
 
-Zie [Marketo-releaseopmerkingen](https://docs.marketo.com/x/CgA6Ag) voor cumulatieve en historische releaseopmerkingen.
+Zie [Marketo-releaseopmerkingen](https://docs.marketo.com/display/public/DOCS/Release+Notes) voor cumulatieve en historische releaseopmerkingen.
 
 ## ![](/assets/document-cloud-24.png) IconDocument Cloud  {#doc-cloud}
 
