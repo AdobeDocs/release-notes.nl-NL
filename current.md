@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5175e3e92bd445254532c614bda3f7a048f31a86
+source-git-commit: d5d885d83774f8160e77ec34ddc4cfa92b7f10f4
 workflow-type: tm+mt
-source-wordcount: '6231'
+source-wordcount: '6226'
 ht-degree: 25%
 
 ---
@@ -67,7 +67,7 @@ Bevat releaseupdategegevens voor Experience Platform en Experience Platform Laun
 
 Laatste update: **9 december 2020**
 
-Zie [Opmerkingen bij de release van Experience Platforms](https://docs.adobe.com/content/help/nl-NL/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) voor de meest recente updates die van toepassing zijn op:
+Zie [Opmerkingen bij de release van Experience Platforms](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=en) voor de meest recente updates die van toepassing zijn op:
 
 * [!UICONTROL Dataflows]
 * [!UICONTROL Data Science Workspace]
