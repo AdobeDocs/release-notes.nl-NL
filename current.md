@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 783d8abc85c468f18d599d5ff5782dd01cb07e78
+source-git-commit: 40f7861366595738d6ba7b7ebcbbba514b2c98c7
 workflow-type: tm+mt
-source-wordcount: '6240'
-ht-degree: 25%
+source-wordcount: '6330'
+ht-degree: 24%
 
 ---
 
@@ -29,7 +29,7 @@ Laatste update: **12 januari 2021**
 * [Experience Cloud en administratie](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Releasedatum: **14 januari 2021**)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **12 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campagne](#ac)  (bijgewerkt op 12  **januari 2021**)
@@ -141,8 +141,9 @@ Releasedatum: **14 januari 2021**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
+| Analysis Workspace - URL&#39;s voor afbeeldingen | 14 januari 2021 | U kunt afbeeldingen toevoegen aan [!UICONTROL Workspace]-projecten door te verwijzen naar een openbare afbeeldings-URL. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
+| Analysis Workspace - Beheer van gecombineerde bronnen en instellingen | 14 januari 2021 | De gegevensbronmanager (punt) en het montagebeheer (toestel) voor visualisaties zijn gecombineerd in één enkel dialoogvenster, zodat kunt u uw bron en montages van de zelfde plaats gemakkelijk beheren. |
 | Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
-| Analysis Workspace - URL&#39;s voor afbeeldingen | 14 januari 2021 | U kunt afbeeldingen toevoegen aan [!UICONTROL Workspace]-projecten door te verwijzen naar een openbare afbeeldings-URL. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -150,8 +151,9 @@ Releasedatum: **14 januari 2021**
 | ----------- | ---------- | ----- |
 | [!UICONTROL Device] en [!UICONTROL Geography] afmetingen | 30 oktober 2020 | Deze afmetingen zijn nu standaard beschikbaar als onderdeel van het [Global Lookup](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#use-global-lookups-with-adobe-data-connector-datasets)-ondersteuningsproject in de Adobe Analytics [!UICONTROL Source Connector]. Deze veelgevraagde toevoeging verhoogt [pariteit tussen Adobe Analytics en CJA](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=en#cja-overview). |
 | Reis-IQ: [!UICONTROL Cross-Channel Analytics] | 11 januari 2021 | Reis-IQ: [!UICONTROL Cross-Channel Analytics] laat u toe om een de gebeurtenisdataset van Adobe Analytics (of andere) in de dateeruimte van het Experience Platform van één identiteitskaart aan een andere opnieuw te richten namespace. Typisch, betekent dit het opnieuw sluiten van de gebeurtenisdataset van een op koekje-gebaseerde identiteitskaart aan een op persoon-gebaseerde identiteitskaart Op deze manier kan de opnieuw vergrendelde gegevensset worden gecombineerd met andere op personen gebaseerde gegevens in een CJA-verbinding, zodat apparaatoverschrijdende en kanaaloverschrijdende analyse in Analysis Workspace mogelijk is. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
-| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
 | Analysis Workspace - URL&#39;s voor afbeeldingen | 14 januari 2021 | U kunt afbeeldingen toevoegen aan Workspace-projecten door te verwijzen naar een openbare afbeeldings-URL. |
+| Analysis Workspace - Beheer van gecombineerde bronnen en instellingen | 14 januari 2021 | De gegevensbronmanager (punt) en het montagebeheer (toestel) voor visualisaties zijn gecombineerd in één enkel dialoogvenster, zodat kunt u uw bron en montages van de zelfde plaats gemakkelijk beheren. |
+| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
