@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d5d885d83774f8160e77ec34ddc4cfa92b7f10f4
+source-git-commit: 783d8abc85c468f18d599d5ff5782dd01cb07e78
 workflow-type: tm+mt
-source-wordcount: '6226'
+source-wordcount: '6240'
 ht-degree: 25%
 
 ---
@@ -23,7 +23,7 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **11 januari 2020**
+Laatste update: **12 januari 2021**
 
 * [Adobe System Status](#status)  (niet bijgewerkt)
 * [Experience Cloud en administratie](#ecloud)
@@ -32,7 +32,7 @@ Laatste update: **11 januari 2020**
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Releasedatum: **14 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
+* [Campagne](#ac)  (bijgewerkt op 12  **januari 2021**)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -373,7 +373,7 @@ Releasegegevens voor Campaign Classic, Campaign Standard en Control Panel.
 
 #### Campaign Classic
 
-<!-- [Incident Response Bulletin](https://helpx.adobe.com/security/products/campaign/apsb21-04.html) (January 12) -->
+[Instantie](https://helpx.adobe.com/security/products/campaign/apsb21-04.html)  voor respons op incident (bijgewerkt:  **(12 januari 2021**)
 
 * Release 20.3.3 - [meer informatie](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
 * Release 20.3.1 - [meer informatie](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
