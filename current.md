@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 40f7861366595738d6ba7b7ebcbbba514b2c98c7
+source-git-commit: 173c6f89606fb3a5fde4db91f66900476293f6b5
 workflow-type: tm+mt
-source-wordcount: '6330'
+source-wordcount: '6410'
 ht-degree: 24%
 
 ---
@@ -27,7 +27,7 @@ Laatste update: **12 januari 2021**
 
 * [Adobe System Status](#status)  (niet bijgewerkt)
 * [Experience Cloud en administratie](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform)  (bijgewerkt op 13  **januari 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **12 januari 2021**)
 * [Audience Manager](#aam)
@@ -47,23 +47,26 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 Deze maand niet bijgewerkt.
 
-Zie [Systeemstatus Adobe - 21 mei 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) voor de meest recente releasegegevens.
+Zie [Systeemstatus Adobe - 21 mei 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) voor de nieuwste releasegegevens.
 
-## ![](/assets/ec_appicon_24.png) IconExperience Cloud Services and administration  {#ecloud}
+## ![](/assets/ec_appicon_24.png) IconExperience Cloud-services en -beheer  {#ecloud}
 
-[Experience Cloud-services en ](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) beheerdocumentatie omvatten klantkenmerken, Audience Library ([!UICONTROL People] service), activering, gebruikers- en productbeheer en Experience Cloud-cookies.
+[Experience Cloud-services en ](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) beheerdocumentatie omvatten klantkenmerken, Audience Library ([!UICONTROL People] service), Activering, gebruikers- en productbeheer en Experience Cloud-cookies.
 
 Deze maand niet bijgewerkt.
 
-Zie [Cumulatieve releaseopmerkingen voor Experience Cloud services](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) voor de meest recente releasegegevens.
+**Zie ook**
+
+* [Opmerkingen bij de cumulatieve release voor Experience Cloud-](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) services voor de meest recente releasegegevens.
+* [Opmerkingen bij de ](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) servicerelease-Experience Cloud-id
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
-Bevat releaseupdategegevens voor Experience Platform en Experience Platform Launch.
+Bevat release-update-informatie voor Experience Platform en Experience Platform Launch.
 
 | Functie | Releasedatum | Beschrijving |
 | ------- | ------| ------- |
-| Verbeterde interactie voor productondersteuning voor Experience Platform | 15 januari 2021 | U kunt nu een vraag stellen of een kwestie voor Experience Platform melden zonder uw interface van het Experience Platform te verlaten. Navigeer naar **[!UICONTROL Help]** > **[!UICONTROL Support]** > **[!UICONTROL Create a support ticket]**, voer vervolgens uw vraag in en verzend uw kwestie rechtstreeks naar Klantenondersteuning. U ontvangt een e-mailbericht met een case-id en het Customer Support-team zal contact met u opnemen via een ticket om aan uw behoeften te voldoen. |
+| Verbeterde interacties voor productondersteuning voor Experience Platform | 15 januari 2021 | U kunt nu een vraag stellen of een probleem voor Experience Platform melden zonder dat u de interface van uw Experience Platform hoeft te verlaten. Navigeer naar **[!UICONTROL Help]** > **[!UICONTROL Support]** > **[!UICONTROL Create a support ticket]**, voer vervolgens uw vraag in en verzend uw kwestie rechtstreeks naar de klantenondersteuning. U ontvangt een e-mailbericht met een casus-id en het klantenondersteuningsteam reist via een ticket naar u om aan uw behoeften te voldoen. |
 
 Laatste update: **9 december 2020**
 
@@ -75,18 +78,25 @@ Zie [Opmerkingen bij de release van Experience Platforms](https://experienceleag
 
 ### Experience Platform Launch
 
-Zie [Opmerkingen bij de release van Experience Platforms Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) voor informatie over het starten van Platforms.
+Releasedatum: **13 januari 2021**
+
+**[!UICONTROL Launch Server Side]:** Verzend gegevens op gebeurtenisniveau naar AEP Edge Network en gebruik vervolgens Launch Server Side om die gegevens te transformeren, te verrijken en naar een niet-Adobe-eindpunt te verzenden met de servers van Adobe, niet de client, met lage latentie. [Meer...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
+
+**Zie ook**
+
+* [Opmerkingen bij de release van Experience Platforms Launch ](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) voor informatie over Experience Platform Launch.
+* [Opmerkingen bij de release voor ](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) Experience Cloud ID Service Extensionrelease
 
 ### Adobe mobiel
 
-iOS versie 4.21.0
+iOS-versie 4.21.0
 
-Algemeen - De SDK wordt nu gedistribueerd met behulp van [!DNL XCFrameworks] ter ondersteuning van hardware met de nieuwe Apple M1-architectuur terwijl de ondersteuning voor bestaande Intel-architectuur behouden blijft.
+Algemeen - De SDK wordt nu gedistribueerd met behulp van [!DNL XCFrameworks] ter ondersteuning van hardware met de nieuwe Apple M1-architectuur, terwijl ondersteuning voor bestaande Intel-architectuur behouden blijft.
 
 * BELANGRIJK: Voor een upgrade naar Adobe Mobile [!DNL XCFrameworks] is Xcode 12.0 of hoger vereist.
-* BELANGRIJK: Als u [!DNL Cocoapods] gebruikt, is [!DNL Cocoapods] 1.10.0 of hoger vereist om te upgraden naar Adobe Mobile [!DNL XCFrameworks].
+* BELANGRIJK: Als u [!DNL Cocoapods] gebruikt, is [!DNL Cocoapods] 1.10.0 of hoger vereist om te upgraden naar AdobeMobile [!DNL XCFrameworks].
 
-### Zelfstudies en cursussen over Experience Platform en diensten
+### Zelfstudies en cursussen over Experience Platform en services
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platform en services.
 
@@ -94,28 +104,28 @@ Bijgewerkt: **6 januari 2021**
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| 23 december 2020 | [Overzicht van Unieregelingen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/union-schemas-overview.html) | Video | Leer over unieschema&#39;s die door het Profiel van de Klant in real time van Adobe Experience Platform worden gebruikt. |
-| 22 december 2020 | [Meerdere entiteitssegmenten maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html) | Video | Leer hoe u segmenten met meerdere entiteiten maakt in de Segment Builder van Adobe Experience Platform. |
-| 21 december 2020 | [Aanbiedingsactiviteiten maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-offer-activities.html) | Video | Leer hoe u aanbiedingsactiviteiten kunt maken in [!UICONTROL Offer Decisioning]. Een aanbiedingsactiviteit combineert uw plaatsingen en inzamelingen in één enkele entiteit, zodat een besluit kan worden genomen om de meest relevante aanbieding aan de klant te leveren. |
-| 21 december 2020 | [Verzamelingen maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-collections.html) | Video | Leer hoe u verzamelingen maakt in [!UICONTROL Offer Decisioning]. Verzamelingen worden gebruikt voor het beheer van aanbiedingen in logische groepen en zijn vereist voor het bouwen van Offer Decisioning-activiteiten. |
-| 21 december 2020 | [Aanbiedingen leveren met de API Besluiten](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/deliver-offers-with-the-decisions-api.html) | Video | Leer hoe u [!UICONTROL Offer Decisioning] aanbiedingen kunt leveren met de API voor Besluiten. |
-| 15 december 2020 | [Persoonlijke aanbiedingen maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-personalized-offers.html) | Video | Leer hoe u persoonlijke aanbiedingen kunt maken in [!UICONTROL Offer Decisioning]. |
-| 15 december 2020 | [Alternatieve aanbiedingen maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-fallback-offers.html) | Video | Leer hoe u fallback-aanbiedingen kunt maken in [!UICONTROL Offer Decisioning]. |
-| 14 december 2020 (bijgewerkt) | [Klantprofiel in realtime](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) | Video | In deze video wordt uitgelegd hoe Adobe Experience Platform realtime profielen van klanten samenstelt en bijwerkt en hoe u deze profielen kunt openen en gebruiken. |
-| 10 december 2020 | [Tags maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-tags.html) | Video | Leer hoe u labels maakt in [!UICONTROL Offer Decisioning]. Tags zijn optionele bouwsteencomponenten van aanbiedingen. Ze kunnen worden gebruikt om aanbiedingen te organiseren en deze in dynamische verzamelingen te groeperen. |
-| 9 december 2020 | [Regels maken in Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-rules.html) | Video | Leer hoe u regels maakt in [!UICONTROL Offer Decisioning]. De regels worden gebouwd gebruikend de gebeurtenissen en de attributen in Platform [!UICONTROL Real-time Customer Profile] en vormen de geschiktheidsbeperkingen van aanbiedingen. |
+| 23 december 2020 | [Overzicht van unieschema&#39;s](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/union-schemas-overview.html) | Video | Lees meer over union-schema’s die worden gebruikt door het Real-time Customer Profile van Adobe Experience Platform. |
+| 22 december 2020 | [Segmenten met meerdere entiteiten maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html) | Video | Leer hoe je segmenten met meerdere entiteiten bouwt in de Segment Builder van Adobe Experience Platform. |
+| 21 december 2020 | [Aanbiedingsactiviteiten maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-offer-activities.html) | Video | Leer hoe je aanbiedingsactiviteiten creëert in [!UICONTROL Offer Decisioning]. Een aanbiedingsactiviteit combineert uw plaatsingen en verzamelingen in één entiteit, zodat een beslissing kan worden genomen om de meest relevante aanbieding aan de klant te leveren. |
+| 21 december 2020 | [Verzamelingen maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-collections.html) | Video | Leer hoe u verzamelingen maakt in [!UICONTROL Offer Decisioning]. Verzamelingen worden gebruikt om aanbiedingen in logische groepen te beheren en zijn vereist om Offer Decisioning-activiteiten te bouwen. |
+| 21 december 2020 | [Bied aanbiedingen met de API voor Besluiten](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/deliver-offers-with-the-decisions-api.html) | Video | Leer hoe u [!UICONTROL Offer Decisioning] aanbiedingen kunt leveren met de API voor Besluiten. |
+| 15 december 2020 | [Persoonlijke aanbiedingen maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-personalized-offers.html) | Video | Leer hoe je gepersonaliseerde aanbiedingen maakt in [!UICONTROL Offer Decisioning]. |
+| 15 december 2020 | [Alternatieve aanbiedingen maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-fallback-offers.html) | Video | Leer hoe je fallback-aanbiedingen maakt in [!UICONTROL Offer Decisioning]. |
+| 14 december 2020 (bijgewerkt) | [Real-time klantprofiel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) | Video | In deze video wordt uitgelegd hoe Adobe Experience Platform real-time klantprofielen samenstelt en bijwerkt en hoe u deze profielen kunt openen en gebruiken. |
+| 10 december 2020 | [Tags maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-tags.html) | Video | Leer hoe u tags maakt in [!UICONTROL Offer Decisioning]. Tags zijn optionele bouwsteencomponenten van aanbiedingen. Ze kunnen worden gebruikt om aanbiedingen te organiseren en deze te groeperen in dynamische verzamelingen. |
+| 9 december 2020 | [Regels maken in Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-rules.html) | Video | Leer hoe u regels maakt in [!UICONTROL Offer Decisioning]. De regels worden gebouwd met behulp van de gebeurtenissen en kenmerken in het platform [!UICONTROL Real-time Customer Profile] en vormen de geschiktheidsbeperkingen van aanbiedingen. |
 | 9 december 2020 | [Plaatsen maken](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/create-placements.html) | Video | Leer hoe u plaatsingen maakt in Offer Decisioning. Een plaatsing is de combinatie van inhoudstype en kanaal, zoals een afbeelding in een e-mail of HTML-code op een website. |
 | 29 oktober 2020 (bijgewerkt) | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | Video | Leer hoe merken de nieuwe [!UICONTROL Offer Decisioning] service van Adobe kunnen gebruiken om hun aanbiedingen te definiëren en te beheren, real-time klantgegevens te benutten en de juiste ervaringen te bieden die hun klanten verwachten. |
 | 26 oktober 2020 (bijgewerkt) | [Inleiding tot Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Video | Deze video geeft een overzicht van [!UICONTROL Offer Decisioning], een applicatieservice die op Adobe Experience Platform is gebouwd. In de video komen de zakelijke uitdagingen die [!UICONTROL Offer Decisioning] oplost aan de orde, evenals de belangrijkste mogelijkheden, de basisarchitectuur en de voornaamste gebruiksscenario’s. |
-| 26 oktober 2020 (bijgewerkt) | [De gegevens van de binnenste gebruikend de BronSchakelaar van Salesforce CRM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/ingest-data-from-salesforce-crm.html) | Video | Met de Salesforce CRM-bronaansluiting kunt u eenvoudig gegevens van Salesforce CRM in het Real-time Customer Profile (realtime profiel van de klant) en Experience Data Lake (Gegevens-meer in real-time) van Adobe Experience Platform opnemen op een naadloze en schaalbare manier. |
-| 13 oktober 2020 (bijgewerkt) | [De gegevens van de binnenste gebruikend de BronSchakelaar van Salesforce CRM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html) | Video | Met de Salesforce CRM-bronaansluiting kunt u eenvoudig gegevens van Salesforce CRM in het Real-time Customer Profile (realtime profiel van de klant) en Experience Data Lake (Gegevens-meer in real-time) van Adobe Experience Platform opnemen op een naadloze en schaalbare manier. |
-| 23 oktober 2020 (bijgewerkt) | [Gegevens in realtime-klantprofiel plaatsen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html) | Video | Het profiel van de Klant in real time machtigt kanaalpersonalisatie door schaal door elke fase van de klantenreis. |
-| 13 oktober 2020 (bijgewerkt) | [Attribution AI configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intelligent-services/configure-attribution-ai.html) | Video | Leer hoe u een instantie van Attribution AI maakt om de impact van uw marketingkanalen en campagnes te begrijpen. |
-| 13 oktober 2020 (bijgewerkt) | [AI van klant configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intelligent-services/configure-customer-ai.html) | Video | Leer hoe u een exemplaar van Customer AI kunt maken om het gedrag van de klant te voorspellen. |
+| 26 oktober 2020 (bijgewerkt) | [Gegevens invoegen met behulp van de Salesforce CRM-bronconnector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/ingest-data-from-salesforce-crm.html) | Video | Met de Salesforce CRM-bronconnector kun je op een naadloze en schaalbare manier eenvoudig data uit Salesforce CRM opnemen in het Real-time Customer Profile en Experience Data Lake van Adobe Experience Platform. |
+| 13 oktober 2020 (bijgewerkt) | [Gegevens invoegen met behulp van de Salesforce CRM-bronconnector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html) | Video | Met de Salesforce CRM-bronconnector kun je op een naadloze en schaalbare manier eenvoudig data uit Salesforce CRM opnemen in het Real-time Customer Profile en Experience Data Lake van Adobe Experience Platform. |
+| 23 oktober 2020 (bijgewerkt) | [Data in real-time klantprofiel plaatsen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html) | Video | Real-Time Customer Profile stuurt cross-channelpersonalisatie op grote schaal door in elke fase van het klanttraject. |
+| 13 oktober 2020 (bijgewerkt) | [Attribution AI configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intelligent-services/configure-attribution-ai.html) | Video | Leer hoe je een instantie van Attribution AI maakt om inzicht te krijgen in de impact van je marketingkanalen en campagnes. |
+| 13 oktober 2020 (bijgewerkt) | [Customer AI configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intelligent-services/configure-customer-ai.html) | Video | Leer hoe je een instantie van Klantenkunstmatige intelligentie creëert om klantgedrag te voorspellen. |
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
-Gebruik Adobe Experience Platform om de reis van een klant op schaal over ervaringskanalen te ordenen, door intelligent op de behoeften van elk individu in real time te anticiperen.
+Gebruik Adobe Experience Platform om het klanttraject op grote schaal te orkestreren via verschillende ervaringskanalen, door in real-time op intelligente wijze te anticiperen op de behoeften van elk individu.
 
 ### Nieuwe productversies
 
@@ -141,40 +151,40 @@ Releasedatum: **14 januari 2021**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
-| Analysis Workspace - URL&#39;s voor afbeeldingen | 14 januari 2021 | U kunt afbeeldingen toevoegen aan [!UICONTROL Workspace]-projecten door te verwijzen naar een openbare afbeeldings-URL. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
-| Analysis Workspace - Beheer van gecombineerde bronnen en instellingen | 14 januari 2021 | De gegevensbronmanager (punt) en het montagebeheer (toestel) voor visualisaties zijn gecombineerd in één enkel dialoogvenster, zodat kunt u uw bron en montages van de zelfde plaats gemakkelijk beheren. |
-| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
+| Analysis Workspace - Afbeeldings-URL&#39;s | 14 januari 2021 | U kunt afbeeldingen toevoegen aan [!UICONTROL Workspace]-projecten door te verwijzen naar een openbare afbeeldings-URL. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
+| Analysis Workspace - Beheer van gecombineerde bron en instellingen | 14 januari 2021 | De gegevensbronmanager (punt) en instellingenmanager (versnelling) voor visualisaties zijn gecombineerd in één dialoogvenster, zodat u uw bron en instellingen eenvoudig vanaf dezelfde locatie kunt beheren. |
+| Analysis Workspace - Componentselectie | 4 februari 2021 | De vervolgkeuzelijst/dropzone-component gevonden in [!UICONTROL Quick Insights] is toegevoegd aan alle dropzones in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een dropzone. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ----- |
 | [!UICONTROL Device] en [!UICONTROL Geography] afmetingen | 30 oktober 2020 | Deze afmetingen zijn nu standaard beschikbaar als onderdeel van het [Global Lookup](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#use-global-lookups-with-adobe-data-connector-datasets)-ondersteuningsproject in de Adobe Analytics [!UICONTROL Source Connector]. Deze veelgevraagde toevoeging verhoogt [pariteit tussen Adobe Analytics en CJA](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=en#cja-overview). |
-| Reis-IQ: [!UICONTROL Cross-Channel Analytics] | 11 januari 2021 | Reis-IQ: [!UICONTROL Cross-Channel Analytics] laat u toe om een de gebeurtenisdataset van Adobe Analytics (of andere) in de dateeruimte van het Experience Platform van één identiteitskaart aan een andere opnieuw te richten namespace. Typisch, betekent dit het opnieuw sluiten van de gebeurtenisdataset van een op koekje-gebaseerde identiteitskaart aan een op persoon-gebaseerde identiteitskaart Op deze manier kan de opnieuw vergrendelde gegevensset worden gecombineerd met andere op personen gebaseerde gegevens in een CJA-verbinding, zodat apparaatoverschrijdende en kanaaloverschrijdende analyse in Analysis Workspace mogelijk is. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
-| Analysis Workspace - URL&#39;s voor afbeeldingen | 14 januari 2021 | U kunt afbeeldingen toevoegen aan Workspace-projecten door te verwijzen naar een openbare afbeeldings-URL. |
-| Analysis Workspace - Beheer van gecombineerde bronnen en instellingen | 14 januari 2021 | De gegevensbronmanager (punt) en het montagebeheer (toestel) voor visualisaties zijn gecombineerd in één enkel dialoogvenster, zodat kunt u uw bron en montages van de zelfde plaats gemakkelijk beheren. |
-| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
+| IQ van reis: [!UICONTROL Cross-Channel Analytics] | 11 januari 2021 | IQ van reis: [!UICONTROL Cross-Channel Analytics] laat u toe om een Adobe Analytics (of andere) de gebeurtenisdataset in de datalaag van het Experience Platform van één identiteitskaart namespace aan een andere opnieuw van een sleutel te voorzien. Meestal betekent dit dat de gebeurtenisdataset opnieuw moet worden gekoppeld van een op cookies gebaseerde id naar een op personen gebaseerde id. Op deze manier kan de opnieuw ingevoerde dataset worden gecombineerd met andere op personen gebaseerde gegevens in een CJA-verbinding, waardoor cross-device- en cross-channel-analyse in Analysis Workspace mogelijk is. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
+| Analysis Workspace - Afbeeldings-URL&#39;s | 14 januari 2021 | U kunt afbeeldingen toevoegen aan werkruimteprojecten door te verwijzen naar een openbare afbeeldings-URL. |
+| Analysis Workspace - Beheer van gecombineerde bron en instellingen | 14 januari 2021 | De gegevensbronmanager (punt) en instellingenmanager (versnelling) voor visualisaties zijn gecombineerd in één dialoogvenster, zodat u uw bron en instellingen eenvoudig vanaf dezelfde locatie kunt beheren. |
+| Analysis Workspace - Componentselectie | 4 februari 2021 | De vervolgkeuzelijst/dropzone-component gevonden in [!UICONTROL Quick Insights] is toegevoegd aan alle dropzones in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een dropzone. |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
-* Oplossing voor problemen met gedownloade CSV-rapporten in Workspace, downloaden en verzenden. (AN-224844)
+* Opmaak, downloaden en verzenden van problemen met gedownloade CSV-rapporten in Workspace opgelost. (AN-224844)
 AN-240295)
-* Probleem verholpen waarbij geen gegevens voor mobiele kenmerken werden weergegeven in LiveStream, ook al bevatte de rapportsuite Analytics gegevens. (AN-241169)
-* Probleem verholpen waardoor gegevens niet konden worden weergegeven in het Real-Time rapport. (AN-242477)
-* In Rapporten &amp; Analytics, herstelde een kwestie die geen gegevens om veroorzaakte te tonen wanneer het gebruiken van _bevat_ filter. (AN-237354)
-* Probleem verholpen waarbij segmenten die uit Adobe Analytics zijn verwijderd, verder werden gebruikt in de Campagne Data Connector. (AN-236713)
-* Problemen verholpen waarbij geplande rapporten vastzaten in de wachtrij met rapporten. (AN-242599, AN-242554, AN-242900, AN-243329)
-* Problemen met gedeelde doelrapporten in rapporten en analyses zijn opgelost. (AN-234638)
+* Probleem opgelost waarbij er geen gegevens voor mobiele kenmerken in Livestream worden weergegeven, ook al bevatte de Analytics-rapportsuite gegevens. (AN-241169)
+* Probleem verholpen waardoor gegevens niet konden worden weergegeven in het real-time rapport. (AN-242477)
+* In Rapporten en Analytics heeft u een probleem opgelost dat er geen gegevens weergeven tijdens het gebruik van het filter _contains_. (AN-237354)
+* Probleem opgelost waarbij segmenten die uit Adobe Analytics zijn verwijderd, blijven worden gebruikt in de Campaign Data Connector. (AN-236713)
+* Problemen opgelost waarbij geplande rapporten vastbleven in de wachtrij met rapporten. (AN-242599, AN-242554, AN-242900, AN-243329)
+* Oplossing van problemen met gedeelde doelrapporten in Rapporten en Analytics. (AN-234638)
 * Probleem verholpen waarbij staafgrafieken geen gegevens weergeven in Workspace. (AN-232127)
 * Klanten konden zich niet aanmelden bij Adobe Analytics. Dit probleem is nu opgelost. (AN-241882 AN-238802)
 * Het rapport Mobiel apparaat is bijgewerkt en bevat nu de Samsung Galaxy Z Fold2 5G. (AN-238246)
-* Problemen met fouten in geplande rapporten in Workspace zijn opgelost. (AN-236707, AN-243449)
-* Probleem verholpen waarbij gegevensbronbestanden niet werden opgepikt door FTP. (AN-240347)
-* Probleem verholpen dat een fout veroorzaakte bij het openen van [!UICONTROL Advertising Analytics]. (AN-241478)
-* Probleem verholpen waarbij bestanden niet worden opgepikt via Classification FTP. (AN-242490)
-* Oplossing voor een UI-renderfout in Workspace. (AN-243123)
-* Probleem met Data Warehouse verholpen waarbij bestanden van de SFTP-server niet konden worden ontvangen. (AN-244679)
-* Probleem verholpen waardoor de [!UICONTROL Download Report]-koppeling niet meer werkte. U kunt deze vinden onder [!UICONTROL Admin] > [!UICONTROL Logs] > [!UICONTROL Usage and Access Logs]. (AN-238058)
+* Problemen met fouten in geplande rapporten in Workspace opgelost. (AN-236707, AN-243449)
+* Probleem verholpen waarbij gegevensbronbestanden niet worden opgepikt door FTP. (AN-240347)
+* Probleem opgelost waarbij een fout werd gegenereerd bij het openen van [!UICONTROL Advertising Analytics]. (AN-241478)
+* Probleem verholpen waarbij bestanden niet worden opgepikt van Classification FTP. (AN-242490)
+* Er is een UI-renderfout in Workspace opgelost. (AN-243123)
+* Probleem met Data Warehouse verholpen waarbij bestanden niet van de SFTP-server kunnen worden ontvangen. (AN-244679)
+* Probleem opgelost waarbij de [!UICONTROL Download Report]-koppeling niet meer werkte. Dit probleem is te vinden onder [!UICONTROL Admin] > [!UICONTROL Logs] > [!UICONTROL Usage and Access Logs]. (AN-238058)
 
 #### Nog meer oplossingen in Adobe Analytics
 
@@ -184,10 +194,10 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
-| Vereiste [!UICONTROL Report Builder]-update | 8 januari 2021 | Op 30 april 2021 moeten alle [!UICONTROL Report Builder]-gebruikers de [!UICONTROL Report Builder]-invoegtoepassing bijwerken naar versie 5.6.47 of hoger. Deze versie bevat een kritieke update van het aanmeldingsproces. Gebruikers die geen update naar versie 5.6.47 of hoger uitvoeren, kunnen zich na 30 april 2021 niet meer aanmelden. [!UICONTROL Report Builder] versie 5.6.47 en hoger ondersteunt alleen aanmelding bij Experience Cloud en geen ondersteuning voor oudere aanmeldingen zoals Single Sign-On van SiteCatalyst of de standaardaanmelding. Voor meer informatie, zie [Report Builder Sign-In](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
-| Einde van levensduur voor drie API-analysemogelijkheden | 6 januari 2021 | Op 30 april 2021 zijn de volgende API-services van Analytics Legacy gepland om hun einddatum te bereiken en worden ze afgesloten. De huidige integratie die met deze services wordt gebouwd, werkt niet meer op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Wij hebben een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om u te helpen uw vragen beantwoorden en richtlijnen te geven over hoe te te werk te gaan. API-integratie met deze services kan worden gemigreerd naar de [1.4 Analytics REST API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) en/of de [2.0 Analytics API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
-| HSTS-header toevoegen aan alle binnenkomende HTTPS-aanvragen | 29 september 2020 | Op 29 september 2020, begonnen wij de kopbal van HSTS aan alle inkomende verzoeken toe te voegen die HTTPS gebruiken. Dit instrueert browser/cliënt om alle toekomstige verzoeken in HTTPS te doen, die als best praktijken van de veiligheid wordt beschouwd. Op dit punt, zullen wij dit voor inkomende verzoeken niet afdwingen gebruikend HTTP. |
-| Wijzigen in cookie-instelling [!UICONTROL Experience Cloud ID Service] | 22 september 2020 | Een update van de privacy-instellingen voor Chrome versie 80 beïnvloedde de mogelijkheid van Adobe Analytics om sommige gebruikers die Google AMP-pagina&#39;s bekijken te volgen. Zo voorkomt u met name dat gebruikers die door Google gehoste AMP-pagina&#39;s bekijken, in verschillende domeinen kunnen volgen. Dit kan leiden tot een opblaasbaar aantal unieke bezoekers. Met deze correctie kunnen gebruikers dit probleem verhelpen door de instellingen voor hun ECID-cookies te wijzigen.<br>Analytics stelt momenteel  [!UICONTROL Experience Cloud ID Service] (ECID)-cookies in met de instelling  `SameSite = Lax` die, voorafgaand aan versie 80 van Chrome, interdomeintracering toestaat. Dat is niet langer het geval. Met deze wijziging kunnen gebruikers de SameSite-instelling voor ECID-cookies bijwerken naar `None`.<br>Merk op dat dit het koekje van Analytics om in meer situaties toestaat te worden gedeeld, maar de koekjes van Analytics bevatten geen gevoelige informatie. Wanneer u deze instelling kiest, moeten cookies bovendien worden ingesteld op `Secure`, zodat gegevens alleen via HTTPS-verbindingen kunnen worden doorgegeven. Als u deze wijziging wilt doorvoeren, moet u een door u ondersteund gebruiker een ticket laten openen met de klantenservice. |
+| Vereiste [!UICONTROL Report Builder]-update | 8 januari 2021 | Op 30 april 2021 moeten alle [!UICONTROL Report Builder]-gebruikers de [!UICONTROL Report Builder]-invoegtoepassing bijwerken naar versie 5.6.47 of hoger. Deze versie bevat een essentiële update van het aanmeldingsproces. Gebruikers die geen update naar versie 5.6.47 of hoger uitvoeren, kunnen zich na 30 april 2021 niet meer aanmelden. [!UICONTROL Report Builder] versie 5.6.47 en hoger ondersteunt alleen aanmelding bij Experience Cloud en geen oudere aanmeldingen zoals eenmalige aanmelding bij SiteCatalyst of de standaardaanmelding bij. Zie [Aanmelden bij Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA) voor meer informatie. |
+| Einde van levensduur voor drie Analytics API-services | 6 januari 2021 | Op 30 april 2021 hebben de volgende Analytics Legacy API-services hun einddatum bereikt en worden ze afgesloten. Alle integraties die u met deze services hebt gemaakt, werken op die dag niet meer.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Wij hebben een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om u te helpen uw vragen beantwoorden en richtlijnen te geven over hoe te te werk te gaan. API-integratie met deze services kan worden gemigreerd naar de [1.4 Analytics REST API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) en/of de [2.0 Analytics API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
+| HSTS-header toevoegen aan alle binnenkomende HTTPS-verzoeken | 29 september 2020 | Op 29 september 2020 zijn we begonnen met het toevoegen van de HSTS-header aan alle binnenkomende aanvragen die gebruikmaken van HTTPS. Hiermee instrueert u de browser/client om alle toekomstige aanvragen in HTTPS in te dienen. Dit wordt beschouwd als een best practices op het gebied van beveiliging. Op dit moment zullen we dit niet afdwingen voor binnenkomende verzoeken via HTTP. |
+| Wijzigen in cookie-instelling [!UICONTROL Experience Cloud ID Service] | 22 september 2020 | Een update van de privacy-instellingen voor Chrome versie 80 beïnvloedde de mogelijkheid van Adobe Analytics om sommige gebruikers die Google AMP-pagina&#39;s bekijken bij te houden. Zo voorkomt u met name dat gebruikers die door Google gehoste AMP-pagina&#39;s bekijken, het hele domein volgen. Dit kan leiden tot een opgeblazen telling van unieke bezoekers. Met deze oplossing kunnen gebruikers dit probleem oplossen door de instellingen voor hun ECID-cookies te wijzigen.<br>Momenteel stelt Analytics CID-cookies  [!UICONTROL Experience Cloud ID Service] (ECID) in met de instelling  `SameSite = Lax` die, voorafgaand aan versie 80 van Chrome, interdomeintracering toestaat. Dat is niet langer het geval. Met deze wijziging kunnen gebruikers de SameSite-instelling voor ECID-cookies bijwerken naar `None`.<br>Merk op dat dit het koekje van Analytics om in meer situaties toestaat te worden gedeeld, maar de koekjes van Analytics bevatten geen gevoelige informatie. Wanneer u deze instelling kiest, moeten cookies bovendien worden ingesteld op `Secure`, zodat gegevens alleen via HTTPS-verbindingen kunnen worden doorgegeven. Als u deze wijziging wilt doorvoeren, moet u een door u ondersteund gebruiker een ticket laten openen met de klantenservice. |
 | Migratie van `omniture.com` naar `adobe.com`-domein | 21 aug. 2020 | Op 13 augustus 2020 is de front-end architectuur van Adobe Analytics gemigreerd van `omniture.com|http://omniture.com/` naar het `adobe.com|http://adobe.com/`-domein. Deze wijziging verhelpt problemen met cookies van derden die optraden na de aanvankelijke productdomeinwijziging van 28 mei 2020. Als gevolg van deze update kan de browser gebruikers vragen het nieuwe domein `.adobe.com|http://an.adobe.com/` of `experience.adobe.com|http://experience.adobe.com/` te vertrouwen. |
 | Update over compatibiliteit met Ad Hoc Analysis Java 8 | 21 aug. 2020 | Ad Hoc Analysis is momenteel niet compatibel met Java 8-versies 1.8.0_261+. Om ervoor te zorgen dat uw toegang tot deze tool niet wordt beëindigd voordat de [einddatum](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) is bereikt, raden we u aan een Java 8-versie te gebruiken die ouder is dan 1.8.0_261. |
 | EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. We hebben een nieuwe standaard in het [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) dat moet worden gebruikt voor alle integraties waarvoor aanbod en ondersteuning gewenst is. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/import/dataconnectors/data-connectors-eol.html) |
