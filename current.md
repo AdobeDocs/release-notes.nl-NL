@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 173c6f89606fb3a5fde4db91f66900476293f6b5
+source-git-commit: d6693c587c6622105b13410dad58ad28232388cc
 workflow-type: tm+mt
-source-wordcount: '6410'
+source-wordcount: '6427'
 ht-degree: 24%
 
 ---
@@ -23,11 +23,11 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **13 januari 2021**
+Laatste update: **14 januari 2021**
 
 * [Adobe System Status](#status)  (niet bijgewerkt)
 * [Experience Cloud en administratie](#ecloud)
-* [Experience Platform](#platform)  (bijgewerkt op 13  **januari 2021**)
+* [Experience Platform](#platform)  (bijgewerkt op 14  **januari 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **12 januari 2021**)
 * [Audience Manager](#aam)
@@ -89,9 +89,15 @@ Releasedatum: **13 januari 2021**
 
 ### Adobe mobiel
 
+Bijgewerkt **14 januari 2021**
+
+iOS versie 4.21.1
+
+* Algemeen - Probleem verholpen waarbij tijdens het afsluiten van de app een uitzondering met een SQL-label kon ontstaan.
+
 iOS versie 4.21.0
 
-Algemeen - De SDK wordt nu gedistribueerd met behulp van [!DNL XCFrameworks] ter ondersteuning van hardware met de nieuwe Apple M1-architectuur terwijl de ondersteuning voor bestaande Intel-architectuur behouden blijft.
+* Algemeen - De SDK wordt nu gedistribueerd met behulp van [!DNL XCFrameworks] ter ondersteuning van hardware met de nieuwe Apple M1-architectuur terwijl de ondersteuning voor bestaande Intel-architectuur behouden blijft.
 
 * BELANGRIJK: Voor een upgrade naar Adobe Mobile [!DNL XCFrameworks] is Xcode 12.0 of hoger vereist.
 * BELANGRIJK: Als u [!DNL Cocoapods] gebruikt, is [!DNL Cocoapods] 1.10.0 of hoger vereist om te upgraden naar Adobe Mobile [!DNL XCFrameworks].
