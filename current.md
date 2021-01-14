@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d6693c587c6622105b13410dad58ad28232388cc
+source-git-commit: 026ae3842b9683ac8c55658964969d5deca75340
 workflow-type: tm+mt
 source-wordcount: '6427'
 ht-degree: 24%
@@ -93,7 +93,7 @@ Bijgewerkt **14 januari 2021**
 
 iOS versie 4.21.1
 
-* Algemeen - Probleem verholpen waarbij tijdens het afsluiten van de app een uitzondering met een SQL-label kon ontstaan.
+* Algemeen - Probleem verholpen waarbij SQLite-uitzonderingen konden optreden wanneer de app werd afgesloten.
 
 iOS versie 4.21.0
 
