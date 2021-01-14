@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 026ae3842b9683ac8c55658964969d5deca75340
+source-git-commit: 579b634c53f1a04a5c75f66e31de0dde5e5d1352
 workflow-type: tm+mt
-source-wordcount: '6427'
-ht-degree: 24%
+source-wordcount: '6600'
+ht-degree: 23%
 
 ---
 
@@ -32,7 +32,7 @@ Laatste update: **14 januari 2021**
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **12 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campagne](#ac)  (bijgewerkt op 12  **januari 2021**)
+* [Campagne](#ac)  (bijgewerkt op 14  **januari 2021**)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -417,7 +417,13 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | 23 december 2020 | [Dynamische inhoud configureren](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configuring-dynamic-content.html#sending-messages) | Campaign Classic | (Video) Begrijp de verschillende soorten dynamische inhoud en leer hoe creeer en pas verpersoonlijkingsblokken en voorwaardelijke verklaringen op een levering toe. |
-| 9 december 2020 | [Besturingsdeelvenster - Google TXT-recordbeheer](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/subdomains-and-certificates/google-txt-record-management.html#subdomains-and-certificates) | Campaign Standard | (Video) Leer hoe u verificatierecords van de Google TXT-site kunt toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden met [!UICONTROL Campaign Control Panel]. |
+| 23 december 2020 | [Abonnementsservices configureren en beheren](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/configuring-and-managing-subscription-services.html) | Campaign Classic | (Video) Leer hoe u abonnementen en doelabonnees kunt instellen en beheren. |
+| 22 december 2020 | [Toegang tot ingebouwde rapporten](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html) | Campaign Classic | (Video)  Begrijpen  ingebouwde rapportering en analyse in Campaign Classic en leer hoe te om een leveringsrapport te produceren. |
+| 22 december 2020 | [Problemen met de levering van e-mail oplossen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html) | Campaign Classic | (Video)Leer hoe u leveringsproblemen kunt oplossen. |
+| 18 december 2020 | [Direct-mailleveringen maken](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | (Video) Leer hoe u een direct mailbericht kunt maken en zaadadressen kunt gebruiken in een campagne. |
+| 18 december 2020 | [Goedkeuringen beheren in een campagne  ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html) | Campaign Classic | (Video) Leer hoe u goedkeuringen en een campagne instelt en hoe u onderscheid kunt maken tussen levering en workflowgoedkeuringen. |
+| 18 december 2020 | [Een campagne uitvoeren](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html) | Campaign Classic | (Video)Leer hoe u een campagne kunt uitvoeren, een e-maillevering en de leveringseigenschappen kunt bekijken. |
+| 15 december 2020 | [Het schema App Subscription uitbreiden om pushberichten aan te passen](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html) | Campaign Classic | (Video) Leer hoe u het schema voor app-abonnementen kunt uitbreiden om aanpassingswaarden op te slaan Campagne ontvangt van een mobiele app. |
 
 ## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
