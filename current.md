@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 579b634c53f1a04a5c75f66e31de0dde5e5d1352
+source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
 workflow-type: tm+mt
-source-wordcount: '6600'
+source-wordcount: '6608'
 ht-degree: 23%
 
 ---
@@ -29,7 +29,7 @@ Laatste update: **14 januari 2021**
 * [Experience Cloud en administratie](#ecloud)
 * [Experience Platform](#platform)  (bijgewerkt op 14  **januari 2021**)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **12 januari 2021**)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **20 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campagne](#ac)  (bijgewerkt op 14  **januari 2021**)
@@ -149,7 +149,7 @@ Releasedatum: **14 januari 2021**
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
-* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
+* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)(Bijgewerkt op 20 januari 2021)
 * [AppMeasurement](#appm)
 * [Report Builder](#arb)
 
@@ -200,6 +200,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
+| EOL van Ad Hoc Analysis | 21 jan. 2021 | Op 1 maart 2021 zal Ad Hoc Analysis het einde van de levensduur bereiken. Op dat moment werken alle projecten en planningen die dit product gebruiken, niet meer. Ga voor meer informatie naar [Discover Workspace](https://adobe.ly/discoverworkspace). |
 | Vereiste [!UICONTROL Report Builder]-update | 8 januari 2021 | Op 30 april 2021 moeten alle [!UICONTROL Report Builder]-gebruikers de [!UICONTROL Report Builder]-invoegtoepassing bijwerken naar versie 5.6.47 of hoger. Deze versie bevat een kritieke update van het aanmeldingsproces. Gebruikers die geen update naar versie 5.6.47 of hoger uitvoeren, kunnen zich na 30 april 2021 niet meer aanmelden. [!UICONTROL Report Builder] versie 5.6.47 en hoger ondersteunt alleen aanmelding bij Experience Cloud en geen ondersteuning voor oudere aanmeldingen zoals Single Sign-On van SiteCatalyst of de standaardaanmelding. Voor meer informatie, zie [Report Builder Sign-In](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | Einde van levensduur voor drie API-analysemogelijkheden | 6 januari 2021 | Op 30 april 2021 zijn de volgende API-services van Analytics Legacy gepland om hun einddatum te bereiken en worden ze afgesloten. De huidige integratie die met deze services wordt gebouwd, werkt niet meer op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Wij hebben een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om u te helpen uw vragen beantwoorden en richtlijnen te geven over hoe te te werk te gaan. API-integratie met deze services kan worden gemigreerd naar de [1.4 Analytics REST API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) en/of de [2.0 Analytics API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
 | HSTS-header toevoegen aan alle binnenkomende HTTPS-aanvragen | 29 september 2020 | Op 29 september 2020, begonnen wij de kopbal van HSTS aan alle inkomende verzoeken toe te voegen die HTTPS gebruiken. Dit instrueert browser/cliënt om alle toekomstige verzoeken in HTTPS te doen, die als best praktijken van de veiligheid wordt beschouwd. Op dit punt, zullen wij dit voor inkomende verzoeken niet afdwingen gebruikend HTTP. |
@@ -207,7 +208,6 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 | Migratie van `omniture.com` naar `adobe.com`-domein | 21 aug. 2020 | Op 13 augustus 2020 is de front-end architectuur van Adobe Analytics gemigreerd van `omniture.com|http://omniture.com/` naar het `adobe.com|http://adobe.com/`-domein. Deze wijziging verhelpt problemen met cookies van derden die optraden na de aanvankelijke productdomeinwijziging van 28 mei 2020. Als gevolg van deze update kan de browser gebruikers vragen het nieuwe domein `.adobe.com|http://an.adobe.com/` of `experience.adobe.com|http://experience.adobe.com/` te vertrouwen. |
 | Update over compatibiliteit met Ad Hoc Analysis Java 8 | 21 aug. 2020 | Ad Hoc Analysis is momenteel niet compatibel met Java 8-versies 1.8.0_261+. Om ervoor te zorgen dat uw toegang tot deze tool niet wordt beëindigd voordat de [einddatum](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) is bereikt, raden we u aan een Java 8-versie te gebruiken die ouder is dan 1.8.0_261. |
 | EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. We hebben een nieuwe standaard in het [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) dat moet worden gebruikt voor alle integraties waarvoor aanbod en ondersteuning gewenst is. De officiële einddatum moet nog worden vastgesteld, maar we verwachten dat deze in de komende 12-18 maanden zal liggen (medio 2021 tot eind 2021). [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/import/dataconnectors/data-connectors-eol.html) |
-| EOL van Ad Hoc Analysis | 6 aug. 2018 | Adobe kondigde op 1 maart 2021 het voornemen aan om Ad Hoc Analysis te sluiten. Ga voor meer informatie naar [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
 ### AppMeasurement {#appm}
 
