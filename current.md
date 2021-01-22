@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
+source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
 workflow-type: tm+mt
-source-wordcount: '6593'
+source-wordcount: '6595'
 ht-degree: 23%
 
 ---
@@ -23,20 +23,20 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **14 januari 2021**
+Laatste update: **22 januari 2021**
 
 * [Adobe System Status](#status)  (niet bijgewerkt)
 * [Experience Cloud en administratie](#ecloud)
-* [Experience Platform](#platform)  (bijgewerkt op 14  **januari 2021**)
+* [Experience Platform](#platform)  (bijgewerkt op 14 januari 2021)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **20 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campagne](#ac)  (bijgewerkt op 14  **januari 2021**)
-* [Advertising Cloud](#adcloud)
+* [Campagne](#ac)  (bijgewerkt op 14 januari 2021)
+* [Advertising Cloud](#adcloud)  (bijgewerkt op 22  **januari 2021**)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo) (Bijgewerkt:  **(11 januari 2021**)
+* [[!DNL Marketo Engage]](#marketo) (Bijgewerkt: (11 januari 2021)
 * [Document Cloud](#doc-cloud)
 
 Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/#home) om te zoeken naar product- en technische documentatie, door Adobe georganiseerde cursussen, videotutorials, snelle antwoorden, communityinzichten en training onder leiding van instructeurs. De inhoud is van `docs.adobe.com` naar deze locatie verplaatst. Werk de bladwijzers dienovereenkomstig bij.
