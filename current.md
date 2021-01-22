@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
+source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
 workflow-type: tm+mt
-source-wordcount: '6608'
+source-wordcount: '6593'
 ht-degree: 23%
 
 ---
@@ -445,15 +445,13 @@ Laatst bijgewerkt: **28 oktober 2020**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **17 oktober 2020**
+Laatst bijgewerkt: **22 januari 2021, voor release van 23 januari**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns] | In de [!UICONTROL Accounts]-weergave geeft de [!UICONTROL Access]-kolom nu aan wanneer [!DNL Advertising Cloud Search] zich niet kan aanmelden bij een ingeschakelde zoekmachineaccount. Als u de oorzaak van de fout wilt zien, houdt u de cursor boven het waarschuwingspictogram. |
-| [!UICONTROL Custom Alerts] | De eerste [!UICONTROL Alerts Beta] wordt nu [!UICONTROL Custom Alerts] genoemd. |
-| [!UICONTROL Custom Alerts] | In douanealarm, werd het werkschema om te identificeren wanneer de metriek voor de gespecificeerde datumwaaier van metriek voor de vorige periode zijn verhoogd of verminderd vereenvoudigd en naar [!UICONTROL Filters] tabel bewogen. |
+| [!UICONTROL Search Campaigns]<br> Rapporten | Advertising Cloud Search rapporteert niet langer nieuwe gemiddelde positiegegevens voor Microsoft Advertising campagnes. In de kolom Gemiddelde positie staan de waarden nul (0) voor datums die op 23 januari beginnen. Dit is in voorbereiding op de afwaardering van gemiddelde positiegegevens door Microsoft in januari 2021.<br>De gemiddelde positiegegevens die tot en met 22 januari zijn verzameld, zijn nog steeds beschikbaar in rapporten. |
 
-### Zelfstudies en cursussen voor Ad Cloud
+### Zelfstudies en cursussen voor Advertising Cloud
 
 Bijgewerkt: **2 december 2020**
 
