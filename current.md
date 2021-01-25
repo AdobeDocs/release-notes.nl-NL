@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
+source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
 workflow-type: tm+mt
-source-wordcount: '6595'
+source-wordcount: '6599'
 ht-degree: 23%
 
 ---
@@ -146,10 +146,10 @@ Gebruik Adobe Experience Platform om de reis van een klant op schaal over ervari
 
 Releasedatum: **14 januari 2021**
 
-* [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
+* [Nieuwe functies in Adobe Analytics](#aa-features)  (bijgewerkt op 25 januari 2021)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey)  (bijgewerkt op 25 januari 2021)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
-* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)(Bijgewerkt op 20 januari 2021)
+* [Belangrijke berichten voor Analytics-beheerders](#aa-notices) (Bijgewerkt op 20 januari 2021)
 * [AppMeasurement](#appm)
 * [Report Builder](#arb)
 
