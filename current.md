@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
+source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
 workflow-type: tm+mt
 source-wordcount: '6595'
 ht-degree: 23%
@@ -29,7 +29,7 @@ Laatste update: **22 januari 2021**
 * [Experience Cloud en administratie](#ecloud)
 * [Experience Platform](#platform)  (bijgewerkt op 14 januari 2021)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **20 januari 2021**)
+* [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **25 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campagne](#ac)  (bijgewerkt op 14 januari 2021)
@@ -159,7 +159,7 @@ Releasedatum: **14 januari 2021**
 | ----------- | ---------- | ------- |
 | Analysis Workspace - URL&#39;s voor afbeeldingen | 14 januari 2021 | U kunt afbeeldingen toevoegen aan [!UICONTROL Workspace]-projecten door te verwijzen naar een openbare afbeeldings-URL. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
 | Analysis Workspace - Beheer van gecombineerde bronnen en instellingen | 14 januari 2021 | De gegevensbronmanager (punt) en het montagebeheer (toestel) voor visualisaties zijn gecombineerd in één enkel dialoogvenster, zodat kunt u uw bron en montages van de zelfde plaats gemakkelijk beheren. |
-| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
+| Analysis Workspace - Componentselectie | 16 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -169,7 +169,7 @@ Releasedatum: **14 januari 2021**
 | Reis-IQ: [!UICONTROL Cross-Channel Analytics] | 11 januari 2021 | Reis-IQ: [!UICONTROL Cross-Channel Analytics] laat u toe om een de gebeurtenisdataset van Adobe Analytics (of andere) in de dateeruimte van het Experience Platform van één identiteitskaart aan een andere opnieuw te richten namespace. Typisch, betekent dit het opnieuw sluiten van de gebeurtenisdataset van een op koekje-gebaseerde identiteitskaart aan een op persoon-gebaseerde identiteitskaart Op deze manier kan de opnieuw vergrendelde gegevensset worden gecombineerd met andere op personen gebaseerde gegevens in een CJA-verbinding, zodat apparaatoverschrijdende en kanaaloverschrijdende analyse in Analysis Workspace mogelijk is. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
 | Analysis Workspace - URL&#39;s voor afbeeldingen | 14 januari 2021 | U kunt afbeeldingen toevoegen aan Workspace-projecten door te verwijzen naar een openbare afbeeldings-URL. |
 | Analysis Workspace - Beheer van gecombineerde bronnen en instellingen | 14 januari 2021 | De gegevensbronmanager (punt) en het montagebeheer (toestel) voor visualisaties zijn gecombineerd in één enkel dialoogvenster, zodat kunt u uw bron en montages van de zelfde plaats gemakkelijk beheren. |
-| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
+| Analysis Workspace - Componentselectie | 16 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
