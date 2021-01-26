@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
+source-git-commit: 7f58dcf4014b96f0aa651b16b90427a2a81ba374
 workflow-type: tm+mt
-source-wordcount: '6599'
+source-wordcount: '6625'
 ht-degree: 23%
 
 ---
@@ -23,11 +23,11 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **22 januari 2021**
+Laatste update: **25 januari 2021**
 
 * [Adobe System Status](#status)  (niet bijgewerkt)
 * [Experience Cloud en administratie](#ecloud)
-* [Experience Platform](#platform)  (bijgewerkt op 14 januari 2021)
+* [Experience Platform](#platform)  (bijgewerkt op 25  **januari 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **25 januari 2021**)
 * [Audience Manager](#aam)
@@ -52,8 +52,6 @@ Zie [Systeemstatus Adobe - 21 mei 2020](https://docs.adobe.com/content/help/en/r
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud Services and administration  {#ecloud}
 
 [Experience Cloud-services en ](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) beheerdocumentatie omvatten klantkenmerken, Audience Library ([!UICONTROL People] service), activering, gebruikers- en productbeheer en Experience Cloud-cookies.
-
-Deze maand niet bijgewerkt.
 
 **Zie ook**
 
@@ -82,10 +80,14 @@ Releasedatum: **13 januari 2021**
 
 **[!UICONTROL Launch Server Side]:** Verzend gebeurtenis-vlakke gegevens naar het Netwerk van de Rand van AEP, dan gebruiks de Zijde van de Server van de Lancering aan transformatie, verrijkt, en verzendt die gegevens naar een niet-Adobe eindpunt gebruikend de servers van Adobe, niet de cliënt, met lage latentie. [Meer...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
 
+Bijgewerkt **25 januari 2021**:
+
+Experience Cloud ID Service Extension **5.1.1** is vrijgegeven. Zie [Opmerkingen bij de release Experience Cloud ID Service Extension](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) voor meer informatie.
+
 **Zie ook**
 
 * [Opmerkingen bij de release van Experience Platform Launch ](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) voor informatie over Experience Platform Launch.
-* [Opmerkingen bij de release ](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) Extensionrelease van Experience Cloud ID-service
+* [Opmerkingen bij de release van Experience Cloud ID Service ](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) Extensionrelease.
 
 ### Adobe mobiel
 
