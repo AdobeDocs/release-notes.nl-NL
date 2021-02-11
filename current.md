@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7f58dcf4014b96f0aa651b16b90427a2a81ba374
+source-git-commit: e396ac53948a2ea163b09f0545de994c0d7ef001
 workflow-type: tm+mt
-source-wordcount: '6625'
+source-wordcount: '6654'
 ht-degree: 23%
 
 ---
@@ -26,7 +26,7 @@ Deze pagina beschrijft nieuwe functies, correcties en belangrijke kennisgevingen
 Laatste update: **25 januari 2021**
 
 * [Adobe System Status](#status)  (niet bijgewerkt)
-* [Experience Cloud en administratie](#ecloud)
+* [Experience Cloud services en beheer](#ecloud)  (bijgewerkt op 10  **februari 2021**)
 * [Experience Platform](#platform)  (bijgewerkt op 25  **januari 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  en [Customer Journey Analytics](#cust-journey) (Bijgewerkt: **25 januari 2021**)
@@ -53,7 +53,11 @@ Zie [Systeemstatus Adobe - 21 mei 2020](https://docs.adobe.com/content/help/en/r
 
 [Experience Cloud-services en ](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) beheerdocumentatie omvatten klantkenmerken, Audience Library ([!UICONTROL People] service), activering, gebruikers- en productbeheer en Experience Cloud-cookies.
 
-**Zie ook**
+**4 februari 2021**
+
+* Een update van Experience Cloud verwijdert het eerste aanmeldingsscherm van de Experience Cloud. Vanaf 4 februari wordt u rechtstreeks van `https://experience.adobe.com/login` naar het aanmeldingsscherm van de Adobe verzonden.
+
+**Aanvullende bronnen**
 
 * [Opmerkingen bij de cumulatieve release voor Experience Cloud-](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) services voor de meest recente releasegegevens.
 * [Experience Cloud ID ](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) Servicerelease-opmerkingen
