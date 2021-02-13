@@ -3,21 +3,23 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Releaseopmerkingen bij Adobe Experience Cloud
 breadcrumb-title: Release-opmerkingen
-user-guide-description: Meer informatie over nieuwe functies, correcties en belangrijke kennisgevingen in Adobe Experience Cloud.
+user-guide-description: Meer informatie over nieuwe functies, oplossingen en belangrijke kennisgevingen in Adobe Experience Cloud en Experience Platform.
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: 1beba26ad3096758512a7efbf5454012b686f007
+source-git-commit: 948a979db842dfb8b7f328d7ad3e34017b5a360d
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 79%
+source-wordcount: '66'
+ht-degree: 53%
 
 ---
 
 
-# Releaseopmerkingen bij Experience Cloud {#experience-cloud}
+# Nieuwe functies in Adobe Experience Cloud {#experience-cloud}
 
-+ [Release-opmerkingen](current.md)
++ [Opmerkingen bij de huidige release](current.md)
 + Opmerkingen bij vorige release {#previous}
+   + 2021 {#2021}
+      + [Januari 2021](c-legacy-releases/2021/01142021.md)
    + 2020 {#2020}
       + [November 2020](c-legacy-releases/2020/10292020.md)
       + [Oktober 2020](c-legacy-releases/2020/10082020.md)
