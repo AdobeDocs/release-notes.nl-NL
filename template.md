@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
+source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
 workflow-type: tm+mt
-source-wordcount: '1322'
-ht-degree: 61%
+source-wordcount: '1321'
+ht-degree: 59%
 
 ---
 
@@ -21,7 +21,7 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 
 >[!IMPORTANT]
 >
->Deze pagina bevat pre-releasecontent en kan vóór de geplande release worden gewijzigd.
+>Deze pagina bevat pre-releaseinhoud en kan voorafgaand aan releasedatums worden gewijzigd.
 
 >[!NOTE]
 >
@@ -36,11 +36,11 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [Doel](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html) (koppelingen naar Help bij oplossing)
+* [Doel](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html)  (koppelingen naar Help bij oplossing)
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
-* [Primetime](https://helpx.adobe.com/nl/primetime/user-guide.html) (koppelingen naar Help bij oplossing)
+* [Primetime](https://helpx.adobe.com/nl/primetime/user-guide.html)  (koppelingen naar Help bij oplossing)
 * [Nieuwe documentatie en zelfstudies](#selfhelp)
 
 Op zoek naar de Help-startpagina? Raadpleeg de [documentatie bij Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
@@ -49,7 +49,7 @@ Op zoek naar de Help-startpagina? Raadpleeg de [documentatie bij Adobe Experienc
 
 Functies en oplossingen.
 
-See [Adobe System Status](https://status.adobe.com/).
+Zie [Systeemstatus Adobe](https://status.adobe.com/).
 
 ## Experience Cloud-interface{#ecloud}
 
@@ -62,13 +62,13 @@ Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder behee
 
 Functies en oplossingen.
 
-For product documentation, see [Experience Cloud interface](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html)
+Zie [Experience Cloud interface](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) voor productdocumentatie
 
-### Beheer en ontwikkeling {#admin}
+### Beheer en ontwikkelaar {#admin}
 
 Functies en oplossingen.
 
-Zie Gebruikers en producten [](https://docs.adobe.com/content/help/nl-NL/core-services/interface/manage-users-and-products/admin-getting-started.html)beheren voor productdocumentatie.
+Zie [Gebruikers en producten beheren](https://docs.adobe.com/content/help/nl-NL/core-services/interface/manage-users-and-products/admin-getting-started.html) voor productdocumentatie.
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -85,7 +85,7 @@ Releaseopmerkingen voor de [!DNL Experience Platform,] inclusief [!DNL Experienc
 
 Functies en oplossingen.
 
-For product documentation, see [Experience Cloud ID service](https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html).
+Zie [Experience Cloud ID service](https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html) voor productdocumentatie.
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
@@ -93,9 +93,9 @@ Zie [Experience Platform Launch](https://docs.adobe.com/content/help/nl-NL/launc
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
+Met Adobe [!UICONTROL Experience Platform,] kunt u individuele reizen van klanten op grote schaal langs verschillende ervaringskanalen ordenen door op intelligente wijze in real-time te anticiperen op de behoeften van elk individu, waar zijn reis deze ook brengt.
 
-#### Additional resources for [!UICONTROL Journey Orchestration]
+#### Aanvullende bronnen voor [!UICONTROL Journey Orchestration]
 
 [Documentatie](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/journeys/using/release-notes/release-notes.html) - [Instructievideo&#39;s](https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
@@ -112,7 +112,7 @@ Beschrijving van nieuwe functies. Gebruik koppen of een tabel.
 * Repareren
 * Repareren
 
-Zie [Mobiele services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)voor productdocumentatie.
+Zie [Mobiele services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html) voor productdocumentatie.
 
 Voor meer informatie over de Mobiele SDKs, zie: [Android SDK 4.x voor Experience Solutions](https://docs.adobe.com/content/help/nl-NL/mobile-services/android/overview.html) en [iOS SDK 4.x voor Experience Cloud Solutions](https://docs.adobe.com/content/help/nl-NL/mobile-services/ios/overview.html).
 
@@ -124,7 +124,7 @@ Nieuwe functies en oplossingen in Adobe Analytics:
 * [Media Analytics SDK voor iOS en Android (voorheen VHL SDK)](#aa-va)
 * [Belangrijke berichten voor Analytics-beheerders](analytics-important-notices.md)
 
-Raadpleeg [Adobe Analytics Help Home](https://docs.adobe.com/content/help/nl-NL/analytics/landing/home.html)voor productdocumentatie.
+Raadpleeg [Adobe Analytics Help Home](https://docs.adobe.com/content/help/nl-NL/analytics/landing/home.html) voor productdocumentatie.
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
@@ -134,7 +134,7 @@ Raadpleeg [Adobe Analytics Help Home](https://docs.adobe.com/content/help/nl-NL/
 | Functie B | Tekst |
 | Functie C | Tekst |
 
-### [!DNL Media Analytics] SDK voor [!DNL iOS] &amp; [!DNL Android] (voorheen VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK voor  [!DNL iOS] &amp;  [!DNL Android] (voorheen VHL SDK)  {#aa-va}
 
 | Functie | Beschrijving |
 | ------- | ------- |
@@ -144,7 +144,7 @@ Raadpleeg [Adobe Analytics Help Home](https://docs.adobe.com/content/help/nl-NL/
 
 ### Data Workbench {#aa-dwb}
 
-See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for the latest information.
+Zie [Opmerkingen bij de release van Data Workbench](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) voor de meest recente informatie.
 
 ### AppMeasurement {#appm}
 
@@ -161,7 +161,7 @@ See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-w
 * Repareren
 * Repareren
 
-Zie de [releasehistorie](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) van AppMeasurement voor een releasegeschiedenis van AppMeasurement op de volgende platforms:
+Zie [Release-historie van AppMeasurement](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) voor een releasegeschiedenis van AppMeasurement op de volgende platforms:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
@@ -300,14 +300,14 @@ Marketo Engage is een volledige oplossing voor het beheer van leads en B2B-marke
 
 Releasedatum: 21 februari 2020
 
-* **Microsoft Dynamics _Change Owner in Microsoft_ Flow Action:** Wijzig een lead of contactpersoon rechtstreeks vanuit Marketo Engage.
+* **Eigenaar van  _wijziging van Microsoft Dynamics in_ MicrosoftFlow-actie:** Wijzig een lead of contactpersoon rechtstreeks vanuit Marketo Engage.
 * **Verbeteringen aan API-aanroepen:**
    * Gebruikersbeheer-API&#39;s
    * Aangepast objectschema-API&#39;s
    * Regels voor omleiding van bestemmingspagina&#39;s
-* **Caching van formulierdescriptor:** Verbeteringen voor bestemmingspagina&#39;s en Forms.
+* **Form Descriptor-caching:** verbeteringen voor bestemmingspagina&#39;s en Forms.
 
-Zie Opmerkingen van de release Marketo voor [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
+Zie Opmerkingen bij de release Marketo voor [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
 
 ### Aanstaande functies
 
@@ -325,7 +325,7 @@ De volgende functies komen gedurende het komende kwartaal beschikbaar:
 
 ### Afgeschafte elementen
 
-* **Parameter &quot;_methode&quot; van de element-API:** Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen.
+* **De parameter &quot;_method&quot; van activa API:** Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen.
 * **Afschaffing van Internet Explorer-ondersteuning:** Vanaf de juli-release op 31 juli 2020 wordt de Marketo Engage-gebruikersinterface niet meer ondersteund in Internet Explorer.
 
 Zie [Marketo-releaseopmerkingen](https://docs.marketo.com/x/CgA6Ag) voor cumulatieve en historische releaseopmerkingen.
