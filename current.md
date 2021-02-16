@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 150911084be7da0d1f3c887d76a7b897ac94a173
+source-git-commit: d24a0044604b068dd1a8b4a19084d982ed9f22ac
 workflow-type: tm+mt
-source-wordcount: '6272'
+source-wordcount: '6226'
 ht-degree: 18%
 
 ---
@@ -120,14 +120,14 @@ Releasedatum: **18 februari 2021**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
-| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. Zie [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) voor een videozelfstudie. |
+| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
 | Taalselectie van analytische dashboards | 14 januari 2021 | U kunt nu een taal selecteren in het dashboard Analytics. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ----- |
-| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. Zie [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) voor een videozelfstudie. |
+| Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
 | CJA API | 18 februari 2021 | De API&#39;s voor CJA zijn nu beschikbaar. Met deze API&#39;s kunt u componenten programmatisch bewerken en rapporten ophalen. Raadpleeg de CJA API-documentatie (koppeling voor volgen) voor meer informatie. |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
