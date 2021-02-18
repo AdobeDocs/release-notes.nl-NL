@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6c462c5b447ac45ff9507a6242fec2aef478344a
+source-git-commit: 1ed740f01fa639793c4694d206c07728f523a4a5
 workflow-type: tm+mt
-source-wordcount: '6226'
+source-wordcount: '6227'
 ht-degree: 18%
 
 ---
@@ -128,7 +128,7 @@ Releasedatum: **18 februari 2021**
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ----- |
 | Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
-| CJA API | 18 februari 2021 | De API&#39;s voor CJA zijn nu beschikbaar. Met deze API&#39;s kunt u componenten programmatisch bewerken en rapporten ophalen. Raadpleeg de CJA API-documentatie (koppeling voor volgen) voor meer informatie. |
+| CJA API | 18 februari 2021 | De API&#39;s voor CJA zijn nu beschikbaar. Met deze API&#39;s kunt u componenten programmatisch bewerken en rapporten ophalen. Zie de [CJA API-documentatie](https://adobe.io/cja-apis/docs) voor meer informatie. |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
