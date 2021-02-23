@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b785653a7f35f188c17f2ed05ec7a8b143c192b4
+source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
 workflow-type: tm+mt
 source-wordcount: '6296'
 ht-degree: 17%
@@ -81,7 +81,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 | 3 februari 2021 | [Overzicht van gegevensinvoer in batch](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Video | Een overzicht van de invoer van batchgegevens in Adobe Experience Platform. Leer hoe u batchgegevens kunt invoeren met de API. |
 | 3 februari 2021 | [Gegevens activeren voor niet-Adobe toepassingen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | Video | Leer hoe CDP van Adobe in real time u helpt ware verpersoonlijkingsstrategieën met uw publiek tot stand brengen. Leer ook hoe het zich vouwt in uw bestaande ecosysteem en niet-Adobe toepassingen van Microsoft, Google, en Facebook. |
 | 21 januari 2021 | [Cursusintro voor Aan de slag met intelligente services voor marketeers](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | Video | Een inleiding aan het Aan de slag met de Intelligente Cursus van de Diensten voor Marketers. |
-| 13 januari 2021 | [Inleiding tot Aan de slag met Offer Decisioning for Marketers](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Introductie tot de cursus Aan de slag met Offer Decisioning for Marketers. |
+| 13 januari 2021 | [Introductie van het Getting Started with Offer Decisioning for Marketers](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Introductie tot de cursus Aan de slag met Offer Decisioning voor marketers. |
 | 31 januari 2021 | [Train-, score- en productiemodellen met de sjabloon voor het maken van het recept](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | Video | Leer hoe u de bijgewerkte sjabloon voor het samenstellen van recept kunt gebruiken om een recept te maken met het detailhandelsschema en de gegevenssets. |
 | 31 januari 2021 | [Gegevens laden in JupyterLab-laptops](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | Video | Leer meer over JupyterLab in de Werkruimte van de Wetenschap van Gegevens. |
 | 12 januari 2021 | [Samenvoegingsbeleid maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | Video | Leer hoe u in Adobe Experience Platform beleid voor samenvoegen maakt. |
@@ -122,7 +122,7 @@ Releasedatum: **18 februari 2021**
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
 | Analysis Workspace - Componentselectie | 4 februari 2021 | De drop-down/drop zonecomponent die in [!UICONTROL Quick Insights] wordt gevonden is toegevoegd aan alle dalingsstreken in [!UICONTROL Workspace]. Dankzij deze verbetering kunt u kiezen uit een vervolgkeuzelijst met compatibele componenten of de ruimte blijven gebruiken als een neerzetzone. |
-| Taalselectie van analytische dashboards | 14 januari 2021 | U kunt nu een taal selecteren in het dashboard Analytics. |
+| Taalselectie van analytische dashboards | 14 januari 2021 | Navigeer naar **[!UICONTROL Settings]** > **[!UICONTROL Preferences]** > **[!UICONTROL Language]** om een taal te selecteren in het dashboard Analytics. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -171,7 +171,7 @@ Nieuwe cursussen, zelfstudies en artikelen in [!DNL Analytics] en [!UICONTROL Cu
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | 8 februari 2021 | [Trendlines toevoegen aan Line Visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.html?lang=en) | Video | In de Montages van de Visualisatie, kunt u verkiezen om een regressie of het bewegen gemiddelde trendline aan uw lijnreeks toe te voegen. Met deze functie kunt u een duidelijker patroon in de gegevens weergeven. |
-| 8 februari 2021 | [Plug-ins voor implementatie toevoegen bij starten van Platform](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Plug-ins voor implementatie zijn stukjes JavaScript-code die u kunt toevoegen aan uw analytische implementatie om aanvullende, aangepaste gegevens bij te houden. In deze video leert u hoe en waar u de code wilt toevoegen bij het starten van het Platform. |
+| 8 februari 2021 | [Plug-ins voor implementatie toevoegen in Platform Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Plug-ins voor implementatie zijn stukjes JavaScript-code die u kunt toevoegen aan uw analytische implementatie om aanvullende, aangepaste gegevens bij te houden. Leer in deze video hoe en waar u de code in het Platform Launch wilt toevoegen. |
 | 6 januari 2021 | [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) | Video | Begrijp waar de piekgelijktijdig voorkwam of waar drop-outs voorkwamen. Krijg waardevol inzicht in de kwaliteit van inhoud en viewerbetrokkenheid, en hulp bij het oplossen van problemen of het plannen voor volume en schaal. |
 
 ### Bronnen voor Analytics Help
