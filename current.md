@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
+source-git-commit: c7220fd5298c74ac555ba9d1799194d794b81271
 workflow-type: tm+mt
-source-wordcount: '6296'
+source-wordcount: '6317'
 ht-degree: 17%
 
 ---
@@ -81,7 +81,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 | 3 februari 2021 | [Overzicht van gegevensinvoer in batch](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Video | Een overzicht van de invoer van batchgegevens in Adobe Experience Platform. Leer hoe u batchgegevens kunt invoeren met de API. |
 | 3 februari 2021 | [Gegevens activeren voor niet-Adobe toepassingen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | Video | Leer hoe CDP van Adobe in real time u helpt ware verpersoonlijkingsstrategieën met uw publiek tot stand brengen. Leer ook hoe het zich vouwt in uw bestaande ecosysteem en niet-Adobe toepassingen van Microsoft, Google, en Facebook. |
 | 21 januari 2021 | [Cursusintro voor Aan de slag met intelligente services voor marketeers](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | Video | Een inleiding aan het Aan de slag met de Intelligente Cursus van de Diensten voor Marketers. |
-| 13 januari 2021 | [Introductie van het Getting Started with Offer Decisioning for Marketers](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Introductie tot de cursus Aan de slag met Offer Decisioning voor marketers. |
+| 13 januari 2021 | [Inleiding tot Aan de slag met Offer decisioning voor Marketers](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Introductie tot de cursus Getting Started with Offer decisioning for Marketers. |
 | 31 januari 2021 | [Train-, score- en productiemodellen met de sjabloon voor het maken van het recept](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | Video | Leer hoe u de bijgewerkte sjabloon voor het samenstellen van recept kunt gebruiken om een recept te maken met het detailhandelsschema en de gegevenssets. |
 | 31 januari 2021 | [Gegevens laden in JupyterLab-laptops](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | Video | Leer meer over JupyterLab in de Werkruimte van de Wetenschap van Gegevens. |
 | 12 januari 2021 | [Samenvoegingsbeleid maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | Video | Leer hoe u in Adobe Experience Platform beleid voor samenvoegen maakt. |
@@ -171,7 +171,7 @@ Nieuwe cursussen, zelfstudies en artikelen in [!DNL Analytics] en [!UICONTROL Cu
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | 8 februari 2021 | [Trendlines toevoegen aan Line Visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.html?lang=en) | Video | In de Montages van de Visualisatie, kunt u verkiezen om een regressie of het bewegen gemiddelde trendline aan uw lijnreeks toe te voegen. Met deze functie kunt u een duidelijker patroon in de gegevens weergeven. |
-| 8 februari 2021 | [Plug-ins voor implementatie toevoegen in Platform Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Plug-ins voor implementatie zijn stukjes JavaScript-code die u kunt toevoegen aan uw analytische implementatie om aanvullende, aangepaste gegevens bij te houden. Leer in deze video hoe en waar u de code in het Platform Launch wilt toevoegen. |
+| 8 februari 2021 | [Plug-ins voor implementatie toevoegen in Platform launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Plug-ins voor implementatie zijn stukjes JavaScript-code die u kunt toevoegen aan uw analytische implementatie om aanvullende, aangepaste gegevens bij te houden. Leer in deze video hoe en waar u de code in Platform launch wilt toevoegen. |
 | 6 januari 2021 | [Deelvenster Mediagelijktijdige viewers in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) | Video | Begrijp waar de piekgelijktijdig voorkwam of waar drop-outs voorkwamen. Krijg waardevol inzicht in de kwaliteit van inhoud en viewerbetrokkenheid, en hulp bij het oplossen van problemen of het plannen voor volume en schaal. |
 
 ### Bronnen voor Analytics Help
@@ -409,15 +409,20 @@ Laatst bijgewerkt: **28 oktober 2020**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **22 januari 2021, voor release van 23 januari**
+Laatst bijgewerkt: **23 februari 2021, voor release 20 februari**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns]<br> Rapporten | Advertising Cloud Search rapporteert niet langer nieuwe gemiddelde positiegegevens voor Microsoft Advertising campagnes. In de kolom Gemiddelde positie staan de waarden nul (0) voor datums die op 23 januari beginnen. Dit is in voorbereiding op de afwaardering van gemiddelde positiegegevens door Microsoft in januari 2021.<br>De gemiddelde positiegegevens die tot en met 22 januari zijn verzameld, zijn nog steeds beschikbaar in rapporten. |
+| Alle | Gereedschappen > &quot;Adwords Conversion Tags&quot; is nu &quot;Google Ads Conversion Tags.&quot; |
+| Alle | In april zijn de volgende functies en weergaven verouderd:<br><ul><li>Optimalisatie > Portfolio-kaarten</li><li>Optimalisatie > Bodregels</li><li>Inzichten en rapporten > Dashboard</li><li>Campagnes:  In behandeling zijnde en Geplande steun voor bulkuitgeeft</li></ul> |
 
-### Zelfstudies en cursussen voor Ad Cloud
+### Zelfstudies en cursussen voor Advertising Cloud
 
-Bijgewerkt: **2 december 2020**
+Bijgewerkt: **23 februari 2021**
+
+| Zelfstudie | Beschrijving |
+| -----------| ---------- |
+| [Inleiding tot werkruimte en rapportage](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Leer hoe u Advertising Cloud-gegevens kunt gebruiken om visuele rapporten te maken in Adobe Analytics Analysis Workspace. |
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento] {#magento}
 
