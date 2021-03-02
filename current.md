@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d22f8bc718976f3aad6673473c4df66246f58022
+source-git-commit: c665df945df9f183549c7ca3e3a2e3bf0b04a3af
 workflow-type: tm+mt
-source-wordcount: '6317'
+source-wordcount: '6342'
 ht-degree: 17%
 
 ---
@@ -19,19 +19,15 @@ ht-degree: 17%
 
 Experience Cloud oplossingen en services worden maandelijks bijgewerkt. Deze pagina is uw centrale locatie voor het zoeken naar de meest recente release-updates, documentatie en zelfstudies voor [!DNL Experience Cloud] en Experience Platform. U kunt ook nieuwe documentatie vinden voor [!DNL Creative Cloud for Enterprise] en [!DNL Document Cloud].
 
->[!IMPORTANT]
->
->Deze pagina bevat pre-releaseinhoud en kan vóór de releasedatums worden gewijzigd.
-
 >[!NOTE]
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **12 februari 2021**
+Laatste update: **21 februari 2021**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud en administratie](#ecloud)
-* [Experience Platform](#platform)
+* [Experience ](#platform) **PlatformBijgewerkt op 21 februari 2021**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  **Bijgewerkt op 19 februari 2021**
 * [Customer Journey Analytics](#cust-journey)`
@@ -76,6 +72,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 26 februari 2021 | [Gegevensstroom bewaken in Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/data-monitoring.html?lang=en#data-ingestion) | Leer hoe u gegevens kunt bijhouden en bijhouden die in Adobe Experience Platform worden ingevoerd met de gebruikersinterface en API van het Platform. |
 | 10 februari 2021 | [De Azure Blob-bestemming configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=en#destinations) | Video | Leer hoe u door de stappen kunt lopen die nodig zijn voor het instellen en configureren en Azure Blob Storage-bestemming in Real-time Customer Data Platform (Real-time CDP). |
 | 4 februari 2021 | [Identiteitsgrafieken weergeven](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/view-identity-graphs.html) | Video | Hoe te om de de kijkerseigenschap van de identiteitsgrafiek te gebruiken om identiteitsgrafieken voor bevestiging en het zuiveren te zoeken, te onderzoeken en te filtreren. |
 | 3 februari 2021 | [Overzicht van gegevensinvoer in batch](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Video | Een overzicht van de invoer van batchgegevens in Adobe Experience Platform. Leer hoe u batchgegevens kunt invoeren met de API. |
