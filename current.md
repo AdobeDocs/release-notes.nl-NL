@@ -1,13 +1,13 @@
 ---
-title: Opmerkingen bij de release Experience Cloud en Experience Platform
-description: Meer informatie over de nieuwste opmerkingen bij de release, nieuwe functies en nieuwe documentatie voor Experience Cloud en Experience Platform. Zoek naar nieuwe Help en zelfstudies over Creative Cloud for Enterprise en Document Cloud.
+title: Opmerkingen bij de nieuwste release
+description: '"Meer informatie over de nieuwste opmerkingen bij de release, nieuwe functies en nieuwe documentatie voor Experience Cloud-producten en -services. Zoek naar nieuwe hulp en zelfstudies over Experience Cloud, Creative Cloud voor Onderneming, en Document Cloud."'
 doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c665df945df9f183549c7ca3e3a2e3bf0b04a3af
+source-git-commit: 2f83677d5507bd917603ec8cfcbd08559a510a0f
 workflow-type: tm+mt
-source-wordcount: '6342'
+source-wordcount: '6339'
 ht-degree: 17%
 
 ---
