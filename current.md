@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2f83677d5507bd917603ec8cfcbd08559a510a0f
+source-git-commit: fad566f4a78d7963f450b9998c009a50d081a212
 workflow-type: tm+mt
-source-wordcount: '6339'
+source-wordcount: '6393'
 ht-degree: 17%
 
 ---
@@ -29,7 +29,7 @@ Laatste update: **21 februari 2021**
 * [Experience Cloud en administratie](#ecloud)
 * [Experience ](#platform) **PlatformBijgewerkt op 21 februari 2021**
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  **Bijgewerkt op 19 februari 2021**
+* [Analytics](#analytics)  **Bijgewerkt op 10 maart 2021**
 * [Customer Journey Analytics](#cust-journey)`
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -110,7 +110,7 @@ Releasedatum: **18 februari 2021**
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
-* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)  **Bijgewerkt op 19 februari 2021**
+* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)  **Bijgewerkt op 10 maart 2021**
 * [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -150,6 +150,7 @@ AN-224987; AN-229009; AN-239750; AN-239765; AN-241620; AN-242996; AN-243577; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
+| EOL van gegevensbronnen van volledige verwerking | 10 maart 2021 | Adobe is van plan in de toekomst volledige verwerkingsgegevensbronnen te vervangen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. |
 | Opties voor bestemmingspagina&#39;s voor rapporten en analyses | 19 februari 2021 | Op 25 maart 2021 worden de opties voor het instellen van nieuwe Dashboards &amp; Analytics of andere inhoud als de Adobe Analytics-landingspagina verwijderd. Als u eerder een pagina Rapporten &amp; Analytics als uw aangepaste landingspagina plaatst, zal het blijven werken tot uw landingspagina in [!UICONTROL User Preferences] wordt gewijzigd. Vanaf 25 maart 2021 kunt u geen nieuwe aangepaste bestemmingspagina&#39;s voor Rapporten en Analyse meer definiëren. |
 | EOL van Ad Hoc Analysis | jan. 2021 | [!UICONTROL Ad Hoc Analysis] op 1 maart 2021 zijn einddatum heeft bereikt. Ga voor meer informatie naar [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Einde van levensduur voor drie API-analysemogelijkheden | 6 januari 2021 | Op 30 april 2021 zijn de volgende API-services van Analytics Legacy gepland om hun einddatum te bereiken en worden ze afgesloten. De huidige integratie die met deze services wordt gebouwd, werkt niet meer op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Wij hebben een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om u te helpen uw vragen beantwoorden en richtlijnen te geven over hoe te te werk te gaan. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
