@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
+source-git-commit: f981d08b9a7200776706028b0408bd94a1e5e246
 workflow-type: tm+mt
-source-wordcount: '1321'
-ht-degree: 59%
+source-wordcount: '1318'
+ht-degree: 60%
 
 ---
 
@@ -161,7 +161,7 @@ Zie [Opmerkingen bij de release van Data Workbench](https://docs.adobe.com/conte
 * Repareren
 * Repareren
 
-Zie [Release-historie van AppMeasurement](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) voor een releasegeschiedenis van AppMeasurement op de volgende platforms:
+Zie [Release-historie van AppMeasurement](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) voor een releasegeschiedenis van AppMeasurement op de volgende platforms:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
