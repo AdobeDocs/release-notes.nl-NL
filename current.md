@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 35b3735f74ec51bcdb850bbb5b03df823c9e0f38
+source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
 workflow-type: tm+mt
-source-wordcount: '5778'
+source-wordcount: '5792'
 ht-degree: 18%
 
 ---
@@ -224,7 +224,7 @@ AEM 6.4, Service Pack 8, Cumulatief Fix Pack 4 (6.4.8.4 vrijgegeven 25 februari,
       * [Een externe SPA bewerken in de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developing/hybrid/editing-external-spa.html?lang=en): Mogelijkheid toegevoegd om een zelfstandige toepassing van één pagina te uploaden naar een instantie van een Experience Manager, bewerkbare gedeelten van inhoud toe te voegen en het schrijven van inhoud in te schakelen.
    * **Elementen Experience Managers als Cloud Service**
 
-      * De Middelen van de Experience Manager als Cloud Service hebben recht om een pre-gevormde instantie van het Portaal van het Merk te hebben. De gebruiker van de Manager van de Wolk kan het Portaal van het Merk op de Middelen van de Experience Manager als Cloud Service activeren.
+      * De Middelen van de Experience Manager als Cloud Service hebben recht om een pre-gevormde instantie van het Portaal van het Merk te hebben. De gebruiker van de Manager van de Wolk kan het Portaal van het Merk op de Middelen van de Experience Manager als Cloud Service activeren. Zie [Brand Portal activeren met Brand Portal](https://experienceleague.corp.adobe.com/docs/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html).
       * Bedrijven kunnen nu elementen aanschaffen met behulp van Brand Portal. De functie voor het aanschaffen van bedrijfsmiddelen gebruikt Brand Portal om klanten te helpen bij het aanschaffen van bedrijfsmiddelen voor nieuwe marketingcampagnes, foto&#39;s en projecten. Zie [Overzicht van Asset Sourcing](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en) in de Handleiding voor het Brand Portal.
       * In het gebruiksrapport van het Brand Portal worden nu alleen de actieve gebruikers weergegeven. De inactieve gebruikers worden nu niet weergegeven. Actieve gebruikers zijn de gebruikers van wie de account is toegewezen aan een productprofiel in de Admin Console. Zie [Werken met rapporten](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en) in de Poortgids van het Merk.
       * In Brand Portal is een nieuwe downloadinstelling geïntroduceerd waarmee u voor elk element een aparte map kunt maken wanneer u mappen, verzamelingen en dergelijke downloadt. Zie [Asset Download](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) in **Elementen downloaden van Brand Portal** in de Handleiding voor het Brand Portal.
