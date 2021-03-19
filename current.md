@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bce06efc7248df1f1929838681e3fcf5adb8ebbd
+source-git-commit: 66a8238a7fc0a9b397bfab74b1b36d90be7ad842
 workflow-type: tm+mt
-source-wordcount: '5997'
+source-wordcount: '6029'
 ht-degree: 17%
 
 ---
@@ -55,7 +55,7 @@ De meest recente updates van de Status van het Systeem van de Adobe worden gevon
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud UI Components, Services en Administration  {#ecloud}
 
-Niet bijgewerkt.
+**Verenigd Onderzoek:** Verenigd Onderzoek, dat momenteel voor Experience Platform beschikbaar is, steunt nu onderzoek op Bronnen en Doelen voor de gebruikers van het Experience Platform. Deze eigenschap laat u toe om Segmenten, Datasets, Schema&#39;s, Bronnen en Doelen te zoeken.
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
