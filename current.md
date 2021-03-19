@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 66a8238a7fc0a9b397bfab74b1b36d90be7ad842
+source-git-commit: da0cc40fb828e5f64d832c2e4e5dba931d2f2e99
 workflow-type: tm+mt
-source-wordcount: '6029'
+source-wordcount: '6008'
 ht-degree: 17%
 
 ---
@@ -231,11 +231,12 @@ AEM 6.4, Service Pack 8, Cumulatief Fix Pack 4 (6.4.8.4 vrijgegeven 25 februari,
       * In Brand Portal is een nieuwe downloadinstelling geïntroduceerd waarmee u voor elk element een aparte map kunt maken wanneer u mappen, verzamelingen en dergelijke downloadt. Zie [Asset Download](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) in **Elementen downloaden van Brand Portal** in de Handleiding voor het Brand Portal.
    * **Experience Manager Forms als Cloud Service**
 
-      AEM Forms heeft meerdere organisaties in de loop der jaren geholpen om geweldige ervaring op te doen bij het instappen en inschrijven. Deze ervaringen hebben organisaties geholpen bij het omzetten van leads naar werkelijke verkoop, het verwerken van vastgelegde klantgegevens, het leveren van responsieve ervaringen op basis van het profiel van het publiek en nog veel meer. AEM Forms is nu beschikbaar als cloudservice.
+      AEM Forms heeft veel organisaties geholpen om in de loop der jaren geweldige ervaring op het gebied van instapweigering en inschrijving te bieden. Deze ervaringen hebben organisaties geholpen bij het omzetten van leads naar verkoop, het verwerken van vastgelegde klantgegevens, het leveren van responsieve ervaringen op basis van het profiel van het publiek en nog veel meer. AEM Forms is nu beschikbaar als cloudservice.
 
-      U kunt AEM Forms gebruiken als Cloud Service om digitale formulieren te maken, formulieren te verbinden met bestaande gegevensbronnen, formulieren te integreren met Adobe Sign om e-handtekeningen toe te voegen aan formulieren en Document of Record (DoR) te genereren om ingevulde formulieren als PDF-bestanden te archiveren. U kunt de service ook gebruiken om bestaande PDF forms om te zetten in digitale formulieren. Naast de standaard AEM Forms-functies biedt de service verschillende mogelijkheden in de cloud, zoals automatisch schalen op basis van belasting, geen downtime voor upgrades en ontwikkelomgeving in de cloud. U kunt [dit blogbericht](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html) lezen voor meer informatie over de mogelijkheden en functies van de service.
+      U kunt AEM Forms gebruiken als Cloud Service om digitale formulieren te maken, formulieren te verbinden met bestaande gegevensbronnen, formulieren te integreren met Adobe Sign om e-handtekeningen toe te voegen aan formulieren, Document of Record (DoR) te genereren om ingediende formulieren als PDF-bestanden te archiveren. De service kan uw bestaande PDF forms ook converteren naar digitale formulieren. Naast de standaard AEM Forms-functies biedt de service verschillende mogelijkheden in de cloud, zoals automatisch schalen, geen downtime voor upgrades en ontwikkelomgeving in de cloud. Lees [dit blogbericht](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html) voor meer informatie over de mogelijkheden en functies van AEM Forms als Cloud Service.
 
-      De algemene beschikbaarheidsdatum (GA) van AEM Forms als Cloud Service is 25 maart. U kunt een demo afspelen bij uw Adobe-medewerker of u aanmelden voor de service.
+      U kunt een demo afspelen bij uw Adobe-medewerker of u aanmelden voor de service.
+
 
    * **Experience Manager Commerce als Cloud Service**
 
