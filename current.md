@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d0896f5a62cb6491ca26fb52b68d93014cab5e22
+source-git-commit: 35b3735f74ec51bcdb850bbb5b03df823c9e0f38
 workflow-type: tm+mt
-source-wordcount: '5780'
+source-wordcount: '5778'
 ht-degree: 18%
 
 ---
 
 
-# INTERNE EVALUATIE - Opmerkingen bij de release van Adobe Experience Cloud - maart 2021
+# Opmerkingen bij de release van Adobe Experience Cloud - maart 2021
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -27,7 +27,7 @@ Experience Cloud oplossingen en services worden maandelijks bijgewerkt. Deze pag
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **18 maart 2021**
+Laatste update: **19 maart 2021**
 
 * [Adobe System Status](#status)  (niet bijgewerkt)
 * [Experience Cloud UI-componenten, -services en -beheer](#ecloud)
