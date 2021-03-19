@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
+source-git-commit: 9bf1dccf7e049c290e762410eb56a3f2c040c036
 workflow-type: tm+mt
-source-wordcount: '5792'
+source-wordcount: '5805'
 ht-degree: 18%
 
 ---
@@ -117,26 +117,27 @@ Releasedatum: **25 maart 2021**
 | ----------- | ---------- | ------- |
 | API-updates voor gegevensherstel | 25 maart 2021 | De API voor gegevensherstel ondersteunt nu standaardvariabelen zoals [!UICONTROL Page] en [!UICONTROL IP address], mobiele en videovariabelen en aangepaste props en eVars.  Waarden binnen variabelen kunnen worden verwijderd of nieuwe waarden kunnen worden ingesteld. De API biedt nu ook filters voor URL&#39;s, querytekenreeksen bij borden en meer. |
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 maart 2021 | Met de pagina [!UICONTROL Components] > [!UICONTROL User preferences] kunt u [!UICONTROL Analysis Workspace]-instellingen en de bijbehorende componenten voor uw gebruiker beheren. [!UICONTROL User preferences] van toepassing op alle nieuwe projecten en panels. **Opmerking:** de volgende instellingen zijn verplaatst naar de  [!UICONTROL User preferences] pagina:<ul><li>Rapportinstellingen: Scheidingsteken voor duizendtallen (nu genaamd &quot;getalnotatie&quot;)</li><li>Rapportinstellingen: CSV-scheidingsteken</li><li>Werkruimteprojecten: Help > Tips inschakelen</li><li>Werkruimteprojecten: Leeg deelvenster &quot;Nieuwe projecten starten met dit deelvenster&quot;, optie</li></ul> |
-| Analysis Workspace: Voorspelling van een slim histogram | 25 maart 2021 | Histogram Slim voorspelling van Emmertje helpt bij histogrammen met histogrammen van hoge kwaliteit door automatisch de juiste breedte en het aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
+| Analysis Workspace: [!UICONTROL Histogram] Voorspelling van Slim emmertje | 25 maart 2021 | [!UICONTROL Histogram] Met Slimme voorspelling van emmertjes kunt u histogrammen met hoge cardinaliteit gebruiken door automatisch de juiste breedte en het juiste aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
+| [!UICONTROL Usage Log] API | 25 maart 2021 | Dit is een nieuwe v2.0 Analytics-API die via programmacode toegang mogelijk maakt tot dezelfde logbestandgegevens die beschikbaar zijn onder [!UICONTROL Admin] > [!UICONTROL Log] > [!UICONTROL Usage and Access Log]. Aanvullende details over verificatie, schema en voorbeeldreactie zijn [hier](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md) beschikbaar. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ----- |
-| Ondersteuning voor het dashboard Analytics | 25 maart 2021 | CJA ondersteunt nu de Mobile Scorecard Builder en de Mobile App. Hierdoor kunnen managers en zakelijke gebruikers hun kanaalspecifieke PKI&#39;s vanuit CJA-gegevens bekijken met dezelfde app die ze mogelijk al gebruiken voor Adobe Analytics. |
+| Ondersteuning voor [!UICONTROL Adobe Analytics dashboards] | 25 maart 2021 | [!UICONTROL Customer Journey Analytics] (CJA) ondersteunt nu de  [!UICONTROL Adobe Analytics dashboards Scorecard Builder] en de mobiele app. Hierdoor kunnen managers en zakelijke gebruikers hun kanaalspecifieke PKI&#39;s op basis van CJA-gegevens bekijken met dezelfde app die ze mogelijk al gebruiken voor Adobe Analytics. |
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 maart 2021 | Met de pagina [!UICONTROL Components] > [!UICONTROL User preferences] kunt u [!UICONTROL Analysis Workspace]-instellingen en de bijbehorende componenten voor uw gebruiker beheren. [!UICONTROL User preferences] van toepassing op alle nieuwe projecten en panels. **Opmerking:** de volgende instellingen zijn verplaatst naar de  [!UICONTROL User preferences] pagina:<ul><li>Werkruimteprojecten: Help > Tips inschakelen</li><li>Werkruimteprojecten: Leeg deelvenster &quot;Nieuwe projecten starten met dit deelvenster&quot;, optie</li></ul> |
-| Analysis Workspace: Voorspelling van een slim histogram | 25 maart 2021 | Histogram Slim voorspelling van Emmertje helpt bij histogrammen met histogrammen van hoge kwaliteit door automatisch de juiste breedte en het aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
+| Analysis Workspace: [!UICONTROL Histogram] Voorspelling van Slim emmertje | 25 maart 2021 | [!UICONTROL Histogram] Met Slimme voorspelling van emmertjes kunt u histogrammen met hoge cardinaliteit gebruiken door automatisch de juiste breedte en het juiste aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
 * Probleem verholpen waarbij deze nieuwe eigenaar na het bewerken en opslaan van de nieuwe eigenaar van een segment niet werd weerspiegeld in de gebruikersinterface van het segment. (AN-234502; AN-250970; AN-250286)
 * Probleem verholpen waarbij een App-rapportsuite zowel primaire serveraanroepen als mobiele primaire serveraanroepen verbruikte. (AN-244029)
-* Probleem verholpen waarbij de responstijd van de gebruikersinterface traag was bij het openen van Workspace-projecten. (AN-242553)
-* Probleem verholpen waarbij u zich niet kon aanmelden bij Report Builder na upgrade naar de meest recente versie. (AN-248825)
-* Gebruikersmachtigingen voor gebruikers die geen beheerder zijn, zijn nu opgelost. Een gebruiker moet toestemming hebben zolang deze maar aan ten minste een van zijn profielen in de Admin Console is toegevoegd. Als u gebruikers toevoegt aan profielen, hoeft u alleen maar machtigingen toe te voegen aan de profielen waarop ze al recht hebben. U mag ook niets verwijderen uit andere productprofielen. (AN-242723)
-* Probleem met taalcodering verholpen met gegevensinvoer. (AN-249862)
-* Probleem verholpen waarbij gebruikers geen toegang hadden tot gedeelde werkruimteprojecten. (AN-247814)
-* Probleem verholpen met waarschuwingsvoorvertoningen die niet overeenkomen met het aantal getriggerde waarschuwingen. (AN-249392; AN-250804)
+* Probleem verholpen met trage reactietijd van de gebruikersinterface bij het openen van [!UICONTROL Workspace]-projecten. (AN-242553)
+* Probleem verholpen waarbij u zich niet kon aanmelden bij [!UICONTROL Report Builder] na upgrade naar de meest recente versie. (AN-248825)
+* Gebruikersmachtigingen voor gebruikers die geen beheerder zijn, zijn nu opgelost. Een gebruiker moet toestemming hebben zolang deze maar is toegevoegd aan ten minste een van de profielen in [!UICONTROL Admin Console]. Als u gebruikers toevoegt aan profielen, hoeft u alleen maar machtigingen toe te voegen aan de profielen waarop ze al recht hebben. U mag ook niets verwijderen uit andere productprofielen. (AN-242723)
+* Probleem met taalcodering verholpen met [!UICONTROL Data Feeds]. (AN-249862)
+* Probleem verholpen waarbij gebruikers geen toegang hadden tot gedeelde [!UICONTROL Workspace]-projecten. (AN-247814)
+* Probleem verholpen waarbij [!UICONTROL Alert Previews] niet overeenkwam met het aantal getriggerde [!UICONTROL Alerts]. (AN-249392; AN-250804)
 
 #### Nog meer oplossingen in Adobe Analytics
 
@@ -146,8 +147,8 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
-| Gelijk aan SiteCatalyst VISTA-verwerking | 17 maart 2021 | Op 17 juni 2021 worden alle rapportsuites bijgewerkt zodat [!UICONTROL Same-as-SiteCatalyst VISTA Processing] is ingesteld op ON.  Deze wijziging heeft invloed op de rapportage van Data Warehouse door de gegevens af te stemmen op de verwerkingsregels.  Raadpleeg de klantenservice voor vragen of verduidelijking. |
-| EOL van gegevensbronnen van volledige verwerking | 10 maart 2021 | Adobe is van plan in de toekomst volledige verwerkingsgegevensbronnen te vervangen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. |
+| [!UICONTROL Same-as-SiteCatalyst VISTA Processing] = ON | 17 maart 2021 | Op 17 juni 2021 worden alle rapportsuites bijgewerkt zodat [!UICONTROL Same-as-SiteCatalyst VISTA Processing] is ingesteld op ON.  Deze wijziging is van invloed op de rapportage van [!UICONTROL Data Warehouse] door de gegevens af te stemmen op de verwerkingsregels.  Neem voor vragen of verduidelijking contact op met de klantenservice van Adobe. |
+| EOL van [!UICONTROL Full Processing] [!UICONTROL Data Sources] | 10 maart 2021 | Adobe is van plan [!UICONTROL Full Processing] [!UICONTROL Data Sources] in de toekomst af te schaffen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. |
 | Opties voor bestemmingspagina&#39;s voor rapporten en analyses | 19 februari 2021 | Op 25 maart 2021 worden de opties voor het instellen van nieuwe Dashboards &amp; Analytics of andere inhoud als de Adobe Analytics-landingspagina verwijderd. Als u eerder een pagina Rapporten &amp; Analytics als uw aangepaste landingspagina plaatst, zal het blijven werken tot uw landingspagina in [!UICONTROL User Preferences] wordt gewijzigd. |
 | EOL van Ad Hoc Analysis | jan. 2021 | [!UICONTROL Ad Hoc Analysis] op 1 maart 2021 zijn einddatum heeft bereikt. Ga voor meer informatie naar [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Einde van levensduur voor drie API-analysemogelijkheden | 6 januari 2021 | Op 30 april 2021 zijn de volgende API-services van Analytics Legacy gepland om hun einddatum te bereiken en worden ze afgesloten. De huidige integratie die met deze services wordt gebouwd, werkt niet meer op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Wij hebben een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om u te helpen uw vragen beantwoorden en richtlijnen te geven over hoe te te werk te gaan. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Verouderde OAuth-accounts kunnen migreren naar een [Adobe IO](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount dat kan worden gebruikt voor toegang tot de API&#39;s van Analytics 1.4 en Analytics 2.0. |
