@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ebeebdb7c1a534934a0e70c6ab2588a96442192f
+source-git-commit: ffd0377c6309d206bbb98ddc9c7e74f938ad4081
 workflow-type: tm+mt
-source-wordcount: '6029'
+source-wordcount: '6151'
 ht-degree: 17%
 
 ---
@@ -57,8 +57,8 @@ De meest recente updates van de Status van het Systeem van Adobe worden gevonden
 
 Bevat releaseupdategegevens voor Experience Platform en Experience Platform Launch.
 
-* [Releaseopmerkingen bij Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (24 februari 2021)
-* [Releaseopmerkingen bij Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html). (13 januari 2021)
+* [Releaseopmerkingen bij Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (Bijgewerkt op 24 februari 2021)
+* [Releaseopmerkingen bij Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html). (Bijgewerkt op 18 februari 2021)
 
 ### Zelfstudies en cursussen voor Experience Platforms
 
@@ -115,6 +115,7 @@ Releasedatum: **25 maart 2021**
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 maart 2021 | Met de pagina [!UICONTROL Components] > [!UICONTROL User preferences] kunt u [!UICONTROL Analysis Workspace]-instellingen en de bijbehorende componenten voor uw gebruiker beheren. [!UICONTROL User preferences] van toepassing op alle nieuwe projecten en panels. **Opmerking:** de volgende instellingen zijn verplaatst naar de  [!UICONTROL User preferences] pagina:<ul><li>Rapportinstellingen: Scheidingsteken voor duizendtallen (nu genaamd &quot;getalnotatie&quot;)</li><li>Rapportinstellingen: CSV-scheidingsteken</li><li>Werkruimteprojecten: Help > Tips inschakelen</li><li>Werkruimteprojecten: Leeg deelvenster &quot;Nieuwe projecten starten met dit deelvenster&quot;, optie</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram] Voorspelling van Slim emmertje | 25 maart 2021 | [!UICONTROL Histogram] Met Slimme voorspelling van emmertjes kunt u histogrammen met hoge cardinaliteit gebruiken door automatisch de juiste breedte en het juiste aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
 | [!UICONTROL Usage Log] API | 25 maart 2021 | Dit is een nieuwe v2.0 Analytics-API die via programmacode toegang mogelijk maakt tot dezelfde logbestandgegevens die beschikbaar zijn onder [!UICONTROL Admin] > [!UICONTROL Log] > [!UICONTROL Usage and Access Log]. Aanvullende details over verificatie, schema en voorbeeldreactie zijn [hier](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md) beschikbaar. |
+| Ondersteuning voor analytische dashboards voor aangepaste datumbereiken | 25 maart 2021 | Scorecard-makers kunnen aangepaste datumbereiken maken en toepassen op mobiele scorecardprojecten. Maker kan kiezen uit de vertrouwde werkruimte en mobiele datumbereiken of een aangepast datumbereik maken. Dit onderdeel wordt vanaf 25 maart beschikbaar. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -123,6 +124,7 @@ Releasedatum: **25 maart 2021**
 | Ondersteuning voor [!UICONTROL Adobe Analytics dashboards] | 25 maart 2021 | [!UICONTROL Customer Journey Analytics] (CJA) ondersteunt nu de  [!UICONTROL Adobe Analytics dashboards Scorecard Builder] en de mobiele app. Hierdoor kunnen managers en zakelijke gebruikers hun kanaalspecifieke PKI&#39;s op basis van CJA-gegevens bekijken met dezelfde app die ze mogelijk al gebruiken voor Adobe Analytics. |
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 maart 2021 | Met de pagina [!UICONTROL Components] > [!UICONTROL User preferences] kunt u [!UICONTROL Analysis Workspace]-instellingen en de bijbehorende componenten voor uw gebruiker beheren. [!UICONTROL User preferences] van toepassing op alle nieuwe projecten en panels. **Opmerking:** de volgende instellingen zijn verplaatst naar de  [!UICONTROL User preferences] pagina:<ul><li>Werkruimteprojecten: Help > Tips inschakelen</li><li>Werkruimteprojecten: Leeg deelvenster &quot;Nieuwe projecten starten met dit deelvenster&quot;, optie</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram] Voorspelling van Slim emmertje | 25 maart 2021 | [!UICONTROL Histogram] Met Slimme voorspelling van emmertjes kunt u histogrammen met hoge cardinaliteit gebruiken door automatisch de juiste breedte en het juiste aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
+| Ondersteuning voor analytische dashboards op Customer Journey Analytics | 25 maart 2021 | De app Analytics-dashboards ondersteunt nu Customer Journey Analytics. Gebruikers met Customer Journey Analytics kunnen KPI&#39;s weergeven op basis van gegevens die in Adobe Experience Platform worden ingevoerd in de app Analytics-dashboards. Met Customer Journey Analytics kunt u meerdere gegevensbronnen combineren voor een echte multikanaalweergave van de klantervaring. Met de app Analytics-dashboards kunt u altijd en overal een actuele, holistische weergave van uw bedrijf bekijken. |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
