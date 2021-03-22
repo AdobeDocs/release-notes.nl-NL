@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1cde3fd4f91f53c6f2281b95397257bbcf1f5672
+source-git-commit: ebeebdb7c1a534934a0e70c6ab2588a96442192f
 workflow-type: tm+mt
-source-wordcount: '6018'
+source-wordcount: '6029'
 ht-degree: 17%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 17%
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
-Experience Cloud oplossingen en services worden maandelijks bijgewerkt. Deze pagina is uw centrale locatie voor het zoeken naar de meest recente release-updates, documentatie en zelfstudies voor [!DNL Experience Cloud] en Experience Platform. U kunt ook nieuwe documentatie vinden voor [!DNL Creative Cloud for Enterprise] en [!DNL Document Cloud].
-
->[!IMPORTANT]
->
->Deze pagina bevat pre-releaseinhoud en kan vóór de releasedatums worden gewijzigd.
+Experience Cloud oplossingen en services worden maandelijks bijgewerkt. Deze pagina is uw centrale locatie voor het zoeken naar de meest recente release-updates, documentatie en zelfstudies voor [!DNL Experience Cloud] producten en services. U kunt ook nieuwe documentatie vinden voor [!DNL Creative Cloud for Enterprise] en [!DNL Document Cloud].
 
 >[!NOTE]
 >
->Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
+>Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden en bevat mogelijk inhoud die vóór een releasedatum kan worden gewijzigd. Controleer regelmatig of er updates beschikbaar zijn voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **19 maart 2021**
+Laatste update: **22 maart 2021**
 
 * [Adobe System Status](#status)  (niet bijgewerkt)
 * [Experience Cloud UI-componenten, -services en -beheer](#ecloud)
@@ -51,7 +47,7 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 [!UICONTROL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval-, onderbrekings- en onderhoudsgebeurtenissen van Adobe Cloud-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
-De meest recente updates van de Status van het Systeem van de Adobe worden gevonden bij [Status van het Systeem van de Adobe - 21 Mei, 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) voor de recentste versieinformatie.
+De meest recente updates van de Status van het Systeem van Adobe worden gevonden bij [Status van het Systeem van Adobe - 21 Mei, 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status).
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud UI Components, Services en Administration  {#ecloud}
 
@@ -335,7 +331,11 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen die worden vrijgegeven:
 
 * [Opmerkingen bij de release Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html)
-* [Opmerkingen bij de release Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html)
+* [Opmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html) bij de release Campaign Classic.
+
+>[!IMPORTANT]
+>
+>Meer informatie over [vereiste configuratie-updates](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/acc-config-updates.html?lang=en) voor Adobe Campaign Classic.
 
 ### Nieuwe cursussen en tutorials voor Campaign
 
