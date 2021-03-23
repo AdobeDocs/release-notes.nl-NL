@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bb6a42b34458a8f1959d4206f546992f4c8e5747
+source-git-commit: b563bfd3582fbbf197dbe3b6590b1f681b7e38cc
 workflow-type: tm+mt
-source-wordcount: '6986'
+source-wordcount: '6911'
 ht-degree: 16%
 
 ---
@@ -451,13 +451,6 @@ De volgende functies komen gedurende het komende kwartaal beschikbaar:
 * **Afschaffing van Internet Explorer-ondersteuning:** Vanaf de juli-release op 31 juli 2020 wordt de Marketo Engage-gebruikersinterface niet meer ondersteund in Internet Explorer.
 
 ## ![](/assets/document-cloud-24.png) IconDocument Cloud  {#doc-cloud}
-
-Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cloud.
-
-| Gepubliceerd | Naam | Oplossing | Beschrijving |
-| -----------| ---------- | ---------- | ---------- |
-| 25 februari 2021 | [Eerste afbeeldingen - Welkomstbericht](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/welcome-emails.html) | Video | Leer wat de belangrijkste elementen van uw welkomststrategie moeten zijn. |
-| 25 februari 2021 | [Eerste indrukken - Adresverzameling en lijstgroei](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/address-collection-and-list-growth.html) | Video | Leer wat de beste bronnen voor nieuwe e-mailadressen zijn, hoe te om hoge gegevenskwaliteit te verzekeren, en aanpassing aan wettelijke richtlijnen te verzekeren. |
 
 Raadpleeg voor hulp bij Documenten Cloud:
 
