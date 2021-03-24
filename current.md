@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
+source-git-commit: 17179b1ec08435b065a940850b52bb36183276f7
 workflow-type: tm+mt
-source-wordcount: '7346'
+source-wordcount: '7331'
 ht-degree: 16%
 
 ---
@@ -87,8 +87,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | maart 2021 | [Monitoringdashboard](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/monitoring-dashboard.html) | Video | Leer hoe u gegevens die in Adobe Experience Platform worden ingevoerd, kunt bijhouden en volgen met behulp van het Monitoring Dashboard. Dit controledashboard verstrekt een top-down mening van brongegevensverwerking door gegevens meer aan de Diensten van het Profiel en van de Identiteit op de bron, dataflow, en dataflow looppas niveaus, met actionable advisories op een geschikte manier. |
-| maart 2021 | [Gegevens verzamelen met streaming connectors op de server van de server](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) | Video | Deze video laat zien hoe gegevens in real-time kunnen worden gestreamd van een bron voor cloudopslag naar Platform en hoe de gegevens in real-time kunnen worden gebruikt voor de betrokkenheid van klanten. |
-| maart 2021 | [Gegevensinname voor gegevensengineers](https://video.tv.adobe.com/v/331971?quality=12&learn=on) | Video | Overzicht van de cursus Gegevensinsluiting. |
+| maart 2021 | [Gegevens streamen met behulp van Bronverbindingen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) | Video | Deze video laat zien hoe gegevens in real-time kunnen worden gestreamd van een bron voor cloudopslag naar Platform en hoe de gegevens in real-time kunnen worden gebruikt voor de betrokkenheid van klanten. |
 | 5 maart 2021 | [Gegevensinname voor gegevensengineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion) | Cursus | Hoe te om gegevens van Veelvoudige Bronnen in Adobe Experience Platform, en meer te brengen. |
 | maart 2021 | [De Azure Blob-bestemming configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=en#destinations) | Video | Leer hoe u door de stappen kunt lopen die nodig zijn voor het instellen en configureren en Azure Blob Storage-bestemming in [!UICONTROL Real-time Customer Data Platform] (Real-time CDP). |
 | 5 maart 2021 | [Aan de slag met Offer decisioning voor markeertekens](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Cursus | Meer informatie over de [!UICONTROL Offer Decisioning] toepassingsservice die op Adobe Experience Platform is gebouwd. Deze cursus wordt ontworpen voor marketers die opbrengst, klantenervaring en loyaliteit willen drijven door de beste aanbiedingen aan hun klanten te leveren. |
