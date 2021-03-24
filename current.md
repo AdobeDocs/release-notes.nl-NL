@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d7c6508201971164b63a0d0d9490f66a2a87adf6
+source-git-commit: 3763705cd932a91c26d5c0e6166758241969126d
 workflow-type: tm+mt
-source-wordcount: '6892'
-ht-degree: 17%
+source-wordcount: '6954'
+ht-degree: 16%
 
 ---
 
@@ -128,7 +128,7 @@ Releasedatum: **25 maart 2021**
 
 | Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
-| API-updates voor gegevensherstel | 25 maart 2021 | De API voor gegevensherstel ondersteunt nu standaardvariabelen zoals [!UICONTROL Page] en [!UICONTROL IP address], mobiele en videovariabelen en aangepaste props en eVars.  Waarden binnen variabelen kunnen worden verwijderd of nieuwe waarden kunnen worden ingesteld. De API biedt nu ook filters voor URL&#39;s, querytekenreeksen bij borden en meer. |
+| API-updates voor gegevensherstel | 25 maart 2021 | De API voor gegevensherstel ondersteunt nu standaardvariabelen zoals [!UICONTROL Page] en [!UICONTROL IP address], mobiele en videovariabelen en de aangepaste [!UICONTROL props] en [!UICONTROL eVars].  Waarden binnen variabelen kunnen worden verwijderd of nieuwe waarden kunnen worden ingesteld. De API biedt nu ook filters voor URL&#39;s, querytekenreeksen bij borden en meer. |
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 maart 2021 | Met de pagina [!UICONTROL Components] > [!UICONTROL User preferences] kunt u [!UICONTROL Analysis Workspace]-instellingen en de bijbehorende componenten voor uw gebruiker beheren. [!UICONTROL User preferences] van toepassing op alle nieuwe projecten en panels. <br>**Opmerking:** de volgende instellingen zijn verplaatst naar de  [!UICONTROL User preferences] pagina:<ul><li>Rapportinstellingen: Scheidingsteken voor duizendtallen (nu _Getalnotatie_)</li><li>Rapportinstellingen: CSV-scheidingsteken</li><li>Werkruimteprojecten: Help > Tips inschakelen</li><li>Werkruimteprojecten: Leeg deelvenster _Nieuwe projecten starten met dit deelvenster_, optie</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram Smart Bucket Prediction] | 25 maart 2021 | [!UICONTROL Histogram Smart Bucket Prediction] biedt hulp bij histogrammen met hoge cardinaliteit door automatisch de juiste breedte en het juiste aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
 | [!UICONTROL Usage Log] API | 25 maart 2021 | Dit is een nieuwe v2.0 Analytics-API die via programmacode toegang mogelijk maakt tot dezelfde logbestandgegevens die beschikbaar zijn onder **[!UICONTROL Admin]** > **[!UICONTROL Log]** > **[!UICONTROL Usage and Access Log]**. Aanvullende details over verificatie, schema en voorbeeldreactie zijn [hier](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md) beschikbaar. |
@@ -162,6 +162,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
+| Kennisgeving van aanstaande wijzigingen in het menu Analytics | 24 maart 2021 | Op 22 april 2021 werken we de vervolgkeuzemenu&#39;s **[!UICONTROL Components]**, **[!UICONTROL Tools]** en **[!UICONTROL Admin]** bij om de prestaties enigszins te verbeteren. Al deze pagina&#39;s zijn nog steeds beschikbaar via de koppelingen **[!UICONTROL All Components]**, **[!UICONTROL All Tools]** en **[!UICONTROL All Admin]**. Ze worden gewoon verwijderd uit het vervolgkeuzemenu. Hier zijn de menu-items die uit het vervolgkeuzemenu worden verwijderd en op de respectievelijke koppelingspagina worden geplaatst:<br><br> [!UICONTROL Components]<ul><li>[!UICONTROL Bookmarks]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Targets]</li><li>[!UICONTROL Calendar Events]</li><li>[!UICONTROL Scheduled Reports]</li><li>[!UICONTROL Report Settings]</li></ul>[!UICONTROL Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search & Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL User Management]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Company Settings]</li><li>[!UICONTROL Logs]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code Manager]</li><li>[!UICONTROL Exclude by IP]</li><li>[!UICONTROL Traffic Management]</li></ul> |
 | [!UICONTROL Same-as-SiteCatalyst VISTA Processing] = ON | 17 maart 2021 | Op 17 juni 2021 worden alle rapportsuites bijgewerkt zodat [!UICONTROL Same-as-SiteCatalyst VISTA Processing] is ingesteld op ON. Deze wijziging is van invloed op de rapportage van [!UICONTROL Data Warehouse] door de gegevens te verwerken in overeenstemming met de verwerkingsregels. Neem voor vragen of verduidelijking contact op met de klantenservice van Adobe. |
 | EOL van [!UICONTROL Full Processing] [!UICONTROL Data Sources] | 10 maart 2021 | Adobe is van plan [!UICONTROL Full Processing] [!UICONTROL Data Sources] in de toekomst af te schaffen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
 | Opties voor bestemmingspagina&#39;s voor rapporten en analyses | 19 februari 2021 | Op 25 maart 2021 worden de opties voor het instellen van nieuwe Dashboards &amp; Analytics of andere inhoud als de Adobe Analytics-landingspagina verwijderd. Als u eerder een pagina Rapporten &amp; Analytics als uw aangepaste landingspagina plaatst, zal het blijven werken tot uw landingspagina in [!UICONTROL User Preferences] wordt gewijzigd. |
