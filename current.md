@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3763705cd932a91c26d5c0e6166758241969126d
+source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
 workflow-type: tm+mt
-source-wordcount: '6954'
+source-wordcount: '7346'
 ht-degree: 16%
 
 ---
@@ -23,9 +23,10 @@ Experience Cloud oplossingen en services worden maandelijks bijgewerkt. Deze pag
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden en bevat mogelijk inhoud die vóór een releasedatum kan worden gewijzigd. Controleer regelmatig of er updates beschikbaar zijn voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **22 maart 2021**
+Laatste update: **24 maart 2021**
 
-* [Adobe System Status](#status)  (niet bijgewerkt)
+* [Digital Experience Blueprints](#blueprints)  (nieuwe implementatiedocumentatie)
+* [Adobe-systeemstatus](#status)
 * [Experience Cloud UI-componenten, -services en -beheer](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
@@ -43,6 +44,23 @@ Laatste update: **22 maart 2021**
 
 Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/#home) om te zoeken naar product- en technische documentatie, door Adobe georganiseerde cursussen, videotutorials, snelle antwoorden, communityinzichten en training onder leiding van instructeurs.
 
+## ![](/assets/adobe.png) IconDigital Experience Blueprints  {#blueprints}
+
+Digitale Ervaring blauwdrukken zijn herhaalbare implementaties om strategie aan te pakken en gevestigde bedrijfsproblemen op te lossen. De blauwdrukken versnellen tijd-aan-waarde en verstrekken een snelle weg aan succes.
+
+| Gepubliceerd | Beschrijving |
+| -----------| ---------- |
+| [Digitale beleving blauwdrukken](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) | Overzicht van [!UICONTROL Digital Blueprints]. Elke blauwdruk biedt een reeks artefacten die het bedrijfsprobleem van de hoge waarde, architectuur, implementatiestappen, technische overwegingen, en verbindingen aan de relevante documentatie verklaren. |
+| [Audience Activation vervagen](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html) | Met deze activering waarbij de gebruikers eerst worden geactiveerd, kunnen merken de interactie van klanten via meerdere kanalen verbinden om een gecentraliseerd publiek te leveren dat op alle kanalen kan worden geactiveerd. |
+| [Vervaging van de Hub voor klantactiviteiten](https://experienceleague.adobe.com/docs/blueprints-learn/architecture//customer-activity-hub/overview.html) | Leer hoe externe toepassingen tot [!UICONTROL Real-time Customer Profile] van Adobe Experience Platform kunnen toegang hebben. |
+| [Customer Journey Analytics vervagen](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html) | Leer hoe de merken klantengegevens en gedrag van diverse interactiekanalen en bronnen kunnen verenigen om een op reis-gebaseerde mening van alle klanteninteractie tot stand te brengen. |
+| [Aangepaste gegevenswetenschap voor blauwdruk van profielverrijking](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-science/overview.html) | Leer hoe de gegevens in Adobe Experience Platform door [!UICONTROL Data Science Workspace] worden gebruikt om modellen op te leiden, te implementeren en te scoren om inzichten in het leren van machines te bieden. |
+| [Voorbereiding van gegevens en vervagingsblauwdruk](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/overview.html) | Leer hoe te om brongegevens aan het [!UICONTROL Experience Data Model] (XDM) schema in kaart te brengen. Deze blauwdruk omvat ook het uitvoeren van transformaties op gegevens, met inbegrip van datum het formatteren, gebied het splitsen, aaneenschakeling, en omzettingen, evenals het aansluiten van, het samenvoegen van, en het opnieuw sluiten van verslagen. |
+| [Blauwdruk voor Enterprise Data Exploration &amp; Reporting](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-exploration/overview.html) | Met de [!UICONTROL Query Service] van het Experience Platform kunnen SQL-query&#39;s op de gegevens worden uitgevoerd. Leer hoe [!UICONTROL Data Science Workspace] gegevensexploratie, gegevenswetenschap en werklasten voor machinaal leren uitvoert op de gegevens. |
+| [Blauwdruk voor berichtenorchestratie meerdere kanalen](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/multi-channel-message-orchestration/overview.html) | Leer hoe merken proactief kunnen communiceren met hun klanten via kanalen zoals e-mail, SMS en mobiele waarschuwingen. |
+| [Blauwdruk voor gegevensverzameling op de server](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/server-side-enterprise-data-collection/overview.html) | Leer hoe de gegevens die met het Web van Adobe Experience Platform en Mobiele SDKs worden verzameld van Experience Platform [!UICONTROL Edge Network] aan een gewenste bestemming kunnen door:sturen. |
+| [Web &amp; mobiele verfijning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/web-personalization/overview.html) | Leer hoe te om publiekssegmentatie in veelvoudige toepassingen te gebruiken om klantenervaringen te personaliseren en te optimaliseren. U kunt klantengedrag, demografie, loyaliteitsniveau, en vroegere transacties gebruiken om lay-outs, vraag-aan-actie, en inhoud te personaliseren. |
+
 ## ![Pictogram](/assets/adobe.png) Adobe-systeemstatus {#status}
 
 [!UICONTROL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval-, onderbrekings- en onderhoudsgebeurtenissen van Adobe Cloud-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
@@ -51,7 +69,9 @@ De meest recente updates van de Status van het Systeem van Adobe worden gevonden
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud UI Components, Services en Administration  {#ecloud}
 
-**Verenigd Onderzoek:** Verenigd Onderzoek, dat momenteel voor Experience Platform beschikbaar is, steunt nu onderzoek op Bronnen en Doelen voor de gebruikers van het Experience Platform. Deze eigenschap laat u toe om Segmenten, Datasets, Schema&#39;s, Bronnen en Doelen te zoeken.
+| Functie | Beschrijving |
+| -----------| ---------- |
+| Unified Search | Het verenigde Onderzoek, dat momenteel voor Experience Platform beschikbaar is, steunt nu onderzoek op Bronnen en Doelen voor de gebruikers van het Experience Platform. Deze eigenschap laat u toe om Segmenten, Datasets, Schema&#39;s, Bronnen en Doelen te zoeken. |
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
