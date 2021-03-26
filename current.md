@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 17179b1ec08435b065a940850b52bb36183276f7
+source-git-commit: 99f32ddc69aa869be32186b9b0746aae27a79113
 workflow-type: tm+mt
-source-wordcount: '7331'
+source-wordcount: '7353'
 ht-degree: 16%
 
 ---
@@ -151,7 +151,7 @@ Releasedatum: **25 maart 2021**
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 maart 2021 | Met de pagina [!UICONTROL Components] > [!UICONTROL User preferences] kunt u [!UICONTROL Analysis Workspace]-instellingen en de bijbehorende componenten voor uw gebruiker beheren. [!UICONTROL User preferences] van toepassing op alle nieuwe projecten en panels. <br>**Opmerking:** de volgende instellingen zijn verplaatst naar de  [!UICONTROL User preferences] pagina:<ul><li>Rapportinstellingen: Scheidingsteken voor duizendtallen (nu _Getalnotatie_)</li><li>Rapportinstellingen: CSV-scheidingsteken</li><li>Werkruimteprojecten: Help > Tips inschakelen</li><li>Werkruimteprojecten: Leeg deelvenster _Nieuwe projecten starten met dit deelvenster_, optie</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram Smart Bucket Prediction] | 25 maart 2021 | [!UICONTROL Histogram Smart Bucket Prediction] biedt hulp bij histogrammen met hoge cardinaliteit door automatisch de juiste breedte en het juiste aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
 | [!UICONTROL Usage Log] API | 25 maart 2021 | Dit is een nieuwe v2.0 Analytics-API die via programmacode toegang mogelijk maakt tot dezelfde logbestandgegevens die beschikbaar zijn onder **[!UICONTROL Admin]** > **[!UICONTROL Log]** > **[!UICONTROL Usage and Access Log]**. Aanvullende details over verificatie, schema en voorbeeldreactie zijn [hier](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md) beschikbaar. |
-| Ondersteuning voor analytische dashboards voor aangepaste datumbereiken | 25 maart 2021 | Scorecard-makers kunnen aangepaste datumbereiken maken en toepassen op mobiele scorecardprojecten. Maker kan kiezen uit de vertrouwde werkruimte en mobiele datumbereiken of een aangepast datumbereik maken. |
+| Ondersteuning voor analytische dashboards voor aangepaste datumbereiken | 22 april 2021 | Scorecard-makers kunnen aangepaste datumbereiken maken en toepassen op mobiele scorecardprojecten. Maker kan kiezen uit de vertrouwde werkruimte en mobiele datumbereiken of een aangepast datumbereik maken. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html#mobapp). |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -160,7 +160,7 @@ Releasedatum: **25 maart 2021**
 | Ondersteuning voor [!UICONTROL Adobe Analytics dashboards] | 25 maart 2021 | [!UICONTROL Customer Journey Analytics] (CJA) ondersteunt nu de  [!UICONTROL Adobe Analytics dashboards Scorecard Builder] en de mobiele app. Hierdoor kunnen managers en zakelijke gebruikers hun kanaalspecifieke PKI&#39;s op basis van CJA-gegevens bekijken met dezelfde app die ze mogelijk al gebruiken voor Adobe Analytics. |
 | Analysis Workspace: **[!UICONTROL Components]** > **[!UICONTROL User preferences]** | 25 maart 2021 | Met de pagina [!UICONTROL Components] > [!UICONTROL User preferences] kunt u [!UICONTROL Analysis Workspace]-instellingen en de bijbehorende componenten voor uw gebruiker beheren. [!UICONTROL User preferences] van toepassing op alle nieuwe projecten en panels. <br>**Opmerking:** de volgende instellingen zijn verplaatst naar de  [!UICONTROL User preferences] pagina:<ul><li>Werkruimteprojecten: Help > Tips inschakelen</li><li>Werkruimteprojecten: Leeg deelvenster _Nieuwe projecten starten met dit deelvenster_, optie</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram Smart Bucket Prediction] | 25 maart 2021 | [!UICONTROL Histogram Smart Bucket Prediction] biedt hulp bij histogrammen met hoge cardinaliteit door automatisch de juiste breedte en het juiste aantal emmers voor de gegevensspread te identificeren. Voor metingen met lage cardinaliteit gedraagt de visualisatie zich op dezelfde manier als voorheen. |
-| Ondersteuning voor analytische dashboards op Customer Journey Analytics | 25 maart 2021 | De app Analytics-dashboards ondersteunt nu Customer Journey Analytics. Gebruikers met Customer Journey Analytics kunnen KPI&#39;s weergeven op basis van gegevens die in Adobe Experience Platform worden ingevoerd in de app Analytics-dashboards. Met Customer Journey Analytics kunt u meerdere gegevensbronnen combineren voor een echte multikanaalweergave van de klantervaring. Met de app Analytics-dashboards kunt u altijd en overal een actuele, holistische weergave van uw bedrijf bekijken. |
+| Ondersteuning voor analytische dashboards op Customer Journey Analytics | 25 maart 2021 | De app Analytics-dashboards ondersteunt nu Customer Journey Analytics. Gebruikers met Customer Journey Analytics kunnen KPI&#39;s weergeven op basis van gegevens die in Adobe Experience Platform worden ingevoerd in de app Analytics-dashboards. Met Customer Journey Analytics kunt u meerdere gegevensbronnen combineren voor een echte multikanaalweergave van de klantervaring. Met de app Analytics-dashboards kunt u altijd en overal een actuele, holistische weergave van uw bedrijf bekijken. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/curator.html?lang=en#cja-dashboards). |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
