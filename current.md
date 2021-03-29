@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99f32ddc69aa869be32186b9b0746aae27a79113
+source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
 workflow-type: tm+mt
-source-wordcount: '7353'
-ht-degree: 16%
+source-wordcount: '7542'
+ht-degree: 15%
 
 ---
 
@@ -429,15 +429,21 @@ Laatst bijgewerkt: **28 oktober 2020**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **22 januari 2021, voor release van 23 januari**
+Laatst bijgewerkt: **29 maart 2022, voor release 27 maart**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns]<br> Rapporten | Advertising Cloud Search rapporteert niet langer nieuwe gemiddelde positiegegevens voor Microsoft®-advertentiecampagnes. In de kolom Gemiddelde positie staan de waarden nul (0) voor datums die op 23 januari beginnen. Dit is in voorbereiding op de afwaardering van gemiddelde positiegegevens door Microsoft in januari 2021.<br>De gemiddelde positiegegevens die tot en met 22 januari zijn verzameld, zijn nog steeds beschikbaar in rapporten. |
+| [!UICONTROL Search Campaigns]<br> Rapporten | (Microsoft Ads-campagnes) Biedingsondersteuning is nu beschikbaar voor de uitgebreide eCPC-biedstrategie (cost per click) van Microsoft. Dit is de standaardbiedstrategie voor advertenties van Microsoft. U kunt nu een campagne-niveau [!UICONTROL Bid Strategy] voor uw campagnes specificeren. U kunt onder andere [!UICONTROL Manual CPC] en [!UICONTROL Enhanced CPC] kiezen. U kunt [!UICONTROL Enhanced CPC] met onderzoek, bestaande dynamische onderzoeksadvertentie, en het winkelen campagnes gebruiken.<br>Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde Advertising Cloud-portfolio, optimaliseert Advertising Cloud de basisbiedingen en — wanneer de optie &#39;De budgetlimieten voor campagnes automatisch aanpassen&#39; is ingeschakeld — het campagnebudget. Microsoft past alle correcties voor biedingen toe en kan de door Advertising Cloud gegenereerde biedingen wijzigen op het moment dat de gebruikersquery wordt uitgevoerd op basis van gegevens en inzichten van eigendomsrechten.<br>De  [!UICONTROL Bid Strategy] aangepaste kolom is beschikbaar in de  [!UICONTROL Campaigns] weergave en in rapporten. |
+| [!UICONTROL Search Campaigns]<br> [!UICONTROL Bulksheets] | (Reclamecampagnes van Microsoft) Voor uitgevouwen tekstadvertenties is nu ondersteuning beschikbaar voor een optionele derde kopregel ([!UICONTROL Ad Title 3]) en een optionele tweede beschrijving ([!UICONTROL Description 2]). Ondersteuning is beschikbaar in de weergave [!UICONTROL Ads] en in [!UICONTROL Bulksheets]. |
+| [!UICONTROL Advertising Insights] | Er zijn twee nieuwe [!UICONTROL Advertising Insights] beschikbaar:<ul><li>[!UICONTROL Delayed Revenue]: Hiermee wordt de omzettingsvertraging (de tijd die is verstreken tussen een SEM-klik en een daaropvolgende conversie) van een portefeuille gemeten en worden eventuele verschillen in gewogen opbrengsten, ROI en modelnauwkeurigheid wegens de vertraging weergegeven.</li><li>[!UICONTROL Query Cross Matching]: Zoekt instanties van onderzoeksvragen die Google aan meer dan één sleutelwoord aanpaste en verstrekt suggesties voor waar te om verkeer te leiden.</li></ul> |
 
-### Zelfstudies en cursussen voor Ad Cloud
+### Zelfstudies en cursussen voor Advertising Cloud
 
-Bijgewerkt: **2 december 2020**
+Bijgewerkt: **23 februari 2021**
+
+| Zelfstudie | Beschrijving |
+| -----------| ---------- |
+| [Inleiding tot werkruimte en rapportage](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Leer hoe u Advertising Cloud-gegevens kunt gebruiken om visuele rapporten te maken in Adobe Analytics Analysis Workspace. |
 
 ## ![Pictogram](/assets/magento.png) [!DNL Magento] {#magento}
 
