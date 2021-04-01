@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution-title: Informatie en ondersteuning
 description: Opmerkingen bij de release voor Experience Cloud-oplossingen
 solution-hub-url: https://helpx.adobe.com/nl/support/experience-cloud.html
@@ -12,7 +12,7 @@ mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.nl-NL
 index: true
 translation-type: tm+mt
-source-git-commit: 644ea51d605f87693109d6b0e96afbdf365aaa2b
+source-git-commit: b742d2cf0f14d2b25ed540245c0f1f571fd2319b
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 73%
