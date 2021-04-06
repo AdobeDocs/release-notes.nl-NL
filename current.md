@@ -4,14 +4,14 @@ description: Meer informatie over de nieuwste opmerkingen bij de release, nieuwe
 doc-type: release notes
 last-update: March 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
+source-git-commit: 6146981c558499f22dbdc56bc12e2ebce2d00439
 workflow-type: tm+mt
-source-wordcount: '7542'
+source-wordcount: '7641'
 ht-degree: 15%
 
 ---
-
 
 # Opmerkingen bij de release van Adobe Experience Cloud - maart 2021
 
@@ -23,7 +23,7 @@ Experience Cloud oplossingen en services worden maandelijks bijgewerkt. Deze pag
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden en bevat mogelijk inhoud die vóór een releasedatum kan worden gewijzigd. Controleer regelmatig of er updates beschikbaar zijn voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **24 maart 2021**
+Laatste update: **6 april 2021**
 
 * [Digital Experience Blueprints](#blueprints)  (nieuwe implementatiedocumentatie)
 * [Adobe-systeemstatus](#status)
@@ -31,7 +31,7 @@ Laatste update: **24 maart 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [](#analytics) Analyses en  [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) **(bijgewerkt op 6 april 2021)** en  [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -140,7 +140,7 @@ Releasedatum: **25 maart 2021**
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
-* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
+* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)  **(bijgewerkt op 6 april 2021)**
 * [AppMeasurement](#appm)
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
@@ -181,6 +181,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
+| De Diervoed van gegevens en IP van de Data Warehouse de Veranderingen van het Adres | 6 april 2021 | Vanaf 17 juni, zal het de leveringssysteem van de Diervoeders van Gegevens en van de Data Warehouse binnen onze gegevenscentra worden verplaatst, en daarom kan een verandering van externe IP adressen veroorzaken zichtbaar aan u.  U zou moeten bevestigen dat alle IP CIDR blokken voor het gegevenscentrum waar uw rapporten en het voer worden gedownload aanwezig zijn in om het even welke firewalls, voor om het even welke bestemmingssystemen die u controleert. [Hier is een volledige lijst van IP waaiers van het Adres in de lijsten van gewenste personen](https://https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks) van uw firewall te plaatsen. |
 | Kennisgeving van aanstaande wijzigingen in het menu Analytics | 24 maart 2021 | Op 22 april 2021 werken we de vervolgkeuzemenu&#39;s **[!UICONTROL Components]**, **[!UICONTROL Tools]** en **[!UICONTROL Admin]** bij om de prestaties enigszins te verbeteren. Al deze pagina&#39;s zijn nog steeds beschikbaar via de koppelingen **[!UICONTROL All Components]**, **[!UICONTROL All Tools]** en **[!UICONTROL All Admin]**. Ze worden gewoon verwijderd uit het vervolgkeuzemenu. Hier zijn de menu-items die uit het vervolgkeuzemenu worden verwijderd en op de respectievelijke koppelingspagina worden geplaatst:<br><br> [!UICONTROL Components]<ul><li>[!UICONTROL Bookmarks]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Targets]</li><li>[!UICONTROL Calendar Events]</li><li>[!UICONTROL Scheduled Reports]</li><li>[!UICONTROL Report Settings]</li></ul>[!UICONTROL Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search & Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL User Management]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Company Settings]</li><li>[!UICONTROL Logs]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code Manager]</li><li>[!UICONTROL Exclude by IP]</li><li>[!UICONTROL Traffic Management]</li></ul> |
 | [!UICONTROL Same-as-SiteCatalyst VISTA Processing] = ON | 17 maart 2021 | Op 17 juni 2021 worden alle rapportsuites bijgewerkt zodat [!UICONTROL Same-as-SiteCatalyst VISTA Processing] is ingesteld op ON. Deze wijziging is van invloed op de rapportage van [!UICONTROL Data Warehouse] door de gegevens te verwerken in overeenstemming met de verwerkingsregels. Neem voor vragen of verduidelijking contact op met de klantenservice van Adobe. |
 | EOL van [!UICONTROL Full Processing] [!UICONTROL Data Sources] | 10 maart 2021 | Adobe is van plan [!UICONTROL Full Processing] [!UICONTROL Data Sources] in de toekomst af te schaffen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
@@ -241,12 +242,12 @@ Nieuwe functies, correcties en updates in Experience Manager. Adobe adviseert kl
 
 * **AEM 6.5.8.0**
 AEM 6.5, Service Pack 8 (6.5.8.0 vrijgegeven 11 maart 2021) is een belangrijke update die nieuwe eigenschappen, zeer belangrijke klantenverhogingen, betere prestaties, stabiliteit, en veiligheid omvat, vrijgegeven sinds de algemene beschikbaarheid van AEM 6.5, April 2019.
-   * [Releaseopmerkingen](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en#service-pack)
+   * [Aanvullende informatie](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en#service-pack)
    * [Te leveren items voor release van AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
 
 * **AEM 6.4.8.4**
 AEM 6.4, Service Pack 8, Cumulatief Fix Pack 4 (6.4.8.4 vrijgegeven 25 februari, 2021) is een belangrijke update die verscheidene interne en klantenmoeilijke situaties omvat sinds de algemene beschikbaarheid van AEM 6.4, Service Pack 8 (6.4.8.0), Maart 2020.
-   * [Releaseopmerkingen](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
+   * [Aanvullende informatie](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
    * [Te leveren items voor release van AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
 
 * **Adobe Experience Manager as a Cloud Service**
