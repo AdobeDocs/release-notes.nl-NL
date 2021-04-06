@@ -5,14 +5,14 @@ title: Opmerkingen bij de release voor 2018 en eerder
 solution: Experience Cloud,Analytics,Target,Advertising Cloud
 seo-title: Opmerkingen bij de release voor 2018 en eerder voor Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
+exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
 translation-type: tm+mt
-source-git-commit: 97674547368321244be16e95f20f195c545d945a
+source-git-commit: 22172967833a02a018fc53f7ed4fd3feb1f7dc07
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release voor 2018 en eerder
 
