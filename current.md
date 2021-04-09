@@ -6,9 +6,9 @@ last-update: March 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 6146981c558499f22dbdc56bc12e2ebce2d00439
+source-git-commit: 437662b982b90a8c48094846f2f07cc4f3ddd3b2
 workflow-type: tm+mt
-source-wordcount: '7641'
+source-wordcount: '7707'
 ht-degree: 15%
 
 ---
@@ -181,6 +181,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
+| Aanmeldingsupdate voor [!UICONTROL Report Builder] | 9 april 2021 | Met ingang van 14 januari 2021: Met de verbeteringen in het aanmeldingsproces [!UICONTROL Report Builder] worden afhankelijkheden van verouderde technologieën verwijderd en wordt het aanmeldingsproces afgestemd op Adobe Experience Cloud. Experience Cloud gebruikt uw Enterprise ID (e-mail en wachtwoord). <br>Om ononderbroken toegang tot te verzekeren, werk  [!UICONTROL Report Builder]  [!UICONTROL Report Builder] toe:voegen-binnen aan versie 5.6.47 of later uiterlijk 22 juli 2021 bij. Report Builder versie 5.6.47 en hoger biedt alleen ondersteuning voor het Experience Cloud-aanmelding en biedt geen ondersteuning voor Single Sign-On. |
 | De Diervoed van gegevens en IP van de Data Warehouse de Veranderingen van het Adres | 6 april 2021 | Vanaf 17 juni, zal het de leveringssysteem van de Diervoeders van Gegevens en van de Data Warehouse binnen onze gegevenscentra worden verplaatst, en daarom kan een verandering van externe IP adressen veroorzaken zichtbaar aan u.  U zou moeten bevestigen dat alle IP CIDR blokken voor het gegevenscentrum waar uw rapporten en het voer worden gedownload aanwezig zijn in om het even welke firewalls, voor om het even welke bestemmingssystemen die u controleert. [Hier is een volledige lijst van IP waaiers van het Adres in de lijsten van gewenste personen](https://https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks) van uw firewall te plaatsen. |
 | Kennisgeving van aanstaande wijzigingen in het menu Analytics | 24 maart 2021 | Op 22 april 2021 werken we de vervolgkeuzemenu&#39;s **[!UICONTROL Components]**, **[!UICONTROL Tools]** en **[!UICONTROL Admin]** bij om de prestaties enigszins te verbeteren. Al deze pagina&#39;s zijn nog steeds beschikbaar via de koppelingen **[!UICONTROL All Components]**, **[!UICONTROL All Tools]** en **[!UICONTROL All Admin]**. Ze worden gewoon verwijderd uit het vervolgkeuzemenu. Hier zijn de menu-items die uit het vervolgkeuzemenu worden verwijderd en op de respectievelijke koppelingspagina worden geplaatst:<br><br> [!UICONTROL Components]<ul><li>[!UICONTROL Bookmarks]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Targets]</li><li>[!UICONTROL Calendar Events]</li><li>[!UICONTROL Scheduled Reports]</li><li>[!UICONTROL Report Settings]</li></ul>[!UICONTROL Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search & Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL User Management]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Company Settings]</li><li>[!UICONTROL Logs]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code Manager]</li><li>[!UICONTROL Exclude by IP]</li><li>[!UICONTROL Traffic Management]</li></ul> |
 | [!UICONTROL Same-as-SiteCatalyst VISTA Processing] = ON | 17 maart 2021 | Op 17 juni 2021 worden alle rapportsuites bijgewerkt zodat [!UICONTROL Same-as-SiteCatalyst VISTA Processing] is ingesteld op ON. Deze wijziging is van invloed op de rapportage van [!UICONTROL Data Warehouse] door de gegevens te verwerken in overeenstemming met de verwerkingsregels. Neem voor vragen of verduidelijking contact op met de klantenservice van Adobe. |
