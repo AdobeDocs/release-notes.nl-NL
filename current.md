@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: April 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e5c34b37703cc4aaf0c6711dc5da7857321375ae
+source-git-commit: 21fdbc0a354a87723097e294db15d88e9877061c
 workflow-type: tm+mt
-source-wordcount: '5303'
+source-wordcount: '5305'
 ht-degree: 17%
 
 ---
@@ -343,7 +343,7 @@ Laatst bijgewerkt: **28 oktober 2020**
 | -----------| ---------- |
 | Nieuwe Help | (28 oktober) De oudere Help is vervangen door bijgewerkte pagina&#39;s, die beschikbaar zijn via de koppeling Help in het DSP hoofdmenu en die ook altijd beschikbaar zijn via [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
 | Campagnes | (28 oktober) De vorige Campagne Bètweergaven zijn nu de standaardcameraweergaven, voor snellere inzichten, vereenvoudigde workflows en aangepaste weergaven. |
-| Privévoorraad | (15 oktober versie) Alle gebruikers kunnen de details van dealID nu opstelling en uitgeven gebruikend een nieuwe vorm van overeenkomstidentiteitskaart, die een vereenvoudigde versie van de erfenis [!UICONTROL Smart Ad Serving] vorm is. Als u nieuwe deal-id-details wilt instellen, gaat u naar **[!UICONTROL Inventory]** > **!UICONTROL Deals]**, klikt u op **[!UICONTROL Create]**en vervolgens op **[!UICONTROL Deal ID Beta]**. |
+| Privévoorraad | (Versie 15 oktober) Alle gebruikers kunnen opstelling en omslag de details van identiteitskaart nu uitgeven gebruikend een nieuwe vorm van identiteitskaart van de overeenkomst, die een vereenvoudigde versie van de erfenis Slimme Advertentie Serving vorm is. Als u nieuwe deal-id-details wilt instellen, gaat u naar **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** > **[!UICONTROL Create]** en klikt u op **[!UICONTROL Deal ID Beta]**. |
 | Prognose van plaatsing | (15 oktober) Voor plaatsingen met plaatsing-vlakke het passen, omvat [!UICONTROL Forecast] sectie van de plaatsingsmontages een nieuwe [!UICONTROL Estimated Maximums] sectie, die wijst op hoeveel meer capaciteit met de huidige het richten configuratie beschikbaar is. |
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
