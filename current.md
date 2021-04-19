@@ -4,14 +4,14 @@ description: Meer informatie over de nieuwste opmerkingen bij de release, nieuwe
 doc-type: release notes
 last-update: April 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: a030b00ce834306ccf5da00e0c8757e3a2b4fa02
+source-git-commit: 75fc19a753d94ad35337ad43f98aaa0aff52bdc1
 workflow-type: tm+mt
-source-wordcount: '5301'
+source-wordcount: '5263'
 ht-degree: 17%
 
 ---
-
 
 # Releaseopmerkingen bij Adobe Experience Cloud - april 2021
 
@@ -89,7 +89,7 @@ Meer informatie over de recentste mogelijkheden, verbeteringen, en moeilijke sit
 
 ## ![Beslissing ](/assets/experience_platform_appicon_24.png) IconOffer  {#offer-decisioning}
 
-[!UICONTROL Offer Decisioning] is een toepassingsservice die is geïntegreerd met Adobe Experience Platform. Gebruik [!UICONTROL Offer Decisioning] om uw klanten de beste aanbieding en ervaring op alle aanraakpunten op het juiste moment te bieden.
+[!UICONTROL Offer Decisioning] is een applicatieservice die is geïntegreerd met Adobe Experience Platform. Gebruik [!UICONTROL Offer Decisioning] om uw klanten de beste aanbieding en ervaring op alle aanraakpunten op het juiste moment te bieden.
 
 ### Laatste productreleases
 
@@ -186,13 +186,12 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Audience Manager.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| April 2021 | [Cursusintroductie - CDP in real time voor gebruikers van Audience Managers](https://video.tv.adobe.com/v/332230) | Video | Bij de overgang van Audience Manager naar [!UICONTROL Real-time Customer Data Platform] (Real-time CDP) wordt het paradigma in bepaalde gebieden verschoven. In deze video wordt de cursus uitgelegd die u helpt deze bewerking uit te voeren. |
+| April 2021 | [Real-time CDP voor gebruikers van Audience Managers](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp) | Cursus | De klanten van de Audience Manager hervatten hun inhoudsbeheer door zich over te bewegen over naar het Platform van de Gegevens van de Klant in real time van de Adobe (CDP in real time). Deze cursus neemt een concept-door-concept benadering, die de gebruikers van de Audience Manager helpt begrijpen hoe die concepten in real time CDP worden behandeld. |
 | April 2021 | [Begrijpen van Doelen in Real-time CDP voor de Gebruikers van de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.html?lang=en) | Video | Aangezien u zich van Audience Manager aan [!UICONTROL Real-time Customer Data Platform] (In real time CDP) beweegt, is het noodzakelijk om over bestemmingen te weten zodat u weet hoe te om uw publiekssegmenten uit aan bestemmingspartners te activeren. Deze video bespreekt de verschillende bestemmingstypes en waar zij in real time CDP zijn. |
 | April 2021 | [Het begrip van Gegevensbeheer in Real-time CDP voor de Gebruikers van de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.html?lang=en#other-integrations) | Video | Deze video bespreekt de gebruikers van de Audience Manager door de functionaliteit van het gegevensbeheer in [!UICONTROL Real-time Customer Data Platform], die het vergelijkt met wat in Audience Manager beschikbaar was. Het [!UICONTROL Data Usage and Labeling Enforcement] (DULE) kader bespreekt en waar in Platform dat het kan worden toegepast. |
 | April 2021 | [Een overzicht van twee percepties - merken versus consumenten - gebeurtenis](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/brands-vs-consumers.html?lang=en#industry) | Artikel | Tegenwoordig zijn marketers in de wirwar van informatie die gewijd is aan identiteitspraktijken. En slechts 37% van de marketingprofessionals zei dat ze bereid zijn voor een kokloze toekomst, volgens recent onderzoek van Adobe en Advanis. In dit webinar maakt Adobe de kennis en gereedheid van adverteerders en uitgevers bekend voor een kokloze toekomst, de gevolgen voor hun gebruiksgevallen en hun perceptie van het bredere ecosysteem. |
 | April 2021 | [10 overwegingen voor Verantwoordelijk beheer van klantgegevens - Gebeurtenis](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/ten-considerations-for-responsible-customer-data-management.html?lang=en#industry) | Artikel | Vluchtige marktkrachten en uiteenlopende privacyvereisten voor de consument kunnen ontstellende scenario&#39;s voor de digitale markt bieden. Om campagnes aan de rechterkant van verordeningen te houden, hebben de marketing teams hun tegenhangers van IT nodig om een gestroomlijnd proces voor de toekomst-proef van het proces van het gegevensbeheer te hebben. Dit omvat een maatregel die iedereen idealiter de bevoegdheid geeft om regels voor verantwoord gebruik van consumentengegevens te volgen en te handhaven. Haak van Adobe en [!DNL Scotiabank] [!DNL Digital] op zeer belangrijke overwegingen voor verantwoord gegevensbeheer. |
 | April 2021 | [De toekomst van gegevensbeheer en de veranderende omgeving - Gebeurtenis](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=en#industry) | Artikel | Naarmate de marktkrachten verandering brengen in ons digitale landschap, moeten bedrijven zich aanpassen aan een nieuwe realiteit op het gebied van gegevensbeheer, identiteitsoplossing en hoe zij vooruitzichten en pseudoniem bezoekers met betekenisvolle inhoud kunnen inschakelen. |
-| April 2021 | [Real-time CDP voor gebruikers van Audience Managers](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp) | Cursus | De klanten van de Audience Manager hervatten hun inhoudsbeheer door zich over te bewegen over naar het Platform van de Gegevens van de Klant in real time van de Adobe (CDP in real time). Deze cursus neemt een concept-door-concept benadering, die de gebruikers van de Audience Manager helpt begrijpen hoe die concepten in real time CDP worden behandeld. |
 
 ## ![Pictogram](/assets/aem.png) Adobe Experience Manager {#aem}
 
