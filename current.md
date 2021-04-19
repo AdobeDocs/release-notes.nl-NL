@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 75fc19a753d94ad35337ad43f98aaa0aff52bdc1
+source-git-commit: 7b542cb233b84542e0058ac2f4c39b0349e3fb73
 workflow-type: tm+mt
-source-wordcount: '5263'
+source-wordcount: '5260'
 ht-degree: 17%
 
 ---
@@ -402,7 +402,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cl
 | -----------| ---------- | ---------- | ---------- |
 | April 2021 | [[Adobe Sign] Stuur herinneringen via Adobe Sign voor Salesforce en Marketo - Feature Video](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | Video | In deze videozelfstudie leert u hoe u een e-mailherinnering van Marketo kunt verzenden wanneer een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie gebruikt Adobe Sign voor Salesforce, Marketo en de synchronisatie Marketo en Salesforce. |
 
-### Nieuwe cursussen en zelfstudies voor Documenten Cloud
+### Zelfstudies voor Documenten Cloud
 
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
