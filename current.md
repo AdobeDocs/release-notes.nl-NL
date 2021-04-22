@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: d5ac0d91d5d4aa4a7661c529b5a7d85e0cb65d14
+source-git-commit: 1f88b532306f86768a9981d6bba06a21050affe7
 workflow-type: tm+mt
-source-wordcount: '5248'
-ht-degree: 17%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,7 +47,7 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 [!UICONTROL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval-, onderbrekings- en onderhoudsgebeurtenissen van Adobe Cloud-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
-De meest recente updates van de Status van het Systeem van de Adobe worden gevonden bij [Status van het Systeem van de Adobe - 21 Mei, 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) voor de recentste versieinformatie.
+De meest recente updates van de Status van het Systeem van de Adobe worden gevonden bij [Status van het Systeem van de Adobe - 21 Mei, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) voor de recentste versieinformatie.
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud UI Components, Services en Administration  {#ecloud}
 
@@ -59,8 +59,8 @@ De meest recente updates van de Status van het Systeem van de Adobe worden gevon
 
 Bevat releaseupdategegevens voor Experience Platform en Experience Platform Launch.
 
-* [Releaseopmerkingen bij Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (Vrijgegeven: **21 april 2021**)
-* [Releaseopmerkingen bij Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html). (Vrijgegeven: (18 februari 2021)
+* [Opmerkingen](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)  bij de release van Experience Platform(uitgebracht:  **(21 april 2021**)
+* [Opmerkingen](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html)  bij de release van Experience Platform Launch(uitgebracht: (18 februari 2021)
 
 ### Zelfstudies en cursussen voor Experience Platforms
 
@@ -77,11 +77,11 @@ Gebruik Adobe Experience Platform om de reis van een klant op schaal over ervari
 
 ### Laatste productreleases
 
-Meer informatie over de recentste mogelijkheden, verbeteringen, en moeilijke situaties in [de Nota&#39;s van de Versie van de Journey Orchestration](https://docs.adobe.com/content/help/nl-NL/journeys/using/release-notes/release-notes.html).
+Meer informatie over de recentste mogelijkheden, verbeteringen, en moeilijke situaties in [de Nota&#39;s van de Versie van de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
 
 ### Meer bronnen voor Journey Orchestration
 
-[Documentatie](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [Instructievideo&#39;s](https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
+[Documentatie](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=en)
 
 ## ![Beslissing ](/assets/experience_platform_appicon_24.png) IconOffer  {#offer-decisioning}
 
@@ -108,14 +108,14 @@ Releasedatum: **22 april 2021**
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
-| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/nl-NL/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
+| Functie | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
 | Analytische dashboards: Aangepaste datumbereiken | 22 april 2021 | Hiermee kunnen gebruikers van de mobiele app Analytics aangepaste datumbereiken toepassen op hun scorecards, naast de momenteel beschikbare datumbereiken die buiten de box vallen. |
 | Werkruimte: Vorige projectversies | 13 mei 2021 | Hiermee kunt u vorige versies van een Workspace-project laden om ongewenste wijzigingen ongedaan te maken of gewoon terug te keren naar een voorkeursversie. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
-| Functie | [Algemene beschikbaarheid](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Doeldatum | Beschrijving |
+| Functie | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ----- |
 | Verbeterde CJA-gegevensweergaven | 22 april 2021 | De verbeterde gegevensmeningen breiden zeer uw flexibiliteit in het creëren van metriek en dimensies van XDM schemagebieden uit. U kunt een tekenreeksveld als metrisch gebruiken. U kunt een numeriek veld als een dimensie gebruiken, meerdere metriek maken van hetzelfde veld met verschillende toewijzingsmodellen en terugzoekvensters. En u kunt metriek en afmetingen compatibel maken over gegevensmeningen, een component verbergen van het melden en omvatten/uitsluiten waarden, gebruikspeget, en veel meer. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
 | Werkruimte: Ondersteuning voor geplande rapporten | 7 april 2021 | Geplande rapporten worden nu ondersteund in CJA. |
@@ -145,11 +145,11 @@ AN-248451; AN-250461; AN-251157;  AN-251481; AN-251756; AN-252604; AN-252822; AN
 | Gelijk aan SiteCatalyst VISTA-verwerking | 17 maart 2021 | Op 17 juni 2021 worden alle rapportsuites bijgewerkt zodat [!UICONTROL Same-as-SiteCatalyst VISTA Processing] is ingesteld op ON. Deze wijziging is van invloed op de rapportage van Data Warehouse door de gegevens af te stemmen op de verwerkingsregels. Raadpleeg de klantenservice voor vragen of verduidelijking. |
 | Opties voor bestemmingspagina&#39;s voor rapporten en analyses | 19 februari 2021 | Op 25 maart 2021 zijn opties voor het instellen van nieuwe dashboards voor rapporten en analyse of andere inhoud verwijderd. Als u eerder een pagina Rapporten &amp; Analytics als uw aangepaste landingspagina plaatst, blijft het werken tot uw landingspagina in [!UICONTROL User Preferences] wordt gewijzigd. |
 | Einde van levensduur voor drie API-analysemogelijkheden | 6 januari 2021 | Op 30 april 2021 zijn de volgende API-services van Analytics Legacy gepland om hun einddatum te bereiken en worden ze afgesloten. Om het even welke huidige die integratie die gebruikend deze diensten wordt gebouwd houdt op het werken op die dag op.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Wij hebben een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om u te helpen uw vragen beantwoorden en richtlijnen te geven over hoe te te werk te gaan. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth-accounts kunnen migreren naar een [Adobe I/O](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount, die kan worden gebruikt voor toegang tot de API&#39;s voor 1.4 Analytics en 2.0 Analytics. |
-| EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. Een nieuwe norm is beschikbaar in [het Programma van de Partner van de Uitwisseling van de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). U kunt die standaard gebruiken om integratie te blijven aanbieden en ondersteunen. De officiële einddatum is 1 augustus 2021. [Meer informatie...](https://docs.adobe.com/content/help/nl-NL/analytics/import/dataconnectors/data-connectors-eol.html) |
+| EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. Een nieuwe norm is beschikbaar in [het Programma van de Partner van de Uitwisseling van de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). U kunt die standaard gebruiken om integratie te blijven aanbieden en ondersteunen. De officiële einddatum is 1 augustus 2021. [Meer informatie...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
 
 ### AppMeasurement {#appm}
 
-Voor de meest recente updates over AppMeasurement-releases raadpleegt u [Releaseopmerkingen bij AppMeasurement voor JavaScript](https://docs.adobe.com/content/help/nl-NL/analytics/implementation/appmeasurement-updates.html).
+Voor de meest recente updates over AppMeasurement-releases raadpleegt u [Releaseopmerkingen bij AppMeasurement voor JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en).
 
 ### Cursussen en zelfstudies voor analyse {#tutorials-analytics}
 
@@ -265,8 +265,8 @@ Alle Experience Manager-releaseopmerkingen worden op de volgende pagina&#39;s bi
 * [Opmerkingen bij de release van Experience Manager Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
 * [Opmerkingen bij de release van Experience Manager-bureaublad](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
 * [Opmerkingen bij de release Experience Manager Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
-* [Releaseopmerkingen bij Adobe Primetime](https://docs.adobe.com/content/help/nl-NL/primetime/release-notes/home.html)
-* [Releaseopmerkingen bij Livefyre](https://docs.adobe.com/content/help/nl-NL/livefyre/using/release-notes/c-rn.html)
+* [Releaseopmerkingen bij Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=en)
+* [Releaseopmerkingen bij Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
 
 ### Nieuwe cursussen en tutorials voor Experience Manager
 
@@ -302,8 +302,8 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen die worden vrijgegeven:
 
-* [Opmerkingen bij de release Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-notes.html)
-* [Opmerkingen bij de release Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.html)
+* [Opmerkingen bij de release Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+* [Opmerkingen bij de release Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 ### Nieuwe cursussen en tutorials voor Campaign
 
@@ -312,16 +312,16 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | 12 april 2021 | [Houd het succes van uw leveringen in Analytics bij](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=en#integrations) | Campaign Standard | Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe te om een rapport in Analytics te bouwen gebruikend gegevens die van Campaign Standard worden ontvangen en welke KPIs beschikbaar is. |
-| 12 april 2021 | [Transactieberichten configureren met realtime-gebeurtenisgegevens](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/configure-transactional-messages-using-realtime-event-data.html) | Campaign Standard | Leer hoe te om transactieberichten te vormen gebruikend gebeurtenisgegevens die in real time uit trekkers komen. |
+| 12 april 2021 | [Transactieberichten configureren met real-time gebeurtenisgegevens](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/configure-transactional-messages-using-realtime-event-data.html) | Campaign Standard | Leer hoe te om transactieberichten te vormen gebruikend gebeurtenisgegevens in real time die uit trekkers komen. |
 | 12 april 2021 | [Een triggergebeurtenis maken in Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-event.html) | Campaign Standard | Leer hoe u een triggergebeurtenis maakt in Campaign Standard, die is gekoppeld aan een bestaande Experience Cloud-trigger. |
-| 12 april 2021 | [Een trigger in Experience Cloud maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-in-experience-cloud.html) | Campaign Standard | Leer hoe u triggers configureert in de Experience-cloud. |
+| 12 april 2021 | [Een trigger in Experience Cloud maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-in-experience-cloud.html) | Campaign Standard | Leer hoe te om trekkers in de Experience Cloud te vormen. |
 | 12 april 2021 | [Triggers gebruiken voor transactieberichten](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/using-triggers-for-transactional-messaging-overview.html#integrations) | Campaign Standard | Leer hoe u triggers voor transactieberichten kunt gebruiken. |
 
 ### Help-bronnen voor Help
 
-* Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html) - [Releaseplanning](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/documentation-updates.html)
-* Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/campaign-classic-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html) - [Nieuwste documentatieupdates](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Adobe Campaign Standard: [Help Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=en) - [Releaseplanning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=en)
+* Adobe Campaign Classic: [Help Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-learn/campaign-classic-tutorials/overview.html?lang=en) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
+* Adobe Campaign - Configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html?lang=en) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html?lang=en)
 
 ## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -336,7 +336,7 @@ Laatst bijgewerkt: **28 oktober 2020**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Nieuwe Help | (28 oktober) De oudere Help is vervangen door bijgewerkte pagina&#39;s, die beschikbaar zijn via de koppeling Help in het DSP hoofdmenu en die ook altijd beschikbaar zijn via [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
+| Nieuwe Help | (28 oktober) De oudere Help is vervangen door bijgewerkte pagina&#39;s. De hulp is beschikbaar bij de verbinding van de Hulp in het DSP belangrijkste menu en altijd beschikbaar bij [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
 | Campagnes | (28 oktober) De vorige Campagne Bètweergaven zijn nu de standaardcameraweergaven, voor snellere inzichten, vereenvoudigde workflows en aangepaste weergaven. |
 | Privévoorraad | (Versie 15 oktober) Alle gebruikers kunnen opstelling en omslag de details van identiteitskaart nu uitgeven gebruikend een nieuwe vorm van identiteitskaart van de overeenkomst, die een vereenvoudigde versie van de erfenis Slimme Advertentie Serving vorm is. Als u nieuwe deal-id-details wilt instellen, gaat u naar **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** > **[!UICONTROL Create]** en klikt u op **[!UICONTROL Deal ID Beta]**. |
 | Prognose van plaatsing | (15 oktober) Voor plaatsingen met plaatsing-vlakke het passen, omvat [!UICONTROL Forecast] sectie van de plaatsingsmontages een nieuwe [!UICONTROL Estimated Maximums] sectie, die wijst op hoeveel meer capaciteit met de huidige het richten configuratie beschikbaar is. |
@@ -364,7 +364,7 @@ Zie Magento Commerce en Open Source [releaseopmerkingen](https://devdocs.magento
 
 ## ![Pictogram](/assets/target.png)[!DNL Target] {#target}
 
-Zie [[!DNL Target]  releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html) voor de recentste releasegegevens.
+Zie [[!DNL Target]  releaseopmerkingen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) voor de recentste releasegegevens.
 
 ## ![Pictogram](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
@@ -396,27 +396,27 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cl
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| April 2021 | [[Adobe Sign] Stuur herinneringen via Adobe Sign voor Salesforce en Marketo - Functievideo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | Video | In deze videozelfstudie leert u hoe u een e-mailherinnering van Marketo kunt verzenden wanneer een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Adobe Sign voor Salesforce, Marketo en de synchronisatie tussen Marketo en Salesforce. |
+| April 2021 | [[Adobe Sign] Stuur herinneringen via Adobe Sign voor Salesforce en Marketo - Functievideo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | Video | Leer hoe u een e-mailherinnering van Marketo verzendt wanneer een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Adobe Sign voor Salesforce, Marketo en de synchronisatie tussen Marketo en Salesforce. |
 
 ### Zelfstudies voor Documenten Cloud
 
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | April 2021 | [Uw PDF online-ervaring beheren en analyses verzamelen](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html) | Artikel | Plaatst uw organisatie PDF&#39;s op uw website? Leer hoe u de Adobe PDF Embed-API kunt gebruiken om de weergave te beheren, samenwerking in te schakelen en analyses te verzamelen over de interactie van de gebruiker met PDF&#39;s, waaronder de tijd die aan een pagina is besteed en de zoekacties. |
-| April 2021 | [Workflows voor financiële documenten beheren met API&#39;s voor Adobe Document Services in Java](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Artikel | Leer hoe u Adobe Document Services API&#39;s kunt gebruiken voor Java Spring Boot-toepassingen en een MVC-app (model-view-controller) kunt maken die inhoud uit PDF-documenten extraheert, deze converteert naar andere gegevensindelingen zoals Excel, meerdere PDF&#39;s combineert en de bronnen beschermt met een wachtwoord. |
+| April 2021 | [Workflows voor financiële documenten beheren met API&#39;s voor Adobe Document Services in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Artikel | Leer hoe u Adobe Document Services API&#39;s kunt gebruiken voor Java™ Spring Boot-toepassingen. Maak een MVC-app (Model-View-Controller) die inhoud uit PDF-documenten extraheert, deze converteert naar andere gegevensindelingen zoals Excel, meerdere PDF&#39;s combineert en de bronnen beschermt met een wachtwoord. |
 | April 2021 | [Workflows voor HR-documenten met Adobe Document Services-API&#39;s in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html) | Zelfstudie | Vele ondernemingen vereisen documentatie rond een nieuwe huur, zoals werkplekovereenkomsten voor werk-van-huis werknemers. Traditioneel, beheerde de ondernemingen deze documenten fysiek in vormen die moeilijk waren te beheren en op te slaan. Als u overschakelt naar elektronische documenten, zijn PDF-bestanden een ideale keuze omdat ze veiliger en minder wijzigbaar zijn dan andere bestandstypen. Bovendien ondersteunen ze digitale handtekeningen. |
 | April 2021 | [Workflows overeenkomst met API&#39;s voor documentservices van Adobe in Node.js](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/AgreementWorkflowsNodejs.html) | Zelfstudie | Vele bedrijfstoepassingen en processen vereisen documentatie zoals voorstellen en overeenkomsten. PDF-documenten zorgen ervoor dat bestanden veiliger en minder wijzigbaar zijn. Ze bieden ook ondersteuning voor digitale handtekeningen, zodat uw klanten hun documenten snel en eenvoudig kunnen voltooien. Adobe Document Services-API&#39;s bevatten eenvoudig PDF-mogelijkheden in uw webtoepassing. |
-| April 2021 | [Voorwaardelijke inhoud instellen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggerconditional.html) | Video | In deze video leert u hoe u secties in Microsoft Word-sjablonen eenvoudig kunt instellen met Adobe Document Generation Tagger om secties van een document dynamisch te kunnen opnemen of uitsluiten op basis van gegevens met de API voor het genereren van Adobe-documenten. |
-| April 2021 | [[Doc Services] Numerieke berekeningscodes instellen - functievideo](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggercalculations.html) | Video | In deze video leert u hoe u eenvoudig numerieke berekeningscodes kunt instellen in Microsoft Word-sjablonen met Adobe Document Generation Tagger om aggregaties of rekenkundige waarden te berekenen met behulp van de API voor het genereren van Adobe-documenten. |
-| April 2021 | [Tabellen en lijstcodes toevoegen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggertables.html) | Video | In deze video leert u hoe u eenvoudig tabellen en lijstcodes kunt toevoegen aan Microsoft Word-sjablonen met Adobe Document Generation Tagger om tabel- of lijstrijen dynamisch toe te voegen op basis van gegevens met de API voor het genereren van Adobe-documenten. |
-| April 2021 | [Afbeeldingstags toevoegen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddimagetags.html) | Video | In deze video leert u hoe u eenvoudig afbeeldingscodes kunt toevoegen aan Microsoft Word-sjablonen met Adobe Document Generation Tagger om afbeeldingen dynamisch in documenten te duwen met de API voor het genereren van Adobe-documenten. |
-| April 2021 | [Tekstlabels toevoegen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddtexttags.html) | Video | In deze video leert u hoe u eenvoudig tags kunt toevoegen aan Microsoft Word-sjablonen met Adobe Document Generation Tagger voor gebruik met de API voor het genereren van Adobe-documenten. |
-| April 2021 | [Overzicht van de Adobe Document Generation Tagger](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeroverview.html) | Video | In deze video leert u kort hoe u Word-sjablonen kunt labelen met Adobe Document Generation Tagger voor gebruik met de API voor het genereren van Adobe-documenten. |
+| April 2021 | [Voorwaardelijke inhoud instellen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggerconditional.html) | Video | In deze video leert u hoe u secties in Microsoft® Word-sjablonen eenvoudig kunt instellen met Adobe Document Generation Tagger om secties van een document dynamisch te kunnen opnemen of uitsluiten op basis van gegevens met de API voor het genereren van Adobe-documenten. |
+| April 2021 | [[Doc Services] Numerieke berekeningscodes instellen - functievideo](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggercalculations.html) | Video | Leer hoe u eenvoudig numerieke berekeningstags kunt instellen in Microsoft® Word-sjablonen met Adobe Document Generation Tagger om aggregaties of rekenkundige waarden te berekenen met behulp van de API voor het genereren van Adobe-documenten. |
+| April 2021 | [Tabellen en lijstcodes toevoegen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggertables.html) | Video | Leer hoe u eenvoudig tabellen en lijstcodes kunt toevoegen aan Microsoft® Word-sjablonen met Adobe Document Generation Tagger om tabel- of lijstrijen dynamisch toe te voegen op basis van gegevens met de API voor het genereren van Adobe-documenten. |
+| April 2021 | [Afbeeldingstags toevoegen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddimagetags.html) | Video | Leer hoe u eenvoudig afbeeldingscodes kunt toevoegen aan Microsoft® Word-sjablonen met Adobe Document Generation Tagger om afbeeldingen dynamisch in documenten te duwen met de API voor het genereren van Adobe-documenten. |
+| April 2021 | [Tekstlabels toevoegen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddtexttags.html) | Video | Leer hoe u eenvoudig tags kunt toevoegen aan Microsoft® Word-sjablonen met Adobe Document Generation Tagger voor gebruik met de Adobe Document Generation API. |
+| April 2021 | [Overzicht van de Adobe Document Generation Tagger](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeroverview.html) | Video | Leer hoe u [!DNL Word]-sjablonen codeert met Adobe Document Generation Tagger voor gebruik met de API voor het genereren van Adobe-documenten. |
 
 Raadpleeg voor hulp bij Documenten Cloud:
 
-* [Adobe Acrobat Learning Hub](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
-* [Adobe Sign Learning Hub](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
+* [Adobe Acrobat](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
+* [Adobe Sign](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud - Meer informatie en ondersteuning](https://helpx.adobe.com/support/document-cloud.html)
 
 <!-- ## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
