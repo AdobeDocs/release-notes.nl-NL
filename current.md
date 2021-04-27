@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 1f88b532306f86768a9981d6bba06a21050affe7
+source-git-commit: 070e4ff0a9c3ab6f1d16680edc6a2aa787be8f69
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5377'
+ht-degree: 13%
 
 ---
 
@@ -274,6 +274,10 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [SPA Editor en externe SPA - Overzicht - Zelfstudie](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html) | Tutorial | Leer hoe u een externe SPA, of een SPA die buiten de context van AEM wordt uitgevoerd, kunt bijwerken om inhoud te verbruiken en te leveren die in AEM is geschreven. Deze zelfstudie bouwt verder op de WKND GraphQL-app, een React-app die inhoud van AEM inhoudsfragment gebruikt via de GraphQL-API&#39;s van AEM. |
+| April 2021 | [Basisbeginselen van GraphQL-modellering](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | Video | Leer hoe u inhoudsfragmenten in Adobe Experience Manager (AEM) definieert en gebruikt voor gebruik met GraphQL. |
+| April 2021 | [Geavanceerde modellering voor GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html) | Video | Leer hoe u relaties kunt maken tussen Content Fragment Models in Adobe Experience Manager (AEM) en hoe u deze relaties kunt benutten in GraphQL-query&#39;s. |
+| April 2021 | [GraphQL-query&#39;s maken](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/creating-graphql-queries.html) | Video | Leer hoe te om vragen te creëren GraphQL om inhoud van Adobe Experience Manager (AEM) terug te keren en hoe te om het hulpmiddel te gebruiken GraphiQL om vragen snel te testen, te raffineren en te zuiveren. |
 | April 2021 | [Eerst maken  [!UICONTROL Adaptive Form]](https://video.tv.adobe.com/v/332571) | Video | Leer hoe u een eerste adaptief formulier maakt. |
 | April 2021 | [Test de creatie van een Lood in Salesforce na klikgebeurtenis van een knoop](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/create-lead-click-event.html?lang=en#forms) | Video | Maak een Lead-object door de POST van het formuliergegevensmodel aan te roepen voor de klikgebeurtenis van een knop. |
 | April 2021 | [[!UICONTROL AEM Forms]Integreren met [!DNL Salesforce]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/introduction.html?lang=en#forms) | Video | Introductievideo voor de Forms + Salesforce-integratiecursus. |
@@ -354,7 +358,7 @@ Laatst bijgewerkt: **14 april 2021, voor release 17 april**
 
 Bijgewerkt: **23 februari 2021**
 
-| Tutorial | Beschrijving |
+| Zelfstudie | Beschrijving |
 | -----------| ---------- |
 | [Inleiding tot werkruimte en rapportage](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Leer hoe u Advertising Cloud-gegevens kunt gebruiken om visuele rapporten te maken in Adobe Analytics Analysis Workspace. |
 
