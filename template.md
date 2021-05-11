@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f981d08b9a7200776706028b0408bd94a1e5e246
+source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
 workflow-type: tm+mt
 source-wordcount: '1318'
 ht-degree: 60%
@@ -161,7 +161,7 @@ Zie [Opmerkingen bij de release van Data Workbench](https://docs.adobe.com/conte
 * Repareren
 * Repareren
 
-Zie [Release-historie van AppMeasurement](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) voor een releasegeschiedenis van AppMeasurement op de volgende platforms:
+Zie [Release-historie van AppMeasurement](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) voor een releasegeschiedenis van AppMeasurement op de volgende platforms:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
@@ -307,7 +307,7 @@ Releasedatum: 21 februari 2020
    * Regels voor omleiding van bestemmingspagina&#39;s
 * **Form Descriptor-caching:** verbeteringen voor bestemmingspagina&#39;s en Forms.
 
-Zie Opmerkingen bij de release Marketo voor [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
+Zie Opmerkingen bij de release van Marketo voor [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
 
 ### Aanstaande functies
 
