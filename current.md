@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 2659558cae189222d57865d7027115f024dac44d
+source-git-commit: 7ba8d1728f066499f8b0cdb8fb5fad1abe83ec53
 workflow-type: tm+mt
-source-wordcount: '5561'
+source-wordcount: '5567'
 ht-degree: 13%
 
 ---
@@ -23,14 +23,14 @@ Experience Cloud oplossingen en services worden maandelijks bijgewerkt. Deze pag
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
 
-Laatste update: **29 april 2021**
+Laatste update: **11 mei 2021**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud UI-componenten, -services en -beheer](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [](#analytics) Analyses en  [Customer Journey Analytics](#cust-journey)
+* [](#analytics) Analytici en  [Customer Journey Analytics](#cust-journey)  (bijgewerkt op 11 mei 2021)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -99,8 +99,8 @@ Release van februari 2021 - ontdek meer over de recentste mogelijkheden in [de N
 
 Releasedatum: **22 april 2021**
 
-* [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
+* [Nieuwe functies in Adobe Analytics](#aa-features)  (bijgewerkt op 11 mei 2021)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey)  (bijgewerkt op 11 mei 2021)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
 * [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
@@ -111,7 +111,7 @@ Releasedatum: **22 april 2021**
 | Functie | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
 | Analytische dashboards: Aangepaste datumbereiken | 22 april 2021 | Hiermee kunnen gebruikers van de mobiele app Analytics aangepaste datumbereiken toepassen op hun scorecards, naast de momenteel beschikbare datumbereiken die buiten de box vallen. |
-| Werkruimte: Vorige projectversies | 13 mei 2021 | Hiermee kunt u vorige versies van een Workspace-project laden om ongewenste wijzigingen ongedaan te maken of gewoon terug te keren naar een voorkeursversie. |
+| Werkruimte: Vorige projectversies | 20 mei 2021 | Hiermee kunt u vorige versies van een Workspace-project laden om ongewenste wijzigingen ongedaan te maken of gewoon terug te keren naar een voorkeursversie. |
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
@@ -120,7 +120,7 @@ Releasedatum: **22 april 2021**
 | Verbeterde CJA-gegevensweergaven | 22 april 2021 | De verbeterde gegevensmeningen breiden zeer uw flexibiliteit in het creëren van metriek en dimensies van XDM schemagebieden uit. U kunt een tekenreeksveld als metrisch gebruiken. U kunt een numeriek veld als een dimensie gebruiken, meerdere metriek maken van hetzelfde veld met verschillende toewijzingsmodellen en terugzoekvensters. En u kunt metriek en afmetingen compatibel maken over gegevensmeningen, een component verbergen van het melden en omvatten/uitsluiten waarden, gebruikspeget, en veel meer. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
 | Werkruimte: Ondersteuning voor geplande rapporten | 7 april 2021 | Geplande rapporten worden nu ondersteund in CJA. |
 | Analytische dashboards: Aangepaste datumbereiken | 22 april 2021 | Hiermee kunnen gebruikers van de mobiele app Analytics aangepaste datumbereiken toepassen op hun scorecards, naast de momenteel beschikbare datumbereiken die buiten de box vallen. |
-| Werkruimte: Vorige projectversies | 13 mei 2021 | Hiermee kunt u vorige versies van een Workspace-project laden om ongewenste wijzigingen ongedaan te maken of gewoon terug te keren naar een voorkeursversie. |
+| Werkruimte: Vorige projectversies | 20 mei 2021 | Hiermee kunt u vorige versies van een Workspace-project laden om ongewenste wijzigingen ongedaan te maken of gewoon terug te keren naar een voorkeursversie. |
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
