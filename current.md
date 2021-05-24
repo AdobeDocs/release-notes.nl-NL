@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9e29b645302ecff11108f8d265a1e4ec3e06a755
+source-git-commit: 9c51e3e514064371614c7379ae7f87ff194159e8
 workflow-type: tm+mt
-source-wordcount: '5229'
+source-wordcount: '5224'
 ht-degree: 12%
 
 ---
@@ -75,7 +75,7 @@ Meer informatie over de recentste mogelijkheden, verbeteringen, en moeilijke sit
 
 ### Meer bronnen voor Journey Orchestration
 
-[Documentatie](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=en)
+[Documentatie](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
 
 ## ![Beslissing ](/assets/experience_platform_appicon_24.png) IconOffer  {#offer-decisioning}
 
@@ -105,7 +105,7 @@ Releasedatum: **20 mei 2021**
 | Functie | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum | Beschrijving |
 | ----------- | ---------- | ------- |
 | Werkruimte: Vorige projectversies | 20 mei 2021 | Hiermee kunt u vorige versies van een Workspace-project laden om ongewenste wijzigingen ongedaan te maken of gewoon terug te keren naar een voorkeursversie. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/save-projects.html?lang=en#previous-version) |
-| Data Warehouse API-aanvragen ondersteunen nu &quot;Uren&quot; | 20 mei 2021 | De Data Warehouse API vraagt steundata in `Y-m-d h:m:s` formaat wanneer de parameter `"fuzzyDates”:false` in het verzoeklichaam wordt verstrekt. Hiermee kunt u gegevens van de Data Warehouse aanvragen voor de huidige dag, terwijl eerder de dag moet worden voltooid voordat gegevens worden geretourneerd. [Meer informatie](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
+| Data Warehouse API-aanvragen ondersteunen nu &quot;Uren&quot; | 20 mei 2021 | De Data Warehouse API vraagt steundata in `Y-m-d h:m:s` formaat wanneer de parameter `"fuzzyDates”:false` in het verzoeklichaam wordt verstrekt. Met deze update kunt u gegevens van Data Warehouse aanvragen voor de huidige dag, terwijl eerder de dag moet worden voltooid voordat gegevens worden geretourneerd. [Meer informatie](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -133,7 +133,7 @@ AN-240821; AN-243625; AN-243958; AN-248728; AN-249877; AN-250151; AN-251273; AN-
 | ----------- | ---------- | ---------- |
 | Gebruikersagents in de browser weerspiegelen onjuiste besturingssysteemversies voor macOS | 19 mei 2021 | Alle belangrijkste browsers melden gebruikers van MacOS X 11 en hoger momenteel onjuist zoals het gebruik van macOS 10, zoals opgenomen in de userAgent-tekenreeks van de browser. Dit probleem is van invloed op Adobe Analytics-rapportage, omdat de gebruikersagent wordt gebruikt om apparaatinformatie zoals het besturingssysteem te bepalen. Deze onnauwkeurigheid lijkt te bestaan om compatibiliteitsproblemen voor sommige websites te voorkomen. Zie dit [Bugzilla-ticket](https://bugs.webkit.org/show_bug.cgi?id=213622&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454) ter referentie. Het is niet duidelijk wanneer of of deze kwestie zal worden verholpen.<br>Sommige browsers namen aanvankelijk macOS 11 correct op, zodat kan er wat verkeer zijn die deze waarde aanpassen. Vanwege de onjuiste rapportage is het filteren voor het besturingssysteem MacOS 11 echter niet nuttig.<br>Dit probleem is belangrijk omdat Apple vanaf Safari op MacOS 11 de beperkingen voor de vervaldatum van ITP-cookies heeft bijgewerkt om van toepassing te zijn op CNAME-implementaties (zie  [WebKit-blogbericht](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)).<br>Vóór deze update zijn deze beperkingen alleen van toepassing op cookies aan de clientzijde die via JavaScript zijn ingesteld. Deze onnauwkeurigheid maakt het moeilijk te beoordelen hoeveel verkeer gebruikmaakt van OS 11 en wordt dus beïnvloed door de ITP-wijziging. Meer informatie over cookies en Adobe Analytics [hier](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies). |
 | Einde van levensduur voor drie API-analysemogelijkheden | 19 mei 2021 | Op 18 augustus 2021 bereikten de volgende Analytics Legacy API-services hun einddatum en werden ze afgesloten. Om het even welke huidige die integratie met deze diensten wordt gebouwd stopte werkend op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Adobe heeft een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om uw vragen te helpen beantwoorden en hulp te bieden bij het volgen van uw stappen. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth-accounts kunnen migreren naar een [Adobe I/O](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount, die kan worden gebruikt voor toegang tot de API&#39;s voor 1.4 Analytics en 2.0 Analytics. |
-| 2021 ISO-regioupdates | 13 mei 2021 | Adobe voert 2021 ISO-regioupdates uit op 21 mei 2021. Na deze release zijn er waarschijnlijk kleine updates. |
+| 2021 ISO-regioupdates | 13 mei 2021 | Adobe voert 2021 ISO-regioupdates uit op 21 mei 2021. Verwacht dat er na deze release kleine updates worden weergegeven. |
 | EOL van gegevensbronnen van volledige verwerking | 12 april 2021 | Adobe is van plan de volledige gegevensbronnen voor de verwerking op 31 juli 2021 te vervangen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. |
 | Aanmelden bij update naar [!UICONTROL Report Builder] | 9 april 2021 | Op 14 januari 2021 zijn tijdens de [!UICONTROL Report Builder]-aanmeldupdates afhankelijkheden van oudere technologieën verwijderd en is het aanmeldingsproces uitgelijnd met Experience Cloud. Experience Cloud gebruikt uw Enterprise ID (e-mail en wachtwoord). Om ononderbroken toegang tot [!UICONTROL Report Builder] te verzekeren, update [!UICONTROL Report Builder] toe:voegen-binnen aan versie 5.6.47 of later tegen 22 juli 2021. Report Builder versie 5.6.47 en hoger ondersteunt alleen het aanmelden bij de Experience Cloud en ondersteunt geen Single Sign-On. |
 | De Diervoed van gegevens en IP van de Data Warehouse de Veranderingen van het Adres | 6 april 2021 | Vanaf 17 juni, zullen de Diervoeders van Gegevens en de levering van de Data Warehouse binnen Adobe gegevenscentra worden herplaatst, en daarom kan een verandering van externe IP adressen veroorzaken zichtbaar aan u. Adobe raadt u aan te bevestigen dat alle IP CIDR-blokken voor het datacenter waar uw rapporten en feeds vandaan komen, aanwezig zijn in firewalls voor bestemmingssystemen die u beheert. [Hier is een volledige lijst van IP waaiers van het Adres in de lijsten van gewenste personen](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks) van uw firewall te plaatsen. |
@@ -361,10 +361,10 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 
 Release-aantekeningen voor [!DNL Adobe Advertising].
 
-* [Nieuwe functies in Advertising Cloud DSP](#adcloud-dsp)
-* [Nieuwe functies in Advertising Cloud Search](#adcloud-search)
+* [Nieuwe functies in Advertising DSP](#adcloud-dsp)
+* [Nieuwe functies in Advertising Search](#adcloud-search)
 
-### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Nieuwe functies in [!DNL Advertising DSP] {#adcloud-dsp}
 
 Laatst bijgewerkt: **19 mei 2021 voor release van 5 mei**
 
@@ -374,7 +374,7 @@ Laatst bijgewerkt: **19 mei 2021 voor release van 5 mei**
 
 {style=&quot;table-layout:auto&quot;}
 
-### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
+### Nieuwe functies in [!DNL Advertising Search] {#adcloud-search}
 
 Laatst bijgewerkt: **19 mei 2021, voor release 18 mei**
 
@@ -409,7 +409,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cl
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | Mei 2021 | [Ingesloten e-handtekening en ervaring met documenten maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop) | Artikel | Leer hoe u Adobe Sign API&#39;s kunt gebruiken om ervaringen met e-handtekeningen en documenten in te sluiten in uw webplatforms en systemen voor inhoud- en documentbeheer. (Vier delen.) |
-| Mei 2021 | [Documentautomatisering met Adobe Sign for Microsoft Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) | Artikel | Leer hoe u de Adobe Sign- en Adobe PDF Tools-connectors voor Microsoft Power Apps activeert en gebruikt. Bouw werkschema&#39;s die bedrijfsgoedkeuring en handtekeningsprocessen snel en veilig zonder enige code automatiseren. (Vier delen.) |
+| Mei 2021 | [Documentautomatisering met Adobe Sign for Microsoft® Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | Artikel | Leer hoe u de Adobe Sign- en Adobe PDF Tools-connectors voor Microsoft® Power Apps activeert en gebruikt. Bouw werkschema&#39;s die bedrijfsgoedkeuring en handtekeningsprocessen snel en veilig zonder enige code automatiseren. (Vier delen.) |
 
 {style=&quot;table-layout:auto&quot;}
 
