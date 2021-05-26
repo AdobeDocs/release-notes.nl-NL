@@ -4,11 +4,10 @@ description: Releaseopmerkingen bij Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
-source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
+source-git-commit: 48000898226fa1d926948dedc64610cee0bc7f65
 workflow-type: tm+mt
-source-wordcount: '1318'
-ht-degree: 60%
+source-wordcount: '1316'
+ht-degree: 59%
 
 ---
 
@@ -37,7 +36,7 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Doel](https://docs.adobe.com/content/help/nl-NL/target/using/release-notes/target-release-notes.html)  (koppelingen naar Help bij oplossing)
-* [Advertising Cloud](#adcloud)
+* [Reclame](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
 * [Primetime](https://helpx.adobe.com/nl/primetime/user-guide.html)  (koppelingen naar Help bij oplossing)
@@ -64,7 +63,7 @@ Functies en oplossingen.
 
 Zie [Experience Cloud interface](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) voor productdocumentatie
 
-### Beheer en ontwikkelaar {#admin}
+### Beheer en ontwikkeling {#admin}
 
 Functies en oplossingen.
 
@@ -116,7 +115,7 @@ Zie [Mobiele services](https://docs.adobe.com/content/help/en/mobile-services/us
 
 Voor meer informatie over de Mobiele SDKs, zie: [Android SDK 4.x voor Experience Solutions](https://docs.adobe.com/content/help/nl-NL/mobile-services/android/overview.html) en [iOS SDK 4.x voor Experience Cloud Solutions](https://docs.adobe.com/content/help/nl-NL/mobile-services/ios/overview.html).
 
-## Analytics {#analytics}
+## Analyse {#analytics}
 
 Nieuwe functies en oplossingen in Adobe Analytics:
 
@@ -260,7 +259,7 @@ De volgende AEM documentatiesets zijn gemigreerd naar een nieuw gezamenlijk docu
 * Repareren
 * Repareren
 
-## Campaign {#ac}
+## Campagne {#ac}
 
 Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één berichten af te leveren via online en offline marketingkanalen. U kunt nu anticiperen op wat uw klanten willen met behulp van ervaringen die worden bepaald door hun gewoonten en voorkeuren.
 
@@ -270,7 +269,7 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 * Adobe Campaign Classic: [Documentatie](https://helpx.adobe.com/nl/support/campaign/classic.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/release-notes/latest-release.translate.html) - [Instructievideo&#39;s](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign - Configuratiescherm: [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html) - [Releaseopmerkingen](https://docs.adobe.com/content/help/nl-NL/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## Reclame {#adcloud}
 
 | Functie | Beschrijving |
 | ------- | ------- |
