@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9c51e3e514064371614c7379ae7f87ff194159e8
+source-git-commit: 710ca78745979b414c4299ff20561b07bc698478
 workflow-type: tm+mt
 source-wordcount: '5224'
 ht-degree: 12%
@@ -409,7 +409,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cl
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | Mei 2021 | [Ingesloten e-handtekening en ervaring met documenten maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop) | Artikel | Leer hoe u Adobe Sign API&#39;s kunt gebruiken om ervaringen met e-handtekeningen en documenten in te sluiten in uw webplatforms en systemen voor inhoud- en documentbeheer. (Vier delen.) |
-| Mei 2021 | [Documentautomatisering met Adobe Sign for Microsoft® Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | Artikel | Leer hoe u de Adobe Sign- en Adobe PDF Tools-connectors voor Microsoft® Power Apps activeert en gebruikt. Bouw werkschema&#39;s die bedrijfsgoedkeuring en handtekeningsprocessen snel en veilig zonder enige code automatiseren. (Vier delen.) |
+| Mei 2021 | [Documentautomatisering met Adobe Sign for Microsoft® Power Platform](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | Artikel | Leer hoe u de Adobe Sign- en Adobe PDF Tools-connectors voor Microsoft® Power Apps activeert en gebruikt. Bouw werkschema&#39;s die bedrijfsgoedkeuring en handtekeningsprocessen snel en veilig zonder enige code automatiseren. (Vier delen.) |
 
 {style=&quot;table-layout:auto&quot;}
 
