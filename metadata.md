@@ -8,11 +8,10 @@ getting-started-title: Aan de slag
 getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
-mini-toc-levels: 3
+mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.nl-NL
 index: true
-translation-type: tm+mt
-source-git-commit: b742d2cf0f14d2b25ed540245c0f1f571fd2319b
+source-git-commit: 3d7d30975cb241633f0d847a6b7689134bb56749
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 73%
