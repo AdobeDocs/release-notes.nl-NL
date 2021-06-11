@@ -2,9 +2,9 @@
 title: Releaseopmerkingen bij Adobe Experience Cloud
 description: Releaseopmerkingen bij Experience Cloud
 doc-type: release notes
-last-update: March 2020
+last-update: June 2021
 author: mfrei
-source-git-commit: e01e0ceec2a3aec43f7a64b7c2f3fb9e24b76cc9
+source-git-commit: 918c6cb27c16972d16d4da7f283fa790d14ac51d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 35%
@@ -12,7 +12,7 @@ ht-degree: 35%
 ---
 
 
-# SJABLOON - Opmerkingen bij de release van Adobe Experience Cloud - Maand 2020
+# SJABLOON - Opmerkingen bij de release van Adobe Experience Cloud - Maand 2021
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -26,7 +26,7 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 >
 >Meld u aan voor de [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om via e-mail op de hoogte te worden gebracht van komende releases. Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
 
-**Releasedatum: 2020**
+**Releasedatum: 2021**
 
 * [Adobe-systeemstatus](#status)
 * [Experience Cloud-interface](#ecloud)
@@ -267,7 +267,7 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 * Adobe Campaign Standard: [Documentatie](https://experienceleague.adobe.com/docs/campaign-standard.html) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) - [Releaseplanning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en)
 * Adobe Campaign Classic: [Documentatie](https://experienceleague.adobe.com/docs/campaign-classic.html) - [Releaseopmerkingen](https://final-docs.campaign.adobe.com/doc/AC/en/RN.html) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-* Adobe Campaign - Configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)
+* Adobe Campaign - Configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)
 
 ## Reclame {#adcloud}
 
