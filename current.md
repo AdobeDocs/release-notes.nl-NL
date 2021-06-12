@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3d7d30975cb241633f0d847a6b7689134bb56749
+source-git-commit: 22f12b5bc45f0ed2c191c395c55314e646a330f2
 workflow-type: tm+mt
-source-wordcount: '4904'
+source-wordcount: '4947'
 ht-degree: 14%
 
 ---
@@ -29,11 +29,11 @@ Laatste update: **11 juni 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [](#analytics) Analyses en  [Customer Journey Analytics](#cust-journey)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Reclame](#adcloud)
+* [[!DNL Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -45,7 +45,7 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 ## ![UI-componenten van ](/assets/ec_appicon_24.png) IconExperience Cloud Central {#ecloud}
 
-Experience Cloud Central Interface Components omvat updates aan zelfhulp, onderzoek, en gebruikersrekeningsvoorkeur. Het omvat ook updates aan dwars-toepassingseigenschappen en de diensten die van de verenigde interfacekop, zoals de Attributen van de Klant en Bibliotheek van het Publiek worden betreden.
+Experience Cloud Central Interface-componenten bevatten updates die toegankelijk zijn via de uniforme productkoptekst, zoals zelfhulp, zoekopdrachten en voorkeuren voor gebruikersaccounts. Updates voor Personen, Plaatsen (Locatie) en Productbeheer vindt u hier.
 
 | Functie | Datum | Beschrijving |
 | ------- | ------- | ------- |
@@ -54,6 +54,11 @@ Experience Cloud Central Interface Components omvat updates aan zelfhulp, onderz
 
 {style=&quot;table-layout:auto&quot;}
 
+**Meer Help-bronnen**
+
+* Help voor beheer voor [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) en gebruikersbeheer
+* Opmerkingen bij de Help en release voor [Plaatsen - Locatieservice](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
+* Help op [Personen - Klantenkenmerken en Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
 Zie [Experience Cloud Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) voor productdocumentatie over deze functies.
 
 ## ![Pictogram](/assets/adobe.png) Adobe-systeemstatus {#status}
