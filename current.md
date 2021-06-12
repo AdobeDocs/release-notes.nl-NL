@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 22f12b5bc45f0ed2c191c395c55314e646a330f2
+source-git-commit: 8adc3fe8f3f4b174d1c41cc7c3162d38a984d661
 workflow-type: tm+mt
 source-wordcount: '4947'
 ht-degree: 14%
@@ -413,7 +413,7 @@ Raadpleeg voor hulp bij Documenten Cloud:
 ## ![](/assets/creative-cloud-24.png) IconCreative Cloud Enterprise  {#creative-cloud}
 
 | Gepubliceerd | Naam | Type | Beschrijving |
-| -----------| ---------- | ---------- | ---------- |
+| ----------| --------- | --------- | --------- |
 | Juni 2021 | [Probeer uw hand op Fresco op de iPad (en iPhone)](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/frescoworkshop.html) | Video | Ontdek een hele nieuwe wereld van digitaal tekenen en schilderen met Adobe Fresco in deze praktische workshop van 15 minuten. Leer snel met lagen en knipmaskers te werken om verf en structuren in overeenstemming te brengen met een basisvorm. |
 | Juni 2021 | [De alfabetsoep van grafische indelingen decoderen](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/alphabetsoup.html) | Video | PG-, PNG-, SVG-, GIF- en EPS-bestanden worden veel gebruikt in ontwerpen, sommige voor webpagina&#39;s, andere voor presentaties, publicaties en creatieve projecten. Maar... wat bedoelen ze, en welke kiezen jullie? Ontdek dit in deze praktische workshop van 15 minuten. |
 
