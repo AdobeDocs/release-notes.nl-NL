@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 26fb9b46a6cf48db7cd98a75439f35a98e342898
+source-git-commit: 42bcb928d8eb34cc13017dab09f8490a673368a5
 workflow-type: tm+mt
-source-wordcount: '4927'
+source-wordcount: '4795'
 ht-degree: 14%
 
 ---
@@ -235,13 +235,7 @@ Nieuwe functies, oplossingen en updates in Experience Manager (AEM). Adobe raadt
       * [Experience Manager als Cloud Service SDK Build Analyzer Maven Insteekmodule](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en): Werk uw gemaakte projecten bij naar de nieuwste versie, die een verouderde Java™ API-controle en andere verbeteringen bevat.
    * **Sites Experience Managers als Cloud Service**
 
-      * **Eindpunten GraphQL:** het is nu mogelijk om de Experience Manager GraphQL API voor individuele configuraties van de Plaatsen van de Experience Manager toe te laten en douaneGraphQL eindpunten voor die configuraties tot stand te brengen door een nieuwe console UI te gebruiken GraphQL. De gebruikersinterface staat ook het beheren van eindpunten GraphQL toe.
-      * **Inhoudsmodellen, uitgebreid gegevenstype Datum&amp;tijd:** het is nu mogelijk het datum&amp;tijdtype te configureren om alleen datum-, alleen tijd- of datum- en tijdgegevens voor auteurs toe te staan.
-      * **Inhoudsmodellen, uitgebreid gegevenstype Codes:** het gegevenstype Codes kan nu worden geconfigureerd om het schrijven van enkele of meerdere tags toe te staan.
-      * **Content Models, new Tab Placeholder gegevenstype:** het nieuwe gegevenstype Placeholder van het Lusje laat u gegevenstypes in secties groeperen die onder lusjes in de redacteur van het inhoudsfragment worden teruggegeven.
-   * **Elementen Experience Managers als Cloud Service**
-
-      U kunt nu de inhoud op een nieuwe [Voorvertoningslaag](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) controleren om de weergave van de uiteindelijke ervaring te simuleren zoals u zou doen in de laag Publiceren. Deze nieuwe functionaliteit wordt toegelaten door de Experience Manager Plaatsen Beheerde tovenaar van de Publicatie, die u toestaat om een publicatiebestemming tussen [!UICONTROL Publish] of [!UICONTROL Preview] te kiezen. De ervaringen op [!UICONTROL Preview] kunnen dan via een specifieke URL worden betreden. Na validatie op [!UICONTROL Preview] kan inhoud op de gebruikelijke manier worden gepubliceerd van [!UICONTROL Author] naar [!UICONTROL Publish]. Het inschakelen van de [!UICONTROL Preview]-service in Experience Manager als een Cloud Service-omgeving wordt in de komende weken geleidelijk uitgevoerd.
+      U kunt nu de inhoud op een nieuwe [Voorvertoningslaag](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) controleren om de weergave van de uiteindelijke ervaring te simuleren zoals u zou doen in de laag Publiceren. Deze nieuwe functionaliteit wordt toegelaten door de Beheerde tovenaar van de Publicatie van de Plaatsen van de Experience Manager, die u een publicatiebestemming tussen [!UICONTROL Publish] of [!UICONTROL Preview] laat kiezen. De ervaringen op [!UICONTROL Preview] kunnen dan door middel van een specifieke URL worden betreden. Na validatie op [!UICONTROL Preview] kunt u inhoud publiceren van [!UICONTROL Author] tot [!UICONTROL Publish] zoals gewoonlijk. Het inschakelen van de [!UICONTROL Preview]-service in Experience Manager als een Cloud Service-omgeving wordt in de komende weken geleidelijk uitgevoerd.
 
    * **Elementen Experience Managers als Cloud Service**
 
@@ -254,7 +248,6 @@ Nieuwe functies, oplossingen en updates in Experience Manager (AEM). Adobe raadt
       Nieuwe functies in [!UICONTROL Dynamic Media]:
 
       * Dankzij de Pixelverhouding van Smart Imaging Device (DPR) en de optimalisatie van de netwerkbandbreedte kunt u afbeeldingen van de beste kwaliteit efficiënt leveren op apparaten met beeldschermen met hoge resolutie en een beperkte netwerkbandbreedte. Zie [Veelgestelde vragen over slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
-
 
 
 
