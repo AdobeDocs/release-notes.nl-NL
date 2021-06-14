@@ -222,7 +222,7 @@ Nieuwe functies, oplossingen en updates in Experience Manager (AEM). Adobe raadt
    * [Aanvullende informatie](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
    * [Te leveren items voor release van AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
 
-### AEM
+### AEM product releases
 
 * **Experience Manager as a Cloud Service**
 
