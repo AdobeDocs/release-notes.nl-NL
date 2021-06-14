@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e198a57703d4be29e32e9b2919af157858651d74
+source-git-commit: c6aea555356863f7674dcda54fad19ea31394775
 workflow-type: tm+mt
-source-wordcount: '4811'
+source-wordcount: '4815'
 ht-degree: 14%
 
 ---
@@ -21,7 +21,7 @@ Experience Cloud-toepassingen en -services worden maandelijks bijgewerkt. Deze p
 
 >[!NOTE]
 >
->Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor Adobe Enterprise-producten en Experience League-documentatie.
+>Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
 Laatste update: **14 juni 2021**
 
@@ -51,7 +51,7 @@ Experience Cloud Central Interface-componenten bevatten updates die toegankelijk
 | Functie | Datum | Beschrijving |
 | ------- | ------- | ------- |
 | Single Sign-On-ondersteuning voor Adobe-id&#39;s | 17 juni 2021 | Als u Federatieve id&#39;s gebruikt, kunt u zich aanmelden bij Experience Cloud zonder een e-mailadres of wachtwoord in te voeren. Als u deze functie wilt gebruiken, voegt u **#/sso:@domain** toe aan de URL van de Experience Cloud. <br><br>Stel bijvoorbeeld dat u eigenaar bent van het domein  **adobecustomer.** command en u wilt aanmelden bij Adobe Analytics. De URL is: **https://experience.adobe.com/#/sso:@adobecustomer.com/analytics**. |
-| Experience League Search | 1 juni 2021 | Het zoeken naar Experience League-documentatie is verbeterd. Navigeer naar [Experience League](https://experienceleague.adobe.com/docs/?lang=en) en gebruik het veld **[!UICONTROL Search]** om zelfstudies, documentatie, cursussen en meer te zoeken. |
+| Experience League zoeken | 1 juni 2021 | Het zoeken naar documentatie van Experiencen League is verbeterd. Navigeer naar [Experience League](https://experienceleague.adobe.com/docs/?lang=en) en gebruik het veld **[!UICONTROL Search]** om zelfstudies, documentatie, cursussen en meer te zoeken. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -89,7 +89,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 | Juni 2021 | [Gegevenstypen maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | Video | Leer hoe u uw eigen gegevenstypen in Adobe Experience Platform maakt voor gebruik in XDM-schema&#39;s (Experience Data Model). |
 | Juni 2021 | [Uw gegevensmodel omzetten in een ervaringsgegevensmodel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html) | Video | Leer hoe de gegevensarchitecten hun bestaand transactioneel gegevensmodel kunnen nemen en het in een Model van de Gegevens van de Ervaring omzetten. Deze video toont het verschil in modelleringsbenaderingen die entiteit-verhouding diagrammen gebruiken. |
 | Juni 2021 | [Uw gegevensmodel plannen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html) | Video | Leer wat te doen alvorens u begint uw schema&#39;s in Adobe Experience Platform te bouwen. Documenteer uw zaken van het bedrijfsgebruik, begrijp uw vergunning van het Platform, ken de productgidsen, en identificeer welke gegevens aan te nemen alvorens uw gegevensmodel te voltooien. |
-| Juni 2021 | [Tableau](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | Video | Leer hoe u verbinding maakt met [!UICONTROL Query Service] van verschillende clienttoepassingen op het bureaublad die het `PostgreSQL`-protocol ondersteunen en hoe u `PostgreSQL`-tools en -stuurprogramma&#39;s gebruikt om query&#39;s te verbinden en te schrijven. |
+| Juni 2021 | [Connect Tableau naar Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | Video | Leer hoe u verbinding maakt met [!UICONTROL Query Service] van verschillende clienttoepassingen op het bureaublad die het `PostgreSQL`-protocol ondersteunen en hoe u `PostgreSQL`-tools en -stuurprogramma&#39;s gebruikt om query&#39;s te verbinden en te schrijven. |
 | Juni 2021 | [Door Adobe gedefinieerde functies](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | Video | Leer hoe u in Adobe Experience Platform [!UICONTROL Query Service] door Adobe gedefinieerde functies kunt gebruiken om algemene aan het bedrijf gerelateerde taken uit te voeren op Experience Event-gegevens. |
 | Juni 2021 | [Gegevensexploratie](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | Video | Leer hoe u ingesloten gegevens kunt valideren, voorbeeldgegevens kunt bekijken en statistische en analytische eigenschappen van gegevens kunt verkennen met SQL-functies. |
 | Juni 2021 | [Overzicht van Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html) | Video | Leer over de Dienst van de Vraag in Adobe Experience Platform en hoe het helpt om klantengedrag te begrijpen en impactful inzichten te produceren. |
