@@ -1,8 +1,8 @@
 ---
-source-git-commit: 733723fb3476b0b59ad6e47280bad26210ebf76c
+source-git-commit: e14592da81070b0848d2c194c45fef03238c108a
 workflow-type: tm+mt
 source-wordcount: '437'
-ht-degree: 83%
+ht-degree: 86%
 
 ---
 # Bijdragen aan een artikel
@@ -12,17 +12,17 @@ We accepteren graag de bijdragen van onze community en van Adobe-werknemers van 
 ## Adobe Open-Source-gedragscode
 
 
-Dit project heeft de [Adobe-gedragscode voor open source](https://experienceleague.corp.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) of de [.NET Foundation-gedragscode](https://dotnetfoundation.org/code-of-conduct) overgenomen. Zie het artikel [Bijdragen](https://experienceleague.corp.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html) voor meer informatie.
+Dit project heeft de [Adobe-gedragscode voor open source](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) of de [.NET Foundation-gedragscode](https://dotnetfoundation.org/code-of-conduct) overgenomen. Zie het artikel [Bijdragen](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html) voor meer informatie.
 
 ## Over uw bijdragen aan Adobe-content
 
-Zie de [Adobe Docs Contributor Guide](https://experienceleague.corp.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Zie de [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=nl).
 
 Hoe u een bijdrage levert, hangt af van wie u bent en van het soort wijzigingen dat u wilt bijdragen:
 
 ### Kleine wijzigingen
 
-Als u minder belangrijke updates bijdraagt uit de goedheid van uw hart, gaat u naar het artikel en klikt u op de koppeling **Bewerken** naar de GitHub-source voor het artikel. Gebruik vervolgens gewoon de GitHub-interface om uw updates aan te brengen. Raadpleeg de algemene handleiding voor [Adobe Docs-contributors](https://experienceleague.corp.adobe.com/docs/contributor/contributor-guide/introduction.html) voor meer informatie.
+Als u minder belangrijke updates bijdraagt uit de goedheid van uw hart, gaat u naar het artikel en klikt u op de koppeling **Bewerken** naar de GitHub-source voor het artikel. Gebruik vervolgens gewoon de GitHub-interface om uw updates aan te brengen. Raadpleeg de algemene handleiding voor [Adobe Docs-contributors](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) voor meer informatie.
 
 Kleine correcties of verduidelijkingen die u verzendt voor documentatie en codevoorbeelden in deze repository, worden gedekt door de gebruiksvoorwaarden van Adobe.
 
@@ -42,7 +42,7 @@ Als u een technisch schrijver, programmamanager, of ontwikkelaar van het product
 
 Community-contributors kunnen de GitHub-interface gebruiken voor eenvoudige bewerkingen of kunnen de repository als beginpunt gebruiken voor belangrijke bijdragen.
 
-Zie de handleiding [Adobe Docs Contributor](https://experienceleague.corp.adobe.com/docs/contributor/contributor-guide-for-adobe-documentation/introduction.html) voor meer informatie.
+Zie de handleiding [Adobe Docs Contributor](https://experienceleague.adobe.com/docs/contributor/contributor-guide-for-adobe-documentation/introduction.html) voor meer informatie.
 
 ## Markdown gebruiken voor de opmaak van uw onderwerp
 
