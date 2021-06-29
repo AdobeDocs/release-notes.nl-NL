@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 6778e1f9e6d8059d0453eb0cc5e572d16a7a7e7c
+source-git-commit: 99885f10a13d7b51702ffac182362f1abd09f141
 workflow-type: tm+mt
-source-wordcount: '4843'
+source-wordcount: '4869'
 ht-degree: 14%
 
 ---
@@ -226,7 +226,11 @@ Nieuwe functies, oplossingen en updates in Experience Manager (AEM). Adobe raadt
 
 * **Experience Manager as a Cloud Service**
 
-   Nieuwe functies in Experience Manager als Cloud Service:
+   Nieuwe functies in Experience Manager als Cloud Service.
+
+   >[!NOTE]
+   >
+   >Experience Manager als Cloud Service Junilistan eigenschapversie is nu beschikbaar. Als u de nieuwe functies wilt ervaren, moet u op zijn minst op Experience Manager 2021.6.5561 werken.
 
    * **Adobe Experience Manager als Cloud Service Foundation**
 
