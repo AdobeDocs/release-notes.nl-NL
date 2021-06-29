@@ -4,10 +4,10 @@ description: Releaseopmerkingen bij Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: 918c6cb27c16972d16d4da7f283fa790d14ac51d
+source-git-commit: 48c0f82523382da9a78a78d850432c0bafd7cee7
 workflow-type: tm+mt
-source-wordcount: '1316'
-ht-degree: 35%
+source-wordcount: '678'
+ht-degree: 42%
 
 ---
 
@@ -24,7 +24,7 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 
 >[!NOTE]
 >
->Meld u aan voor de [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om via e-mail op de hoogte te worden gebracht van komende releases. Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
+>Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
 
 **Releasedatum: 2021**
 
@@ -35,14 +35,11 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [Doel](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)  (koppelingen naar Help bij oplossing)
 * [Reclame](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
 * [Primetime](https://experienceleague.adobe.com/docs/primetime.html)  (koppelingen naar Help bij oplossing)
 * [Nieuwe documentatie en zelfstudies](#selfhelp)
-
-Op zoek naar de Help-startpagina? Raadpleeg de [documentatie bij Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=en).
 
 ## Adobe-systeemstatus {#status}
 
@@ -61,13 +58,9 @@ Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder behee
 
 Functies en oplossingen.
 
-Zie [Experience Cloud interface](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) voor productdocumentatie
-
 ### Beheer en ontwikkeling {#admin}
 
 Functies en oplossingen.
-
-Zie [Gebruikers en producten beheren](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/admin-getting-started.html?lang=en) voor productdocumentatie.
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -78,17 +71,14 @@ Releaseopmerkingen voor de [!DNL Experience Platform,] inclusief [!DNL Experienc
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services en mobiele SDK&#39;s](#mobile)
-* [Beveiligingsbulletins en adviezen](https://helpx.adobe.com/nl/security.html) (Alle Adobe-producten)
 
 ### [!UICONTROL Experience Cloud ID Service] {#ecid}
 
 Functies en oplossingen.
 
-Zie [Experience Cloud ID service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en) voor productdocumentatie.
-
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
-Zie [Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=en) voor opmerkingen bij de release en productdocumentatie.
+Zie
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
@@ -96,7 +86,7 @@ Met Adobe [!UICONTROL Experience Platform,] kunt u individuele reizen van klante
 
 #### Aanvullende bronnen voor [!UICONTROL Journey Orchestration]
 
-[Documentatie](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=nl) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
+text
 
 ### [!UICONTROL Mobile Services] en [!UICONTROL Mobile SDK] {#mobile}
 
@@ -111,19 +101,9 @@ Beschrijving van nieuwe functies. Gebruik koppen of een tabel.
 * Repareren
 * Repareren
 
-Zie [Mobiele services](https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=en) voor productdocumentatie.
-
-Voor meer informatie over de Mobiele SDKs, zie: [Android™ SDK 4.x voor Experience Solutions](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en) en [iOS SDK 4.x voor Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en).
-
 ## Analyse {#analytics}
 
 Nieuwe functies en oplossingen in Adobe Analytics:
-
-* [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Media Analytics SDK voor iOS en Android™ (voorheen VHL SDK)](#aa-va)
-* [Belangrijke berichten voor Analytics-beheerders](analytics-important-notices.md)
-
-Raadpleeg [Adobe Analytics Help Home](https://experienceleague.adobe.com/docs/analytics/landing/home.html?lang=en) voor productdocumentatie.
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
@@ -133,7 +113,7 @@ Raadpleeg [Adobe Analytics Help Home](https://experienceleague.adobe.com/docs/an
 | Functie B | Tekst |
 | Functie C | Tekst |
 
-### [!DNL Media Analytics] SDK voor  [!DNL iOS] &amp;  [!DNL Android™] (voorheen VHL SDK)  {#aa-va}
+### [!DNL Media Analytics] SDK voor  [!DNL iOS] &amp;  [!DNL Android™] (voorheen VHL SDK) {#aa-va}
 
 | Functie | Beschrijving |
 | ------- | ------- |
@@ -143,7 +123,7 @@ Raadpleeg [Adobe Analytics Help Home](https://experienceleague.adobe.com/docs/an
 
 ### Data Workbench {#aa-dwb}
 
-Zie [Opmerkingen bij de release van Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/release-notes/release-notes.html?lang=en) voor de meest recente informatie.
+Tekst.
 
 ### AppMeasurement {#appm}
 
@@ -159,19 +139,6 @@ Zie [Opmerkingen bij de release van Data Workbench](https://experienceleague.ado
 * Repareren
 * Repareren
 * Repareren
-
-Zie [Release-historie van AppMeasurement](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) voor een releasegeschiedenis van AppMeasurement op de volgende platforms:
-
-* [!DNL JavaScript]
-* [!DNL iOS]
-* [!DNL Android™]
-* [!DNL Flash-Flex]
-* [!DNL OS X]
-* [!DNL Windows Phone,] [!DNL XBOX,] [!DNL Silverlight,] en [!DNL .NET]
-* [!DNL BlackBerry®]
-* Java™
-* PHP
-* Symbian™
 
 ## Audience Manager {#aam}
 
@@ -221,13 +188,7 @@ De volgende AEM documentatiesets zijn gemigreerd naar een nieuw gezamenlijk docu
 
 ### Aanvullende bronnen
 
-* [AEM 6.4 Thuis leren &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-64.html)
-* [AEM 6.3 Thuis leren &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-3.html)
-* [AEM 6.2 Thuis leren &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
-* [Gebruikershandleiding voor Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
-* [Oudere versies van AEM documentatie](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en)
-* [Opmerkingen bij de release van Scene7 Publishing System](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
-* [Releaseopmerkingen bij Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
+Tekst
 
 ### [!DNL Livefyre] {#livefyre}
 
@@ -265,9 +226,7 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 ### Aanvullende bronnen
 
-* Adobe Campaign Standard: [Documentatie](https://experienceleague.adobe.com/docs/campaign-standard.html) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) - [Releaseplanning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en)
-* Adobe Campaign Classic: [Documentatie](https://experienceleague.adobe.com/docs/campaign-classic.html) - [Releaseopmerkingen](https://final-docs.campaign.adobe.com/doc/AC/en/RN.html) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-* Adobe Campaign - Configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)
+Tekst
 
 ## Reclame {#adcloud}
 
@@ -288,9 +247,6 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 Voor de versienota&#39;s van Magento raadpleegt u:
 
-* [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
-* [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
-
 ## Marketo {#marketo}
 
 Marketo Engage is een volledige oplossing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten te gaan werken.
@@ -305,8 +261,6 @@ Releasedatum: 21 februari 2020
    * Aangepast objectschema-API&#39;s
    * Regels voor omleiding van bestemmingspagina&#39;s
 * **Form Descriptor-caching:** verbeteringen voor bestemmingspagina&#39;s en Forms.
-
-Zie Opmerkingen bij de release van Marketo voor [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) voor meer informatie.
 
 ### Aanstaande functies
 
@@ -327,21 +281,6 @@ De volgende functies komen gedurende het komende kwartaal beschikbaar:
 * **De parameter &quot;_method&quot; van activa API:** Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen.
 * **Afschaffing van Internet Explorer-ondersteuning:** Vanaf de juli-release op 31 juli 2020 wordt de Marketo Engage-gebruikersinterface niet meer ondersteund in Internet Explorer.
 
-Zie [Marketo-releaseopmerkingen](https://experienceleague.adobe.com/docs/marketo/using/home.html) voor cumulatieve en historische releaseopmerkingen.
-
 ### Nieuwe oplossingsnaam cursussen en zelfstudies
 
 Nieuwe video&#39;s, tutorials of cursussen die in de afgelopen maand zijn gepubliceerd.
-
-| Gepubliceerd | Naam | Type | Beschrijving |
-| -----------| ---------- | ---------- | ---------- |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
-| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beschrijving |
