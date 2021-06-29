@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4fc39c45e2b9eef506acbbaa04bf7302b53003fa
+source-git-commit: 6778e1f9e6d8059d0453eb0cc5e572d16a7a7e7c
 workflow-type: tm+mt
-source-wordcount: '4826'
+source-wordcount: '4843'
 ht-degree: 14%
 
 ---
@@ -108,7 +108,7 @@ Het Experience Platform van het gebruik om de reis van een klant bij schaal over
 
 [Documentatie](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
 
-## ![Beslissing ](/assets/experience_platform_appicon_24.png) IconOffer  {#offer-decisioning}
+## ![Beslissing ](/assets/experience_platform_appicon_24.png) IconOffer {#offer-decisioning}
 
 [!UICONTROL Offer Decisioning] is een applicatieservice die is geïntegreerd met Adobe Experience Platform. Gebruik [!UICONTROL Offer Decisioning] om uw klanten de beste aanbieding en ervaring op alle aanraakpunten op het juiste moment te bieden.
 
@@ -264,6 +264,7 @@ Nieuwe functies, oplossingen en updates in Experience Manager (AEM). Adobe raadt
 Alle Experience Manager-releaseopmerkingen worden op de volgende pagina&#39;s bijgehouden:
 
 * [Experience Manager als informatie over de release van een Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
+* [Experience Manager als opmerkingen bij de release van Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
 * [Opmerkingen bij de release Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
 * [Releaseopmerkingen bij de service Geautomatiseerde conversie van formulieren](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Opmerkingen bij de release Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
@@ -385,7 +386,7 @@ Adobe is een uniforme toepassing voor werkbeheer voor het delen van ideeën, het
 
 Zie de pagina [[!DNL Workfront] releases](https://one.workfront.com/s/product-releases) voor een vervollediging van de meest recente informatie voor alle producten.
 
-## ![](/assets/document-cloud-24.png) IconDocument Cloud  {#doc-cloud}
+## ![](/assets/document-cloud-24.png) IconDocument Cloud {#doc-cloud}
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cloud.
 
@@ -403,7 +404,7 @@ Raadpleeg voor hulp bij Documenten Cloud:
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud - Meer informatie en ondersteuning](https://helpx.adobe.com/support/document-cloud.html)
 
-## ![](/assets/creative-cloud-24.png) IconCreative Cloud voor ondernemingen  {#creative-cloud}
+## ![](/assets/creative-cloud-24.png) IconCreative Cloud voor ondernemingen {#creative-cloud}
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Creative Cloud voor bedrijven.
 
