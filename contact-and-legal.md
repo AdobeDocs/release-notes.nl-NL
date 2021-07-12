@@ -1,17 +1,15 @@
 ---
 description: Informatie die u helpt contact op te nemen met Adobe en inzicht te krijgen in de juridische problemen met betrekking tot uw gebruik van dit product en documentatie.
-keywords: dynamic tag management;release notes
+keywords: dynamisch tagbeheer;opmerkingen bij de release
 seo-description: Informatie die u helpt contact op te nemen met Adobe en inzicht te krijgen in de juridische problemen met betrekking tot uw gebruik van dit product en documentatie.
 seo-title: Contactgegevens en juridische informatie
-solution: Experience Cloud
 title: Contactgegevens en juridische informatie
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
-translation-type: tm+mt
-source-git-commit: 00226294d475d0c8f323692272bedf0d2705fd20
+source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '258'
 ht-degree: 37%
 
 ---
@@ -26,9 +24,9 @@ Informatie die u helpt contact op te nemen met Adobe en inzicht te krijgen in de
 
 Het Adobe Marketing Cloud Customer Care-team is hier om u te helpen en biedt een aantal mechanismen waarmee zij zich kunnen aansluiten:
 
-Zie [Contact opnemen met de Enterprise Support van Adobe](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html)
+Zie [Contact opnemen met Adobe Enterprise Support](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html)
 
-## Service, Capability, and Billing {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
+## Service, mogelijkheid en facturering {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
 Afhankelijk van de configuratie van uw oplossing zijn sommige opties die in deze documentatie worden beschreven, mogelijk niet voor u beschikbaar. Aangezien elke rekening uniek is, zie uw contract voor tarifering, vervaldata, voorwaarden, en voorwaarden. Neem contact op met uw accountmanager als u uw serviceniveau wilt uitbreiden of anderszins wilt wijzigen of als u vragen hebt over uw huidige service.
 
@@ -40,12 +38,12 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 
 <ul class="simplelist"> 
- <li> © 2016 Adobe Systems Incorporated. Alle rechten voorbehouden. </li> 
+ <li> © 2016 Adobe Systems Incorporated. all rights reserved. </li> 
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Gebruiksvoorwaarden](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Privacy Center](https://www.adobe.com/privacy/policy.html)
+[Gebruiksvoorwaarden](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Privacy Center](https://www.adobe.com/nl/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty](https://www.adobe.com/nl/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Bijgewerkte informatie/extra informatie over code van derden is beschikbaar op [https://www.adobe.com/go/thirdparty](https://www.adobe.com/nl/products/eula/third_party/).
