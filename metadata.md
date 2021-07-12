@@ -1,20 +1,14 @@
 ---
 cloud: Experience Cloud
-solution-title: Informatie en ondersteuning
-description: Opmerkingen bij de release voor Experience Cloud-oplossingen
-solution-hub-url: https://helpx.adobe.com/nl/support/experience-cloud.html
-solution-icon: assets/assets/experience-cloud-logo-24.png
-getting-started-title: Aan de slag
-getting-started-url: https://landing.adobe.com/experience-league/
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
+type: Documentation
+solution: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.nl-NL
 index: true
-source-git-commit: 3d7d30975cb241633f0d847a6b7689134bb56749
+source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 73%
+source-wordcount: '153'
+ht-degree: 75%
 
 ---
 
