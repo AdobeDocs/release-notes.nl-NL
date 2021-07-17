@@ -2,18 +2,18 @@
 title: Opmerkingen bij de nieuwste release
 description: Meer informatie over de nieuwste opmerkingen bij de release, nieuwe functies en nieuwe documentatie voor Experience Cloud-producten en -services. Zoek naar nieuwe hulp en zelfstudies over Experience Cloud, Creative Cloud voor Onderneming, en Document Cloud.
 doc-type: release notes
-last-update: June 2021
+last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 99885f10a13d7b51702ffac182362f1abd09f141
+source-git-commit: bd6b98b1decdcf563421c1f828d3fb068fb6ca33
 workflow-type: tm+mt
-source-wordcount: '4869'
+source-wordcount: '4809'
 ht-degree: 14%
 
 ---
 
-# Adobe Experience Cloud-releaseopmerkingen - juni 2021
+# Opmerkingen bij de release van Adobe Experience Cloud - juli 2021
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -23,11 +23,12 @@ Experience Cloud-toepassingen en -services worden maandelijks bijgewerkt. Deze p
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **14 juni 2021**
+Laatste update: **16 juli 2021**
 
 * [Experience Cloud Central-interfacecomponenten](#ecloud)
 * [Adobe-systeemstatus](#status)
 * [Experience Platform](#platform)
+* [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
 * [[!DNL Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
@@ -50,8 +51,7 @@ Experience Cloud Central Interface-componenten bevatten updates die toegankelijk
 
 | Functie | Datum | Beschrijving |
 | ------- | ------- | ------- |
-| Single Sign-On-ondersteuning voor Adobe-id&#39;s | 17 juni 2021 | Als u Federatieve id&#39;s gebruikt, kunt u zich aanmelden bij Experience Cloud zonder een e-mailadres of wachtwoord in te voeren. Als u deze functie wilt gebruiken, voegt u **#/sso:@domain** toe aan de URL van de Experience Cloud. <br><br>Stel bijvoorbeeld dat u eigenaar bent van het domein  **adobecustomer.** command en u wilt aanmelden bij Adobe Analytics. De URL is: **https://experience.adobe.com/#/sso:@adobecustomer.com/analytics**. |
-| Experience League zoeken | 1 juni 2021 | Het zoeken naar documentatie van Experiencen League is verbeterd. Navigeer naar [Experience League](https://experienceleague.adobe.com/docs/?lang=en) en gebruik het veld **[!UICONTROL Search]** om zelfstudies, documentatie, cursussen en meer te zoeken. |
+| Experience Cloud Global Search | 5 juli 2021 | Met deze versie, voegt het globale onderzoek van Experience Cloud Journey Orchestration aan het onderzoek naar bedrijfsvoorwerpen in Experience Cloud, zoals segmenten, gegevensreeksen, schema&#39;s, en meer toe.) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -71,8 +71,8 @@ De meest recente updates van de Status van het Systeem van de Adobe worden gevon
 
 Bevat de update-informatie van de release en nieuwe documentatie voor Experience Platform en Experience Platform Launch.
 
-* **26 mei 2021:Opmerkingen bij de release van** [Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-* **17 mei 2021:Opmerkingen bij de release** [Experience Platform Data Collection](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html)  (voorheen, Experience Platform Launch)
+* **Opmerkingen bij de release van** [Experience Platform van 30 juni 2021](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* **17 mei 2021** [Opmerkingen](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html)  bij de release Data Collection voor Experience Platforms (voorheen Experience Platform Launch)
 
 ### Zelfstudies en cursussen voor Experience Platforms {#tutorials-platform}
 
@@ -80,29 +80,32 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2021 | [Gegevens voorbereiden met Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html) | Video | Leer hoe te om, gegevens van veelvoudige datasets schoon te maken voor te bereiden en te combineren om een dataset tot stand te brengen die Lijst AS (CTAS) en SQL van de Vonk functies voor het melden en dashboarding gebruikt. |
-| Juni 2021 | [Schema&#39;s kopiëren tussen sandboxen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/copy-schemas-between-sandboxes.html) | Video | Leer hoe te om een schema van één zandbak aan een andere in Adobe Experience Platform te kopiëren gebruikend [!UICONTROL Export/Import Schema API]. Ontwikkel en test uw schema&#39;s in ontwikkelingszandbakken, dan kopieer hen aan productie. |
-| Juni 2021 | [Schema&#39;s bijwerken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/update-schemas.html) | Video | Leer de basiszaken om zich van bewust te zijn wanneer het bijwerken van bestaande schema&#39;s in Adobe Experience Platform. |
-| Juni 2021 | [Bouwstenen voor schema](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schema-building-blocks.html) | Video | Leer de belangrijkste bouwsteenelementen van de schema&#39;s van de Gegevens van de Ervaring van het Model (XDM), met inbegrip van gebieden, gegevenstypes, de groepen van het schemagebied, klassen, en gedrag. |
-| Juni 2021 | [Schema-klassen maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-classes.html) | Video | Leer hoe u klassen in Adobe Experience Platform maakt voor gebruik in XDM-schema&#39;s (Experience Data Model). |
-| Juni 2021 | [Relaties tussen schema&#39;s configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/configure-relationships-between-schemas.html) | Video | Leer hoe te om een verhouding tussen twee schema&#39;s in Adobe Experience Platform te vormen. De verhoudingen staan u toe om één dataset als raadplegingslijst voor een andere te gebruiken. |
-| Juni 2021 | [Schema-gegevenstypen maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | Video | Leer hoe u uw eigen gegevenstypen in Adobe Experience Platform maakt voor gebruik in XDM-schema&#39;s (Experience Data Model). |
-| Juni 2021 | [Uw gegevensmodel omzetten in een ervaringsgegevensmodel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html) | Video | Leer hoe de gegevensarchitecten hun bestaand transactioneel gegevensmodel kunnen nemen en het in een Model van de Gegevens van de Ervaring omzetten. Deze video toont het verschil in modelleringsbenaderingen die entiteit-verhouding diagrammen gebruiken. |
-| Juni 2021 | [Uw gegevensmodel plannen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html) | Video | Leer wat te doen alvorens u begint uw schema&#39;s in Adobe Experience Platform te bouwen. Documenteer uw zaken van het bedrijfsgebruik, begrijp uw vergunning van het Platform, ken de productgidsen, en identificeer welke gegevens aan te nemen alvorens uw gegevensmodel te voltooien. |
-| Juni 2021 | [Connect Tableau naar Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | Video | Leer hoe u verbinding maakt met [!UICONTROL Query Service] van verschillende clienttoepassingen op het bureaublad die het `PostgreSQL`-protocol ondersteunen en hoe u `PostgreSQL`-tools en -stuurprogramma&#39;s gebruikt om query&#39;s te verbinden en te schrijven. |
-| Juni 2021 | [Adobe bepaalde functies in de Dienst van de Vraag](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | Video | Leer hoe u in Adobe Experience Platform [!UICONTROL Query Service] door Adobe gedefinieerde functies kunt gebruiken om algemene aan het bedrijf gerelateerde taken uit te voeren op Experience Event-gegevens. |
-| Juni 2021 | [Gegevensexploratie met de Dienst van de Vraag](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | Video | Leer hoe u ingesloten gegevens kunt valideren, voorbeeldgegevens kunt bekijken en statistische en analytische eigenschappen van gegevens kunt verkennen met SQL-functies. |
-| Juni 2021 | [Overzicht van Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html) | Video | Leer over de Dienst van de Vraag in Adobe Experience Platform en hoe het helpt om klantengedrag te begrijpen en impactful inzichten te produceren. |
-| Juni 2021 | [Overzicht van Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html) | Video | Leer hoe u query&#39;s schrijft en uitvoert, eerder uitgevoerde query&#39;s bekijkt en query&#39;s opent die zijn opgeslagen door andere gebruikers binnen uw IMS-organisatie in Adobe Experience Platform Query Service. |
-| Juni 2021 | [Query-API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-api.html) | Video | Leer hoe te om vragen te schrijven en uit te voeren, planningsvragen te creëren, en een vraagmalplaatje te creëren gebruikend Adobe Experience Platform [!UICONTROL Query Service API]. |
+| Juli 2021 | [Uw klantgegevens modelleren met XDM](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.xdm) | Cursus | Leer hoe u uw gegevensmodel bouwt in Adobe Experience Platform. Deze cursus leert u over het model van de Gegevens van de Ervaring (XDM) en hoe te om uw bestaand gegevensmodel in XDM om te zetten. Leer hoe u schema&#39;s bouwt met gebruik van standaardklassen en veldgroepen en uw eigen aangepaste componenten bouwt. |
+| Juli 2021 | [Aan de slag met de Dienst van de Vraag voor de Ingenieurs van Gegevens](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.gsde) | Cursus | Leer hoe te om opgenomen gegevens te bevestigen, inzichten van gegevens te verkrijgen die in het gegevensmeer worden opgeslagen, en hoe te om de gegevens voor te bereiden voor het maken van zaken-kritieke besluiten gebruikend de Dienst van de Vraag. |
+| Juli 2021 | [Dashboards maken met behulp van Query-service](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.dash) | Cursus | Leer hoe te om opgenomen gegevens te bevestigen, inzichten van gegevens te verkrijgen die in het gegevensmeer worden opgeslagen, en dashboards tot stand te brengen gebruikend de Dienst van de Vraag in Adobe Experience Platform. |
+| Juli 2021 | [Aan de slag met CDP in real time voor Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.rtcdp) | Cursus | In deze cursus, kunt u alles leren u begonnen moet worden gebruikend het Platform van de Gegevens van de Klant in real time (CDP in real time) als bedrijfspraktijk. |
+| Juli 2021 | [Aan de slag met Data Science Workspace voor Data Scientists](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.dsw) | Cursus | Meer informatie over Data Science Workspace in Adobe Experience Platform. Deze cursus wordt ontworpen voor gegevenswetenschappers die willen leren hoe te om [!DNL JupyterLab] Notitieboekjes te gebruiken om inzicht en vraaggegevens af te leiden, profiel-toegelaten datasets tot stand te brengen, geautomatiseerde machine het leren modellen te publiceren, en machine-geleerde inzichten aan zowel Adobe als niet-Adobe toepassingen te activeren. |
+| Juli 2021 | [Aan de slag met Adobe Experience Platform Data Governance](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.dgov.gs) | Cursus | Leer hoe u de controle krijgt over uw gegevens vanaf het punt dat wordt verzameld bij gegevensbronnen tot wanneer deze worden gesynchroniseerd met bestemmingen buiten Adobe Experience Platform. |
 
 {style=&quot;table-layout:auto&quot;}
+
+## ![](/assets/experience_platform_appicon_24.png) IconJourney Optimizer {#journey-opt}
+
+Met Adobe Journey Optimizer kunt u geplande omnichannel campagnes en een-op-een-momenten voor miljoenen klanten beheren vanuit één toepassing. De hele reis is geoptimaliseerd met intelligente beslissingen en inzichten.
+
+### Laatste productreleases
+
+* Journey Optimizer is nu beschikbaar. [Meer informatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
+
+**Meer bronnen voor Journey Optimizer**
+
+[Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en)  -  [Nieuwste updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/documentation-updates.html?lang=en)  -  [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en)
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
 Het Experience Platform van het gebruik om de reis van een klant bij schaal over ervaringskanalen te ordenen, door intelligent de behoeften van elk individu in echt te voorzien - tijd.
 
-* Bijgewerkt juni 2021 - [Opmerkingen bij de release Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en)
+Meer informatie over de recentste mogelijkheden, verbeteringen, en moeilijke situaties in [de Nota&#39;s van de Versie van de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
 
 **Meer bronnen voor Journey Orchestration**
 
@@ -112,7 +115,9 @@ Het Experience Platform van het gebruik om de reis van een klant bij schaal over
 
 [!UICONTROL Offer Decisioning] is een applicatieservice die is geïntegreerd met Adobe Experience Platform. Gebruik [!UICONTROL Offer Decisioning] om uw klanten de beste aanbieding en ervaring op alle aanraakpunten op het juiste moment te bieden.
 
-* Bijgewerkt april 2021 - [Opmerkingen bij de release van Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new)
+* **Versie van juni 2021:** AI het rangschikken staat u toe om verschillende rangschikkingsstrategieën (die op uw bedrijfsdoelstellingen worden gebaseerd) tot stand te brengen die door een opgeleid modelsysteem zullen worden gebruikt om de in aanmerking komende aanbiedingen aan vertoning voor een bepaald profiel te rangschikken.
+
+Zie [Opmerkingen bij de release van Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) om up-to-date te blijven.
 
 **Meer bronnen voor Offer decisioning**
 
@@ -120,7 +125,7 @@ Het Experience Platform van het gebruik om de reis van een klant bij schaal over
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Releasedatum: **17 juni 2021**
+Releasedatum: **22 juli 2021**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
@@ -131,45 +136,39 @@ Releasedatum: **17 juni 2021**
 
 ### Nieuwe functies in Adobe Analytics {#aa-features}
 
-| Functie | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum | Beschrijving |
+| Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ------- |
-| N.v.t. | N.v.t. |
+| Nieuwe Adobe Analytics-openingspagina (bètaversie openen) | De nieuwe landingspagina voor Adobe Analytics brengt zowel Analysis Workspace als Reports &amp; Analytics samen in één interface en toegangspunt onder de Workspace-paraplu. Het kenmerkt een nieuwe de homepage van de projectmanager, een bijgewerkt rapportenmenu en gemoderniseerde rapporten, evenals een nieuwe het leren sectie om u met het worden effectiever beginnen te helpen. De nieuwe pagina verbetert de ontdekkbaarheid en begeleidt gebruikers van Rapporten &amp; van Analytics aan een betere rapporteringservaring in Werkruimte. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html) | 26 juli 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nieuwe functies in Customer Journey Analytics {#cust-journey}
 
-| Functie | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum | Beschrijving |
+| Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ----- |
-| N.v.t. | N.v.t. |
+| Ervaring Nieuwe informatie over verbindingen | Deze UI-uitbreiding van Verbindingen laat u weten of en wanneer uw gegevens klaar zijn om in rapportering te worden gebruikt. Ook kunt u eventuele problemen met de verwerking van gegevens bijhouden. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 19 augustus 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
-* Probleem verholpen waarbij de onjuiste valuta werd weergegeven in het rapport Revenue Real-Time. (AN-254649)
-* Bijgewerkt van de documentatie over [gevoeligheid voor hoofdletters/kleine letters in rapportage](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html). (AN-246438)
-* Bijgewerkt de documentatie om [Data Feed Implementation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/create-feed.html) en [here](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-faq.html#BucketOwnerFullControl) beter uit te leggen. (AN-219485)
-* Correctie van problemen waarbij bepaalde gegevens niet in het rapport Data Warehouse werden verzonden (AN-259951; AN-259712; AN-260107; AN-259953)
+* Probleem verholpen waarbij waarschuwingen niet werden verzonden en fouten werden weergegeven bij het maken van nieuwe waarschuwingen. (AN-263962)
+* Probleem verholpen met virtuele rapportsuites in Analysis Workspace: Gegevens buiten het opgegeven datumbereik zijn geëxtraheerd. (AN-263121)
+* Probleem verholpen waarbij Workspace-projecten niet werden geopend (time-out). (AN-247248)
+* Probleem verholpen waarbij gegevens uit rapportsuite niet konden worden geladen onder [!UICONTROL Server Call Usage]. (AN-264215)
 
 #### Extra correcties in Adobe Analytics of CJA
 
-AN-246344; AN-250035; AN-250354; AN-252482; AN-254661; AN-254965; AN-255424; AN-256515; AN-257232; AN-257572; AN-257893; AN-258393; AN-259203; AN-259513; AN-259614; AN-259665; AN-259931; AN-260074; AN-260085; AN-260147; AN-260190; AN-260198; AN-260290; AN-260306 (CJA); AN-260508; AN-260625; AN-260793; AN-260861; AN-260938; AN-260945; AN-261149; AN-261317
+AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-256566; AN-256903; AN-257111; AN-259614; AN-259960; AN-260422; AN-260926; AN-260962; AN-261310; AN-261442; AN-261483 (CJA); AN-261589; AN-261949; AN-262025; AN-262295; AN-262330; AN-262348; AN-262356; AN-262461; AN-262462; AN-262465; AN-262888; AN-262944; AN-262952; AN-262974; AN-263027; AN-263105; AN-263175; AN-263183; AN-263244; AN-263888; AN-263930; AN-263953
 
 ### Belangrijke berichten voor [!DNL Analytics]-beheerders {#aa-notices}
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
-| Gebruikersagents in de browser weerspiegelen onjuiste besturingssysteemversies voor macOS | 19 mei 2021 | Alle belangrijkste browsers melden gebruikers van MacOS X 11 en hoger momenteel onjuist zoals het gebruik van macOS 10, zoals opgenomen in de userAgent-tekenreeks van de browser. Dit probleem is van invloed op Adobe Analytics-rapportage, omdat de gebruikersagent wordt gebruikt om apparaatinformatie zoals het besturingssysteem te bepalen. Deze onnauwkeurigheid lijkt te bestaan om compatibiliteitsproblemen voor sommige websites te voorkomen. Zie dit [Bugzilla-ticket](https://bugs.webkit.org/show_bug.cgi?id=213622&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454) ter referentie. Het is niet duidelijk wanneer of of deze kwestie zal worden opgelost.<br>Sommige browsers namen aanvankelijk macOS 11 correct op, zodat kan er wat verkeer zijn die deze waarde aanpassen. Vanwege de onjuiste rapportage is het filteren voor het besturingssysteem MacOS 11 echter niet nuttig.<br>Dit probleem is belangrijk omdat Apple vanaf Safari op MacOS 11 de beperkingen voor de vervaldatum van ITP-cookies heeft bijgewerkt om van toepassing te zijn op CNAME-implementaties (zie  [WebKit-blogbericht](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)).<br>Vóór deze update zijn deze beperkingen alleen van toepassing op cookies aan de clientzijde die via JavaScript zijn ingesteld. Deze onnauwkeurigheid maakt het moeilijk te beoordelen hoeveel verkeer gebruikmaakt van OS 11 en wordt dus beïnvloed door de ITP-wijziging. Meer informatie over cookies en Adobe Analytics [hier](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies). |
-| Einde van levensduur voor drie API-analysemogelijkheden | 19 mei 2021 | Op 18 augustus 2021 bereikten de volgende Analytics Legacy API-services hun einddatum en werden ze afgesloten. Om het even welke huidige die integratie met deze diensten wordt gebouwd stopte werkend op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Adobe heeft een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om uw vragen te helpen beantwoorden en hulp te bieden bij het volgen van uw stappen. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth-accounts kunnen migreren naar een [Adobe I/O](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount, die kan worden gebruikt voor toegang tot de API&#39;s voor 1.4 Analytics en 2.0 Analytics. |
-| 2021 ISO-regioupdates | 13 mei 2021 | Adobe voert 2021 ISO-regioupdates uit op 21 mei 2021. Verwacht dat er na deze release kleine updates worden weergegeven. |
-| EOL van gegevensbronnen van volledige verwerking | 12 april 2021 | Adobe is van plan de volledige gegevensbronnen voor de verwerking op 31 juli 2021 te vervangen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. |
-| Aanmelden bij update naar [!UICONTROL Report Builder] | 9 april 2021 | Op 14 januari 2021 zijn tijdens de [!UICONTROL Report Builder]-aanmeldupdates afhankelijkheden van oudere technologieën verwijderd en is het aanmeldingsproces uitgelijnd met Experience Cloud. Experience Cloud gebruikt uw Enterprise ID (e-mail en wachtwoord). Om ononderbroken toegang tot [!UICONTROL Report Builder] te verzekeren, update [!UICONTROL Report Builder] toe:voegen-binnen aan versie 5.6.47 of later tegen 22 juli 2021. Report Builder versie 5.6.47 en hoger ondersteunt alleen het aanmelden bij de Experience Cloud en ondersteunt geen Single Sign-On. |
-| De Diervoed van gegevens en IP van de Data Warehouse de Veranderingen van het Adres | 6 april 2021 | Vanaf 17 juni, zullen de Diervoeders van Gegevens en de levering van de Data Warehouse binnen Adobe gegevenscentra worden herplaatst, en daarom kan een verandering van externe IP adressen veroorzaken zichtbaar aan u. Adobe raadt u aan te bevestigen dat alle IP CIDR-blokken voor het datacenter waar uw rapporten en feeds vandaan komen, aanwezig zijn in firewalls voor bestemmingssystemen die u beheert. [Hier is een volledige lijst van IP waaiers van het Adres in de lijsten van gewenste personen](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks) van uw firewall te plaatsen. |
-| Kennisgeving van aanstaande wijzigingen in het menu Analytics | 24 maart 2021 | Op 22 april 2021 heeft Adobe de vervolgkeuzemenu&#39;s **[!UICONTROL Components]**, **[!UICONTROL Tools]** en **[!UICONTROL Admin]** bijgewerkt om enkele prestatieverbeteringen te realiseren. Al deze pagina&#39;s zijn nog steeds beschikbaar onder de koppelingen **[!UICONTROL All Components]**, **[!UICONTROL All Tools]** en **[!UICONTROL All Admin]**. Deze worden verwijderd uit het vervolgkeuzemenu. Hier zijn de menu-items die uit het vervolgkeuzemenu worden verwijderd en op de respectievelijke koppelingspagina worden geplaatst:<br><br> [!UICONTROL Components]<ul><li>[!UICONTROL Bookmarks]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Targets]</li><li>[!UICONTROL Calendar Events]</li><li>[!UICONTROL Scheduled Reports]</li><li>[!UICONTROL Report Settings]</li></ul>[!UICONTROL Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search & Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL User Management]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Company Settings]</li><li>[!UICONTROL Logs]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code Manager]</li><li>[!UICONTROL Exclude by IP]</li><li>[!UICONTROL Traffic Management]</li></ul> |
-| Gelijk aan SiteCatalyst VISTA-verwerking | 17 maart 2021 | Op 17 juni 2021 worden alle rapportsuites bijgewerkt zodat [!UICONTROL Same-as-SiteCatalyst VISTA Processing] is ingesteld op ON. Deze wijziging is van invloed op de rapportage van Data Warehouse door de gegevens af te stemmen op de verwerkingsregels. Raadpleeg de klantenservice voor vragen of verduidelijking. |
-| Opties voor bestemmingspagina&#39;s voor rapporten en analyses | 19 februari 2021 | Op 25 maart 2021 zijn opties voor het instellen van nieuwe dashboards voor rapporten en analyse of andere inhoud verwijderd. Als u eerder een pagina Rapporten &amp; Analytics als uw aangepaste landingspagina plaatst, blijft het werken tot uw landingspagina in [!UICONTROL User Preferences] wordt gewijzigd. |
-| EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. Een nieuwe norm is beschikbaar in [het Programma van de Partner van de Uitwisseling van de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). U kunt die standaard gebruiken om integratie te blijven aanbieden en ondersteunen. De officiële einddatum is 1 augustus 2021. [Meer informatie...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
+| Einde van levensduur voor drie API-analysemogelijkheden | 15 juli 2021 | Op **18 augustus 2021** zullen de volgende services van Analytics Legacy API hun einddatum bereiken en worden afgesloten. De huidige integratie die met deze services wordt gebouwd, werkt niet meer op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Adobe heeft een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om uw vragen te helpen beantwoorden en hulp te bieden bij het volgen van uw stappen. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth-accounts kunnen migreren naar een [Adobe I/O](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount, die kan worden gebruikt voor toegang tot de API&#39;s voor 1.4 Analytics en 2.0 Analytics. |
+| EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. Een nieuwe norm is beschikbaar in [het Programma van de Partner van de Uitwisseling van de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). U kunt die standaard gebruiken om integratie te blijven aanbieden en ondersteunen. De officiële einddatum is **1 augustus 2021**. [Meer informatie...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
+| EOL van gegevensbronnen van volledige verwerking | 12 april 2021 | Adobe is van plan om volledige verwerkingsgegevensbronnen **op 31 juli 2021** te vervangen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. |
+| Aanmeldingsupdate voor [!UICONTROL Report Builder] | 9 april 2021 | Op 14 januari 2021 zijn tijdens de [!UICONTROL Report Builder]-aanmeldupdates afhankelijkheden van oudere technologieën verwijderd en is het aanmeldingsproces uitgelijnd met Experience Cloud. Experience Cloud gebruikt uw Enterprise ID (e-mail en wachtwoord). Om ononderbroken toegang tot [!UICONTROL Report Builder] te verzekeren, update [!UICONTROL Report Builder] toe:voegen-binnen aan versie 5.6.47 of later **tegen 22 juli 2021**. Report Builder versie 5.6.47 en hoger ondersteunt alleen het aanmelden bij de Experience Cloud en ondersteunt geen Single Sign-On. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -183,12 +182,9 @@ Nieuwe cursussen, zelfstudies en artikelen in [!DNL Analytics] en [!UICONTROL Cu
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2021 | [Aan de slag met Customer Journey Analytics voor beheerders](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-A-1-2020.1) | Cursus | Leer hoe te opstelling, vorm, en beheer Customer Journey Analytics. Leer sommige basisconcepten om u een stichting te geven, en dan in meer configuratiestappen te bewegen. De cursus wordt dan afgekapt met enkele aanbevelingen voor het migreren van berekende metriek en segmenten van Adobe Analytics naar Customer Journey Analytics. |
-| Juni 2021 | [Interne rapporten voor sitezoekopdrachten configureren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/configure-internal-site-search-reports.html?lang=en) | Video | Maak en configureer vrije-formuliertabellen in Analysis Workspace om de interne zoekfunctionaliteit op uw site te analyseren. |
-| Juni 2021 | [Web SDK-variabelen toewijzen aan Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.html?lang=en) | Video | Leer hoe te om analysevariabelen van het Web SDK tot Adobe Analytics in kaart te brengen gebruikend de Regels van de Verwerking. |
-| Juni 2021 | [Interne onderzoeksvariabelen uitvoeren gebruikend Web SDK](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.html?lang=en) | Video | Leer hoe te om SDK van het Web te gebruiken om de variabelen van Adobe Analytics voor een intern onderzoek te uitvoeren het volgen van gebruiksgeval. Bekijk de gegevensstroom van de pagina naar de Experience Edge en vervolgens naar Adobe Analytics. |
-| Juni 2021 | [Interne zoekvariabelen implementeren met AppMeasurement](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.html?lang=en) | Video | In deze video leert u hoe u interne zoekvariabelen voor Adobe Analytics implementeert met behulp van Experience Platform Data Collection/Launch, inclusief zoekterm, aantal resultaten en andere. |
-| Juni 2021 | [De zakelijke vereisten voor het zoeken op uw interne site definiëren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.html?lang=en) | Video | Wanneer u besluit interne zoekopdrachten op uw site bij te houden, is het belangrijk eerst te bepalen welke aspecten van de zoekopdracht u wilt bijhouden en welke acties u kunt ondernemen bij het analyseren van de resultaten. Deze video doorloopt het documenteren van bedrijfsvereisten. |
+| Juli 2021 | [De Donut-visualisatie gebruiken in uw project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-donut-visualization.html?lang=en) | Video | Leer hoe u de Donut-visualisatie toevoegt en configureert in uw Analysis Workspace-project. |
+| Juli 2021 | [Gestapelde visualisaties voor staafbalken en balken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.html?lang=en) | Video | In deze video bespreken we het toevoegen en configureren van de staaf, gestapelde staaf, horizontale balk en horizontale staafgestapelde visualisaties in uw project in Analysis Workspace. Hoewel deze visualisaties als fundamenteel worden beschouwd, kunnen ze u helpen uw gegevensverhalen te vertellen en uw analisten inzicht te geven. |
+| Juli 2021 | [Gebied en gebied gestapeld](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/area-and-area-stacked.html) | Video | Leer hoe u Gebied en Gebied gestapelde visualisaties aan uw project in Analysis Workspace toevoegt en leer een paar tips om de visualisaties aan uw behoeften aan te passen. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -202,66 +198,91 @@ Oplossingen en verbeteringen in de Audience Manager.
 
 ### Oplossingen en verbeteringen {#aam-fixes-and-improvements}
 
-* Geeft een verhoging aan [het rapport van het Gebruik van de Activiteit](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=en) vrij die u nu toestaat om gegevens ouder dan één jaar te herzien. (AAM-58268)
-* Adobe voorziet klanten van de Audience Manager van de sleutels van de gebruikerstoegang voor de Audience Manager Amazon S3 emmers. Om veiligheidsredenen worden de toetsen nu automatisch uitgeschakeld na 100 dagen inactiviteit. Raadpleeg voor meer informatie de vraag onder aan de pagina in de veelgestelde vragen over gegevensverzameling en productintegratie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-data-collection.html?lang=en).[
+* Wanneer u een IMS-gebruikersaccount uit de Admin Console verwijdert, is de gebruikersaccount niet uit de Audience Manager verwijderd als deze deel uitmaakte van een gebruikersgroep. IMS-gebruikersaccounts worden nu automatisch ontkoppeld uit gebruikersgroepen van Audience Managers wanneer ze uit de Admin Console worden verwijderd. (AAM-57633)
 
 ## ![Pictogram](/assets/aem.png) Experience Manager {#aem}
 
-Nieuwe functies, oplossingen en updates in Experience Manager (AEM). Adobe raadt klanten met On-Premise-implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
+Nieuwe functies, correcties en updates in Experience Manager. Adobe raadt klanten met On-Premise-implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
 
 >[!NOTE]
 >
 >Adobe raadt aan de pagina [Updates en roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) van de release van de Experience Manager te bezoeken om actuele informatie over de release te blijven.
 
-### Productupdates Experience Manager
-
-* **Experience Manager 6.5.9.0**
-
-   Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 vrijgegeven 27 mei 2021) is een belangrijke update die nieuwe eigenschappen, zeer klant-gevraagde verhogingen, betere prestaties, stabiliteit, en veiligheid omvat, die sinds de algemene beschikbaarheid van AEM 6.5, April 2019 wordt vrijgegeven.
-
-   * [Aanvullende informatie](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
-   * [Te leveren items voor release van AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
-
 ### Uitstoot van Experience Manager-producten
 
 * **Experience Manager as a Cloud Service**
 
-   Nieuwe functies in Experience Manager als Cloud Service.
+   Nieuwe functies in Experience Manager als Cloud Service:
 
-   >[!NOTE]
-   >
-   >Experience Manager als Cloud Service Junilistan eigenschapversie is nu beschikbaar. Als u de nieuwe functies wilt ervaren, moet u op zijn minst op Experience Manager 2021.6.5561 werken.
+   * **XML-documentatie voor Adobe Experience Manager als Cloud Service**
 
-   * **Adobe Experience Manager als Cloud Service Foundation**
+      * **Inheemse het beheerssysteem**  van de componenteninhoud van de wolk - de Documentatie van XML voor Adobe Experience Manager is beschikbaar als Cloud Service. Kies voor de omgeving waarin u documentatie en inhoud op schaal kunt ontwerpen, beheren en leveren.
+      * **Documentatie**  op basis van AI: functie voor slimme tags waarmee relevante metagegevenstrefwoorden automatisch kunnen worden geïdentificeerd en uit de tekst kunnen worden geëxtraheerd voor metagegevenslabels.
+      * **Nieuwe vormgeving voor de webeditor**  - Nieuwe vormgeving en nieuw gevoel met wijzigingen in de gebruikersinterface waardoor deze intuïtiever wordt. De onderliggende architectuur is veranderd van koraal in een op reacties gebaseerd spectrum.
+   * **Experience Manager als Cloud Service**
 
-      * [Prereleaskanaal](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/prerelease.html?lang=en): Een maand voor live in productie gaan, kunt u de volgende functies voorvertonen.
-      * [API-afdrukking](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/deprecated-apis.html?lang=en): Een lijst met de meest recente verouderde API&#39;s.
-      * [Experience Manager als Cloud Service SDK Build Analyzer Maven Insteekmodule](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en): Werk uw gemaakte projecten bij naar de nieuwste versie, die een verouderde Java™ API-controle en andere verbeteringen bevat.
-   * **Sites Experience Managers als Cloud Service**
-
-      U kunt nu de inhoud op een nieuwe [Voorvertoningslaag](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) controleren om de weergave van de uiteindelijke ervaring te simuleren zoals u zou doen in de laag Publiceren. Deze nieuwe functionaliteit wordt toegelaten door de Beheerde tovenaar van de Publicatie van de Plaatsen van de Experience Manager, die u een publicatiebestemming tussen [!UICONTROL Publish] of [!UICONTROL Preview] laat kiezen. De ervaringen op [!UICONTROL Preview] kunnen dan door middel van een specifieke URL worden betreden. Na validatie op [!UICONTROL Preview] kunt u inhoud publiceren van [!UICONTROL Author] tot [!UICONTROL Publish] zoals gewoonlijk. Het inschakelen van de [!UICONTROL Preview]-service in Experience Manager als een Cloud Service-omgeving wordt in de komende weken geleidelijk uitgevoerd.
-
+      * [!UICONTROL Preview Service] op doorlopende basis wordt ingezet voor alle programma&#39;s. Klanten worden op de hoogte gesteld van hun product wanneer hun programma is ingeschakeld voor [!UICONTROL Preview Service]. Zie [Toegang tot voorvertoningsservice](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
+      * De gedownloade Gedeelde Gedeelten tijdens de bouwstijlstap worden nu in het voorgeheugen ondergebracht tussen pijpleidingslooppas. Deze functie wordt in de komende weken ingeschakeld voor klanten.
+      * U kunt de naam van het programma nu bewerken via het dialoogvenster [!UICONTROL Edit Program].
+      * De standaardtaknaam die tijdens zowel project verwezenlijking als in het gebrek [!UICONTROL Push] bevel door middel van het beheren van de werkschema&#39;s van de it wordt gebruikt is veranderd in `main`.
+      * De ervaring met het bewerken van programma&#39;s in de interface is vernieuwd.
+      * De kwaliteitsregel `ImmutableMutableMixCheck` is bijgewerkt om `/oak:index` knopen als onveranderlijk te classificeren.
+      * De kwaliteitsregels `CQBP-84andCQBP-84--dependencies` zijn geconsolideerd in één enkele regel. Als onderdeel van deze consolidatie, identificeert het aftasten van gebiedsdelen nauwkeuriger kwesties in derdegebiedsdelen die aan runtime van de Experience Manager worden opgesteld.
+      * Om verwarring te voorkomen, zijn de rijen van het de segmentsegment Publish Experience Manager en Publish Dispatcher op de pagina van de Details van het Milieu geconsolideerd.
+      * Er is een nieuwe code kwaliteitsregel toegevoegd om de structuur van `damAssetLucene`indexen te valideren. Zie [Aangepaste DAM Asset Lucene Oak Indexes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/custom-code-quality-rules.html?lang=en#oakpal-damAssetLucene-sanity-check).
+      * Op de pagina met omgevingsdetails worden nu meerdere domeinnamen voor de services Publiceren en Voorvertoning weergegeven, al naar gelang van toepassing. Zie [Omgevingsdetails](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#viewing-environment).
    * **Elementen Experience Managers als Cloud Service**
 
-      Nieuwe functies in het prereleasekanaal:
+      Nieuwe functies in elementen:
+
+      * [!UICONTROL Content Automation] Experience Manager Assets kan de Adobe Creative Cloud API&#39;s gebruiken om de productie van elementen op schaal te automatiseren. Het verbetert de snelheid van de inhoud door de benodigde tijd en herhalingen aanzienlijk te verminderen om variaties van hetzelfde element te maken. Voor deze functionaliteit is geen programmering vereist en werken vanuit de DAM. Zie [Variaties van elementen genereren met Adobe Creative Cloud-integratie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
+      * [Adobe Asset Link 3.0](https://helpx.adobe.com/nl/enterprise/using/adobe-asset-link.html) voor Adobe Photoshop, Adobe Illustrator en Adobe InDesign en Adobe  [Adobe Asset Link 2.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html) voor Adobe XD is beschikbaar. Het steunt Assets Essentials en de capaciteit om automatisch met Experience Manager als Cloud Service of Assets Essentials te verbinden.
+      * Met het [Hulpmiddel voor het bulkinvoeren van middelen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) kunt u metagegevens toevoegen tijdens een bulkopname.
+
+      Nieuwe functies in het prereleasekanaal van middelen:
+
+      * De weergave-instellingen worden uitgebreid, zodat u een standaardweergave en een standaardsorteerparameter kunt kiezen.
+      * De [!UICONTROL Link Share] downloadfunctionaliteit gebruikt asynchrone downloads die de downloadsnelheid verhogen. Zie [Gedeelde elementen downloaden via koppelingen delen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
+      * U kunt de mappen zoeken en filteren op basis van voorspelden van eigenschappen.
+      * Experience Manager-elementen sluiten de PDF Viewer in om een voorvertoning van de ondersteunde documentindelingen weer te geven. Het wordt aangedreven door Adobe Document Cloud. Met deze functie kunt u een voorvertoning weergeven van PDF- en andere bestanden met meerdere pagina&#39;s zonder complexe verwerking. Het verbetert de eigenschappariteit met Experience Manager 6.5. De besturingselementen in de voorvertoning zijn zoomen, naar pagina&#39;s navigeren, besturingselementen in het dok ongedaan maken en weergave op volledig scherm. De geïntegreerde PDF-viewer ondersteunt de bestandsindelingen AI, DOCX, INDD, PDF en PSD. U kunt opmerkingen maken over het element zelf, maar opmerkingen en annotaties in het PDF-bestand worden niet ondersteund.
+      * Een gebruikerservaring-uitbreiding geeft het aantal elementen in een map weer. Voor meer dan 1000 middelen in een omslag, toont de Middelen 1000+.
+      * U kunt een metagegevensschema rechtstreeks toepassen op een map in de eigenschappen ervan.
+   * **Sites Experience Managers als Cloud Service**
+
+      Nieuwe functies:
+
+      * Publiceren naar voorvertoningsniveau wordt nu weergegeven als paginastatus in de gebruikersinterface van Sitebeheer.
+      * Publiceren naar Voorvertoningsniveau bevat nu een URL voor de voorvertoning aan het einde van de handeling en de URL blijft voor latere referentie behouden in pagina-eigenschappen.
+   * **Experience Manager Forms als Cloud Service**
+
+      Nieuwe functies:
 
       * Metagegevensschema&#39;s kunnen rechtstreeks op de mapeigenschappen worden toegepast.
-      * Met het gereedschap [!UICONTROL Asset Bulk Ingestor] kunt u metagegevens toevoegen tijdens een bulkopname.
+      * Met het gereedschap Asset Bulk Ingestor kunt u metagegevens toevoegen tijdens een grote opname.
       * Een gebruikerservaring-uitbreiding geeft het aantal elementen in een map weer. Voor meer dan 1000 elementen in een map wordt bij Experience Manager Assets 1000+ weergegeven.
 
-      Nieuwe functies in [!UICONTROL Dynamic Media]:
+      Bètafunctie van Forms:
 
-      * Dankzij de Pixelverhouding van Smart Imaging Device (DPR) en de optimalisatie van de netwerkbandbreedte kunt u afbeeldingen van de beste kwaliteit efficiënt leveren op apparaten met beeldschermen met hoge resolutie en een beperkte netwerkbandbreedte. Zie [Veelgestelde vragen over slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
+      * **Experience Manager Forms als Cloud Service - Communicatie**  - Communicatie APIs helpt u XDP malplaatjes en de gegevens van XML combineren om drukdocumenten in diverse formaten te produceren. Met de service kunt u documenten in synchrone modus genereren. Met de API&#39;s kunt u toepassingen maken waarmee u:
+         * Genereer documenten door sjabloonbestanden te vullen met XML-gegevens.
+         * Uitvoerformulieren genereren in verschillende indelingen, waaronder niet-interactieve PDF-afdrukstromen.
+         * Afdruk-PDF&#39;s genereren op basis van een XFA-formulier, PDF en Adobe Acrobat-formulier (AcroForm).
+
+      U kunt naar [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) schrijven om u aan te melden voor het bètaprogramma.
+
+   * **Experience Managers Screens als Cloud Service**
+
+      * Bulk Device Registration Management betekent dat het provisioning van enorme hoeveelheden spelerapparaten sneller en efficiënter verloopt.
+      * Verbeterde zoek- en filteropties voor de inventarisweergaven Apparaat, Weergave en Kanaal.
+      * Momentopname van apparaatgezondheid bespaart tijd door een kritieke status in één oogopslag te bieden.
+      * De pagina met objectdetails bevat een overzicht van de meest relevante informatie voor elk object in uw project.
 
 
 
-### **Gemeenschap Experience Manager**
 
-* [One-Stop-Shop voor alle Blogs van de Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
 
-* [Richtlijnen voor het indienen van een nieuw Experience Manager-idee](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/td-p/382376)
 
-* [Adobe Summit 2021 Sneaks met Dan Levy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865): Eenmaal per jaar, heeft elke Adobe werknemer, van ingenieurs en gegevenswetenschappers tot UX-ontwerpers en productmanagers, de kans om innovatieve ideeën te delen om de manier te ontwikkelen waarop merken met hun klanten communiceren. Doe mee voor Adobe Sneaks, waar we de zeven belangrijkste projecten delen, die de nieuwste technologieën gebruiken op gebieden als AI en toepassingen met lage code.
+
 
 ### Experience Manager-releasegegevens
 
@@ -277,7 +298,8 @@ Alle Experience Manager-releaseopmerkingen worden op de volgende pagina&#39;s bi
 * [Opmerkingen bij de release Experience Manager Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
 * [Opmerkingen bij de release van Experience Manager-bureaublad](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
 * [Opmerkingen bij de release Experience Manager Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
-* [Releaseopmerkingen bij Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
+* [Releaseopmerkingen bij Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
+* [Releaseopmerkingen bij Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
 
 ### Nieuwe cursussen en tutorials voor Experience Manager {#tutorials-aem}
 
@@ -285,14 +307,8 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2021 | [Voer de methodes van de interface uit](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/implement-interface.html?lang=en) | Artikel | Leer hoe u de interfacemethoden implementeert om PDF&#39;s te maken met de Document Cloud REST API. |
-| Juni 2021 | [Service-interface maken](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-interface.html) | Artikel | Definieer de methoden in de interface die u toegankelijk wilt maken. |
-| Juni 2021 | [Aangepaste OSGi-configuratie maken](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-doc-cloud-configuration.html?lang=en) | Artikel | Leer over de configuratie van douane OSGi zodat kunt u Adobe I/O projectdetails vangen. |
-| Juni 2021 | [Inhoud analyseren](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/get-content-analyzer.html?lang=en) | Artikel | Leer hoe u het JSON-onderdeel maakt met informatie over de invoerparameters voor de REST-aanroep PDF maken. |
-| Juni 2021 | [Aangepaste processtap maken](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/custom-process-step.html?lang=en) | Artikel | Geef de volledige code weer van de aangepaste processtap waarmee de oorspronkelijke bestanden worden geconverteerd en vervangen door de geconverteerde PDF&#39;s. Deze aangepaste stap zoekt naar alle bijlagen onder de mapnaam, die als een procesargument in de workflow wordt opgegeven. In deze aangepaste processtap worden de methoden van de aangepaste `DocumentCloudSDKService` gebruikt om PDF&#39;s te maken. |
-| Juni 2021 | [GrafiekQL Blijvende query&#39;s](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/graphql-persisted-queries.html?lang=en) | Video | Leer hoe u Persisted Queries in Experience Manager kunt inschakelen, maken, bijwerken en uitvoeren. |
-| Juni 2021 | [Uw eerste servlet maken in AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-servlet.html?lang=en) | Artikel | Stel uw eerste slingerservlet samen, zodat u gegevens kunt samenvoegen met een formuliersjabloon. |
-| Juni 2021 | [Creërend uw eerste Dienst OSGi met de vormen van de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-osgi-service.html?lang=en) | Artikel | Stel uw eerste OSGi-service samen met AEM Forms, zodat u PDF kunt genereren door gegevens samen te voegen met een sjabloon. |
+| Juli 2021 | [XML-documentatie voor Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | Artikel | Leer hoe [!UICONTROL XML Documentation Solution] alle kernfuncties CCMS, zoals samenwerking, overzicht, vertaling, onderzoek, en rapporten voor inhoud DITA aanbiedt. Met deze functies kunnen auteurs meer doen in minder tijd dankzij efficiënt hergebruik van inhoud en krachtige workflows. |
+| Juli 2021 | [Grafiek zonder kop AEMQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | Video | Leer hoe u inhoudsfragmenten in Adobe Experience Manager (AEM) definieert en gebruikt voor gebruik met GraphQL. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -316,29 +332,23 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen die worden vrijgegeven:
 
-* **De nieuwe Adobe Campaign v8** biedt aanzienlijke verbeteringen op het gebied van infrastructuur, beveiliging, leverbaarheid en controle. Adobe Campaign v8 verbetert de schaal en snelheid aanzienlijk, met de mogelijkheid om een groter aantal klantprofielen te beheren, alsook veel hogere leveringspercentages en transacties per uur. Meer informatie vindt u in de [Campagne v8-documentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
-
-* **Adobe Campaign Classic v7 21.1.3 release:** Meer informatie in de  [Campaign Classic v7 Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en).
-
-* **Adobe Campaign Standard 21.2-release:** Meer informatie in de Opmerkingen bij de release  [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en).
+* [Opmerkingen bij de release Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+* [Opmerkingen bij de release Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 ### Nieuwe [!UICONTROL Campaign] cursussen en zelfstudies {#tutorials-campaign}
 
 | Gepubliceerd | Naam | Oplossing | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2021 | [Campaign Standard integreren met Analytics om uw e-mailmarketing te optimaliseren](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2021.1.integration) | Campaign Standard | (Cursus) Leer hoe u Campaign Standard met Adobe Analytics kunt integreren en uw marketingstrategieën voor e-mail kunt optimaliseren met behulp van realtime gegevens. Deze cursus laat u zien hoe u een rapport van de Campaign Standard in Adobe Analytics bouwt. Dan, leer hoe te om Experience Cloud Triggers en Platform launch te gebruiken om marketing en transactionele berichten te vormen die op klantenactiviteit worden gebaseerd. |
-| Juni 2021 | [Adobe Campaign V8-tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) | Campagne V8 | Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign V8. |
-| Juni 2021 | [E-mailverzendingen maken en ontwerpen](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/create-and-design-email-deliveries.html) | Campagne V8 | (Video) Begrijp het proces van het maken van een e-maillevering en leer hoe u e-mailinhoud ontwerpt en personaliseert. |
-| Juni 2021 | [E-mails ontwerpen voor verzending](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/design-emails-for-deliverability.html) | Campagne V8 | (Video) Leer hoe u best practices op het gebied van leesbaarheid kunt toepassen op uw e-mailleveringen. |
-| Juni 2021 | [Vermoeidheid beheren met behulp van typologische regels](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/fatigue-management/typology-rules-for-fatigue-management.html) | Campagne V8 | (Video) Leer hoe u vermoeidheidsbeheer implementeert door typologische regels toe te passen. |
-| Juni 2021 | [Vermoeidheidsbeheer instellen met filters](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/fatigue-management/fatigue-management-using-filters.html) | Campaign Standard | (Video) Leer hoe u moeheidsbeheer in Adobe Campaign implementeert met behulp van filters. |
+| Juli 2021 | [Targets verfijnen door queryresultaten te combineren](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/refine-targets-by-combining-query-results.html) | Campagne v8 | Leer hoe u uw doel kunt verfijnen door queryresultaten te combineren in een workflow met behulp van de activiteiten voor doorsnede en unie. |
+| Juli 2021 | [ Marketingplannen, -programma’s en -campagnes maken](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/getting-started/create-a-marketing-plan-programs-and-campaigns.html) | Campagne v8 | Leer hoe u een marketingplan, -programma en -campagne maakt, eigenschappen voor een campagne instelt en de planning gebruikt. |
+| Juli 2021 | [Lidmaatschapsservices configureren en beheren](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/configure-and-manage-subscription-services.html) | Campagne v8 | Leer lidmaatschappen instellen en beheren en leden targeten. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Help-informatie en bronnen voor Campaign
 
-* Adobe Campaign Standard: [Help Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl) - [Releaseplanning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=en)
-* Adobe Campaign Classic: [Help Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
+* Adobe Campaign Standard: [Help Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) - [Releaseplanning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=en)
+* Adobe Campaign Classic: [Help Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
 * Adobe Campaign - Configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=en)
 
 ## ![](/assets/advertising-cloud.png) IconAdvertising {#adcloud}
@@ -372,7 +382,7 @@ Laatst bijgewerkt: **19 mei 2021, voor release 18 mei**
 
 Zie Magento Commerce en Open Source [releaseopmerkingen](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) voor de meest recente releasegegevens.
 
-## ![Pictogram](/assets/target.png)[!DNL Target] {#target}
+## ![Pictogram](/assets/target.png) [!DNL Target] {#target}
 
 Zie [[!DNL Target]  releaseopmerkingen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) voor de recentste releasegegevens.
 
@@ -398,7 +408,19 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cl
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2021 | [Adobe Acrobat for Google Drive](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle.html) | Video | U hebt rechtstreeks toegang tot tijdbesparende PDF-gereedschappen en workflows voor e-handtekeningen in de Google Drive-app. |
+| Juli 2021 | [Vloeiende modus in Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html) | Video | Leer hoe vloeiende modus de mobiele ondertekeningservaring verbetert. Hiermee vermindert u knijpen en zoomen, zodat u gemakkelijk op invulbare velden kunt focussen. |
+| Juli 2021 | [Aan de slag met de Adobe Sign API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/signapi.html) | Artikel | Leer hoe ontwikkelaars de API van het Teken kunnen gebruiken om toepassingen en werkschema&#39;s te verbeteren die met de Diensten van het Document van Adobe worden gecreeerd. |
+| Juli 2021 | [Digital Document Publishing met Adobe PDF Embed API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/ddppdfembedapi.html) | Artikel | Door een PDF-viewer in te sluiten in uw webpagina&#39;s, kunt u gebruikers toestaan documenten weer te geven zonder uw HTML en CSS opnieuw te ontwerpen of de toegang tot uw website te belemmeren. |
+| Juli 2021 | [Student-leraar Samenwerking met Adobe Document Services-API&#39;s](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html) | Artikel | Meer informatie over een officiële SDK voor `Node.js`-toepassingen voor toegang tot de API voor PDF-services. Hiermee kunt u documenten zoals Microsoft Word of Microsoft Excel converteren naar PDF. |
+| Juli 2021 | [Job Posting with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/jobposting.html?lang=en) | Artikel | Als u een website met meerdere gebruikers maakt, is het van cruciaal belang dat u een ervaring ontwerpt die iedereen een vloeiende ervaring biedt. Leer hoe u automatisch alle geüploade documenten naar PDF kunt converteren en deze inline kunt insluiten in de publicatie. |
+| Juli 2021 | [Maken en bewerken van rapporten met Adobe Document Services-API&#39;s](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reportcreation.html?lang=en) | Artikel | Met PDF&#39;s kunt u eenvoudig rijke documenten met tabellen, afbeeldingen en interactieve inhoud delen in een indeling die iedereen kan bekijken. Leer hoe u deze statistieken kunt delen met hun bestuurders, aandeelhouders, donoren of andere belanghebbenden. |
+| Juli 2021 | [Revisies en goedkeuringen met API&#39;s van Adobe Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reviews.html?lang=en) | Artikel | Leer hoe u een praktijkvoorbeeld en een goedkeuringskwestie kunt oplossen met behulp van verschillende Adobe Document Services-API&#39;s. |
+| Juli 2021 | [Zoeken en indexeren met API&#39;s van Adobe Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/searching.html?lang=en) | Artikel | In deze zelfstudie worden de fantastische functies van Adobe Document Services API&#39;s besproken en wordt uitgelegd hoe u deze eenvoudig kunt gebruiken om documenten te archiveren en te digitaliseren. We verkennen deze functies door een Express NodeJS-toepassing te maken en vervolgens API&#39;s van Document Services voor archivering, digitalisering en documenttransformatie te integreren. |
+| Juli 2021 | [Het beheren van de Brieven van het Aanbod van de Werknemer met de Diensten APIs van het Document van Adobe](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html) | Artikel | Dit leerprogramma loopt door vestiging een Uitdrukkelijke project van de Knoop die een Webvorm voor een gebruiker zal tonen om met werknemersdetails te bevolken. Deze details zullen Document Services via het web gebruiken om een aanbiedingsbrief te genereren als PDF die vervolgens kan worden geleverd aan een klant voor ondertekening met behulp van de Adobe Sign API. |
+| Juli 2021 | [Juridische contracten beheren met Adobe Document Services API&#39;s](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html) | Artikel | In deze zelfstudie verkennen we de functies van Adobe Document Services API&#39;s in het genereren van aangepaste invoervelden in documenten. We onderzoeken ook hoe u deze gegenereerde documenten eenvoudig kunt converteren naar een PDF (protected portable document format) om gegevensmanipulatie te voorkomen. |
+| Juli 2021 | [Een NDA maken met API&#39;s voor Document Services Adobe](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html) | Artikel | Leer hoe te om een malplaatje van Microsoft Word voor uw bedrijf NDA tot stand te brengen. Met de gratis add-in van Adobe voor Microsoft Word, Adobe Document Generation Tagger, kunt u &quot;tags&quot; invoegen om de dynamische waarden in te voeren. U leert ook hoe u de JSON-gegevens aan de sjabloon kunt doorgeven en een dynamische PDF kunt maken. U kunt die PDF vervolgens via e-mail verzenden of de PDF tonen aan uw medewerkers in hun browser, afhankelijk van uw zakelijke vereisten en doelstellingen. |
+| Juli 2021 | [Verkoopvoorstellen en -contracten beheren met API&#39;s van Adobe Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/sales.html) | Artikel | Leer hoe u dynamische gegevens en workflows kunt gebruiken om een efficiënt proces te maken voor het maken van verkoopvoorstellen. |
+| Juli 2021 | [Facturen verwerken met de Adobe Document Generation API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/invoices.html?lang=en) | Artikel | Leer hoe u de API voor het genereren van Adobe-documenten kunt gebruiken om automatisch facturen te genereren, de PDF&#39;s met een wachtwoord te beveiligen en elke klant een factuur te sturen. Het enige wat nodig is, is enige kennis van Node.js, JavaScript, Express.js, HTML en CSS. |
 
 {style=&quot;table-layout:auto&quot;}
 
