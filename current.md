@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 96f2c28dfcebf903d11fa5fc02ab90405e0e4888
+source-git-commit: d33f6947012a86061ab4431f1b58c56dfa53910a
 workflow-type: tm+mt
-source-wordcount: '3907'
+source-wordcount: '3893'
 ht-degree: 16%
 
 ---
@@ -47,7 +47,7 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 ## ![UI-componenten van ](/assets/ec_appicon_24.png) IconExperience Cloud Central {#ecloud}
 
-Experience Cloud Central Interface-componenten bevatten updates die toegankelijk zijn via de uniforme productkoptekst, zoals zelfhulp, zoekopdrachten en voorkeuren voor gebruikersaccounts. Updates voor Personen, Plaatsen (Locatie) en Productbeheer vindt u hier.
+Experience Cloud Central Interface Components omvat updates die vanuit de uniforme productkoptekst worden benaderd, zoals zelfhulp, zoekopdrachten en voorkeuren voor gebruikersaccounts. Updates voor Personen, Plaatsen (Locatie) en Productbeheer vindt u hier.
 
 | Functie | Datum | Beschrijving |
 | ------- | ------- | -------|
@@ -72,7 +72,7 @@ De meest recente updates van de Status van het Systeem van de Adobe worden gevon
 Bevat de update-informatie van de release en nieuwe documentatie voor Experience Platform en Experience Platform Launch.
 
 * **Opmerkingen bij de release van** [Experience Platform van 30 juni 2021](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-* **17 mei 2021** [Opmerkingen](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html)  bij de release Data Collection voor Experience Platforms (voorheen Experience Platform Launch)
+* **17 mei 2021** [Opmerkingen](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html)  bij de release Data Collection voor Experience Platforms (voorheen Experience Platform Launch)
 
 ### Zelfstudies en cursussen voor Experience Platforms {#tutorials-platform}
 
@@ -138,7 +138,7 @@ Releasedatum: **22 juli 2021**
 
 | Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ------- |
-| Nieuwe Adobe Analytics-openingspagina (bètaversie openen) | De nieuwe landingspagina voor Adobe Analytics brengt zowel Analysis Workspace als Reports &amp; Analytics samen in één interface en toegangspunt onder de Workspace-paraplu. Het kenmerkt een nieuwe de homepage van de projectmanager, een bijgewerkt rapportenmenu en gemoderniseerde rapporten, evenals een nieuwe het leren sectie om u met het worden effectiever beginnen te helpen. De nieuwe pagina verbetert de ontdekkbaarheid en begeleidt gebruikers van Rapporten &amp; van Analytics aan een betere rapporteringservaring in Werkruimte. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html) | 26 juli 2021 |
+| Nieuwe Adobe Analytics-openingspagina (bètaversie openen) | De nieuwe landingspagina voor Adobe Analytics brengt zowel Analysis Workspace als Reports &amp; Analytics samen in één interface en toegangspunt onder de Workspace-paraplu. Het kenmerkt een nieuwe de homepage van de projectmanager, een bijgewerkt rapportenmenu, en gemoderniseerde rapporten, evenals een nieuwe het leren sectie om u met het worden effectiever beginnen te helpen. De nieuwe pagina verbetert de ontdekkbaarheid en begeleidt gebruikers van Rapporten &amp; van Analytics aan een betere rapporteringservaring in Werkruimte. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html) | 26 juli 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -152,7 +152,7 @@ Releasedatum: **22 juli 2021**
 
 ### Oplossingen in Adobe Analytics {#aa-fixes}
 
-* Probleem verholpen waarbij waarschuwingen niet werden verzonden en fouten werden weergegeven bij het maken van nieuwe waarschuwingen. (AN-263962)
+* Probleem verholpen waarbij waarschuwingen niet werden verzonden en fouten werden weergegeven bij het maken van waarschuwingen. (AN-263962)
 * Probleem verholpen met virtuele rapportsuites in Analysis Workspace: Gegevens buiten het opgegeven datumbereik zijn geëxtraheerd. (AN-263121)
 * Probleem verholpen waarbij Workspace-projecten niet werden geopend (time-out). (AN-247248)
 * Probleem verholpen waarbij gegevens uit rapportsuite niet konden worden geladen onder [!UICONTROL Server Call Usage]. (AN-264215)
@@ -168,7 +168,7 @@ AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-25656
 | Einde van levensduur voor drie API-analysemogelijkheden | 15 juli 2021 | Op **18 augustus 2021** zullen de volgende services van Analytics Legacy API hun einddatum bereiken en worden afgesloten. De huidige integratie die met deze services wordt gebouwd, werkt niet meer op die dag.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Adobe heeft een [Oudere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) geleverd om uw vragen te helpen beantwoorden en hulp te bieden bij het volgen van uw stappen. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth-accounts kunnen migreren naar een [Adobe I/O](https://console.adobe.io/home?mv=emailAantal) Analytics-integratieaccount, die kan worden gebruikt voor toegang tot de API&#39;s voor 1.4 Analytics en 2.0 Analytics. |
 | EOL van Adobe Data Connectors | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] worden mogelijk gemaakt door verouderde technologie die niet meer werkbaar is of ondersteund wordt. Een nieuwe norm is beschikbaar in [het Programma van de Partner van de Uitwisseling van de Adobe](https://partners.adobe.com/exchangeprogram/experiencecloud). U kunt die standaard gebruiken om integratie te blijven aanbieden en ondersteunen. De officiële einddatum is **1 augustus 2021**. [Meer informatie...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
 | EOL van gegevensbronnen van volledige verwerking | 12 april 2021 | Adobe is van plan om volledige verwerkingsgegevensbronnen **op 31 juli 2021** te vervangen. Vanaf 25 maart 2021 kan er geen nieuwe invoer van dit type meer worden gecreëerd. Gebruik [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) om dit type gegevens te importeren. |
-| Aanmeldingsupdate voor [!UICONTROL Report Builder] | 9 april 2021 | Op 14 januari 2021 zijn tijdens de [!UICONTROL Report Builder]-aanmeldupdates afhankelijkheden van oudere technologieën verwijderd en is het aanmeldingsproces uitgelijnd met Experience Cloud. Experience Cloud gebruikt uw Enterprise ID (e-mail en wachtwoord). Om ononderbroken toegang tot [!UICONTROL Report Builder] te verzekeren, update [!UICONTROL Report Builder] toe:voegen-binnen aan versie 5.6.47 of later **tegen 22 juli 2021**. Report Builder versie 5.6.47 en hoger ondersteunt alleen het aanmelden bij de Experience Cloud en ondersteunt geen Single Sign-On. |
+| Aanmelden bij update naar [!UICONTROL Report Builder] | 9 april 2021 | Op 14 januari 2021 zijn tijdens de [!UICONTROL Report Builder]-aanmeldupdates afhankelijkheden van oudere technologieën verwijderd en is het aanmeldingsproces uitgelijnd met Experience Cloud. Experience Cloud gebruikt uw Enterprise ID (e-mail en wachtwoord). Om ononderbroken toegang tot [!UICONTROL Report Builder] te verzekeren, update [!UICONTROL Report Builder] toe:voegen-binnen aan versie 5.6.47 of later **tegen 22 juli 2021**. Report Builder versie 5.6.47 en hoger ondersteunt alleen het aanmelden bij de Experience Cloud en ondersteunt geen Single Sign-On. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -202,16 +202,14 @@ Oplossingen en verbeteringen in de Audience Manager.
 
 ## ![Pictogram](/assets/aem.png) Experience Manager {#aem}
 
-Nieuwe functies, correcties en updates in Experience Manager. Adobe raadt klanten met On-Premise-implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
+Adobe raadt aan regelmatig een bezoek te brengen aan de [Experience Manager releaseupdates en roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) pagina om op de releasegegevens actueel te blijven.
 
->[!NOTE]
->
->Adobe raadt aan regelmatig een bezoek te brengen aan de [Experience Manager releaseupdates en roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) pagina om op de releasegegevens actueel te blijven.
+### Experience Manager-releasegegevens {#aem-links}
 
-Koppelingen naar releasegegevens van Experience Manager:
+De nota&#39;s van de versie en andere verbindingen van de versieinformatie voor Experience Manager zijn hier:
 
-* [Experience Manager als informatie over de release van een Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * [Experience Manager als opmerkingen bij de release van Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Experience Manager als informatie over de release van een Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * [Opmerkingen bij de release Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
 * [Releaseopmerkingen bij de service Geautomatiseerde conversie van formulieren](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Opmerkingen bij de release Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
@@ -234,12 +232,12 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 
 {style=&quot;table-layout:auto&quot;}
 
-### Overige Help-bronnen voor Experience Manager
+### Andere Help-bronnen voor Experience Manager
 
 * [Handleidingen voor Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/landing/home.html?lang=en)
 * [Experience Manager 6.5 Introductie &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 - Introductiepagina](https://experienceleague.adobe.com/docs/experience-manager-64.html)
-* [Experience Manager 6.3 Introductie &amp; ondersteuning](https://helpx.adobe.com/nl/support/experience-manager/6-3.html)
+* [Experience Manager 6.3 Introductie &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
 * [Experience Manager 6.2 Thuis leren &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Oudere versies van de Documentatie van de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Gebruikershandleiding voor Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
@@ -335,14 +333,14 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cl
 | Juli 2021 | [Vloeiende modus in Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html) | Video | Leer hoe vloeiende modus de mobiele ondertekeningservaring verbetert. Hiermee vermindert u knijpen en zoomen, zodat u gemakkelijk op invulbare velden kunt focussen. |
 | Juli 2021 | [Aan de slag met de Adobe Sign API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/signapi.html) | Artikel | Leer hoe ontwikkelaars de API van het Teken kunnen gebruiken om toepassingen en werkschema&#39;s te verbeteren die met de Diensten van het Document van Adobe worden gecreeerd. |
 | Juli 2021 | [Digital Document Publishing met Adobe PDF Embed API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/ddppdfembedapi.html) | Artikel | Door een PDF-viewer in te sluiten in uw webpagina&#39;s, kunt u gebruikers toestaan documenten weer te geven zonder uw HTML en CSS opnieuw te ontwerpen of de toegang tot uw website te belemmeren. |
-| Juli 2021 | [Student-leraar Samenwerking met Adobe Document Services-API&#39;s](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html) | Artikel | Meer informatie over een officiële SDK voor `Node.js`-toepassingen voor toegang tot de API voor PDF-services. Hiermee kunt u documenten zoals Microsoft Word of Microsoft Excel converteren naar PDF. |
+| Juli 2021 | [Student-leraar Samenwerking met Adobe Document Services-API&#39;s](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html) | Artikel | Meer informatie over een officiële SDK voor `Node.js`-toepassingen voor toegang tot de API voor PDF-services. Op deze manier kunt u documenten zoals Microsoft® Word of Microsoft® Excel converteren naar PDF. |
 | Juli 2021 | [Job Posting with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/jobposting.html?lang=en) | Artikel | Als u een website met meerdere gebruikers maakt, is het van cruciaal belang dat u een ervaring ontwerpt die iedereen een vloeiende ervaring biedt. Leer hoe u automatisch alle geüploade documenten naar PDF kunt converteren en deze inline kunt insluiten in de publicatie. |
 | Juli 2021 | [Maken en bewerken van rapporten met Adobe Document Services-API&#39;s](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reportcreation.html?lang=en) | Artikel | Met PDF&#39;s kunt u eenvoudig rijke documenten met tabellen, afbeeldingen en interactieve inhoud delen in een indeling die iedereen kan bekijken. Leer hoe u deze statistieken kunt delen met hun bestuurders, aandeelhouders, donoren of andere belanghebbenden. |
 | Juli 2021 | [Revisies en goedkeuringen met API&#39;s van Adobe Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reviews.html?lang=en) | Artikel | Leer hoe u een praktijkvoorbeeld en een goedkeuringskwestie kunt oplossen met behulp van verschillende Adobe Document Services-API&#39;s. |
 | Juli 2021 | [Zoeken en indexeren met API&#39;s van Adobe Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/searching.html?lang=en) | Artikel | In deze zelfstudie worden de fantastische functies van Adobe Document Services API&#39;s besproken en wordt uitgelegd hoe u deze eenvoudig kunt gebruiken om documenten te archiveren en te digitaliseren. We verkennen deze functies door een Express NodeJS-toepassing te maken en vervolgens API&#39;s van Document Services voor archivering, digitalisering en documenttransformatie te integreren. |
-| Juli 2021 | [Het beheren van de Brieven van het Aanbod van de Werknemer met de Diensten APIs van het Document van Adobe](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html) | Artikel | Dit leerprogramma loopt door vestiging een Uitdrukkelijke project van de Knoop die een Webvorm voor een gebruiker zal tonen om met werknemersdetails te bevolken. Deze details zullen Document Services via het web gebruiken om een aanbiedingsbrief te genereren als PDF die vervolgens kan worden geleverd aan een klant voor ondertekening met behulp van de Adobe Sign API. |
+| Juli 2021 | [Het beheren van de Brieven van het Aanbod van de Werknemer met de Diensten APIs van het Document van Adobe](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html) | Artikel | Dit leerprogramma loopt door vestiging een Uitdrukkelijke project van de Knoop die een Webvorm voor een gebruiker zal tonen om met werknemersdetails te bevolken. Deze details gebruiken Document Services via het web om een aanbiedingsbrief te genereren als PDF die later kan worden geleverd aan een klant voor ondertekening met behulp van de Adobe Sign API. |
 | Juli 2021 | [Juridische contracten beheren met Adobe Document Services API&#39;s](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html) | Artikel | In deze zelfstudie verkennen we de functies van Adobe Document Services API&#39;s in het genereren van aangepaste invoervelden in documenten. We onderzoeken ook hoe u deze gegenereerde documenten eenvoudig kunt converteren naar een PDF (protected portable document format) om gegevensmanipulatie te voorkomen. |
-| Juli 2021 | [Een NDA maken met API&#39;s voor Document Services Adobe](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html) | Artikel | Leer hoe te om een malplaatje van Microsoft Word voor uw bedrijf NDA tot stand te brengen. Met de gratis add-in van Adobe voor Microsoft Word, Adobe Document Generation Tagger, kunt u &quot;tags&quot; invoegen om de dynamische waarden in te voeren. U leert ook hoe u de JSON-gegevens aan de sjabloon kunt doorgeven en een dynamische PDF kunt maken. U kunt die PDF vervolgens via e-mail verzenden of de PDF tonen aan uw medewerkers in hun browser, afhankelijk van uw zakelijke vereisten en doelstellingen. |
+| Juli 2021 | [Een NDA maken met API&#39;s voor Document Services Adobe](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html) | Artikel | Leer hoe u een Microsoft® Word-sjabloon maakt voor uw bedrijf NDA. Met de gratis add-in van Adobe voor Microsoft® Word, Adobe Document Generation Tagger, kunt u &quot;tags&quot; invoegen om de dynamische waarden in te voeren. U leert ook hoe u de JSON-gegevens aan de sjabloon kunt doorgeven en een dynamische PDF kunt maken. U kunt die PDF vervolgens via e-mail verzenden of de PDF tonen aan uw medewerkers in hun browser, afhankelijk van uw zakelijke vereisten en doelstellingen. |
 | Juli 2021 | [Verkoopvoorstellen en -contracten beheren met API&#39;s van Adobe Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/sales.html) | Artikel | Leer hoe u dynamische gegevens en workflows kunt gebruiken om een efficiënt proces te maken voor het maken van verkoopvoorstellen. |
 | Juli 2021 | [Facturen verwerken met de Adobe Document Generation API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/invoices.html?lang=en) | Artikel | Leer hoe u de API voor het genereren van Adobe-documenten kunt gebruiken om automatisch facturen te genereren, de PDF&#39;s met een wachtwoord te beveiligen en elke klant een factuur te sturen. Het enige wat nodig is, is enige kennis van Node.js, JavaScript, Express.js, HTML en CSS. |
 
