@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 906530244a4f60dd032aaafb772025478c42c017
+source-git-commit: db12e3c3021aa572c3f0e22be5c96e52fae78131
 workflow-type: tm+mt
-source-wordcount: '4813'
-ht-degree: 14%
+source-wordcount: '3861'
+ht-degree: 17%
 
 ---
 
@@ -50,8 +50,8 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 Experience Cloud Central Interface-componenten bevatten updates die toegankelijk zijn via de uniforme productkoptekst, zoals zelfhulp, zoekopdrachten en voorkeuren voor gebruikersaccounts. Updates voor Personen, Plaatsen (Locatie) en Productbeheer vindt u hier.
 
 | Functie | Datum | Beschrijving |
-| ------- | ------- | ------- |
-| Experience Cloud Global Search | 5 juli 2021 | Met deze versie, voegt het globale onderzoek van Experience Cloud Journey Orchestration aan het onderzoek naar bedrijfsvoorwerpen in Experience Cloud, zoals segmenten, gegevensreeksen, schema&#39;s, en meer toe.) |
+| ------- | ------- | -------|
+| Experience Cloud ![Globaal zoeken](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en#globally-search-for-objects-and-entities) | 5 juli 2021 | Met deze versie, voegt het globale onderzoek van Experience Cloud Journey Orchestration aan het onderzoek naar bedrijfsvoorwerpen in Experience Cloud, zoals segmenten, gegevensreeksen, schema&#39;s, en meer toe. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -93,9 +93,9 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 
 Met Adobe Journey Optimizer kunt u geplande omnichannel campagnes en een-op-een-momenten voor miljoenen klanten beheren vanuit één toepassing. De hele reis is geoptimaliseerd met intelligente beslissingen en inzichten.
 
-### Laatste productreleases
+### Nieuwste Journey Optimizer-productreleases
 
-* Journey Optimizer is nu beschikbaar. [Meer informatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
+* **Juli 2021:** Journey Optimizer is nu beschikbaar. [Meer informatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
 
 **Meer bronnen voor Journey Optimizer**
 
@@ -206,87 +206,9 @@ Nieuwe functies, correcties en updates in Experience Manager. Adobe raadt klante
 
 >[!NOTE]
 >
->Adobe raadt aan de pagina [Updates en roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) van de release van de Experience Manager te bezoeken om actuele informatie over de release te blijven.
+>Adobe raadt aan regelmatig een bezoek te brengen aan de [Experience Manager releaseupdates en roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) pagina om op de releasegegevens actueel te blijven.
 
-### Uitstoot van Experience Manager-producten
-
-* **Experience Manager as a Cloud Service**
-
-   Nieuwe functies in Experience Manager als Cloud Service:
-
-   * **XML-documentatie voor Adobe Experience Manager als Cloud Service**
-
-      * **Inheemse het beheerssysteem**  van de componenteninhoud van de wolk - de Documentatie van XML voor Adobe Experience Manager is beschikbaar als Cloud Service. Kies voor de omgeving waarin u documentatie en inhoud op schaal kunt ontwerpen, beheren en leveren.
-      * **Documentatie**  op basis van AI: functie voor slimme tags waarmee relevante metagegevenstrefwoorden automatisch kunnen worden geïdentificeerd en uit de tekst kunnen worden geëxtraheerd voor metagegevenslabels.
-      * **Nieuwe vormgeving voor de webeditor**  - Nieuwe vormgeving en nieuw gevoel met wijzigingen in de gebruikersinterface waardoor deze intuïtiever wordt. De onderliggende architectuur is veranderd van koraal in een op reacties gebaseerd spectrum.
-   * **Experience Manager als Cloud Service**
-
-      * [!UICONTROL Preview Service] op doorlopende basis wordt ingezet voor alle programma&#39;s. Klanten worden op de hoogte gesteld van hun product wanneer hun programma is ingeschakeld voor [!UICONTROL Preview Service]. Zie [Toegang tot voorvertoningsservice](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
-      * De gedownloade Gedeelde Gedeelten tijdens de bouwstijlstap worden nu in het voorgeheugen ondergebracht tussen pijpleidingslooppas. Deze functie wordt in de komende weken ingeschakeld voor klanten.
-      * U kunt de naam van het programma nu bewerken via het dialoogvenster [!UICONTROL Edit Program].
-      * De standaardtaknaam die tijdens zowel project verwezenlijking als in het gebrek [!UICONTROL Push] bevel door middel van het beheren van de werkschema&#39;s van de it wordt gebruikt is veranderd in `main`.
-      * De ervaring met het bewerken van programma&#39;s in de interface is vernieuwd.
-      * De kwaliteitsregel `ImmutableMutableMixCheck` is bijgewerkt om `/oak:index` knopen als onveranderlijk te classificeren.
-      * De kwaliteitsregels `CQBP-84andCQBP-84--dependencies` zijn geconsolideerd in één enkele regel. Als onderdeel van deze consolidatie, identificeert het aftasten van gebiedsdelen nauwkeuriger kwesties in derdegebiedsdelen die aan runtime van de Experience Manager worden opgesteld.
-      * Om verwarring te voorkomen, zijn de rijen van het de segmentsegment Publish Experience Manager en Publish Dispatcher op de pagina van de Details van het Milieu geconsolideerd.
-      * Er is een nieuwe code kwaliteitsregel toegevoegd om de structuur van `damAssetLucene`indexen te valideren. Zie [Aangepaste DAM Asset Lucene Oak Indexes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/custom-code-quality-rules.html?lang=en#oakpal-damAssetLucene-sanity-check).
-      * Op de pagina met omgevingsdetails worden nu meerdere domeinnamen voor de services Publiceren en Voorvertoning weergegeven, al naar gelang van toepassing. Zie [Omgevingsdetails](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#viewing-environment).
-   * **Elementen Experience Managers als Cloud Service**
-
-      Nieuwe functies in elementen:
-
-      * [!UICONTROL Content Automation] Experience Manager Assets kan de Adobe Creative Cloud API&#39;s gebruiken om de productie van elementen op schaal te automatiseren. Het verbetert de snelheid van de inhoud door de benodigde tijd en herhalingen aanzienlijk te verminderen om variaties van hetzelfde element te maken. Voor deze functionaliteit is geen programmering vereist en werken vanuit de DAM. Zie [Variaties van elementen genereren met Adobe Creative Cloud-integratie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
-      * [Adobe Asset Link 3.0](https://helpx.adobe.com/nl/enterprise/using/adobe-asset-link.html) voor Adobe Photoshop, Adobe Illustrator en Adobe InDesign en Adobe  [Adobe Asset Link 2.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html) voor Adobe XD is beschikbaar. Het steunt Assets Essentials en de capaciteit om automatisch met Experience Manager als Cloud Service of Assets Essentials te verbinden.
-      * Met het [Hulpmiddel voor het bulkinvoeren van middelen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) kunt u metagegevens toevoegen tijdens een bulkopname.
-
-      Nieuwe functies in het prereleasekanaal van middelen:
-
-      * De weergave-instellingen worden uitgebreid, zodat u een standaardweergave en een standaardsorteerparameter kunt kiezen.
-      * De [!UICONTROL Link Share] downloadfunctionaliteit gebruikt asynchrone downloads die de downloadsnelheid verhogen. Zie [Gedeelde elementen downloaden via koppelingen delen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
-      * U kunt de mappen zoeken en filteren op basis van voorspelden van eigenschappen.
-      * Experience Manager-elementen sluiten de PDF Viewer in om een voorvertoning van de ondersteunde documentindelingen weer te geven. Het wordt aangedreven door Adobe Document Cloud. Met deze functie kunt u een voorvertoning weergeven van PDF- en andere bestanden met meerdere pagina&#39;s zonder complexe verwerking. Het verbetert de eigenschappariteit met Experience Manager 6.5. De besturingselementen in de voorvertoning zijn zoomen, naar pagina&#39;s navigeren, besturingselementen in het dok ongedaan maken en weergave op volledig scherm. De geïntegreerde PDF-viewer ondersteunt de bestandsindelingen AI, DOCX, INDD, PDF en PSD. U kunt opmerkingen maken over het element zelf, maar opmerkingen en annotaties in het PDF-bestand worden niet ondersteund.
-      * Een gebruikerservaring-uitbreiding geeft het aantal elementen in een map weer. Voor meer dan 1000 middelen in een omslag, toont de Middelen 1000+.
-      * U kunt een metagegevensschema rechtstreeks toepassen op een map in de eigenschappen ervan.
-   * **Sites Experience Managers als Cloud Service**
-
-      Nieuwe functies:
-
-      * Publiceren naar voorvertoningsniveau wordt nu weergegeven als paginastatus in de gebruikersinterface van Sitebeheer.
-      * Publiceren naar Voorvertoningsniveau bevat nu een URL voor de voorvertoning aan het einde van de handeling en de URL blijft voor latere referentie behouden in pagina-eigenschappen.
-   * **Experience Manager Forms als Cloud Service**
-
-      Nieuwe functies:
-
-      * Metagegevensschema&#39;s kunnen rechtstreeks op de mapeigenschappen worden toegepast.
-      * Met het gereedschap Asset Bulk Ingestor kunt u metagegevens toevoegen tijdens een grote opname.
-      * Een gebruikerservaring-uitbreiding geeft het aantal elementen in een map weer. Voor meer dan 1000 elementen in een map wordt bij Experience Manager Assets 1000+ weergegeven.
-
-      Bètafunctie van Forms:
-
-      * **Experience Manager Forms als Cloud Service - Communicatie**  - Communicatie APIs helpt u XDP malplaatjes en de gegevens van XML combineren om drukdocumenten in diverse formaten te produceren. Met de service kunt u documenten in synchrone modus genereren. Met de API&#39;s kunt u toepassingen maken waarmee u:
-         * Genereer documenten door sjabloonbestanden te vullen met XML-gegevens.
-         * Uitvoerformulieren genereren in verschillende indelingen, waaronder niet-interactieve PDF-afdrukstromen.
-         * Afdruk-PDF&#39;s genereren op basis van een XFA-formulier, PDF en Adobe Acrobat-formulier (AcroForm).
-
-      U kunt naar [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) schrijven om u aan te melden voor het bètaprogramma.
-
-   * **Experience Managers Screens als Cloud Service**
-
-      * Bulk Device Registration Management betekent dat het provisioning van enorme hoeveelheden spelerapparaten sneller en efficiënter verloopt.
-      * Verbeterde zoek- en filteropties voor de inventarisweergaven Apparaat, Weergave en Kanaal.
-      * Momentopname van apparaatgezondheid bespaart tijd door een kritieke status in één oogopslag te bieden.
-      * De pagina met objectdetails bevat een overzicht van de meest relevante informatie voor elk object in uw project.
-
-
-
-
-
-
-
-
-### Experience Manager-releasegegevens
-
-Alle Experience Manager-releaseopmerkingen worden op de volgende pagina&#39;s bijgehouden:
+Koppelingen naar releasegegevens van Experience Manager:
 
 * [Experience Manager als informatie over de release van een Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * [Experience Manager als opmerkingen bij de release van Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
