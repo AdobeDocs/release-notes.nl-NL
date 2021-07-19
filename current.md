@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bd6b98b1decdcf563421c1f828d3fb068fb6ca33
+source-git-commit: 906530244a4f60dd032aaafb772025478c42c017
 workflow-type: tm+mt
-source-wordcount: '4809'
+source-wordcount: '4813'
 ht-degree: 14%
 
 ---
@@ -23,7 +23,7 @@ Experience Cloud-toepassingen en -services worden maandelijks bijgewerkt. Deze p
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **16 juli 2021**
+Laatste update: **19 juli 2021**
 
 * [Experience Cloud Central-interfacecomponenten](#ecloud)
 * [Adobe-systeemstatus](#status)
@@ -31,7 +31,7 @@ Laatste update: **16 juli 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) en  [Customer Journey Analytics](#cust-journey)  (bijgewerkt op 19 juli 2021)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -128,7 +128,7 @@ Zie [Opmerkingen bij de release van Offer decisioning](https://experienceleague.
 Releasedatum: **22 juli 2021**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey) (bijgewerkt op 19 juli 2021)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
 * [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
@@ -146,7 +146,7 @@ Releasedatum: **22 juli 2021**
 
 | Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ----- |
-| Ervaring Nieuwe informatie over verbindingen | Deze UI-uitbreiding van Verbindingen laat u weten of en wanneer uw gegevens klaar zijn om in rapportering te worden gebruikt. Ook kunt u eventuele problemen met de verwerking van gegevens bijhouden. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 19 augustus 2021 |
+| Ervaring Nieuwe informatie over verbindingen | Deze UI-uitbreiding van Verbindingen laat u weten of en wanneer uw gegevens klaar zijn om in rapportering te worden gebruikt. Ook kunt u eventuele problemen met de verwerking van gegevens bijhouden. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 10 augustus 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
