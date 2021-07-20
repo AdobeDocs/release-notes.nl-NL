@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3621c31c456cf7fc9de8ed65991aeab9fc8fedc8
+source-git-commit: a168806cc4b7e5ab5e9d1ab9c71583a4b89c020b
 workflow-type: tm+mt
-source-wordcount: '4855'
+source-wordcount: '4869'
 ht-degree: 13%
 
 ---
@@ -213,6 +213,9 @@ Adobe raadt aan regelmatig updates van [release van Experience Managers en roadm
       * **Inheemse het beheerssysteem**  van de componenteninhoud van de wolk - de Documentatie van XML voor Adobe Experience Manager is beschikbaar als Cloud Service. Kies voor de omgeving waarin u documentatie en inhoud op schaal kunt ontwerpen, beheren en leveren.
       * **Documentatie**  op basis van AI: functie voor slimme tags waarmee relevante metagegevenstrefwoorden automatisch kunnen worden geïdentificeerd en uit de tekst kunnen worden geëxtraheerd voor metagegevenslabels.
       * **Nieuwe vormgeving voor de webeditor**  - Nieuwe vormgeving en nieuw gevoel met wijzigingen in de gebruikersinterface waardoor deze intuïtiever wordt. De onderliggende architectuur is veranderd van koraal in een op reacties gebaseerd spectrum.
+
+      Bezoek [XML-documentatie voor Adobe Experience Manager](https://www.adobe.com/products/xml-documentation-for-experience-manager.html) voor meer informatie.
+
    * **Cloud Manager in AEM als Cloud Service**
 
       * [!UICONTROL Preview Service] op doorlopende basis wordt ingezet voor alle programma&#39;s. Klanten worden op de hoogte gesteld van hun product wanneer hun programma is ingeschakeld voor [!UICONTROL Preview Service]. Zie [Toegang tot voorvertoningsservice](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
