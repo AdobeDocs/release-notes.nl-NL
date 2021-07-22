@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5de9bc92bc3752726b7af80dd0abf91e253a5c33
+source-git-commit: 272c8da44a241b5a8eb5930462cc53b3e6c43297
 workflow-type: tm+mt
-source-wordcount: '5085'
+source-wordcount: '4969'
 ht-degree: 13%
 
 ---
@@ -22,14 +22,6 @@ Experience Cloud-toepassingen en -services worden maandelijks bijgewerkt. Deze p
 >[!NOTE]
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
-
-## Experience League Live
-
-[Implementatie van Adobe Analytics - tips en trucs](https://www.youtube.com/watch?v=lxOvLCzEGBI)
-
-U hebt hem op het podium gezien op de top. U hebt gehoord dat hij deskundig advies heeft gedeeld op Adobe Insider Tours. U hebt er misschien zelfs baat bij gehad om met hem samen te werken aan uw eigen Adobe Analytics-implementatie. Eric Matisoff brengt zijn drie favoriete tips voor Adobe Analytics-implementatie naar dit exclusieve Experience League Live discussie.
-
-Word lid van ons om concrete tips te horen die elk Adobe Analytics-implementatieteam zou moeten kennen—en laat uw vragen beantwoorden door Eric in de chatpod. Dit is een live gebeurtenis, dus u hoeft zich niet vooraf te registreren, maar moet deze op uw agenda plaatsen zodat u deze niet kunt missen!
 
 Laatste update: **20 juli 2021**
 
@@ -146,7 +138,7 @@ Releasedatum: **22 juli 2021**
 
 Sluit u aan bij ons om concrete tips te horen die elk Adobe Analytics-implementatieteam zou moeten kennen en laat uw vragen beantwoorden door Eric Matisoff in de chatpod. Dit is een live gebeurtenis, dus u hoeft zich niet vooraf te registreren, maar moet deze op uw agenda plaatsen zodat u deze niet kunt missen!
 
-[Implementatie van Adobe Analytics - tips en trucs](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+**Gebeurtenis:** [Adobe Analytics-implementatie - tips en trucs](https://www.youtube.com/watch?v=lxOvLCzEGBI)
 
 **Wanneer:29** juli 2021 om 9.00 uur PDT
 
