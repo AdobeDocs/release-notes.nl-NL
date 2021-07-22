@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 272c8da44a241b5a8eb5930462cc53b3e6c43297
+source-git-commit: 563d306d19333cdfe78c7eb1077b9b8309fadd4e
 workflow-type: tm+mt
-source-wordcount: '4969'
+source-wordcount: '4982'
 ht-degree: 13%
 
 ---
@@ -23,8 +23,9 @@ Experience Cloud-toepassingen en -services worden maandelijks bijgewerkt. Deze p
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **20 juli 2021**
+Laatste update: **22 juli 2021**
 
+* [Melding van gebeurtenissen voor Experience League Live](#events)  - 29  **juli 2021**
 * [Experience Cloud Central-interfacecomponenten](#ecloud)
 * [Adobe-systeemstatus](#status)
 * [Experience Platform](#platform)
@@ -127,6 +128,7 @@ Zie [Opmerkingen bij de release van Offer decisioning](https://experienceleague.
 
 Releasedatum: **22 juli 2021**
 
+* [Melding van gebeurtenissen voor Experience League Live](#events)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey) (bijgewerkt op 19 juli 2021)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
@@ -134,7 +136,7 @@ Releasedatum: **22 juli 2021**
 * [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-### Melding van gebeurtenissen voor Experience League Live - Analyse
+## Melding van gebeurtenissen voor Experience League Live - Analyse {#events}
 
 Sluit u aan bij ons om concrete tips te horen die elk Adobe Analytics-implementatieteam zou moeten kennen en laat uw vragen beantwoorden door Eric Matisoff in de chatpod. Dit is een live gebeurtenis, dus u hoeft zich niet vooraf te registreren, maar moet deze op uw agenda plaatsen zodat u deze niet kunt missen!
 
