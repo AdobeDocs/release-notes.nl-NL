@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 1d747dd10da74db31ce6195c43f6529a2663d1a0
+source-git-commit: 0a6bbad001bc4aeb0b8f6537d87d8d98131af5d5
 workflow-type: tm+mt
-source-wordcount: '4981'
+source-wordcount: '4980'
 ht-degree: 13%
 
 ---
@@ -70,10 +70,10 @@ De meest recente updates van de Status van het Systeem van de Adobe worden gevon
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Bevat de update-informatie van de release en nieuwe documentatie voor Experience Platform en Experience Platform Launch.
+Bevat de update-informatie van de release en nieuwe documentatie voor het labelen van Experience Platforms en Platforms.
 
 * **Opmerkingen bij de release van** [Experience Platform van 30 juni 2021](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-* **17 mei 2021** [Opmerkingen](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html)  bij de release Codes voor Experience Platforms (voorheen Experience Platform Launch)
+* **Release-aantekeningen** [ bij](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html)  Experience Platforms (voorheen Experience Platform Launch), 17 mei 2021
 
 ### Zelfstudies en cursussen voor Experience Platforms {#tutorials-platform}
 
