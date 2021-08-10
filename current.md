@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3b30ac28d820aa30482c823ccd537bcf9cdcfb3
+source-git-commit: 78eda24b09b4fd09e6dbddde9ba32104cca40261
 workflow-type: tm+mt
 source-wordcount: '4982'
 ht-degree: 13%
@@ -32,7 +32,7 @@ Laatste update: **3 augustus 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) en  [Customer Journey Analytics](#cust-journey) **(bijgewerkt op 3 augustus 2021)**
+* [[!DNL Analytics]](#analytics) en  [Customer Journey Analytics](#cust-journey) **(bijgewerkt op 10 augustus 2021)**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -130,7 +130,7 @@ Releasedatum: **22 juli 2021**
 
 * [Melding van gebeurtenissen voor Experience League Live](#events)
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey) (bijgewerkt op 19 juli 2021)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey)  (bijgewerkt op 10 augustus 2021)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 3 augustus 2021)
 * [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
@@ -162,7 +162,7 @@ Sluit u aan bij ons om concrete tips te horen die elk Adobe Analytics-implementa
 
 | Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ----- |
-| Ervaring Nieuwe informatie over verbindingen | Deze UI-uitbreiding van Verbindingen laat u weten of en wanneer uw gegevens klaar zijn om in rapportering te worden gebruikt. Ook kunt u eventuele problemen met de verwerking van gegevens bijhouden. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 10 augustus 2021 |
+| Ervaring Nieuwe informatie over verbindingen | Deze UI-uitbreiding van Verbindingen laat u weten of en wanneer uw gegevens klaar zijn om in rapportering te worden gebruikt. Ook kunt u eventuele problemen met de verwerking van gegevens bijhouden. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 19 augustus 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
