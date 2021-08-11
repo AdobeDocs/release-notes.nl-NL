@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 78eda24b09b4fd09e6dbddde9ba32104cca40261
+source-git-commit: a93d9deb8ad36d396899d0b0505b1d6bf9441c3b
 workflow-type: tm+mt
-source-wordcount: '4982'
+source-wordcount: '4958'
 ht-degree: 13%
 
 ---
@@ -36,7 +36,7 @@ Laatste update: **3 augustus 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
-* [[!DNL Advertising]](#adcloud)
+* [[!DNL Advertising Cloud]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -366,30 +366,30 @@ Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen die
 * Adobe Campaign Classic: [Help Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
 * Adobe Campaign - Configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=en)
 
-## ![](/assets/advertising-cloud.png) IconAdvertising {#adcloud}
+## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Release-aantekeningen voor [!DNL Adobe Advertising].
+Release-aantekeningen voor [!DNL Adobe Advertising Cloud].
 
-* [Nieuwe functies in Advertising DSP](#adcloud-dsp)
-* [Nieuwe functies in Advertising Search](#adcloud-search)
+* [Nieuwe functies in Advertising Cloud DSP](#adcloud-dsp)
+* [Nieuwe functies in Advertising Cloud Search](#adcloud-search)
 
-### Nieuwe functies in [!DNL Advertising DSP] {#adcloud-dsp}
+### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
 Laatst bijgewerkt: **10 juni 2021 voor release 16 juni**
 
 | Functie | Beschrijving |
-| -----------| ---------- |
+| ------- | ----------- |
 | Campagnebeheer | (Release 16 juni) Prognoses zijn beschikbaar voor standaardpresentaties met plaatsingsniveau en budgetten. |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Nieuwe functies in [!DNL Advertising Search] {#adcloud-search}
+### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **19 mei 2021, voor release 18 mei**
+Laatst bijgewerkt: **Voor versie 24 juli**
 
 | Functie | Beschrijving |
-| -----------| ---------- |
-| [!UICONTROL Notification Center Beta] | De [!UICONTROL Notification Center Beta] is beschikbaar voor alle gebruikers. Gebruik deze methode om u te abonneren op e-mail- en webberichten over fouten met accountverificatie, aangepaste waarschuwingen die worden geactiveerd en voltooiing van de [!UICONTROL Advertising Insights] die u genereert.<br>U kunt uw meldingen weergeven vanuit:<ul><li>Het [!UICONTROL Notifications] paneel, dat van de verbinding van Meldingen in het hogere recht van om het even welke pagina opent.</li><li>De [!UICONTROL Notification Center] om [!UICONTROL Insights & Reports >Notification Center Beta].</li></ul><br><b>Opmerking:</b> vanwege verbeteringen in de manier waarop meldingen worden opgeslagen, zijn alle bestaande meldingen gewist. |
+| ------- | ----------- |
+| [!UICONTROL Tools] | Als uw adverteerderaccount is geconfigureerd voor gebruik van hybride optimalisatie, kan Advertising Cloud optioneel de accountdoelstellingen uploaden naar Google Ads en Microsoft Ads als conversies, zodat u deze kunt gebruiken voor hybride optimalisatie. U kunt de functie inschakelen via [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]. |
 
 {style=&quot;table-layout:auto&quot;}
 
