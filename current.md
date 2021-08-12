@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 6c6ebfbf878dcdd9db406789f1350e04b42f3d85
+source-git-commit: 7a9c166e6b3efc239e039f7aa2c2d52a7fadd680
 workflow-type: tm+mt
-source-wordcount: '4960'
+source-wordcount: '4959'
 ht-degree: 13%
 
 ---
@@ -385,11 +385,11 @@ Laatst bijgewerkt: **10 juni 2021 voor release 16 juni**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **Voor versie 24 juli**
+Laatst bijgewerkt: **11 augustus voor release 24 juli**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Tools] | Als uw adverteerderaccount is geconfigureerd voor gebruik van hybride optimalisatie, kan Advertising Cloud optioneel de accountdoelstellingen uploaden naar Google Ads en Microsoft Ads als conversies, zodat u deze kunt gebruiken voor hybride optimalisatie. U kunt de functie inschakelen via **[!UICONTROL Search]** > **[!UICONTROL Tools]** > **[!UICONTROL Conversion Upload Setup]**. |
+| [!UICONTROL Tools] | Als uw adverteerderaccount is geconfigureerd voor hybride optimalisatie, kan [!DNL Advertising Cloud Search] optioneel de doelstellingen voor de portfolio&#39;s van de account uploaden naar Google Ads als conversies, zodat u deze kunt gebruiken voor hybride optimalisatie. U kunt de functie inschakelen via **[!UICONTROL Search]** > **[!UICONTROL Tools]** > **[!UICONTROL Conversion Upload Setup]**. |
 
 {style=&quot;table-layout:auto&quot;}
 
