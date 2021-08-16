@@ -6,7 +6,7 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4bcabafad300591b5dd46afad7032ecb8c9f5bcf
+source-git-commit: cfeac2dbfaef453f24b54450c45d22e737510281
 workflow-type: tm+mt
 source-wordcount: '4292'
 ht-degree: 13%
@@ -65,13 +65,13 @@ Experience Cloud Central Interface Components omvat updates die vanuit de unifor
 
 [!UICONTROL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval-, onderbrekings- en onderhoudsgebeurtenissen van Adobe Cloud-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
-De meest recente updates van de Status van het Systeem van de Adobe worden gevonden bij [Status van het Systeem van de Adobe - 21 Mei, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) voor de recentste versieinformatie.
+U kunt de recentste versieinformatie voor de Status van het Systeem van Adobe in [Mei 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) versienota&#39;s vinden.
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Bevat de update-informatie van de release en nieuwe documentatie voor het labelen van Experience Platforms en Platforms.
 
-* **28 juli 2021** [Opmerkingen bij de release van Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* **28 juli 2021** [Opmerkingen](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)  bij de release van Experience Platform (volgende geplande release:  **augustus 19**)
 * **Release-aantekeningen** [ bij ](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) Experience Platforms van 19 juli 2021 (voorheen Experience Platform Launch)
 
 ### Zelfstudies en cursussen voor Experience Platforms {#tutorials-platform}
@@ -91,7 +91,7 @@ Met Adobe Journey Optimizer kunt u geplande omnichannel campagnes en een-op-een-
 
 ### Nieuwste Journey Optimizer-productreleases
 
-Meer informatie over de recentste mogelijkheden, verbeteringen, en moeilijke situaties in [de Nota&#39;s van de Versie van de Journey Orchestration](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
+Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen vindt u in de [Opmerkingen bij de release van Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
 
 **Meer bronnen voor Journey Optimizer**
 
