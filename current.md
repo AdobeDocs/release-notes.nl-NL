@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: cfeac2dbfaef453f24b54450c45d22e737510281
+source-git-commit: c0e65e13f424913c82f6608b24a8f797ee7a0341
 workflow-type: tm+mt
-source-wordcount: '4292'
+source-wordcount: '4289'
 ht-degree: 13%
 
 ---
@@ -122,7 +122,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 
 [!UICONTROL Offer Decisioning] is een applicatieservice die is geïntegreerd met Adobe Experience Platform. Gebruik [!UICONTROL Offer Decisioning] om uw klanten de beste aanbieding en ervaring op alle aanraakpunten op het juiste moment te bieden.
 
-* **Versie van juni 2021:** AI het rangschikken staat u toe om verschillende het rangschikken strategieën (te creëren die op uw bedrijfsdoelstellingen worden gebaseerd). Deze strategieën kunnen door een getraind modelsysteem worden gebruikt om de in aanmerking komende aanbiedingen voor een bepaald profiel te rangschikken.
+* **Release van juli 2021:** Het nieuwe  [!UICONTROL Overview] tabblad begeleidt u door de belangrijkste stappen om aan de slag te gaan met het maken van beslissingen over aanbiedingen. Zodra aan boord, staat het zelfde lusje snelle toegang tot uw meest recente aanbiedingen, inzamelingen en besluiten toe.
 
 Zie [Opmerkingen bij de release van Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) om up-to-date te blijven.
 
