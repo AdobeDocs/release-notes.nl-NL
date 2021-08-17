@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c0e65e13f424913c82f6608b24a8f797ee7a0341
+source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
 workflow-type: tm+mt
-source-wordcount: '4289'
+source-wordcount: '4303'
 ht-degree: 13%
 
 ---
@@ -23,7 +23,7 @@ Experience Cloud-toepassingen en -services worden maandelijks bijgewerkt. Deze p
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **13 augustus 2021**
+Laatste update: **17 augustus 2021**
 
 * [Experience Cloud Central-interfacecomponenten](#ecloud)
 * [Experience Platform](#platform)
@@ -31,7 +31,7 @@ Laatste update: **13 augustus 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) en  [Klantreis ](#cust-journey) AnalyticsBijgewerkt op 17  **augustus 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -135,9 +135,9 @@ Zie [Opmerkingen bij de release van Offer decisioning](https://experienceleague.
 Releasedatum: **19 augustus 2021**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
+* [Nieuwe functies in Customer Journey Analytics](#cust-journey)  (bijgewerkt op 17  **augustus 2021**)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
-* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (bijgewerkt op 3 augustus 2021)
+* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
 * [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -154,7 +154,7 @@ Releasedatum: **19 augustus 2021**
 | Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ----- |
 | Ervaring Nieuwe informatie over verbindingen | Deze UI-uitbreiding van Verbindingen laat u weten of en wanneer uw gegevens klaar zijn om in rapportering te worden gebruikt. Ook kunt u eventuele problemen met de verwerking van gegevens bijhouden. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 19 augustus 2021 |
-| De controle over hoofdlettergevoeligheid in de dimensies van de Mening van Gegevens | Hiermee kunt u bepalen of Customer Journey Analytics waarden van dimensies behandelt als hoofdlettergevoelig. Hierdoor is het mogelijk rijen met dezelfde waarde te dedupliceren, maar met een ander hoofdlettergebruik. | 19 augustus 2021 |
+| De controle over hoofdlettergevoeligheid in de dimensies van de Mening van Gegevens | Hiermee kunt u bepalen of Customer Journey Analytics waarden van dimensies behandelt als hoofdlettergevoelig. Hierdoor is het mogelijk rijen met dezelfde waarde te dedupliceren, maar met een ander hoofdlettergebruik. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#configure-behavior-settings) | 19 augustus 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
