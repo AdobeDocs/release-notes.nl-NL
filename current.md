@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
+source-git-commit: 9b538a541f0211a3026fb3f8bdd7de834bced917
 workflow-type: tm+mt
-source-wordcount: '4292'
-ht-degree: 13%
+source-wordcount: '4373'
+ht-degree: 15%
 
 ---
 
@@ -109,10 +109,10 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Augustus 2021 | [Inleiding tot het bouwen van een reis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Begrijp de grondbeginselen van het bouwen van een reis in het reiscanvas. |
-| Augustus 2021 | [Gegevens instellen - overzicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html) | Video | Leer meer over realtime klantprofielgegevens en welke stappen zijn vereist om klantprofielgegevens voor Journey Optimizer in te stellen. |
-| Augustus 2021 | [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html) | Video | Leer hoe en wanneer om een schemagebied als identiteit te etiketteren, hoe te om een namespace tot stand te brengen, wanneer om een identiteit primair te maken, en hoe te om identiteitsgegevens in te voeren en te verifiëren. |
-| Augustus 2021 | [Hoofdlettergebruik: Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html) | Video | Begrijp de toepasselijke gebruiksgevallen voor burst messaging. Leer hoe te om een reis voor burst berichten te vormen en welke beste praktijken om toe te passen. |
+| Augustus 2021 | [Inleiding tot het samenstellen van een journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Begrijp de grondbeginselen van het samenstellen van een journey in het journeycanvas. |
+| Augustus 2021 | [Gegevens instellen - overzicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html) | Video | Leer meer over realtime klantprofielgegevens en welke stappen vereist zijn om klantprofielgegevens voor Journey Optimizer in te stellen. |
+| Augustus 2021 | [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html) | Video | Leer hoe en wanneer u een schemaveld als identiteit labelt, hoe u een naamruimte tot stand brengt, wanneer u een identiteit primair maakt en hoe u identiteitsgegevens opneemt en verifieert. |
+| Augustus 2021 | [Hoofdlettergebruik: Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html) | Video | Begrijp de toepasselijke gebruiksscenario&#39;s voor burst-messaging. Leer hoe u een journey voor burst-berichten configureert en welke best practices u toe kunt passen. |
 
 **Meer bronnen voor Journey Orchestration**
 
@@ -373,10 +373,11 @@ Laatst bijgewerkt: **12 augustus 2021, voor release 11 augustus**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **12 augustus 2021, voor release van 21 augustus**
+Laatst bijgewerkt: **20 augustus 2021, voor release van 21 augustus**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
+| — | De nieuwe bèta-Advertising Cloud Javascript-tag gebruikt de Adobe Experience Cloud ID-service (ECID) en de verouderde ef_id en gsurferid om conversies te meten. De nieuwe tag maakt [eersteklas Experience Cloud s_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) en biedt een betere integratie met andere Experience Cloud-producten.<br><br>De oudere Advertising Cloud Javascript-tag met ITP-toewijzing wordt in september 2021 vervangen.<br><br>Uw Adobe-accountmanager zal contact met u opnemen voor meer informatie en implementatieinstructies. |
 | [!UICONTROL Portfolios] | Alle gebruikers hebben een nieuwe [!UICONTROL Objectives Beta] met aanbevelingen voor automatisch gewicht. De nieuwe interface bevat meer richtlijnen voor het maken van doelstellingen en het instellen van initiële doelgewichten. De aanbevelingen van het gewicht zijn beschikbaar voor hulpmetriek slechts. |
 
 {style=&quot;table-layout:auto&quot;}
