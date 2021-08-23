@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c47b884401c2d9b4cce5d6b56252c58acccc598c
+source-git-commit: fd638c92e6804ccdec2adfc9aec1f571c610b798
 workflow-type: tm+mt
-source-wordcount: '4356'
+source-wordcount: '4359'
 ht-degree: 15%
 
 ---
@@ -389,6 +389,8 @@ Raadpleeg de volgende koppelingen voor de release Adobe Commerce:
 * [Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ## ![Pictogram](/assets/target.png) [!DNL Target] {#target}
+
+Laatst bijgewerkt: **3 augustus 2021**
 
 Zie [[!DNL Target]  releaseopmerkingen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) voor de recentste releasegegevens.
 
