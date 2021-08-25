@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fd638c92e6804ccdec2adfc9aec1f571c610b798
+source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
 workflow-type: tm+mt
-source-wordcount: '4359'
+source-wordcount: '4374'
 ht-degree: 15%
 
 ---
@@ -23,10 +23,10 @@ Experience Cloud-toepassingen en -services worden maandelijks bijgewerkt. Deze p
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **20 augustus 2021**
+Laatste update: **25 augustus 2021**
 
 * [Experience Cloud Central-interfacecomponenten](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform)  (bijgewerkt op 25  **augustus 2021**)
 * [Adobe-systeemstatus](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
@@ -71,7 +71,13 @@ U kunt de recentste versieinformatie voor de Status van het Systeem van Adobe in
 
 Bevat de update-informatie van de release en nieuwe documentatie voor het labelen van Experience Platforms en Platforms.
 
-* **28 juli 2021** [Opmerkingen](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)  bij de release van Experience Platform (Volgende geplande release - 25  **augustus**)
+**25 augustus 2021** zijn de bestaande functies in Experience Platform bijgewerkt met:
+
+* Waarnembaarheidsinzichten
+* Klantprofiel in realtime
+* Bronnen
+
+Zie [Opmerkingen bij de release van Experience Platforms](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) voor meer informatie.
 
 ### Zelfstudies en cursussen voor Experience Platforms {#tutorials-platform}
 
