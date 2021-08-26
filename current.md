@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
+source-git-commit: c402b360cc166a76c694b383806a21a34ccd2e60
 workflow-type: tm+mt
-source-wordcount: '4432'
+source-wordcount: '4437'
 ht-degree: 14%
 
 ---
@@ -46,13 +46,11 @@ Laatste update: **26 augustus 2021**
 
 Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/#home) om te zoeken naar product- en technische documentatie, door Adobe georganiseerde cursussen, videotutorials, snelle antwoorden, communityinzichten en training onder leiding van instructeurs.
 
-## Melding van gebeurtenissen voor Experience League Live - Maak uw volgende publiekssegment slimmer dan ooit {#events}
+## ![](/assets/experience-league.png) IconExperience League Live {#events}
 
-Krijg de Segment Builder in Experience Platform LIVE te kennen met Aaron Shields, Yaya Wang en Andres Monroy!
+**26 augustus 2021** |  [Maak uw volgende publiekssegment slimmer dan ooit](https://www.youtube.com/watch?v=rogVKsTFbWk)  - Krijg de Bouwer van de Segment in Experience Platform met Doug Moore, Aaron Shields, Yaya Wang, en Andres Monroy te kennen!
 
-**Gebeurtenis:** [Maak uw volgende publiekssegment slimmer dan ooit](https://www.youtube.com/watch?v=rogVKsTFbWk)
-
-**Wanneer:** 26 augustus 2021 om 9.00 uur PST
+Voor meer video&#39;s gaat u naar [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) op YouTube.
 
 ## ![UI-componenten van ](/assets/ec_appicon_24.png) IconExperience Cloud Central {#ecloud}
 
