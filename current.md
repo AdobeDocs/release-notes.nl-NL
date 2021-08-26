@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
+source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
 workflow-type: tm+mt
-source-wordcount: '4374'
-ht-degree: 15%
+source-wordcount: '4432'
+ht-degree: 14%
 
 ---
 
@@ -23,8 +23,9 @@ Experience Cloud-toepassingen en -services worden maandelijks bijgewerkt. Deze p
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **25 augustus 2021**
+Laatste update: **26 augustus 2021**
 
+* [Melding van gebeurtenissen voor Experience League Live](#events)  - 26  **augustus 2021**
 * [Experience Cloud Central-interfacecomponenten](#ecloud)
 * [Experience Platform](#platform)  (bijgewerkt op 25  **augustus 2021**)
 * [Adobe-systeemstatus](#status)
@@ -44,6 +45,14 @@ Laatste update: **25 augustus 2021**
 * [Creative Cloud voor bedrijven](#creative-cloud)
 
 Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/#home) om te zoeken naar product- en technische documentatie, door Adobe georganiseerde cursussen, videotutorials, snelle antwoorden, communityinzichten en training onder leiding van instructeurs.
+
+## Melding van gebeurtenissen voor Experience League Live - Maak uw volgende publiekssegment slimmer dan ooit {#events}
+
+Krijg de Segment Builder in Experience Platform LIVE te kennen met Aaron Shields, Yaya Wang en Andres Monroy!
+
+**Gebeurtenis:** [Maak uw volgende publiekssegment slimmer dan ooit](https://www.youtube.com/watch?v=rogVKsTFbWk)
+
+**Wanneer:** 26 augustus 2021 om 9.00 uur PST
 
 ## ![UI-componenten van ](/assets/ec_appicon_24.png) IconExperience Cloud Central {#ecloud}
 
