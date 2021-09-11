@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 86c72625cfc50612c0a7cf0c9893b3d6dc4e90f4
+source-git-commit: 4795657c292e131bf0d51e7b29aabc5dc0e0027b
 workflow-type: tm+mt
-source-wordcount: '6123'
+source-wordcount: '6127'
 ht-degree: 11%
 
 ---
@@ -194,10 +194,12 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 
 Functies, oplossingen en nieuwe Help-inhoud voor Journey Orchestration.
 
+**Augustus 2021**
+
 * **Dynamische headers:** u kunt nu dynamische gegevens doorgeven in HTTP-headerparameters. Deze parameters kunnen door de integratiesystemen worden gebruikt die de vraag van HTTP van de reisactie, bijvoorbeeld timestamp of het volgen identiteitskaart ontvangen. [Meer informatie...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 * **Dynamische URL-paden:** u kunt nu dynamische URL-paden instellen voor aangepaste handelingen. [Meer informatie...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 
-* **Augustus 2021** - Zie Opmerkingen bij de  [Journey Orchestration-release](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)
+Zie [Opmerkingen bij de release van Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) voor meer informatie.
 
 #### Nieuwe zelfstudies en cursussen voor Journey Orchestration {#tutorials-ajo}
 
@@ -359,7 +361,7 @@ De nota&#39;s van de versie en andere verbindingen van de versieinformatie voor 
 * Aanvullende informatie over[[!DNL Experience Manager as a Cloud Service] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
 * [[!DNL Experience Manager as a Cloud Service] releasegegevens](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * Aanvullende informatie over[[!DNL Experience Manager Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
-* [!DNL [Automated Forms Conversion Service] release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
+* Aanvullende informatie over[[!DNL Automated Forms Conversion Service] ](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Opmerkingen bij de release Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
 * [Experience Manager 6.4 Opmerkingen bij de release Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
 * Aanvullende informatie over[[!DNL Experience Manager Assets Dynamic Media] ](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
