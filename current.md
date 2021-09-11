@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4795657c292e131bf0d51e7b29aabc5dc0e0027b
+source-git-commit: b6eb45e7dea1dd5b5884e239fb4e43076618bf3e
 workflow-type: tm+mt
-source-wordcount: '6127'
+source-wordcount: '6131'
 ht-degree: 11%
 
 ---
@@ -361,7 +361,7 @@ De nota&#39;s van de versie en andere verbindingen van de versieinformatie voor 
 * Aanvullende informatie over[[!DNL Experience Manager as a Cloud Service] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
 * [[!DNL Experience Manager as a Cloud Service] releasegegevens](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * Aanvullende informatie over[[!DNL Experience Manager Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
-* Aanvullende informatie over[[!DNL Automated Forms Conversion Service] ](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
+* [Releaseopmerkingen bij de service Geautomatiseerde conversie van formulieren](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Opmerkingen bij de release Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
 * [Experience Manager 6.4 Opmerkingen bij de release Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
 * Aanvullende informatie over[[!DNL Experience Manager Assets Dynamic Media] ](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
