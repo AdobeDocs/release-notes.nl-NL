@@ -4,10 +4,10 @@ description: Releaseopmerkingen bij Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: 48c0f82523382da9a78a78d850432c0bafd7cee7
+source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 42%
+source-wordcount: '699'
+ht-degree: 40%
 
 ---
 
@@ -26,20 +26,25 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 >
 >Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
 
-**Releasedatum: 2021**
+Laatste update: **September 2021**
 
-* [Adobe-systeemstatus](#status)
-* [Experience Cloud-interface](#ecloud)
+* [Live gebeurtenissen Experiencen League](#events)
+* [Experience Cloud Central-interfacecomponenten](#ecloud)
 * [Experience Platform](#platform)
-* [Analytics](#analytics)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Reclame](#adcloud)
-* [Magento](#magento)
-* [Marketo](#marketo)
-* [Primetime](https://experienceleague.adobe.com/docs/primetime.html)  (koppelingen naar Help bij oplossing)
-* [Nieuwe documentatie en zelfstudies](#selfhelp)
+* [Experience Platform Application Services](#services)
+* [Adobe-systeemstatus](#status)
+* [Journey Optimizer](#journey-opt)
+* [[!DNL Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising Cloud]](#adcloud)
+* [[!DNL Target]](#target)
+* [[!DNL Commerce]](#magento) (Magento)
+* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Workfront]](#workfront)
+* [Document Cloud](#doc-cloud)
+* [Creative Cloud voor bedrijven](#creative-cloud)
 
 ## Adobe-systeemstatus {#status}
 
@@ -47,12 +52,15 @@ Functies en oplossingen.
 
 Zie [Systeemstatus Adobe](https://status.adobe.com/).
 
-## Experience Cloud-interface{#ecloud}
+## ![UI-componenten van ](/assets/ec_appicon_24.png) IconExperience Cloud Central {#ecloud}
 
-Nieuwe functies en oplossingen in de Experience Cloud-interface, waaronder beheer en kernservices (klantkenmerken, publiek, triggers, cookies, enzovoort).
+Experience Cloud Central Interface Components omvat updates die vanuit de uniforme productkoptekst worden benaderd, zoals zelfhulp, zoekopdrachten en voorkeuren voor gebruikersaccounts. Updates voor Personen, Plaatsen (Locatie) en Productbeheer vindt u hier.
 
-* [[!UICONTROL Core services]](#core-services)
-* [Beheer en ontwikkeling](#admin)
+| Functie | Datum | Beschrijving |
+| ------- | ------- | -------|
+| Functie | September 2021 | Beschrijving |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### [!UICONTROL Core services] {#core-services}
 
@@ -101,7 +109,7 @@ Beschrijving van nieuwe functies. Gebruik koppen of een tabel.
 * Repareren
 * Repareren
 
-## Analyse {#analytics}
+## Analytics {#analytics}
 
 Nieuwe functies en oplossingen in Adobe Analytics:
 
@@ -220,7 +228,7 @@ Tekst
 * Repareren
 * Repareren
 
-## Campagne {#ac}
+## Campaign {#ac}
 
 Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één berichten af te leveren via online en offline marketingkanalen. U kunt nu anticiperen op wat uw klanten willen met behulp van ervaringen die worden bepaald door hun gewoonten en voorkeuren.
 
