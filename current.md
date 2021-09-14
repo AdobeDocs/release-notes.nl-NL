@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: cc9f1d42093c54689b6d15c640879891e4d4ce24
+source-git-commit: 8dbb4ef3665160ade3ec8ffa503c01bd5af64b0e
 workflow-type: tm+mt
-source-wordcount: '6120'
+source-wordcount: '6161'
 ht-degree: 11%
 
 ---
@@ -163,7 +163,11 @@ Nieuwe cursussen, zelfstudies en artikelen in [!DNL Analytics] en [!UICONTROL Cu
 
 ## ![Pictogram](/assets/audience-manager.png) Audience Manager {#aam}
 
-Niet bijgewerkt.
+Nieuwe functies in Audience Manager.
+
+| Functie | Beschrijving |
+| ------- | ------- |
+| Toestemming voor het verzamelen van gegevens voor mobiele id&#39;s | Toegevoegde ondersteuning voor toestemming voor gegevensverzameling voor mobiele id&#39;s. Om van deze update te kunnen profiteren, moeten klanten een upgrade uitvoeren naar [AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) of hoger. |
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
