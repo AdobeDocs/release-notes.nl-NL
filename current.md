@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fcba6592d43896676fff4a62d15756823c8a1b20
+source-git-commit: f94180b097c70ad3b4c8b93599c0d26db15892c6
 workflow-type: tm+mt
 source-wordcount: '6165'
 ht-degree: 11%
@@ -99,7 +99,7 @@ Releasedatum: **15 september 2021**
 | ----------- | ---------- | ----- |
 | Metrische deduplicatie | Customer Journey Analytics (CJA) kan nu varianten van een metrische waarde dedupliceren. Als dezelfde waarde wordt weergegeven als een kolom (op zichzelf of in een andere kolom), kunt u voorkomen dat metrische waarden stijgen. Deduplicatie voorkomt dat belangrijke gegevens te veel worden geteld en vergroot het vertrouwen in uw gegevens. | 16 september 2021 |
 | Ondersteuning voor zomertijd | Alle gegevens in CJA worden opgeslagen in UTC (niet met een specifieke tijdzone). [!UICONTROL Data Views] in CJA kunnen nu gegevens verschuiven om rekening te houden met de toename of afname van 1 uur op basis van zomertijd. | 16 september 2021 |
-| [!UICONTROL Custom calendars] | Hiermee kunt u een ander kalendertype (zoals [!UICONTROL retail 4-4-5]) selecteren voor een gegevensweergave. U kunt veelvoudige gegevensmeningen tot stand brengen die op de zelfde verbinding worden gebaseerd om de zelfde gegevens in verschillende kalender formaten te zien. | 16 september 2021 |
+| [!UICONTROL Custom calendars] | Hiermee kunt u een ander kalendertype (zoals [!UICONTROL retail 4-4-5]) selecteren voor een gegevensweergave. U kunt meerdere gegevensweergaven maken op basis van dezelfde verbinding om dezelfde gegevens in verschillende kalenderindelingen weer te geven. | 16 september 2021 |
 | Ondersteuning voor Booleaanse velden | CJA ondersteunt nu Booleaanse velden. | 16 september 2021 |
 | Nieuwe [!UICONTROL Connections] Info-ervaring | Deze [!UICONTROL Connections] verbetering UI laat u weten of en wanneer uw gegevens klaar zijn om in rapportering te worden gebruikt. Ook kunt u eventuele problemen met de verwerking van gegevens bijhouden. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 20 september 2021 |
 
