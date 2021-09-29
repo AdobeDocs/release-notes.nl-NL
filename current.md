@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: dfec28cdcc99e9f8840e0eb1dec5c721775d65b8
+source-git-commit: 9ab0cd435039085791c186a439f16954c317c2df
 workflow-type: tm+mt
 source-wordcount: '6355'
 ht-degree: 12%
@@ -206,15 +206,6 @@ Functies, oplossingen en nieuwe Help-inhoud voor Journey Orchestration.
 
 Zie [Opmerkingen bij de release van Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) voor meer informatie.
 
-#### Nieuwe zelfstudies en cursussen voor Journey Orchestration {#tutorials-ajo}
-
-| Gepubliceerd | Naam | Type | Beschrijving |
-| -----------| ---------- | ---------- | ---------- |
-| Augustus 2021 | [Inleiding tot het samenstellen van een journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Begrijp de grondbeginselen van het samenstellen van een journey in het journeycanvas. |
-| Augustus 2021 | [Klantprofielgegevens instellen - overzicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html) | Video | Meer informatie over realtime klantprofielgegevens en de stappen die zijn vereist voor het instellen van klantprofielgegevens voor Journey Optimizer. |
-| Augustus 2021 | [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html) | Video | Leer hoe en wanneer u een schemaveld als identiteit labelt, hoe u een naamruimte tot stand brengt, wanneer u een identiteit primair maakt en hoe u identiteitsgegevens opneemt en verifieert. |
-| Augustus 2021 | [Hoofdletters/kleine letters gebruiken - Bericht bij branden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html) | Video | Begrijp de toepasselijke gebruiksscenario&#39;s voor burst-messaging. Leer hoe u een journey voor burst-berichten configureert en welke best practices u toe kunt passen. |
-
 {style=&quot;table-layout:auto&quot;}
 
 #### Meer bronnen voor Journey Orchestration
@@ -247,6 +238,15 @@ Zie [Opmerkingen bij de release en logbestanden voor wijzigingen](https://aep-sd
 | [!UICONTROL Suppression list] | Het toevoegen van e-mailadressen en domeinen aan de suppressielijst is nu beschikbaar bij de gebruikersinterface, één voor één, of in bulkwijze door een Csv- dossier te uploaden. |
 
 Zie [Opmerkingen bij de release van Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) voor meer informatie.
+
+#### Nieuwe zelfstudies en cursussen voor Journey Optimizer {#tutorials-ajo}
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| Augustus 2021 | [Inleiding tot het samenstellen van een journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Begrijp de grondbeginselen van het samenstellen van een journey in het journeycanvas. |
+| Augustus 2021 | [Klantprofielgegevens instellen - overzicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html) | Video | Meer informatie over realtime klantprofielgegevens en de stappen die zijn vereist voor het instellen van klantprofielgegevens voor Journey Optimizer. |
+| Augustus 2021 | [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html) | Video | Leer hoe en wanneer u een schemaveld als identiteit labelt, hoe u een naamruimte tot stand brengt, wanneer u een identiteit primair maakt en hoe u identiteitsgegevens opneemt en verifieert. |
+| Augustus 2021 | [Hoofdletters/kleine letters gebruiken - Bericht bij branden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html) | Video | Begrijp de toepasselijke gebruiksscenario&#39;s voor burst-messaging. Leer hoe u een journey voor burst-berichten configureert en welke best practices u toe kunt passen. |
 
 ### Meer bronnen voor Journey Optimizer
 
