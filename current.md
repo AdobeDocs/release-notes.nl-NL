@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
+source-git-commit: 705386fb5b736ff9bf05219162697926821cd686
 workflow-type: tm+mt
 source-wordcount: '6355'
 ht-degree: 12%
@@ -195,31 +195,6 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 
 {style=&quot;table-layout:auto&quot;}
 
-### Journey Orchestration {#journey-orch}
-
-Functies, oplossingen en nieuwe Help-inhoud voor Journey Orchestration.
-
-**Augustus 2021**
-
-* **Dynamische headers:** u kunt nu dynamische gegevens doorgeven in HTTP-headerparameters. Deze parameters kunnen door de integratiesystemen worden gebruikt die de vraag van HTTP van de reisactie, bijvoorbeeld timestamp of het volgen identiteitskaart ontvangen. [Meer informatie...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-* **Dynamische URL-paden:** u kunt nu dynamische URL-paden instellen voor aangepaste handelingen. [Meer informatie...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-
-Zie [Opmerkingen bij de release van Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) voor meer informatie.
-
-#### Meer bronnen voor Journey Orchestration
-
-[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html)  - Opmerkingen bij de  [release](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)  -  [Hoe kan ik-video](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=html?lang=nl) &#39;s -  [Meest recente documentatieupdates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
-
-### [!UICONTROL Offer Decisioning] {#offer-decisioning}
-
-**Representatiestroom:** De manier u toevoegt en vertegenwoordiging vormt wanneer het creëren van een aanbieding is bijgewerkt voor betere gebruikerservaring
-
-* Zie [[!UICONTROL Offer Decisioning] Opmerkingen bij de release](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html) voor meer informatie.
-
-#### Meer bronnen voor [!UICONTROL Offer Decisioning]
-
-[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=nl)  - Opmerkingen bij de  [release](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new)  -  [Hoe kan ik-video](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=nl) &#39;s -  [Meest recente documentatieupdates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
-
 ### Adobe Mobile SDK
 
 Zie [Opmerkingen bij de release en logbestanden voor wijzigingen](https://aep-sdks.gitbook.io/docs/release-notes) voor de Adobe Experience Platform Mobile SDK&#39;s.
@@ -251,6 +226,31 @@ Zie [Opmerkingen bij de release van Journey Optimizer](https://experienceleague.
 ### Meer bronnen voor Journey Optimizer
 
 [Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html)  -  [Opmerkingen bij](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)  de release -  [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
+
+### Journey Orchestration {#journey-orch}
+
+Functies, oplossingen en nieuwe Help-inhoud voor Journey Orchestration.
+
+**Augustus 2021**
+
+* **Dynamische headers:** u kunt nu dynamische gegevens doorgeven in HTTP-headerparameters. Deze parameters kunnen door de integratiesystemen worden gebruikt die de vraag van HTTP van de reisactie, bijvoorbeeld timestamp of het volgen identiteitskaart ontvangen. [Meer informatie...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+* **Dynamische URL-paden:** u kunt nu dynamische URL-paden instellen voor aangepaste handelingen. [Meer informatie...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+
+Zie [Opmerkingen bij de release van Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) voor meer informatie.
+
+#### Meer bronnen voor Journey Orchestration
+
+[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html)  - Opmerkingen bij de  [release](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)  -  [Hoe kan ik-video](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=html?lang=nl) &#39;s -  [Meest recente documentatieupdates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
+
+### [!UICONTROL Offer Decisioning] {#offer-decisioning}
+
+**Representatiestroom:** De manier u toevoegt en vertegenwoordiging vormt wanneer het creëren van een aanbieding is bijgewerkt voor betere gebruikerservaring
+
+* Zie [[!UICONTROL Offer Decisioning] Opmerkingen bij de release](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html) voor meer informatie.
+
+#### Meer bronnen voor [!UICONTROL Offer Decisioning]
+
+[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=nl)  - Opmerkingen bij de  [release](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new)  -  [Hoe kan ik-video](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) &#39;s -  [Meest recente documentatieupdates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
 
 ## ![Pictogram](/assets/aem.png) Experience Manager {#aem}
 
