@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 705386fb5b736ff9bf05219162697926821cd686
+source-git-commit: acd15846c8be6d3fd4ad9bdb8688912013d92f74
 workflow-type: tm+mt
 source-wordcount: '6355'
 ht-degree: 12%
@@ -212,7 +212,7 @@ Zie [Opmerkingen bij de release en logbestanden voor wijzigingen](https://aep-sd
 
 Zie [Opmerkingen bij de release van Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) voor meer informatie.
 
-#### Nieuwe zelfstudies en cursussen voor Journey Optimizer {#tutorials-ajo}
+### Nieuwe zelfstudies en cursussen voor Journey Optimizer {#tutorials-ajo}
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
