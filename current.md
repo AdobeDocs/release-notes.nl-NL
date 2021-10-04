@@ -5,9 +5,10 @@ doc-type: release notes
 last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
-source-git-commit: ff7a3736e7490af8b815eda72e4ba0b363aef472
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
+source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
 workflow-type: tm+mt
-source-wordcount: '4971'
+source-wordcount: '5106'
 ht-degree: 10%
 
 ---
@@ -339,9 +340,13 @@ Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen die
 
 Nieuwste zelfstudies en cursussen voor Adobe Campaign.
 
-| Gepubliceerd | Naam | Toepassing | Beschrijving |
+| Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2021 | [Geavanceerde campagnes bouwen met Adobe Campaign V8 voor zakelijke gebruikers](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Campagne V8 | Leer hoe u geavanceerde marketingcampagnes configureert en uitvoert met Adobe Campaign V8. Leer over de eerste vereisten, bouw en vorm geavanceerde campagnes, leveringen, en beheer abonnementen. |
+| Oktober 2021 | [Geavanceerde campagnes bouwen met Adobe Campaign V8 voor zakelijke gebruikers](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Cursus | Leer hoe u geavanceerde marketingcampagnes configureert en uitvoert met Adobe Campaign V8. Leer over de eerste vereisten, bouw en vorm geavanceerde campagnes, leveringen, en beheer abonnementen. |
+| Oktober 2021 | [SOAP API&#39;s gebruiken in workflows - Inleiding](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en) | Tutorial | Leer hoe u Adobe Campaign Soap API&#39;s kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen. |
+| Oktober 2021 | [Gebeurtenissen maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | Zelfstudie | Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt en de lading voor een gebeurtenis. |
+| Oktober 2021 | [Gegevensbronnen configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Zelfstudie | Begrijp wat een gegevensbron is en leer hoe te om Experience Platform en externe gegevensbronnen te vormen. |
+| Oktober 2021 | [Hoofdletters/kleine letters gebruiken - Burgerberichten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | Zelfstudie | Begrijp de toepasselijke gebruiksscenario&#39;s voor burst-messaging. Leer hoe u een journey voor burst-berichten configureert en welke best practices u toe kunt passen. |
 
 {style=&quot;table-layout:auto&quot;}
 
