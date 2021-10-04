@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
+source-git-commit: 614e6d1d0f003ed788aafd806d25afdf3cd723e9
 workflow-type: tm+mt
-source-wordcount: '5106'
+source-wordcount: '5113'
 ht-degree: 10%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 10%
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **1 oktober 2021**
+Laatste update: **4 oktober 2021**
 
 * [[!DNL Experience League] Live gebeurtenissen](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Beheer](#ecloud)
@@ -50,6 +50,7 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 | Gebeurtenisdatum | Gebeurtenisnaam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 21 oktober 2021 | TBD | Live video, gebeurtenis | Nadere bijzonderheden. |
 | 23 september 2021 | [Experttips om uw vakantiecampagnes te laten uitkomen](https://www.youtube.com/watch?v=bsU1lAv0xes) | Live video, gebeurtenis | Net zoals het nooit te vroeg is om uw vakantiewinkels te starten, is het nooit te vroeg om een welwillend succesvolle campagne voor het op de markt brengen van vakanties te beginnen. Met Adobe Campaign kunt u campagnes ontwerpen, plannen en uitvoeren die ervoor zorgen dat alle wensen van uw organisatie voor vakantie uitkomen.<br>Maar ken je alle tips voor het uitvoeren van campagnes die het jaar met een knal afmaken? Sluit zich aan bij Sandra voor een live gesprek met drie Adobe-experts die daar gezamenlijk deskundig in zijn. |
 | 26 augustus 2021 | [Maak uw volgende segment van het publiek slimmer dan ooit](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | Gebeurtenisopname | Het succes van elke goede marketingcampagne hangt af van het feit dat u zich juist op uw doelgroep richt. Met de nieuwe Adobe Experience Platform [!UICONTROL Segment Builder] kunt u uw volgende publiekssegment bouwen gebruikend profielgegevens en op tijd-gebaseerd gebruikersgedrag over kanalen. Er is geen betere manier om ervoor te zorgen dat uw berichten de mensen bereiken die hen het meest moeten horen. |
 | 29 juli 2021 | [Mijn drie favoriete Adobe Analytics-implementatietips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | Gebeurtenisopname | U hebt hem op het podium gezien op de top. U hebt gehoord dat hij deskundig advies heeft gedeeld op Adobe Insider Tours. U hebt er misschien zelfs baat bij gehad om met hem samen te werken aan uw eigen Adobe Analytics-implementatie. Eric Matisoff brengt zijn drie favoriete Adobe Analytics implementatietips naar dit exclusieve Experience League Live discussie. |
