@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7cf9cf52da1afbbad7f5457077759b127a2e2312
+source-git-commit: e3facdc781ebcea6c4e623799ba1c431c83ae05f
 workflow-type: tm+mt
-source-wordcount: '5240'
+source-wordcount: '5369'
 ht-degree: 10%
 
 ---
@@ -23,12 +23,12 @@ ht-degree: 10%
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **4 oktober 2021**
+Laatste update: **7 oktober 2021**
 
 * [[!DNL Experience League] Live gebeurtenissen](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Beheer](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
-* [[!DNL Adobe Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Analytics]](#analytics) en  [Klantreisanalyse ](#cust-journey) **Bijgewerkt op 7 oktober 2021**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -87,7 +87,7 @@ Voor meer video&#39;s gaat u naar [Adobe Experience League Channel](https://www.
 Releasedatum: **7 oktober 2021**
 
 * [Nieuwe functies in Adobe Analytics](#aa-features)
-* [Nieuwe functies in Customer Journey Analytics](#cust-journey)
+* [Nieuwe functies in ](#cust-journey) **Analytics voor reizen van klantenBijgewerkt op 7 oktober 2021**
 * [Oplossingen in Adobe Analytics](#aa-fixes)
 * [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
 * [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
@@ -109,6 +109,7 @@ Releasedatum: **7 oktober 2021**
 
 | Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ----- |
+| Rolvenster voor [!UICONTROL Connection] gegevensbewaring | **Opmerking: Neem contact op met de klantenservice of uw Adobe-accountmanager om deze instelling te laten implementeren. Het is nog niet beschikbaar via CJA UI.**<p>Hiermee kunt u een CJA-gegevensretentieinstelling definiëren als een schuifvenster in maanden (3 maanden, 6 maanden, enz.) op een niveau [!UICONTROL connection] (niet op een niveau [!UICONTROL dataset]). Het bewaren van gegevens is gebaseerd op de tijdstempels van de gebeurtenisdataset en is slechts op gebeurtenisdatasets van toepassing. Er bestaat geen instelling voor gegevensbehoud voor profiel- of opzoekgegevenssets omdat er geen relevante tijdstempels zijn. Het belangrijkste voordeel is dat u alleen gegevens opslaat of rapporteert die van toepassing zijn en nuttig zijn, en oudere gegevens verwijdert die niet meer nuttig zijn. Het helpt u onder uw contractgrenzen te blijven en vermindert het risico van overleeftijdskosten. | 7 oktober 2021 |
 | Report Builder-ondersteuning | Report Builder is een Microsoft® [!DNL Excel] toe:voegen-binnen die u toestaat om douanerapporten gemakkelijk tot stand te brengen uit te geven en te verfrissen gebruikend Customer Journey Analytics gegevens. Met Report Builder en Excel, kunt u eenvoudige maar flexibele belemmering-en-dalingsUI gebruiken om complexe gegevensverzoeken gemakkelijk te bouwen. Met Report Builder voor Customer Journey Analytics kunt u:<ul><li>Verwijs naar bestaande werkbladcellen om de perfecte rijvolgorde, datumbereik of filter te krijgen</li><li>Aangepaste datums maken met gebruik van kalender, celverwijzingen of wiskunde voor datums</li><li>Ontwerp uw lijsten en visualisaties met vertrouwde het formatteren van Excel hulpmiddelen</li><li>Beschikbaar voor Excel op macOS, Microsoft 365 voor het web en Microsoft Windows</li></ul>[Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 7 oktober 2021 |
 | Visualisaties voor analytische dashboards | Analytics [!UICONTROL Dashboards] introduceert drie nieuwe visualisaties om leidinggevenden en besluitvormers een nog beter inzicht in hun gegevens te geven. De nieuwe donut-, lijn- en horizontale staafdiagrammen maken het allemaal gemakkelijker om gegevens voor afzonderlijke dimensie-items te zien, zonder dat u een gedetailleerde weergave hoeft te openen. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 7 oktober 2021 |
 | Customer Journey Analytics Audit Logs API | Met het API-eindpunt [Auditlog](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) kunt u gegevens uit het controlelogbestand opvragen bij Adobe. Het is een belangrijk deel van veiligheids naleving, en voor controlegegevens of gebruikersacties. | 7 oktober 2021 |
