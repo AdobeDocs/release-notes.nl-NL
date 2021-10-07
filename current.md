@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f0bc233f66b61333fee0cf07f816918d61c0776e
+source-git-commit: 7cf9cf52da1afbbad7f5457077759b127a2e2312
 workflow-type: tm+mt
-source-wordcount: '5229'
+source-wordcount: '5240'
 ht-degree: 10%
 
 ---
@@ -109,7 +109,7 @@ Releasedatum: **7 oktober 2021**
 
 | Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ----- |
-| Report Builder-ondersteuning | Report Builder is een Microsoft® [!DNL Excel] toe:voegen-binnen die u toestaat om douanerapporten gemakkelijk tot stand te brengen uit te geven en te verfrissen gebruikend Customer Journey Analytics gegevens. Met Report Builder en Excel, kunt u eenvoudige maar flexibele belemmering-en-dalingsUI gebruiken om complexe gegevensverzoeken gemakkelijk te bouwen. Met Report Builder voor Customer Journey Analytics kunt u:<ul><li>Verwijs naar bestaande werkbladcellen om de perfecte rijvolgorde, datumbereik of filter te krijgen</li><li>Aangepaste datums maken met gebruik van kalender, celverwijzingen of wiskunde voor datums</li><li>Ontwerp uw lijsten en visualisaties met vertrouwde het formatteren van Excel hulpmiddelen</li><li>Beschikbaar op macOS, Microsoft 365 voor het web en Microsoft Windows</li></ul> | 7 oktober 2021 |
+| Report Builder-ondersteuning | Report Builder is een Microsoft® [!DNL Excel] toe:voegen-binnen die u toestaat om douanerapporten gemakkelijk tot stand te brengen uit te geven en te verfrissen gebruikend Customer Journey Analytics gegevens. Met Report Builder en Excel, kunt u eenvoudige maar flexibele belemmering-en-dalingsUI gebruiken om complexe gegevensverzoeken gemakkelijk te bouwen. Met Report Builder voor Customer Journey Analytics kunt u:<ul><li>Verwijs naar bestaande werkbladcellen om de perfecte rijvolgorde, datumbereik of filter te krijgen</li><li>Aangepaste datums maken met gebruik van kalender, celverwijzingen of wiskunde voor datums</li><li>Ontwerp uw lijsten en visualisaties met vertrouwde het formatteren van Excel hulpmiddelen</li><li>Beschikbaar voor Excel op macOS, Microsoft 365 voor het web en Microsoft Windows</li></ul>[Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 7 oktober 2021 |
 | Visualisaties voor analytische dashboards | Analytics [!UICONTROL Dashboards] introduceert drie nieuwe visualisaties om leidinggevenden en besluitvormers een nog beter inzicht in hun gegevens te geven. De nieuwe donut-, lijn- en horizontale staafdiagrammen maken het allemaal gemakkelijker om gegevens voor afzonderlijke dimensie-items te zien, zonder dat u een gedetailleerde weergave hoeft te openen. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 7 oktober 2021 |
 | Customer Journey Analytics Audit Logs API | Met het API-eindpunt [Auditlog](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) kunt u gegevens uit het controlelogbestand opvragen bij Adobe. Het is een belangrijk deel van veiligheids naleving, en voor controlegegevens of gebruikersacties. | 7 oktober 2021 |
 | Snel [!UICONTROL Filter Builder] | Staat bedrijfsgebruikers toe om basissegmenten in een vereenvoudigde, in-lijn projectwerkschema snel toe te passen. U hoeft niet naar [!UICONTROL Filter Builder] te gaan. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | 21 oktober 2021 |
