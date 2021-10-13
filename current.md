@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bc6e1a293674c9554cb5c4bb18e3e39bb8c38213
+source-git-commit: d2d02b2130c11f1971220646ac19f4fa6f0ab5da
 workflow-type: tm+mt
-source-wordcount: '5369'
+source-wordcount: '5385'
 ht-degree: 10%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 10%
 >
 >Abonneren op de maandelijkse [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen over updates van deze pagina te ontvangen. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Laatste update: **7 oktober 2021**
+Laatste update: **13 oktober 2021**
 
 * [[!DNL Experience League] Live gebeurtenissen](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Beheer](#ecloud)
@@ -32,7 +32,7 @@ Laatste update: **7 oktober 2021**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (bijgewerkt op 13  **oktober 2021**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Target]](#target)
@@ -238,6 +238,8 @@ Meer informatie over de recentste mogelijkheden, verbeteringen, en moeilijke sit
 ## ![Pictogram](/assets/aem.png) Experience Manager {#aem}
 
 Adobe raadt aan de pagina [Updates en roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) van de release van de Experience Manager te bezoeken om actuele informatie over de release te blijven.
+
+**Update 10/13/2021:** Ontdek de Release- [overviewvideo van ](https://video.tv.adobe.com/v/337381) september 2021 voor een overzicht van de nieuwe functies.
 
 ### Community
 
