@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d2d02b2130c11f1971220646ac19f4fa6f0ab5da
+source-git-commit: 506c543d97a19bf88e7ba767c82893b02704ea8b
 workflow-type: tm+mt
-source-wordcount: '5385'
+source-wordcount: '5471'
 ht-degree: 10%
 
 ---
@@ -349,7 +349,7 @@ Nieuwste zelfstudies en cursussen voor Adobe Campaign.
 | Oktober 2021 | [Geavanceerde campagnes bouwen met Adobe Campaign V8 voor zakelijke gebruikers](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Cursus | Leer hoe u geavanceerde marketingcampagnes configureert en uitvoert met Adobe Campaign V8. Leer over de eerste vereisten, bouw en vorm geavanceerde campagnes, leveringen, en beheer abonnementen. |
 | Oktober 2021 | [SOAP API&#39;s gebruiken in workflows - Inleiding](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en) | Tutorial | Leer hoe u Adobe Campaign Soap API&#39;s kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen. |
 | Oktober 2021 | [Gebeurtenissen maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | Zelfstudie | Leer hoe te om een gebeurtenis te vormen, specificeer het het stromen eindpunt en de lading voor een gebeurtenis. |
-| Oktober 2021 | [Gegevensbronnen configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Zelfstudie | Begrijp wat een gegevensbron is en leer hoe te om Experience Platform en externe gegevensbronnen te vormen. |
+| Oktober 2021 | [Gegevensbronnen configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Zelfstudie | Begrijp wat een databron is en leer hoe u Experience Platform en externe databronnen kunt configureren. |
 | Oktober 2021 | [Hoofdletters/kleine letters gebruiken - Burgerberichten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | Zelfstudie | Begrijp de toepasselijke gebruiksscenario&#39;s voor burst-messaging. Leer hoe u een journey voor burst-berichten configureert en welke best practices u toe kunt passen. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -370,22 +370,21 @@ Release-aantekeningen voor [!DNL Adobe Advertising Cloud].
 
 ### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Laatst bijgewerkt: **28 september 2021**
+Laatst bijgewerkt: **7 oktober 2021**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| Weergaven van Campagnebeheer | Een kolom &quot;[!UICONTROL Creation date]&quot; is nu beschikbaar in aangepaste kolomsets voor de weergaven [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] en [!UICONTROL Ads]. U kunt de weergaven [!UICONTROL Placements] en [!UICONTROL Ads] ook filteren door [!UICONTROL Creation date]. |
-| Door programmacode gegarandeerde deals | (8 September versie) U kunt [!UICONTROL Max Bid] voor de standaardplaatsing voor een programmatic gewaarborgde (PG) overeenkomst nu uitgeven. Omdat PG-deals echter altijd een vaste CPM hebben, dienen alleen internationale clients de [!UICONTROL Max Bid] te bewerken om rekening te houden met valutawisselkosten. |
-|  | (8 september) Gebruikers met de machtiging &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot; kunnen nu een advertentie verzenden naar [!DNL FreeWheel Programmatic Creative API] vanuit de weergave [!UICONTROL Ads] of de weergave [!UICONTROL Placements]. U kunt nog steeds een advertentie verzenden vanuit de weergave [!UICONTROL Deals]. |
+| Documentatie | Alle [DSP en andere Advertising Cloud-documentatie](https://experienceleague.adobe.com/docs/advertising-cloud.html) op [!DNL Experience League] is nu een machine die in alle beschikbare talen wordt vertaald. Als u de weergegeven taal wilt wijzigen, gebruikt u het menu &#39;Taal wijzigen&#39; linksonder op een pagina. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **28 september 2021**
+Laatst bijgewerkt: **7 oktober 2021**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
+| [!UICONTROL Reports], [!UICONTROL Notification Center] | (9 oktober) Alle e-mailmeldingen voor rapporten die Advertising Cloud Search verzendt wanneer een aangepast of gepland rapport is voltooid of mislukt, worden nu verwerkt door [!UICONTROL Notification Center]. E-mailmeldingen en webmeldingen zijn standaard ingeschakeld voor rapporten, maar u kunt desgewenst de meldingsinstellingen wijzigen. Met deze wijziging:<ul><li>E-mailontvangers zijn beperkt tot gebruikers die zijn geregistreerd, geverifieerd zijn door Advertising Cloud Search en toegang hebben tot het account van de adverteerder. Dit zorgt ervoor dat er geen vertrouwelijke gegevens naar onbevoegde gebruikers worden verzonden.</li><li>De indeling en inhoud van de e-mail gebruikt de sjabloon [!UICONTROL Notification Center], die meer details van het rapport bevat en directe downloadkoppelingen voor alle rapportindelingen bevat.</li><li>Rapportmeldingen zijn een nieuw meldingstype met eigen berichtgevingsvoorkeuren in [!UICONTROL Notification Center].</li></ul>Als u automatisering gebruikt om rapporten van e-mailberichten te trekken, kunt u de het filtreren logica moeten bijwerken om procescontinuïteit te verzekeren. |
 | Advertising Insights | Aanvullende inzichten zijn beschikbaar in de bètamodus. |
 
 {style=&quot;table-layout:auto&quot;}
