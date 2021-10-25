@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: c22db21d36f9ff7309f1ca835ff3241f87b86286
+source-git-commit: f348d6153d81dae8ef84cd1aeb797e707104f392
 workflow-type: tm+mt
-source-wordcount: '4153'
+source-wordcount: '4097'
 ht-degree: 14%
 
 ---
@@ -30,17 +30,18 @@ Laatste update: **22 oktober 2021**
 * [[!DNL Experience League] Live gebeurtenissen](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Beheer](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
+* [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL Adobe Campaign]](#ac)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
-* [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Commerce]](#magento)
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Journey Optimizer]](#journey-opt)
+* [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -64,7 +65,7 @@ Ga voor meer video&#39;s naar de [Adobe Experience League Channel](https://www.y
 | Functie | Beschrijving |
 | ------- | ------- |
 | Startpagina | De gegevens over de voettekst op de Experience Cloud-website zijn verplaatst naar de gebruikersprofielkaart, inclusief juridische kennisgevingen en taalselectie in Voorkeuren. |
-| AEP-dashboards | [!DNL Helios Lite] bevat grafiekaanbevelingen in de workflow voor het maken van Experience Platforms-widgets. Op basis van een gegevensselectie (momenteel één variabele gegevensselectie), wordt aanbevolen de gegevens op gepaste wijze te visualiseren. |
+| AEP-dashboards | [!DNL Helios Lite] bevat grafiekaanbevelingen in de workflow voor het maken van Experience Platforms-widgets. Op basis van een gegevensselectie (momenteel één variabele gegevensselectie), [!DNL Helios] beveelt een passende visualisatie aan om deze gegevensselectie te begeleiden. |
 | AEP-dashboards | [!DNL Instory] biedt geschreven commentaar en bijschriften op basis van ML voor grafieken. Het simuleert grafieken op de pagina AEP-dashboards met relevante opsommingstekens die belangrijke wijzigingen en incidenten in de grafische gegevens aangeven. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -80,6 +81,29 @@ Ga voor meer video&#39;s naar de [Adobe Experience League Channel](https://www.y
 [!DNL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval, verstoring en onderhoudsgebeurtenissen van Adobe-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
 (Zoek de meest recente releasegegevens voor [!DNL Adobe System Status] in de [21 mei 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) opmerkingen bij de release.)
+
+## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+
+Bevat de update-informatie van de release en nieuwe documentatie voor Experience Platform en [!UICONTROL Mobile SDK].
+
+**29 september 2021**
+
+Zie [Opmerkingen bij de release Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) voor alle details.
+
+### Zelfstudies en cursussen voor Experience Platforms {#tutorials-platform}
+
+Nieuwste video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platform en services.
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| November 2021 | [ De Samenwerking van gegevens in de Context van Gegevens van de Eerste partij ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=en#) | Video | De beloften nakomen, met toegang tot minder gegevens. Of u nu adverteerders, uitgevers of bureaus bent, deze webinar helpt u de mogelijkheden voor samenwerking in de toekomst zonder cookies van derden te ontsluiten. |
+| Oktober 2021 | [[!DNL Platform] Beheer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | Cursus | Leer over beleidsactiviteiten voor Experience Platform, met inbegrip van toestemming en zandbakbeheer. |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Adobe Mobile SDK
+
+Zie [Opmerkingen bij de release en logbestanden wijzigen](https://aep-sdks.gitbook.io/docs/release-notes) voor de Adobe Experience Platform Mobile SDK&#39;s.
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -155,7 +179,7 @@ Nieuwste cursussen, zelfstudies en artikelen in [!DNL Analytics] en [!UICONTROL 
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| November 2021 | [Segmentcontainers in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-containers.html?lang=en) | Video (bijgewerkt) | In deze video leert u hoe u de containers kunt gebruiken en hoort u enkele voorbeelden van elk type container. |
+| november 2021 | [Segmentcontainers in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-containers.html?lang=en) | Video (bijgewerkt) | In deze video leert u hoe u de containers kunt gebruiken en hoort u enkele voorbeelden van elk type container. |
 | november 2021 | [Opeenvolgende segmentering in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/sequential-segmentation.html?lang=en#) | Video (bijgewerkt) | Leer hoe u een segment maakt in Analysis Workspace op basis van een reeks gedragingen op uw site of in uw toepassing. |
 | november 2021 | [Voor/Na-reeksen in opeenvolgende segmentatie](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/before-after-sequences-in-sequential-segmentation.html?lang=en) | Video (bijgewerkt) | Leer hoe u in Adobe Analytics segmenteert, zodat u alleen de gegevens van voor of na een bepaald gebruikerspad ophaalt. |
 | november 2021 | [Report Builder voor Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/report-builder-for-customer-journey-analytics.html) | Video | Met Report Builder eenvoudig en flexibel slepen en neerzetten UI kunt u complexe gegevensquery&#39;s en aangepaste rapporten maken vanuit Customer Journey Analytics, allemaal in Excel. |
@@ -174,78 +198,6 @@ Oplossingen en verbeteringen in de Audience Manager.
 * Oplossing van een probleem dat ervoor zorgde dat alle API-aanroepen een `Undocumented` fout bij uitvoering via de Swagger-interface. (AAM-59190)
 * Oplossing van een kwestie die onjuiste gebruikersrollen veroorzaakte om aan partners in sommige situaties worden toegewezen. (AAM-59451)
 * Oplossing voor een probleem waarbij de API hoofdlettergevoelige verificatieheaders moest vereisen. (AAM-58528)
-
-
-## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
-
-Bevat de update-informatie van de release en nieuwe documentatie voor Experience Platform en [!UICONTROL Mobile SDK].
-
-**29 september 2021**
-
-Zie [Opmerkingen bij de release Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) voor alle details.
-
-### Zelfstudies en cursussen voor Experience Platforms {#tutorials-platform}
-
-Nieuwste video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platform en services.
-
-| Gepubliceerd | Naam | Type | Beschrijving |
-| -----------| ---------- | ---------- | ---------- |
-| november 2021 | [ De Samenwerking van gegevens in de Context van Gegevens van de Eerste partij ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=en#) | Video | De beloften nakomen, met toegang tot minder gegevens. Of u nu adverteerders, uitgevers of bureaus bent, deze webinar helpt u de mogelijkheden voor samenwerking in de toekomst zonder cookies van derden te ontsluiten. |
-| Oktober 2021 | [[!DNL Platform] Beheer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | Cursus | Leer over beleidsactiviteiten voor Experience Platform, met inbegrip van toestemming en zandbakbeheer. |
-
-{style=&quot;table-layout:auto&quot;}
-
-### Adobe Mobile SDK
-
-Zie [Opmerkingen bij de release en logbestanden wijzigen](https://aep-sdks.gitbook.io/docs/release-notes) voor de Adobe Experience Platform Mobile SDK&#39;s.
-
-## ![Pictogram](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
-
-Met Adobe Journey Optimizer kunt u geplande omnichannel campagnes en een-op-een-momenten voor miljoenen klanten beheren vanuit één toepassing. De hele reis is geoptimaliseerd met intelligente beslissingen en inzichten.
-
-### Nieuwste Journey Optimizer-productreleases
-
-Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Opmerkingen bij de release van Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
-
-### Zelfstudies en cursussen voor Journey Optimizer {#tutorials-ajo}
-
-Nieuwste Journey Optimizer-zelfstudies:
-
-| Gepubliceerd | Naam | Type | Beschrijving |
-| -----------| ---------- | ---------- | ---------- |
-| Oktober 2021 | [Gegevens configureren en beheren in [!DNL Journey Optimizer] voor Data Engineers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2) | Cursus | Leer hoe u de gegevens die nodig zijn voor het beheer van reizen in Journey Optimizer kunt configureren en beheren. |
-| Oktober 2021 | [Aan de slag met [!DNL Journey Optimizer] voor Reisbeheerders en -beheerders](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) | Cursus | Leer alles wat je moet weten om je eerste reis te maken. |
-| Oktober 2021 | [Configureren [!DNL Journey Optimizer] voor Reisbeheerders](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1) | Cursus | Begrijp het [!DNL Journey Optimizer] architectuur en integratiepunten. Leer hoe te vormen [!DNL Journey Optimizer]. |
-
-{style=&quot;table-layout:auto&quot;}
-
-### Meer bronnen voor [!DNL Journey Optimizer]
-
-[Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Instructievideo&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
-
-## ![Pictogram](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
-
-Het Experience Platform van het gebruik om de reis van een klant bij schaal over ervaringskanalen te ordenen, door intelligent de behoeften van elk individu in echt te voorzien - tijd.
-
-### Laatste [!DNL Journey Orchestration] productreleases
-
-Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [[!DNL Journey Orchestration] Opmerkingen bij de release](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
-
-### Meer bronnen voor [!DNL Journey Orchestration]
-
-[Documentatie](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=html?lang=nl) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
-
-## ![Pictogram](/assets/experience_platform_appicon_24.png) Beslissingsbeheer {#offer-decisioning}
-
-[!UICONTROL Offer Decisioning] is een service die is geïntegreerd met Adobe Experience Platform. Gebruiken [!UICONTROL Offer Decisioning] om uw klanten de beste aanbieding en ervaring op alle aanraakpunten op het juiste moment te bieden.
-
-### Recentste Besluit Management Product releases
-
-Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Opmerkingen bij de release Besluitbeheer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
-
-### Meer bronnen voor [!UICONTROL Decision Management]
-
-[Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
 ## ![Pictogram](/assets/aem.png) Experience Manager {#aem}
 
@@ -311,6 +263,25 @@ De nota&#39;s van de versie en andere verbindingen van de versieinformatie voor 
 * [[!DNL Dynamic Media Classic] Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Documentatie Experience Manager: Recente updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
 
+## ![Pictogram](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
+
+Raadpleeg de volgende koppelingen voor Adobe Commerce-releaseopmerkingen:
+
+* [Adobe Commerce en Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite voor Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+
+### Nieuwe Adobe Commerce-zelfstudies {#commerce-tutorials}
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| november 2021 | [Adobe Commerce-video&#39;s en -Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html?lang=en) | Zelfstudie naar huis | Deze leermiddelen omvatten videoreeks die een mening op hoog niveau van onderwerpen, en individuele video&#39;s verstrekken die specifieke taken en processen richten. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken. |
+
+## ![Pictogram](/assets/target.png) [!DNL Target] {#target}
+
+Laatst bijgewerkt: **20 oktober 2021**
+
+Zie [[!DNL Target]  releaseopmerkingen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) voor de recentste releasegegevens.
+
 ## ![Pictogram](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
 Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één berichten af te leveren via online en offline marketingkanalen. U kunt nu anticiperen op wat uw klanten willen met behulp van ervaringen die worden bepaald door hun gewoonten en voorkeuren.
@@ -339,9 +310,60 @@ Nieuwste zelfstudies en cursussen voor Adobe Campaign.
 ### Help-informatie en bronnen voor Campaign
 
 * Adobe Campaign v8: [Documentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Implementatiehulplijnen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
-* Adobe Campaign Standard: [Campaign Standard Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html) - [Release-planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
-* Adobe Campaign Classic: [Campaign Classic v7-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
+* Adobe Campaign Standard: [Campaign Standard Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl) - [Release-planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Classic: [Campaign Classic v7-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign - Configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=nl)
+
+## ![Pictogram](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+Met Adobe Journey Optimizer kunt u geplande omnichannel campagnes en een-op-een-momenten voor miljoenen klanten beheren vanuit één toepassing. De hele reis is geoptimaliseerd met intelligente beslissingen en inzichten.
+
+### Nieuwste Journey Optimizer-productreleases
+
+Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Opmerkingen bij de release van Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+
+### Zelfstudies en cursussen voor Journey Optimizer {#tutorials-ajo}
+
+Nieuwste Journey Optimizer-zelfstudies:
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| Oktober 2021 | [Gegevens configureren en beheren in [!DNL Journey Optimizer] voor Data Engineers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2) | Cursus | Leer hoe u de gegevens die nodig zijn voor het beheer van reizen in Journey Optimizer kunt configureren en beheren. |
+| Oktober 2021 | [Aan de slag met [!DNL Journey Optimizer] voor Reisbeheerders en -beheerders](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) | Cursus | Leer alles wat je moet weten om je eerste reis te maken. |
+| Oktober 2021 | [Configureren [!DNL Journey Optimizer] voor Reisbeheerders](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1) | Cursus | Begrijp het [!DNL Journey Optimizer] architectuur en integratiepunten. Leer hoe te vormen [!DNL Journey Optimizer]. |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Meer bronnen voor [!DNL Journey Optimizer]
+
+* [Journey Optimizer-documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Geen rotaties](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
+* [Beslissingsbeheerdocumentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
+
+## ![Pictogram](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
+
+Het Experience Platform van het gebruik om de reis van een klant bij schaal over ervaringskanalen te ordenen, door intelligent de behoeften van elk individu in echt te voorzien - tijd.
+
+### Laatste [!DNL Journey Orchestration] productreleases
+
+Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [[!DNL Journey Orchestration] releaseopmerkingen](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
+
+#### Meer bronnen voor [!DNL Journey Orchestration]
+
+* [Journey Orchestration-documentatie](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=html?lang=nl) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
+
+## ![Pictogram](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
+
+[!DNL Marketo Engage] is een volledige toepassing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten mee te werken.
+
+### Belangrijke Marketo Engage-updates
+
+Zie [!DNL Marketo Engage] [releaseplanning](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) voor de recentste informatie van het versieschema en versienota&#39;s.
+
+## ![Pictogram](/assets/workfront.png) [!DNL Workfront] {#workfront}
+
+Adobe [!DNL Workfront] is een uniforme toepassing voor werkbeheer voor het delen van ideeën, het maken van inhoud, het beheren van complexe processen en het uitvoeren van hun beste werk.
+
+Zie de [[!DNL Workfront] lozingen](https://one.workfront.com/s/product-releases) pagina voor een afronding van de meest recente informatie voor alle producten.
 
 ## ![Pictogram](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -370,39 +392,6 @@ Laatst bijgewerkt: **7 oktober 2021**
 | Advertising Insights | Aanvullende inzichten zijn beschikbaar in de bètamodus. |
 
 {style=&quot;table-layout:auto&quot;}
-
-## ![Pictogram](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
-
-Raadpleeg de volgende koppelingen voor Adobe Commerce-releaseopmerkingen:
-
-* [Adobe Commerce en Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Cloud Suite voor Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
-
-### Nieuwe Adobe Commerce-zelfstudies {#commerce-tutorials}
-
-| Gepubliceerd | Naam | Type | Beschrijving |
-| -----------| ---------- | ---------- | ---------- |
-| november 2021 | [Adobe Commerce-video&#39;s en -Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html?lang=en) | Zelfstudie naar huis | Deze leermiddelen omvatten videoreeks die een mening op hoog niveau van onderwerpen, en individuele video&#39;s verstrekken die specifieke taken en processen richten. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken. |
-
-## ![Pictogram](/assets/target.png) [!DNL Target] {#target}
-
-Laatst bijgewerkt: **20 oktober 2021**
-
-Zie [[!DNL Target]  releaseopmerkingen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) voor de recentste releasegegevens.
-
-## ![Pictogram](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
-
-[!DNL Marketo Engage] is een volledige toepassing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten mee te werken.
-
-### Belangrijke Marketo Engage-updates
-
-Zie [!DNL Marketo Engage] [releaseplanning](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) voor de recentste informatie van het versieschema en versienota&#39;s.
-
-## ![Pictogram](/assets/workfront.png) [!DNL Workfront] {#workfront}
-
-Adobe [!DNL Workfront] is een uniforme toepassing voor werkbeheer voor het delen van ideeën, het maken van inhoud, het beheren van complexe processen en het uitvoeren van hun beste werk.
-
-Zie de [[!DNL Workfront] lozingen](https://one.workfront.com/s/product-releases) pagina voor een afronding van de meest recente informatie voor alle producten.
 
 ## ![Pictogram](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
