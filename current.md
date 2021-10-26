@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: f348d6153d81dae8ef84cd1aeb797e707104f392
+source-git-commit: 99bb9c88f2aa8b9f62cf2f088671fe60c1e684ab
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4100'
 ht-degree: 14%
 
 ---
@@ -203,7 +203,10 @@ Oplossingen en verbeteringen in de Audience Manager.
 
 Adobe raadt u aan de [Updates van de release van Experience Managers en routekaarten](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) pagina om actueel te blijven bij releasegegevens.
 
-**Update 10/13/2021:** Kijk uit de [Overzicht release september 2021](https://video.tv.adobe.com/v/337381) video voor een overzicht van nieuwe functies.
+### Release-overzichtsvideo&#39;s
+
+* [Overzicht release oktober 2021](https://video.tv.adobe.com/v/338253) video met nieuwe functies.
+* [Overzicht release september 2021](https://video.tv.adobe.com/v/337381) video met nieuwe functies.
 
 ### Community
 
