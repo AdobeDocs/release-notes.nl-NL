@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 99bb9c88f2aa8b9f62cf2f088671fe60c1e684ab
+source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
 workflow-type: tm+mt
-source-wordcount: '4100'
+source-wordcount: '4116'
 ht-degree: 14%
 
 ---
@@ -124,7 +124,7 @@ Releasedatum: **28 oktober 2021**
 | [!UICONTROL Media Playback Time Spent] | Adobe-streaming media afspelen [!UICONTROL Time Spent] biedt een waardevol inzicht in de betrokkenheid van de kijker en stelt mediaorganisaties in staat diepgaandere, meer gedetailleerde inzichten te verkrijgen met de betrokkenheid van de gebruiker van elke minuut door middel van geavanceerde tijdbestede analyse met mogelijkheden voor het parseren van de dag. U kunt de hoeveelheid tijd waarnemen die het bekijken van uw media stromen op een specifiek punt in tijd besteedt. U kunt de afspeelduur splitsen op verschillende granulariteiten, zoals nieuwe granulariteiten van 5 minuten, 15 minuten en 30 minuten. [Meer informatie](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | 18 oktober 2021 |
 | Snel [!UICONTROL Segment Builder] | Staat bedrijfsgebruikers toe om basissegmenten in een vereenvoudigde, in-lijn projectwerkschema snel toe te passen. Ga niet naar de [!UICONTROL Segment Builder]. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | 21 oktober 2021 |
 | Verbeteringen in Analysis Workspace-linkerrasterzoekfunctie | Linkerspooronderzoek 1) geeft voorrang aan nauwkeurige gelijken boven brede gelijken, naast het blijven rekenschap geven van componentenrecentie en relevantie. 2) Het markeert overeenkomende tekens om zoekresultaten begrijpelijker te maken. 3) Het is gemakkelijker om classificaties te vinden met betrekking tot een dimensie. 4) Ten slotte wordt jokerteken ondersteund (`*`) zoeken om gemakkelijker specifieke componenten te vinden die u nodig hebt. Opmerking: Het zoeken met jokertekens werkt nog niet op het niveau van dimensie-items. | 21 oktober 2021 |
-| Analysis Workspace Donker thema | Donker thema is beschikbaar als weergaveoptie. | 21 oktober 2021 |
+| Donker thema | [Donker thema](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) is beschikbaar als een weergaveoptie. | 21 oktober 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -135,7 +135,7 @@ Releasedatum: **28 oktober 2021**
 | Datumbereiken op minaniveau in Analysis Workspace | U kunt een datumbereik op minaniveau toepassen onder de geavanceerde instellingen van uw deelvensterkalender of bij het maken van een aangepast datumbereik. Als u op een datumwaaier rapporteert die vele dagen overspant, is de begintijd van toepassing op de eerste dag en de eindtijd op de laatste dag in uw waaier. | 18 oktober 2021 |
 | Snel [!UICONTROL Filter Builder] | Staat bedrijfsgebruikers toe om basissegmenten in een vereenvoudigde, in-lijn projectwerkschema snel toe te passen. Ga niet naar de [!UICONTROL Filter Builder]. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html) | 21 oktober 2021 |
 | Verbeteringen in Analysis Workspace-linkerrasterzoekfunctie | Linkerspooronderzoek 1) geeft voorrang aan nauwkeurige gelijken boven brede gelijken, naast het blijven rekenschap geven van componentenrecentie en relevantie. 2) Het markeert overeenkomende tekens om zoekresultaten begrijpelijker te maken. 3) Het is gemakkelijker om classificaties te vinden met betrekking tot een dimensie. 4) Ten slotte wordt jokerteken ondersteund (`*`) zoeken om gemakkelijker specifieke componenten te vinden die u nodig hebt. Opmerking: Het zoeken met jokertekens werkt nog niet op het niveau van dimensie-items. | 21 oktober 2021 |
-| Analysis Workspace Donker thema | Donker thema is beschikbaar als weergaveoptie. | 21 oktober 2021 |
+| Donker thema | [Donker thema](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=en#dark-theme) is beschikbaar als een weergaveoptie. | 21 oktober 2021 |
 | Venster Opzoeken voor dimensietoewijzing | Een terugblik-achtervenster van maximaal 90 dagen wordt toegevoegd aan de afmetingstoewijzing die onder Persistence in de configuratie van de Mening van Gegevens plaatst. [Meer informatie](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html) | 28 oktober 2021 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -312,7 +312,7 @@ Nieuwste zelfstudies en cursussen voor Adobe Campaign.
 
 ### Help-informatie en bronnen voor Campaign
 
-* Adobe Campaign v8: [Documentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Implementatiehulplijnen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
+* Adobe Campaign v8: [Documentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Implementatiehulplijnen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
 * Adobe Campaign Standard: [Campaign Standard Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl) - [Release-planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Campaign Classic v7-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign - Configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) - [Releaseopmerkingen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - Video&#39;s met stapsgewijze instructies voor [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=nl)
