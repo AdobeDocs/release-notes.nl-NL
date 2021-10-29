@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 4dfe2c2ab39fe82b40fc87e289d2c55c6ccc6735
+source-git-commit: 88923d059ec73215facae2efc1888b07b2e60fc7
 workflow-type: tm+mt
-source-wordcount: '4412'
+source-wordcount: '4469'
 ht-degree: 13%
 
 ---
@@ -53,7 +53,8 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 | Gebeurtenisdatum | Tijd | Gebeurtenisnaam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 21 oktober 2021 | Op verzoek | [Wie klikte dat? Geavanceerde rapportage over koppelingsklikken met Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Live video-gebeurtenis | Het melden van gebruikersinteractie met uw Web of mobiel bezit is een kritiek stuk van het begrip van de reis van uw klant. Met Adobe Analytics kunt u begrijpen wie, wat, waarom en waar van elke klik in uw toepassing. Leer van Adobe Analytics-experts hun toptips voor het gebruik van Activity Map-classificaties en aangepaste toewijzing om de betrokkenheid van gebruikers beter te begrijpen. |
+| 18 november 2021 | TBA | Ga sneller dan ooit live dankzij de snelle creatie van sites in Experience Manager | Live video, gebeurtenis | Experience Manager Sites bevat verschillende functies om de levering van een aantrekkelijke webervaring te versnellen. Leer hoe u met behulp van een vooraf gedefinieerde sitesjabloon een site maakt met een aanpak met lage code. Meer details voor u! |
+| 21 oktober 2021 | Op verzoek | [Wie klikte dat? Geavanceerde rapportage over koppelingsklikken met Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Live video, gebeurtenis | Het melden van gebruikersinteractie met uw Web of mobiel bezit is een kritiek stuk van het begrip van de reis van uw klant. Met Adobe Analytics kunt u begrijpen wie, wat, waarom en waar van elke klik in uw toepassing. Leer van Adobe Analytics-experts hun toptips voor het gebruik van Activity Map-classificaties en aangepaste toewijzing om de betrokkenheid van gebruikers beter te begrijpen. |
 | 4 oktober 2021 | Op verzoek | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | De gebeurtenis heeft gemist of een specifieke sessie opnieuw afspelen zoekt? Zoek ze op Experience League. Ontwikkelaars Live toont de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van de gebruikerservaring in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, Adobe I/O open-bronprojecten, en veel meer. |
 
 {style=&quot;table-layout:auto&quot;}
