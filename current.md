@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
+source-git-commit: 4dfe2c2ab39fe82b40fc87e289d2c55c6ccc6735
 workflow-type: tm+mt
-source-wordcount: '4116'
-ht-degree: 14%
+source-wordcount: '4412'
+ht-degree: 13%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 14%
 
 Releasedatum: **november 2021**
 
-Laatste update: **22 oktober 2021**
+Laatste update: **28 oktober 2021**
 
 * [[!DNL Experience League] Live gebeurtenissen](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Beheer](#ecloud)
@@ -41,7 +41,7 @@ Laatste update: **22 oktober 2021**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising Cloud]](#adcloud) (**27 oktober 2021**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -372,16 +372,32 @@ Zie de [[!DNL Workfront] lozingen](https://one.workfront.com/s/product-releases)
 
 Opmerkingen bij de release voor [!DNL Adobe Advertising Cloud].
 
+* [Nieuwe functies over [!DNL Advertising Cloud]](#adcloud-all)
 * [Nieuwe functies in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nieuwe functies in [!DNL Advertising Cloud Search]](#adcloud-search)
 
-### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Nieuwe functies over [!DNL Advertising Cloud] {#adcloud-all}
 
-Laatst bijgewerkt: **7 oktober 2021**
+Laatst bijgewerkt: **27 oktober 2021**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| Documentatie | Alles [DSP en andere Advertising Cloud-documentatie](https://experienceleague.adobe.com/docs/advertising-cloud.html) op [!DNL Experience League] is nu de machine vertaald in alle beschikbare talen. Als u de weergegeven taal wilt wijzigen, gebruikt u het menu &#39;Taal wijzigen&#39; linksonder op een pagina. |
+| Analyses voor Advertising Cloud | Als uw organisatie van het gebruiken van erfenis Adobe Analytics wil overschakelen `visitorAPI.js` bibliotheek naar de Adobe Experience Platform-bibliotheek (`alloy.js`) voor gegevensverzameling moet u enkele wijzigingen aanbrengen om id-stitching mogelijk te maken. Zie &quot;[Met de [!DNL Last Event Service] JavaScript-bibliotheek met Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+
+Laatst bijgewerkt: **27 oktober 2021**
+
+| Functie | Beschrijving |
+| ------- | ----------- |
+| Aangepaste rapporten | U kunt nu maken en beheren [!DNL Amazon S3] en verschillende typen FTP-leveringslocaties, *[!DNL report destinations]*, voor uw aangepaste rapporten. Zodra u rapportbestemmingen vormt, kunt u opstelling elk van uw nieuwe douanerapporten die aan één of meerdere plaatsen van één enkel bestemmingstype moeten worden geleverd, of aan e-mailontvangers. Updates voor uw [!DNL Amazon S3] en FTP-referenties onderbreken de levering van het rapport niet.<br><br>Uw bestaande rapporten worden nog steeds verzonden naar de opgegeven e-mailontvangers. Om levering aan een verschillende rapportbestemming te vormen, creeer een nieuw rapport met de nieuwe bestemming. |
+| [!UICONTROL Packages], [!UICONTROL Placements], en [!UICONTROL Ads] views | Wanneer u gegevens voor één enkele dag bekijkt, omvatten de trendgrafieken nu uurgegevens. Houd de cursor boven een willekeurig punt om de gegevens voor dat uur weer te geven. |
+| [!UICONTROL Placements] | De plaatsing [!UICONTROL Inspector] bevat nu een [!UICONTROL Inventory] tab, waarin alle deals en de bijbehorende maatstaven voor de plaatsing worden weergegeven. Gebruik de informatie om snelle aanpassingen te maken of kwesties problemen op te lossen zonder een douanerapport te produceren. |
+| [!UICONTROL Ads] | (Gebruikers met toestemming om Clearcastklok-nummers op te nemen in hun advertenties) DSP niet langer een fout te zien als u een kloknummer gebruikt dat aan een andere advertentie is gekoppeld. **Opmerking:**  De beste manier is om een uniek kloknummer te gebruiken voor elke video-advertentie. Anders keurt de uitgever niet alle advertenties goed. |
+| [!UICONTROL Deal IDs] | De [!UICONTROL Deal ID] de instellingen en andere plaatsen in de gebruikersinterface weerspiegelen nieuwe branding voor [!DNL Magnite] SSP:<br><ul><li>Het SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) is nu &quot;[!DNL Magnite CTV].&quot;</li><li>In de komende weken [!DNL Rubicon]&quot; wordt gewijzigd in &quot;[!DNL Magnite DV+],&quot; waarbij [!DNL DV+] staat voor weergave, video en andere indelingen, zoals audio.</li></ul> |
+| [!DNL Freewheel] door programmacode gegarandeerde transacties | U kunt nu de status van advertenties vinden voor [!DNL Freewheel] door programmacode gegarandeerde transacties van de [!UICONTROL Ads] weergeven. Eerder kon u de status alleen controleren vanuit de [!UICONTROL Deals] weergeven. |
 
 {style=&quot;table-layout:auto&quot;}
 
