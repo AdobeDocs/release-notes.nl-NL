@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 88923d059ec73215facae2efc1888b07b2e60fc7
+source-git-commit: f5fa780e217bd43eb835442326692e3a056f16c3
 workflow-type: tm+mt
-source-wordcount: '4469'
-ht-degree: 13%
+source-wordcount: '5024'
+ht-degree: 12%
 
 ---
 
@@ -47,17 +47,43 @@ Laatste update: **28 oktober 2021**
 
 Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/#home) om te zoeken naar product- en technische documentatie, door Adobe georganiseerde cursussen, videotutorials, snelle antwoorden, communityinzichten en training onder leiding van instructeurs.
 
-## ![Pictogram](/assets/experience-league.png) [!DNL Experience League] Live gebeurtenissen {#events}
+## ![Pictogram](/assets/experience-league.png) [!DNL Experience League] Gebeurtenissen {#events}
 
-[Live gebeurtenissen Experiencen League](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) zijn discussies met Adobe-experts en speciale gasten die u helpen om Adobe-technologie voor te stellen. Zie het volgende schema en doe mee met ons live of bekijk eerder opgenomen gebeurtenissen.
+Experience League Events zijn een geweldige plek om antwoorden te krijgen van productexperts bij Adobe. Bekijk onze _Communautaire afbrekingen van Q&amp;A-koffie_, Experience League Live-videogebeurtenissen (ook beschikbaar op verzoek) en Live van Adobe Developer. De schema&#39;s en gebeurtenissen zijn als volgt:
+
+### Experience League Live{#exl-live}
+
+[Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) is een live streaming show die wordt gemaakt door het team van het Experience League. Het is een kans om verbinding te maken met Adobe-productexperts en actioneerbare tips, trucs en strategieën te leren die u kunt toepassen met de Adobe Experience Cloud-toepassingen.
 
 | Gebeurtenisdatum | Tijd | Gebeurtenisnaam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 18 november 2021 | TBA | Ga sneller dan ooit live dankzij de snelle creatie van sites in Experience Manager | Live video, gebeurtenis | Experience Manager Sites bevat verschillende functies om de levering van een aantrekkelijke webervaring te versnellen. Leer hoe u met behulp van een vooraf gedefinieerde sitesjabloon een site maakt met een aanpak met lage code. Meer details voor u! |
-| 21 oktober 2021 | Op verzoek | [Wie klikte dat? Geavanceerde rapportage over koppelingsklikken met Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Live video, gebeurtenis | Het melden van gebruikersinteractie met uw Web of mobiel bezit is een kritiek stuk van het begrip van de reis van uw klant. Met Adobe Analytics kunt u begrijpen wie, wat, waarom en waar van elke klik in uw toepassing. Leer van Adobe Analytics-experts hun toptips voor het gebruik van Activity Map-classificaties en aangepaste toewijzing om de betrokkenheid van gebruikers beter te begrijpen. |
-| 4 oktober 2021 | Op verzoek | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | De gebeurtenis heeft gemist of een specifieke sessie opnieuw afspelen zoekt? Zoek ze op Experience League. Ontwikkelaars Live toont de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van de gebruikerservaring in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, Adobe I/O open-bronprojecten, en veel meer. |
+| 18 november 2021 | 12:00 (EST) | [Ga sneller dan ooit live dankzij het snelle maken van sites in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live video-gebeurtenis | Implementeer in dagen een veelzijdige, gepersonaliseerde webervaringen zonder back-endontwikkeling. Leer hoe u met behulp van een vooraf gedefinieerde sitesjabloon een site maakt met een aanpak met lage code. Meld u aan voor een live presentatie en demonstratie met Adobe Product Managers Shankari Panchapakesan en Gabriel Walt. Misschien ziet u zelfs wat live codering! |
+| 21 oktober 2021 | 12:00 (EST) | [Wie klikte dat? Geavanceerde rapportage over koppelingsklikken met Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | Op verzoek | Het melden van gebruikersinteractie met uw Web of mobiel bezit is een kritiek stuk van het begrip van de reis van uw klant. Met Adobe Analytics kunt u begrijpen wie, wat, waarom en waar van elke klik in uw toepassing. Leer van Adobe Analytics-experts hun toptips voor het gebruik van Activity Map-classificaties en aangepaste toewijzing om de betrokkenheid van gebruikers beter te begrijpen. |
+| 23 september 2021 | Op verzoek | [Experttips om uw vakantiecampagnes te laten uitkomen](https://www.youtube.com/watch?v=bsU1lAv0xes) | Live video, gebeurtenis | Net zoals het nooit te vroeg is om uw vakantiewinkels te starten, is het nooit te vroeg om een welwillend succesvolle campagne voor het op de markt brengen van vakanties te beginnen. Met Adobe Campaign kunt u campagnes ontwerpen, plannen en uitvoeren die ervoor zorgen dat alle wensen van uw organisatie voor vakantie uitkomen.<br>Maar ken je alle tips voor het uitvoeren van campagnes die het jaar met een knal afmaken? Sluit zich aan bij Sandra voor een live gesprek met drie Adobe-experts die hier gezamenlijk deskundig werk aan leveren. |
+| 26 augustus 2021 | Op verzoek | [Maak uw volgende segment van het publiek slimmer dan ooit](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | Gebeurtenisopname | Het succes van elke goede marketingcampagne hangt af van het feit dat u zich juist op uw doelgroep richt. Met de nieuwe Adobe Experience Platform [!UICONTROL Segment Builder], kunt u uw volgende publiekssegment bouwen gebruikend profielgegevens en op tijd-gebaseerd gebruikersgedrag over kanalen. Er is geen betere manier om ervoor te zorgen dat uw berichten de mensen bereiken die hen het meest moeten horen. |
+| 29 juli 2021 | Op verzoek | [Mijn drie favoriete Adobe Analytics-implementatietips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | Gebeurtenisopname | U hebt hem op het podium gezien op de top. U hebt gehoord dat hij deskundig advies heeft gedeeld op Adobe Insider Tours. U hebt er misschien zelfs baat bij gehad om met hem samen te werken aan uw eigen Adobe Analytics-implementatie. Eric Matisoff brengt zijn drie favoriete Adobe Analytics implementatietips naar dit exclusieve Experience League Live discussie. |
 
 {style=&quot;table-layout:auto&quot;}
+
+### Communautaire afbrekingen van Q&amp;A-koffie{#coffee}
+
+discussies met Adobe-experts en speciale gasten die u helpen met de technologie van de Adobe. Community Q&amp;A Coffee Breaks Zie het volgende schema en meld u aan bij ons live of bekijk eerder opgenomen gebeurtenissen.
+
+Besteed een uur met een speciale gast en verzend je vragen in de Gemeenschappen van het Experience League, waar je vragen kunt krijgen van productdeskundigen bij Adobe.
+
+| Gebeurtenisnaam | Datum en tijd | Onderwerp | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Communautaire afbrekingen van Q&amp;A-koffie | 10 november (Wed.) @ 8 uur PT | Adobe Target | Vragen en antwoorden forum | Besteed een uur met Cristinel Anastasoaie, productmanager. Krijg uw vragen beantwoord over de interface, de integratie, en ondernemingstoestemmingen en de werkruimten van Adobe Target. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696) |
+|  | 11 november (Duizenden.) @ 8 uur PT | Adobe Target | Vragen en antwoorden forum | Besteed een uur met Cristinel Anastasoaie, productmanager. Krijg uw vragen beantwoord over de interface, de integratie, en ondernemingstoestemmingen en de werkruimten van Adobe Target. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696) |
+| 18 november 2021 | TBA | Ga sneller dan ooit live dankzij de snelle creatie van sites in Experience Manager | Live video, gebeurtenis | Experience Manager Sites bevat verschillende functies om de levering van een aantrekkelijke webervaring te versnellen. Leer hoe u met behulp van een vooraf gedefinieerde sitesjabloon een site maakt met een aanpak met lage code. Meer details voor u! |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Adobe Developer&#39;s Live{#dev-live}
+
+| Gebeurtenisnaam | Datum en tijd | Onderwerp | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 4 oktober 2021 | Op verzoek | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | De gebeurtenis heeft gemist of een specifieke sessie opnieuw afspelen zoekt? Zoek ze op Experience League. Ontwikkelaars Live toont de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van de gebruikerservaring in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, Adobe I/O open-bronprojecten, en veel meer. |
 
 Ga voor meer video&#39;s naar de [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) op YouTube.
 
@@ -122,7 +148,7 @@ Releasedatum: **28 oktober 2021**
 | Functie | Beschrijving | [Algemene beschikbaarheid](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Doeldatum |
 | ----------- | ---------- | ------- |
 | Datumbereiken op minaniveau in Analysis Workspace | U kunt een datumbereik op minaniveau toepassen onder de geavanceerde instellingen van uw deelvensterkalender of bij het maken van een aangepast datumbereik. Als u op een datumwaaier rapporteert die vele dagen overspant, is de begintijd van toepassing op de eerste dag en de eindtijd op de laatste dag in uw waaier. | 18 oktober 2021 |
-| [!UICONTROL Media Playback Time Spent] | Adobe-streaming media afspelen [!UICONTROL Time Spent] biedt een waardevol inzicht in de betrokkenheid van de kijker en stelt mediaorganisaties in staat diepgaandere, meer gedetailleerde inzichten te verkrijgen met de betrokkenheid van de gebruiker van elke minuut door middel van geavanceerde tijdbestede analyse met mogelijkheden voor het parseren van de dag. U kunt de hoeveelheid tijd waarnemen die het bekijken van uw media stromen op een specifiek punt in tijd besteedt. U kunt de afspeelduur splitsen op verschillende granulariteiten, zoals nieuwe granulariteiten van 5 minuten, 15 minuten en 30 minuten. [Meer informatie](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | 18 oktober 2021 |
+| [!UICONTROL Media Playback Time Spent] | Adobe-streaming media afspelen [!UICONTROL Time Spent] biedt een waardevol inzicht in de betrokkenheid van de kijker en stelt mediaorganisaties in staat diepgaandere, meer gedetailleerde inzichten af te leiden met de betrokkenheid van gebruikers van minuut tot minuut door middel van een geavanceerde analyse van de tijd die nodig is voor het parseren van de dag. U kunt de hoeveelheid tijd waarnemen die het bekijken van uw media stromen op een specifiek punt in tijd besteedt. U kunt de afspeelduur splitsen op verschillende granulariteiten, zoals nieuwe granulariteiten van 5 minuten, 15 minuten en 30 minuten. [Meer informatie](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | 18 oktober 2021 |
 | Snel [!UICONTROL Segment Builder] | Staat bedrijfsgebruikers toe om basissegmenten in een vereenvoudigde, in-lijn projectwerkschema snel toe te passen. Ga niet naar de [!UICONTROL Segment Builder]. [Meer informatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | 21 oktober 2021 |
 | Verbeteringen in Analysis Workspace-linkerrasterzoekfunctie | Linkerspooronderzoek 1) geeft voorrang aan nauwkeurige gelijken boven brede gelijken, naast het blijven rekenschap geven van componentenrecentie en relevantie. 2) Het markeert overeenkomende tekens om zoekresultaten begrijpelijker te maken. 3) Het is gemakkelijker om classificaties te vinden met betrekking tot een dimensie. 4) Ten slotte wordt jokerteken ondersteund (`*`) zoeken om gemakkelijker specifieke componenten te vinden die u nodig hebt. Opmerking: Het zoeken met jokertekens werkt nog niet op het niveau van dimensie-items. | 21 oktober 2021 |
 | Donker thema | [Donker thema](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) is beschikbaar als een weergaveoptie. | 21 oktober 2021 |
@@ -422,7 +448,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Document Cl
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | november 2021 | [Beginselen van de werkruimte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface.html) | Video (bijgewerkt) | Leer hoe u met de Acrobat DC-interface eenvoudig bestanden en gereedschappen kunt openen op computers, het web en mobiele apparaten met een consistente werkruimte. |
-| november 2021 | [Overal werken met het Acrobat-web](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb.html) | Video | Leer hoe u met de Acrobat-webgereedschappen in uw browser overal zakelijke documentaanvragen kunt verwerken. |
+| november 2021 | [Overal werken met Acrobat-webtoepassingen](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb.html) | Video | Leer hoe u met de Acrobat-webgereedschappen in uw browser overal zakelijke documentaanvragen kunt verwerken. |
 | november 2021 | [PDF maken in Office voor het web ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb.html) | Video | Leer hoe u PDF-bestanden maakt zonder ooit uw Microsoft® Office voor webtoepassingen te verlaten. Voor deze invoegtoepassing is een abonnement op Acrobat DC for-teams of Acrobat DC vereist voor een Enterprise-abonnement. |
 | november 2021 | [In real-time samenwerken](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | Video | Verplaats uw projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van uw documenten in real-time en overal te volgen. |
 | november 2021 | [ Productiviteit onderweg](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html) | Video | Doe meer direct vanaf uw tablet of mobiele telefoon met de mobiele Acrobat Reader-app. |
