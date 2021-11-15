@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: f5fa780e217bd43eb835442326692e3a056f16c3
+source-git-commit: 18e7570cc950555d53a82bbb67555c3a273e2cbc
 workflow-type: tm+mt
-source-wordcount: '5024'
-ht-degree: 12%
+source-wordcount: '4736'
+ht-degree: 13%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 12%
 
 Releasedatum: **november 2021**
 
-Laatste update: **28 oktober 2021**
+Laatste update: **15 november 2021**
 
-* [[!DNL Experience League] Live gebeurtenissen](#events)
+* [[!DNL Experience League] Gebeurtenissen](#events) (Bijgewerkt op 15 november 2021)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Beheer](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -49,7 +49,13 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 ## ![Pictogram](/assets/experience-league.png) [!DNL Experience League] Gebeurtenissen {#events}
 
-Experience League Events zijn een geweldige plek om antwoorden te krijgen van productexperts bij Adobe. Bekijk onze _Communautaire afbrekingen van Q&amp;A-koffie_, Experience League Live-videogebeurtenissen (ook beschikbaar op verzoek) en Live van Adobe Developer. De schema&#39;s en gebeurtenissen zijn als volgt:
+Experience League Events zijn een geweldige plek om antwoorden te krijgen van productexperts bij Adobe. Bekijk onze
+
+* Communautaire afbrekingen van Q&amp;A-koffie
+* Live video-gebeurtenissen Experiencen League (ook beschikbaar op aanvraag)
+* Adobe Developer&#39;s Live
+
+De schema&#39;s en gebeurtenissen zijn als volgt:
 
 ### Experience League Live{#exl-live}
 
@@ -57,25 +63,21 @@ Experience League Events zijn een geweldige plek om antwoorden te krijgen van pr
 
 | Gebeurtenisdatum | Tijd | Gebeurtenisnaam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 18 november 2021 | 12:00 (EST) | [Ga sneller dan ooit live dankzij het snelle maken van sites in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live video-gebeurtenis | Implementeer in dagen een veelzijdige, gepersonaliseerde webervaringen zonder back-endontwikkeling. Leer hoe u met behulp van een vooraf gedefinieerde sitesjabloon een site maakt met een aanpak met lage code. Meld u aan voor een live presentatie en demonstratie met Adobe Product Managers Shankari Panchapakesan en Gabriel Walt. Misschien ziet u zelfs wat live codering! |
+| 18 november 2021 | 12:00 (EST) | [Ga sneller dan ooit live dankzij het snelle maken van sites in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live video-gebeurtenis | Implementeer in dagen een veelzijdige, gepersonaliseerde webervaringen zonder back-endontwikkeling. Leer hoe u met behulp van een vooraf gedefinieerde methode een site maakt met een aanpak met lage code [!UICONTROL Site Template]. Meld u aan voor een live presentatie en demonstratie met Adobe Product Managers Shankari Panchapakesan, Gabriel Walt en Danny Gordon. Misschien ziet u zelfs wat live codering! |
 | 21 oktober 2021 | 12:00 (EST) | [Wie klikte dat? Geavanceerde rapportage over koppelingsklikken met Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | Op verzoek | Het melden van gebruikersinteractie met uw Web of mobiel bezit is een kritiek stuk van het begrip van de reis van uw klant. Met Adobe Analytics kunt u begrijpen wie, wat, waarom en waar van elke klik in uw toepassing. Leer van Adobe Analytics-experts hun toptips voor het gebruik van Activity Map-classificaties en aangepaste toewijzing om de betrokkenheid van gebruikers beter te begrijpen. |
-| 23 september 2021 | Op verzoek | [Experttips om uw vakantiecampagnes te laten uitkomen](https://www.youtube.com/watch?v=bsU1lAv0xes) | Live video, gebeurtenis | Net zoals het nooit te vroeg is om uw vakantiewinkels te starten, is het nooit te vroeg om een welwillend succesvolle campagne voor het op de markt brengen van vakanties te beginnen. Met Adobe Campaign kunt u campagnes ontwerpen, plannen en uitvoeren die ervoor zorgen dat alle wensen van uw organisatie voor vakantie uitkomen.<br>Maar ken je alle tips voor het uitvoeren van campagnes die het jaar met een knal afmaken? Sluit zich aan bij Sandra voor een live gesprek met drie Adobe-experts die hier gezamenlijk deskundig werk aan leveren. |
-| 26 augustus 2021 | Op verzoek | [Maak uw volgende segment van het publiek slimmer dan ooit](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | Gebeurtenisopname | Het succes van elke goede marketingcampagne hangt af van het feit dat u zich juist op uw doelgroep richt. Met de nieuwe Adobe Experience Platform [!UICONTROL Segment Builder], kunt u uw volgende publiekssegment bouwen gebruikend profielgegevens en op tijd-gebaseerd gebruikersgedrag over kanalen. Er is geen betere manier om ervoor te zorgen dat uw berichten de mensen bereiken die hen het meest moeten horen. |
-| 29 juli 2021 | Op verzoek | [Mijn drie favoriete Adobe Analytics-implementatietips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | Gebeurtenisopname | U hebt hem op het podium gezien op de top. U hebt gehoord dat hij deskundig advies heeft gedeeld op Adobe Insider Tours. U hebt er misschien zelfs baat bij gehad om met hem samen te werken aan uw eigen Adobe Analytics-implementatie. Eric Matisoff brengt zijn drie favoriete Adobe Analytics implementatietips naar dit exclusieve Experience League Live discussie. |
 
 {style=&quot;table-layout:auto&quot;}
 
+Voor eerdere afleveringen raadpleegt u [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
+
 ### Communautaire afbrekingen van Q&amp;A-koffie{#coffee}
 
-discussies met Adobe-experts en speciale gasten die u helpen met de technologie van de Adobe. Community Q&amp;A Coffee Breaks Zie het volgende schema en meld u aan bij ons live of bekijk eerder opgenomen gebeurtenissen.
+Besteed een uur met een speciale gast en verzend je vragen in de Gemeenschappen van het Experience League, waar je vragen kunt beantwoorden van productdeskundigen bij Adobe!
 
-Besteed een uur met een speciale gast en verzend je vragen in de Gemeenschappen van het Experience League, waar je vragen kunt krijgen van productdeskundigen bij Adobe.
-
-| Gebeurtenisnaam | Datum en tijd | Onderwerp | Type | Beschrijving |
+| Gebeurtenisnaam | Datum en tijd | Toepassing | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Communautaire afbrekingen van Q&amp;A-koffie | 10 november (Wed.) @ 8 uur PT | Adobe Target | Vragen en antwoorden forum | Besteed een uur met Cristinel Anastasoaie, productmanager. Krijg uw vragen beantwoord over de interface, de integratie, en ondernemingstoestemmingen en de werkruimten van Adobe Target. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696) |
-|  | 11 november (Duizenden.) @ 8 uur PT | Adobe Target | Vragen en antwoorden forum | Besteed een uur met Cristinel Anastasoaie, productmanager. Krijg uw vragen beantwoord over de interface, de integratie, en ondernemingstoestemmingen en de werkruimten van Adobe Target. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696) |
-| 18 november 2021 | TBA | Ga sneller dan ooit live dankzij de snelle creatie van sites in Experience Manager | Live video, gebeurtenis | Experience Manager Sites bevat verschillende functies om de levering van een aantrekkelijke webervaring te versnellen. Leer hoe u met behulp van een vooraf gedefinieerde sitesjabloon een site maakt met een aanpak met lage code. Meer details voor u! |
+| Adobe Target - Setup en Admin UI, A4T Integration, AEM Integration, General UI  | 8 december (Wed.) @ 8 uur PT | Adobe Target | Vragen en antwoorden forum | Robert Calangiu, ook bekend onder de naam @Robert_Calangiu, Senior Product Manager voor Adobe Target, zal in de Adobe Target-gemeenschap rechtstreeks met u chatten over uw Adobe Target-vragen die betrekking hebben op zijn expertisegebied. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
+| Adobe Campaign - Gegevens importeren via andere toepassingen | 2 december 2021 @ 8:00 uur PT | Adobe Campaign | Vragen en antwoorden forum | Gegevens importeren via andere toepassingen - Aanbevolen procedures voor het importeren van gegevens via SFTP/API&#39;s met behulp van technische workflows met Zariely Garcia, Senior Technical Consultant. <br>[Details](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -83,7 +85,7 @@ Besteed een uur met een speciale gast en verzend je vragen in de Gemeenschappen 
 
 | Gebeurtenisnaam | Datum en tijd | Onderwerp | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 4 oktober 2021 | Op verzoek | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | De gebeurtenis heeft gemist of een specifieke sessie opnieuw afspelen zoekt? Zoek ze op Experience League. Ontwikkelaars Live toont de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van de gebruikerservaring in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, Adobe I/O open-bronprojecten, en veel meer. |
+| 4 oktober - 5 oktober 2021 | Op verzoek | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | De gebeurtenis heeft gemist of een specifieke sessie opnieuw afspelen zoekt? Zoek ze op Experience League. Ontwikkelaars Live toont de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van de gebruikerservaring in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, Adobe I/O open-bronprojecten, en veel meer. |
 
 Ga voor meer video&#39;s naar de [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) op YouTube.
 
