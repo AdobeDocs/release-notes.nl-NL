@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 2877f5206f1baeb4d9ea33529e476bbfe220ac7a
+source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
 workflow-type: tm+mt
-source-wordcount: '4758'
-ht-degree: 12%
+source-wordcount: '4678'
+ht-degree: 13%
 
 ---
 
@@ -61,10 +61,11 @@ De schema&#39;s en gebeurtenissen zijn als volgt:
 
 [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) is een live streaming show die wordt gemaakt door het team van het Experience League. Het is een kans om verbinding te maken met Adobe-productexperts en actioneerbare tips, trucs en strategieën te leren die u kunt toepassen met de Adobe Experience Cloud-toepassingen.
 
+Komende gebeurtenissen:
+
 | Gebeurtenisdatum | Tijd | Gebeurtenisnaam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 18 november 2021 | 12:00 (EST) | [Ga sneller dan ooit live dankzij het snelle maken van sites in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live video-gebeurtenis | Implementeer in dagen een veelzijdige, gepersonaliseerde webervaringen zonder back-endontwikkeling. Leer hoe u met behulp van een vooraf gedefinieerde methode een site maakt met een aanpak met lage code [!UICONTROL Site Template]. Meld u aan voor een live presentatie en demonstratie met Adobe Product Managers Shankari Panchapakesan, Gabriel Walt en Danny Gordon. Misschien ziet u zelfs wat live codering! |
-| 21 oktober 2021 | 12:00 (EST) | [Wie klikte dat? Geavanceerde rapportage over koppelingsklikken met Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | Op verzoek | Het melden van gebruikersinteractie met uw Web of mobiel bezit is een kritiek stuk van het begrip van de reis van uw klant. Met Adobe Analytics kunt u begrijpen wie, wat, waarom en waar van elke klik in uw toepassing. Leer van Adobe Analytics-experts hun toptips voor het gebruik van Activity Map-classificaties en aangepaste toewijzing om de betrokkenheid van gebruikers beter te begrijpen. |
 
 {style=&quot;table-layout:auto&quot;}
 
