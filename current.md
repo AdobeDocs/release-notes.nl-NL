@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
+source-git-commit: 89342047732a95ba2669eb58397d6a1dc936a8a3
 workflow-type: tm+mt
-source-wordcount: '4678'
-ht-degree: 13%
+source-wordcount: '4752'
+ht-degree: 12%
 
 ---
 
@@ -25,13 +25,14 @@ ht-degree: 13%
 
 Releasedatum: **november 2021**
 
-Laatste update: **15 november 2021**
+Laatste update: **22 november 2021**
 
 * [[!DNL Experience League] Gebeurtenissen](#events) (Bijgewerkt op 15 november 2021)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Beheer](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Analytics]](#analytics) (Bijgewerkt op 22 november 2021)
+* [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#magento)
@@ -144,7 +145,7 @@ Releasedatum: **28 oktober 2021**
 * [Nieuwe functies in Adobe Analytics](#aa-features)
 * [Nieuwe functies in Customer Journey Analytics](#cust-journey)
 * [Oplossingen in Adobe Analytics](#aa-fixes)
-* [Belangrijke berichten voor Analytics-beheerders](#aa-notices)
+* [Belangrijke kennisgevingen voor analysebeheerders](#aa-notices) (Bijgewerkt op 22 november 2021)
 * [Cursussen en zelfstudies voor analyse](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -196,6 +197,7 @@ AN-270649
 
 | Bericht | Toegevoegd of bijgewerkt op | Beschrijving |
 | ----------- | ---------- | ---------- |
+| RDC-type &quot;Global + China&quot; | 22 november 2021 | &quot;Global + China&quot; is een nieuw type voor regionale gegevensverzameling (RDC) dat het routeren van verkeer voor wereldwijde klanten vereenvoudigt met behulp van de [!UICONTROL China Performance Optimization Add-On Package]. In het verleden, moest u bepalen of de gegevens aan het de inzamelingseindpunt van China of één van de Globale inzamelingseindpunten zouden moeten worden verpletterd. Nu kunt u deze RDC kiezen **type** om Adobe het optimale inzamelingseindpunt te laten bepalen dat op de geolocatie van de gebruiker wordt gebaseerd. |
 | EOL voor drie Analytics API-services | 16 september 2021 | Aan **20 oktober 2021** De volgende Analytics Legacy API-services zullen hun einddatum bereiken en worden afgesloten. Om het even welke huidige die integratie die gebruikend deze diensten wordt gebouwd houdt op het werken op die dag op.<ul><li>1.3 API&#39;s voor Analytics</li><li>1.4 API&#39;s voor SOAP Analytics</li><li>Verouderde OAuth-verificatie (OAuth en JWT)</li></ul>Adobe heeft een [Veelgestelde vragen over oudere API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) om u te helpen uw vragen te beantwoorden en hulp te bieden bij het volgen van verdere stappen. API-integraties die van deze services gebruikmaken, kunnen migreren naar de [1.4 Analytics REST-API&#39;s](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) of de [Analytics 2.0-API&#39;s](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Oudere OAuth-accounts kunnen migreren naar een [Adobe I/O](https://developer.adobe.com/console) De rekening van de integratie van Analytics, die kan worden gebruikt om tot zowel 1.4 Analytics APIs als 2.0 Analytics APIs toegang te hebben. |
 | EOL voor volledige verwerking in gegevensbronnen | 18 oktober 2021 | Aan **31 januari 2022**, zal Adobe het einde van leven Volledige Verwerking beëindigen, die gebruikers toelaat om off-line klapgegevens in Analytics in te voeren. Deze mogelijkheid is beschikbaar via [API voor het invoegen van bulkgegevens](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). [Meer informatie](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=en) |
 
