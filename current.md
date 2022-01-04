@@ -1,13 +1,14 @@
 ---
 title: Opmerkingen bij de nieuwste release
-description: Meer informatie over de nieuwste opmerkingen bij de release, nieuwe functies en nieuwe documentatie voor [!DNL Experience Cloud] producten en diensten. Nieuwe Help en zelfstudies vinden over [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud].
+description: Meer informatie over de nieuwste opmerkingen bij de release, nieuwe functies en nieuwe documentatie voor [!DNL Experience Cloud] producten en diensten. Nieuwe Help en zelfstudies vinden over [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], en [!DNL Document Cloud].
 doc-type: release notes
 last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
-source-git-commit: eafacc2267c031d2f30ef2817069f85e8385a077
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
+source-git-commit: e4a4bc3cb484b045f0f1b400e1ba77d0178a90fd
 workflow-type: tm+mt
-source-wordcount: '4752'
+source-wordcount: '4760'
 ht-degree: 12%
 
 ---
@@ -238,6 +239,7 @@ Adobe raadt u aan de [Updates van de release van Experience Managers en routekaa
 
 ### Release-overzichtsvideo&#39;s
 
+* [Overzicht release december 2021](https://video.tv.adobe.com/v/339278) video met nieuwe functies.
 * [Overzicht release oktober 2021](https://video.tv.adobe.com/v/338253) video met nieuwe functies.
 * [Overzicht release september 2021](https://video.tv.adobe.com/v/337381) video met nieuwe functies.
 
@@ -245,7 +247,7 @@ Adobe raadt u aan de [Updates van de release van Experience Managers en routekaa
 
 * [Adobe Developers Live](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 4-5 oktober 2021, 7:00 VOT
 
-   Adobe Developers Live brengt Adobe-ontwikkelaars en -ontwikkelaars met uiteenlopende achtergronden en een eigen functie met elkaar in contact om ongelofelijke end-to-end ervaringen te creëren. Deze tweedaagse conferentie biedt belangrijke updates voor ontwikkelaars, technische sessies en mogelijkheden voor gemeenschapsnetwerken.
+   In Adobe Developers Live zijn ontwikkelaars en ontwikkelaars van Adobe-ervaringen samengebracht met uiteenlopende achtergronden en met één doel - om ongelofelijke end-to-end ervaringen te creëren. Deze tweedaagse conferentie biedt belangrijke updates voor ontwikkelaars, technische sessies en mogelijkheden voor gemeenschapsnetwerken.
 
    Adobe-productteams in Experience Cloud, Document Cloud en Creative Cloud laten de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen zien die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van klantervaringen in alle bedrijfstakken stimuleren.
 
