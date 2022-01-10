@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b8afd3888f15c0b6dd63d523a5b2d78227a8a7e1
+source-git-commit: 8908cbcaf8fa0dbcc2f85cb9bbe8386dc9b68adb
 workflow-type: tm+mt
-source-wordcount: '4851'
+source-wordcount: '4852'
 ht-degree: 12%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 12%
 >
 >Abonneren op de maandelijkse [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html) om e-mailmeldingen te ontvangen over updates voor deze pagina. Deze pagina wordt gedurende de hele maand onderhouden. Raadpleeg daarom regelmatig de updates voor de documentatie van Adobe-bedrijfsproducten en -Experiencen League.
 
-Releasedatum: **november 2021**
+Releasedatum: **november/december 2021**
 
 Laatste update: **4 januari 2022**
 
@@ -119,7 +119,7 @@ Ga voor meer video&#39;s naar de [Adobe Experience League Channel](https://www.y
 
 Bevat de update-informatie van de release en nieuwe documentatie voor Experience Platform en [!UICONTROL Mobile SDK].
 
-**29 september 2021**
+**17 november 2021**
 
 Zie [Opmerkingen bij de release Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) voor alle details.
 
@@ -317,7 +317,7 @@ Raadpleeg de volgende koppelingen voor Adobe Commerce-releaseopmerkingen:
 
 ## ![Pictogram](/assets/target.png) [!DNL Target] {#target}
 
-Laatst bijgewerkt: **20 oktober 2021**
+Laatst bijgewerkt: **6 januari 2022**
 
 Zie [[!DNL Target]  releaseopmerkingen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) voor de recentste releasegegevens.
 
