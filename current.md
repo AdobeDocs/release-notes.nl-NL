@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: a5fd2d7d8668a3b75718d24a8af14498e2192a1a
+source-git-commit: 3ecd5dfeeee5692b7fb5c5fa4dcac497b3c49ce0
 workflow-type: tm+mt
-source-wordcount: '6507'
+source-wordcount: '6505'
 ht-degree: 9%
 
 ---
@@ -25,12 +25,12 @@ Meer informatie over de nieuwste release-updates voor [Adobe Experience Cloud-pr
 
 **Januari 2022**
 
-Laatste update: **14 januari 2022**
+Laatste update: **26 januari 2022**
 
 * [[!DNL Experience League] Gebeurtenissen](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Beheer](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
-* [[!DNL Adobe Experience Platform]](#platform)
+* [[!DNL Adobe Experience Platform]](#platform) (Bijgewerkt: **26 januari 2022**)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
@@ -111,10 +111,9 @@ Lees de [Opmerkingen bij de laatste release](https://experienceleague.adobe.com/
 
 Geen update-informatie en nieuwe documentatie voor Experience Platform en [!UICONTROL Mobile SDK]:
 
-* Volgende geplande release: **26 januari 2022**
-* Laatste release: **17 november 2021**
+* Geen: **26 januari 2022**
 
-Zie [Opmerkingen bij de release Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) om actueel te blijven.
+Zie [Opmerkingen bij de release Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) voor het laatste.
 
 ### Nieuwe zelfstudies en cursussen voor Experience Platforms {#tutorials-platform}
 
