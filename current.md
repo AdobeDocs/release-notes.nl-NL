@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
+source-git-commit: 36c608bd0501936778dc791aac7f3c92bc6ce187
 workflow-type: tm+mt
-source-wordcount: '6522'
+source-wordcount: '6541'
 ht-degree: 9%
 
 ---
@@ -415,9 +415,10 @@ Raadpleeg de volgende koppelingen voor Adobe Commerce-releaseopmerkingen:
 
 ## ![Pictogram](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Laatst bijgewerkt: **10 januari 2022**
+Laatst bijgewerkt: **1 februari 2022**
 
-Zie [Opmerkingen bij de doelversie](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) voor de meest recente releasegegevens.
+* Voor informatie over Adobe Target prerelease, zie [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) opmerkingen bij de release.
+* Voor actuele releasegegevens raadpleegt u [Opmerkingen bij de doelversie](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en).
 
 ## ![Pictogram](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
