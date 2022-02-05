@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c73e91e379acb34734b4ed3a1d267688ea3f1222
+source-git-commit: 9e16facc25424bb8ce23e35230b7503195cf1a3d
 workflow-type: tm+mt
-source-wordcount: '6543'
+source-wordcount: '6465'
 ht-degree: 9%
 
 ---
@@ -527,12 +527,11 @@ Laatst bijgewerkt: **27 oktober 2021**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **7 oktober 2021**
+Laatst bijgewerkt: **4 februari 2022**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Reports], [!UICONTROL Notification Center] | (9 oktober) Alle e-mailmeldingen voor rapporten die Advertising Cloud Search verzendt wanneer een aangepast of gepland rapport is voltooid of mislukt, worden nu verwerkt door [!UICONTROL Notification Center]. E-mailmeldingen en webmeldingen zijn standaard ingeschakeld voor rapporten, maar u kunt desgewenst de meldingsinstellingen wijzigen. Met deze wijziging:<ul><li>E-mailontvangers zijn beperkt tot gebruikers die zijn geregistreerd, geverifieerd zijn door Advertising Cloud Search en toegang hebben tot het account van de adverteerder. Deze functie zorgt ervoor dat er geen vertrouwelijke gegevens naar onbevoegde gebruikers worden verzonden.</li><li>Voor de indeling en inhoud van de e-mail worden de [!UICONTROL Notification Center] malplaatje, dat meer details van het rapport omvat en directe downloadverbindingen voor alle rapportformaten omvat.</li><li>Meldingen rapporteren is een nieuw berichttype, met zijn eigen berichtgevingsvoorkeuren, in [!UICONTROL Notification Center].</li></ul>Als u automatisering gebruikt om rapporten van e-mailberichten te trekken, kunt u de het filtreren logica moeten bijwerken om procescontinuïteit te verzekeren. |
-| Advertising Insights | Aanvullende inzichten zijn beschikbaar in de bètamodus. |
+| [!UICONTROL Bulksheets], [!UICONTROL Notification Center] | (Release van 22 januari) Alle e-mailmeldingen voor bulksbladen die Advertising Cloud Search verzendt wanneer een bulksbladbewerking is voltooid of mislukt, worden nu verwerkt door [!UICONTROL Notification Center].<br><br>[!UICONTROL Bulksheets] is een nieuw berichttype, met zijn eigen berichtgevingsvoorkeuren, in [!UICONTROL Notification Center]. E-mailmeldingen en webmeldingen zijn standaard ingeschakeld, maar u kunt desgewenst de meldingsinstellingen wijzigen.<br><br>Voor de indeling en inhoud van e-mailberichten worden de volgende methoden gebruikt: [!UICONTROL Notification Center] sjabloon en bevat een directe downloadkoppeling voor het bijbehorende bulkbladbestand of foutbestand. |
 
 {style=&quot;table-layout:auto&quot;}
 
