@@ -4,9 +4,9 @@ description: Releaseopmerkingen bij Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
+source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '690'
 ht-degree: 40%
 
 ---
@@ -26,13 +26,13 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 >
 >Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
 
-Laatste update: **September 2021**
+Laatste update: **september 2021**
 
 * [Live gebeurtenissen Experiencen League](#events)
 * [Experience Cloud Central-interfacecomponenten](#ecloud)
+* [Adobe-systeemstatus](#status)
 * [Experience Platform](#platform)
 * [Experience Platform Application Services](#services)
-* [Adobe-systeemstatus](#status)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -50,17 +50,11 @@ Laatste update: **September 2021**
 
 Functies en oplossingen.
 
-Zie [Systeemstatus Adobe](https://status.adobe.com/).
+Zie [Adobe System Status](https://status.adobe.com/).
 
-## ![UI-componenten van ](/assets/ec_appicon_24.png) IconExperience Cloud Central {#ecloud}
+## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud Central UI-componenten {#ecloud}
 
 Experience Cloud Central Interface Components omvat updates die vanuit de uniforme productkoptekst worden benaderd, zoals zelfhulp, zoekopdrachten en voorkeuren voor gebruikersaccounts. Updates voor Personen, Plaatsen (Locatie) en Productbeheer vindt u hier.
-
-| Functie | Datum | Beschrijving |
-| ------- | ------- | -------|
-| Functie | September 2021 | Beschrijving |
-
-{style=&quot;table-layout:auto&quot;}
 
 ### [!UICONTROL Core services] {#core-services}
 
@@ -90,7 +84,7 @@ Zie
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Met Adobe [!UICONTROL Experience Platform,] kunt u individuele reizen van klanten op grote schaal langs verschillende ervaringskanalen ordenen door op intelligente wijze in real-time te anticiperen op de behoeften van elk individu, waar zijn reis deze ook brengt.
+Adobe gebruiken [!UICONTROL Experience Platform,] individuele reizen van klanten op grote schaal langs verschillende ervaringskanalen te ordenen door op intelligente wijze in real time te anticiperen op de behoeften van elk individu, waar zijn reis hen neemt.
 
 #### Aanvullende bronnen voor [!UICONTROL Journey Orchestration]
 
@@ -121,7 +115,7 @@ Nieuwe functies en oplossingen in Adobe Analytics:
 | Functie B | Tekst |
 | Functie C | Tekst |
 
-### [!DNL Media Analytics] SDK voor  [!DNL iOS] &amp;  [!DNL Android™] (voorheen VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK voor [!DNL iOS] &amp; [!DNL Android™] (voorheen VHL SDK) {#aa-va}
 
 | Functie | Beschrijving |
 | ------- | ------- |
@@ -263,12 +257,12 @@ Marketo Engage is een volledige oplossing voor het beheer van leads en B2B-marke
 
 Releasedatum: 21 februari 2020
 
-* **Microsoft® Dynamics  _Change Owner in Microsoft®_ Flow Action:** Wijzig een lead of contact-eigenaar rechtstreeks vanuit Marketo Engage.
+* **Microsoft® Dynamics _Eigenaar wijzigen in Microsoft®_ Stroom-actie:** Wijzig een lead of contactpersoon rechtstreeks vanuit Marketo Engage.
 * **Verbeteringen aan API-aanroepen:**
    * Gebruikersbeheer-API&#39;s
    * Aangepast objectschema-API&#39;s
    * Regels voor omleiding van bestemmingspagina&#39;s
-* **Form Descriptor-caching:** verbeteringen voor bestemmingspagina&#39;s en Forms.
+* **Caching van formulierdescriptor:** Verbeteringen voor bestemmingspagina&#39;s en Forms.
 
 ### Aanstaande functies
 
@@ -286,7 +280,7 @@ De volgende functies komen gedurende het komende kwartaal beschikbaar:
 
 ### Afgeschafte elementen
 
-* **De parameter &quot;_method&quot; van activa API:** Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen.
+* **Parameter &quot;_methode&quot; van de element-API:** Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen.
 * **Afschaffing van Internet Explorer-ondersteuning:** Vanaf de juli-release op 31 juli 2020 wordt de Marketo Engage-gebruikersinterface niet meer ondersteund in Internet Explorer.
 
 ### Nieuwe oplossingsnaam cursussen en zelfstudies
