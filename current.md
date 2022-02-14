@@ -6,9 +6,9 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 85a73da3f5957c5d073d9b0018d1758f14432252
+source-git-commit: 10b5876c8ea0e21f0e10ea36165c0e3f1dab9665
 workflow-type: tm+mt
-source-wordcount: '4890'
+source-wordcount: '4897'
 ht-degree: 7%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 Als Ervaar, begint uw weg aan succes met [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Zoek naar een uitgebreide &#39;Hoe kan ik&#39;-documentatiebibliotheek, zelfgeleide zelfstudies, &#39;Hoe kan ik&#39;-video&#39;s en cursussen voor alle niveaus en rollen, een online gemeenschap van collega&#39;s en ondersteuning door experts wanneer dat nodig is.
 
-Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://exploreadobe.com/experience-league-quiz/)!
+Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)!
 
 >[!NOTE]
 >
