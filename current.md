@@ -6,7 +6,7 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e9a119ac8351d6431039b1e0387db1d4875a91bb
+source-git-commit: 85a73da3f5957c5d073d9b0018d1758f14432252
 workflow-type: tm+mt
 source-wordcount: '4890'
 ht-degree: 7%
@@ -96,7 +96,7 @@ Releasedatum: **16 november 2021**
 
 **Wat is er nieuw**
 
-* Adobe Status rapporteert nu incidenten op productniveau. De Cloud van de status en de pagina&#39;s van het Product hebben een nieuw blik en verbeterde filters die op productniveau rapportering van incidenten worden gebaseerd. Hierdoor is het voor u gemakkelijker om te begrijpen op welke manier uw product wordt beïnvloed [status.adobe.com](https://status.adobe.com/) en in uw e-mailberichten. Als je niet bent geabonneerd, kun je via deze koppeling je voorkeuren voor gepersonaliseerde abonnementen instellen [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
+* Adobe Status rapporteert nu incidenten op productniveau. De Cloud van de status en de pagina&#39;s van het Product hebben een nieuw blik en verbeterde filters die op productniveau rapportering van incidenten worden gebaseerd. Hierdoor is het voor u gemakkelijker om te begrijpen op welke manier uw product wordt beïnvloed [status.adobe.com](https://status.adobe.com/) en in uw e-mailberichten. Als je niet bent geabonneerd, kun je via deze koppeling je voorkeuren voor gepersonaliseerde abonnementen instellen [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
 
 * De homepage van de status wordt nu gepersonaliseerd met gebeurtenissen die op uw rechten en productabonnementen worden gefilterd. Gelieve te controleren om **status.adobe.com** > **[!UICONTROL My Events]** tab.
 
