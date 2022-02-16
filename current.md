@@ -6,9 +6,9 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 10b5876c8ea0e21f0e10ea36165c0e3f1dab9665
+source-git-commit: f4b652db4759a65f38afe0fbd6dca07301875277
 workflow-type: tm+mt
-source-wordcount: '4897'
+source-wordcount: '4914'
 ht-degree: 7%
 
 ---
@@ -473,10 +473,11 @@ Laatst bijgewerkt: **27 oktober 2021**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **4 februari 2022**
+Laatst bijgewerkt: **16 februari 2022**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
+| [!UICONTROL Campaigns], [!UICONTROL Bulksheets] | (release van 22 januari) ([!DNL Microsoft Advertising accounts]) U kunt nu responsieve zoekopdrachten (RSA&#39;s) maken en beheren vanuit de [!UICONTROL Campaigns] > [!UICONTROL Ads] en van [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]. |
 | [!UICONTROL Bulksheets], [!UICONTROL Notification Center] | (Release van 22 januari) Alle e-mailmeldingen voor bulksbladen die Advertising Cloud Search verzendt wanneer een bulksbladbewerking is voltooid of mislukt, worden nu verwerkt door [!UICONTROL Notification Center].<br><br>[!UICONTROL Bulksheets] is een nieuw berichttype, met zijn eigen berichtgevingsvoorkeuren, in [!UICONTROL Notification Center]. E-mailmeldingen en webmeldingen zijn standaard ingeschakeld, maar u kunt desgewenst de meldingsinstellingen wijzigen.<br><br>Voor de indeling en inhoud van e-mailberichten worden de volgende methoden gebruikt: [!UICONTROL Notification Center] sjabloon en bevat een directe downloadkoppeling voor het bijbehorende bulkbladbestand of foutbestand. |
 
 {style=&quot;table-layout:auto&quot;}
