@@ -6,10 +6,10 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f4b652db4759a65f38afe0fbd6dca07301875277
+source-git-commit: f32c9dd135c9447ce452b513c69763107ebae429
 workflow-type: tm+mt
-source-wordcount: '4914'
-ht-degree: 7%
+source-wordcount: '4919'
+ht-degree: 8%
 
 ---
 
@@ -386,8 +386,8 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 
 | Gepubliceerd | Naam | Type | Beschrijving | Versie |
 | ------| ----- | -----| ------ | --- |
-| Februari 2022 | [Grondbeginselen van gegevensbeheer met Adobe Campaign-workflows](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/data-management-fundamentals.html?lang=en) | Video | Leer welke het richten dimensies en het werken lijsten zijn, en hoe Adobe Campaign gegevens over verschillende gegevensbronnen beheert. | Campaign v8 |
-| Februari 2022 | [De gegevensbron wijzigen](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/change-data-source.html?lang=en) | Video | Leer hoe te om de gegevensbron van een werkschema werkende lijst te veranderen gebruikend de Activiteit van de Gegevensbron van de Verandering gegevens over verschillende gegevensbronnen zoals FDA, FFDA, en lokaal gegevensbestand flexibel te beheren. | Campagne v8 |
+| Februari 2022 | [Grondbeginselen van data management met Adobe Campaign-workflows](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/data-management-fundamentals.html?lang=en) | Video | Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen. | Campaign v8 |
+| Februari 2022 | [De databron wijzigen](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/change-data-source.html?lang=en) | Video | Leer hoe u de databron van een werkende workflowtabel kunt wijzigen met behulp van de activiteit Databron wijzigen om flexibel gegevens te beheren over verschillende databronnen, zoals FDA, FFDA en lokale database. | Campagne v8 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -486,7 +486,9 @@ Laatst bijgewerkt: **16 februari 2022**
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Januari 2022 | [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en) | Video&#39;s | Er zijn vijf nieuwe videozelfstudies over Advertising Cloud DSP beschikbaar. |
+| 17 februari 2022 | Advertising Cloud Tutorials | Video&#39;s | Een nieuwe videozelfstudie over &quot;[Hoe te om een StandaardPlaatsing van de Vertoning te creëren](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html)&quot; is beschikbaar. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## ![Pictogram](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
