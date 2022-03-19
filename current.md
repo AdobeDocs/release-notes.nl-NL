@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
+source-git-commit: 4af6356f3c68cbab1bc7137a2d02af35798c6582
 workflow-type: tm+mt
-source-wordcount: '5635'
+source-wordcount: '5646'
 ht-degree: 8%
 
 ---
@@ -68,6 +68,8 @@ Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren
 
 [!DNL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval, verstoring en onderhoudsgebeurtenissen van Adobe-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
+Voor de recentste versieinformatie, zie de Status van het Systeem van Adobe [releaseopmerkingen](c-legacy-releases\2022\02162022.md#status).
+
 ## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud - centrale interfacecomponenten &amp; beheer {#ecloud}
 
 Experience Cloud [centrale UI-componenten](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) bevat functies die beschikbaar zijn op de homepage en de permanente productkoptekst. Deze functies zijn onder andere instellingen voor gebruikersprofielen, voorkeuren en zoekopdrachten. U kunt ook hulp vinden bij gebruikers- en productbeheer, klantkenmerken en Experience Cloud-soorten publiek.
@@ -102,7 +104,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 | -----------| ---------- | ---------- | ---------- |
 | Maart 2022 | [Zelfstudie Adobe Experience Cloud implementeren in mobiele apps](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Cursus | Leer hoe u Adobe Experience Cloud-toepassingen implementeert in uw mobiele app met de Adobe Experience Platform Mobile SDK. |
 | Maart 2022 | [Apparaat-id&#39;s van de eerste fabrikant genereren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Video | Meer informatie over het genereren van apparaat-id&#39;s van eerste bedrijven en over hoe deze werken. |
-| Maart 2022 | [Gegevensstromen configureren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Leer hoe te om gegevensstromen voor de implementaties van SDK van het Web en van Mobile tot stand te brengen en te vormen. |
+| Maart 2022 | [Gegevensstromen configureren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Leer hoe te om gegevensstromen voor de implementaties van SDK van het Web en van de Mobiele te creëren en te vormen. |
 
 {style=&quot;table-layout:auto&quot;}
 
