@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4af6356f3c68cbab1bc7137a2d02af35798c6582
+source-git-commit: 3f75b897e739d296d4b69d0f85d50ef4fa661ff0
 workflow-type: tm+mt
-source-wordcount: '5646'
+source-wordcount: '5656'
 ht-degree: 8%
 
 ---
@@ -68,7 +68,7 @@ Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren
 
 [!DNL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval, verstoring en onderhoudsgebeurtenissen van Adobe-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
-Voor de recentste versieinformatie, zie de Status van het Systeem van Adobe [releaseopmerkingen](c-legacy-releases\2022\02162022.md#status).
+Voor de recentste versieinformatie, zie de Status van het Systeem van Adobe [releaseopmerkingen](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=en#status).
 
 ## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud - centrale interfacecomponenten &amp; beheer {#ecloud}
 
