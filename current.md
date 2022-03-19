@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5738'
-ht-degree: 7%
+source-wordcount: '5635'
+ht-degree: 8%
 
 ---
 
@@ -69,13 +69,6 @@ Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren
 [!DNL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over uitval, verstoring en onderhoudsgebeurtenissen van Adobe-producten en -services. Ga naar [status.adobe.com](https://status.adobe.com/).
 
 ## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud - centrale interfacecomponenten &amp; beheer {#ecloud}
-====== Releasedatum: **16 november 2021**
-
-**Wat is er nieuw**
-
-* Adobe Status rapporteert nu incidenten op productniveau. De Cloud van de status en de pagina&#39;s van het Product hebben een nieuw blik en verbeterde filters die op productniveau rapportering van incidenten worden gebaseerd. Hierdoor is het voor u gemakkelijker om te begrijpen op welke manier uw product wordt beïnvloed [status.adobe.com](https://status.adobe.com/) en in uw e-mailberichten. Als je niet bent geabonneerd, kun je via deze koppeling je voorkeuren voor gepersonaliseerde abonnementen instellen [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
-
-* De homepage van de status wordt nu gepersonaliseerd met gebeurtenissen die op uw rechten en productabonnementen worden gefilterd. Gelieve te controleren om **status.adobe.com** > **[!UICONTROL My Events]** tab.
 
 Experience Cloud [centrale UI-componenten](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) bevat functies die beschikbaar zijn op de homepage en de permanente productkoptekst. Deze functies zijn onder andere instellingen voor gebruikersprofielen, voorkeuren en zoekopdrachten. U kunt ook hulp vinden bij gebruikers- en productbeheer, klantkenmerken en Experience Cloud-soorten publiek.
 
