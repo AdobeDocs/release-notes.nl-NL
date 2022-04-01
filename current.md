@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c85a79e12550790ce932d45dcb0f9940f48c72ac
+source-git-commit: 7edf353026f9e8a595771602ea67eafd1bb77d96
 workflow-type: tm+mt
 source-wordcount: '5687'
 ht-degree: 8%
@@ -60,7 +60,7 @@ Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live Webinar | Apps van één pagina snel Bootstrap en implementeren (SPA) met behulp van Adobe [!UICONTROL App Builder] workflows en gereedschappen zonder dat traditionele Experience Managers zoals Java™ en Sling vereist zijn. Met Experience Manager Headless kunnen marketers en ontwikkelaars elk over de expertise op hun eigen domein beschikken — ontwikkelaars beheren het algemene toepassingsframework, de opmaak en het routeren, terwijl marketers de inhoud en de weergave ervan bepalen.<br>**Datum:** Woensdag 23 maart - [Details en registratie](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Onbruikbare artikelen voorzien van gegevens](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live Webinar | Het doorgeven van gegevens wordt goed uitgevoerd als het een evenwicht tussen kunst en wetenschap is. Dus, waarom overingenieur? Adobe Analytics champion Amy Ard bespreekt drie onderdelen die u helpen bij het vertellen van gegevens zonder de creativiteit te verminderen:<ul><li>De kans of het probleem identificeren</li><li>Uitleg via gegevens</li><li>Een oplossing aanbieden</li></ul>**Datum:** Donderdag 31 maart - [Details en registratie](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [De Makers van de ervaring - de Uitwisseling van de Vaardigheid voor Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | We zijn blij om de eerste editie van Experience Makers aan te kondigen - De Skill Exchange for Adobe Workfront vindt plaats op 13 april. Deze gratis, 3-uurs digitale leergebeurtenis is volledig gericht op Workfront en klanten hebben de mogelijkheid om live vragen te stellen van experts en collega&#39;s die het werkbeheer het beste kennen. Of je nu nieuwer bent in Workfront of een ervaren expert bent, we hebben iets voor iedereen. <br>**Datum:** Woensdag 13 april - [Details en registratie](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | [!DNL Developers Live] presenteert de nieuwste technologische vooruitgang en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van klantervaringen in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, Adobe I/O open-bronprojecten, en veel meer. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | [!DNL Developers Live] presenteert de nieuwste technologische vooruitgang en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van klantervaringen in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, de open-bronprojecten van de Ontwikkelaar van Adobe, en veel meer. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -104,7 +104,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 | -----------| ---------- | ---------- | ---------- |
 | Maart 2022 | [Zelfstudie Adobe Experience Cloud implementeren in mobiele apps](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Cursus | Leer hoe u Adobe Experience Cloud-toepassingen implementeert in uw mobiele app met de Adobe Experience Platform Mobile SDK. |
 | Maart 2022 | [Apparaat-id&#39;s van de eerste fabrikant genereren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Video | Meer informatie over het genereren van apparaat-id&#39;s van eerste bedrijven en over hoe deze werken. |
-| Maart 2022 | [Gegevensstromen configureren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Leer hoe te om gegevensstromen voor de implementaties van SDK van het Web en van Mobile tot stand te brengen en te vormen. |
+| Maart 2022 | [Gegevensstromen configureren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Leer hoe te om gegevensstromen voor de implementaties van SDK van het Web en van de Mobiele te creëren en te vormen. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -530,7 +530,7 @@ Zie [Creative Cloud voor zelfstudies voor bedrijven](https://experienceleague.ad
 
 ## ![Pictogram](/assets/experience-league.png) Beheer van klantgegevens - Voices {#voices}
 
-[Klantengegevensbeheerstemmen](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) is uw bestemming als technisch en marketing van klantengegevensbeheer leider en specialist. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk.
+[Klantengegevensbeheerstemmen](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) is uw bestemming als technisch en marketing van klantengegevensbeheer leider en specialist. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk eenvoudig.
 
 ## ![Pictogram](/assets/experience-league.png) Digitale beleving blauwdrukken {#blueprints}
 
