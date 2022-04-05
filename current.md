@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
+source-git-commit: 88d7c6385f680dba693d856585679c517589441d
 workflow-type: tm+mt
-source-wordcount: '5804'
+source-wordcount: '5784'
 ht-degree: 8%
 
 ---
@@ -180,7 +180,7 @@ Adobe raadt u aan de [Updates van de release van Experience Managers en routekaa
 
 * **Experience Manager as a Cloud Service**
 
-   Kijk naar de [Video over het overzicht van de release van maart 2022](https://video.tv.adobe.com/v/341465) voor een samenvatting van de kenmerken die zijn toegevoegd in de release van 2022.3.0 (maart 2022). Vanaf deze maand heeft Adobe gelokaliseerde ondertiteling in het Frans (FR), Duits (DE) en Japans (JP) ingeschakeld.
+   Kijk naar de [Video over het overzicht van de release van maart 2022](https://video.tv.adobe.com/v/341465) voor een samenvatting van de kenmerken die zijn toegevoegd in de release van 2022.3.0 (maart 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
    * [Video over Overzicht release januari 2022](https://video.tv.adobe.com/v/340120) van nieuwe functies.
    * [Video over het overzicht van de release van december 2021](https://video.tv.adobe.com/v/339278) van nieuwe functies.
