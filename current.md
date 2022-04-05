@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa2627b8bdd7e9b9f4159b366767c30f46721369
+source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
 workflow-type: tm+mt
-source-wordcount: '5769'
+source-wordcount: '5804'
 ht-degree: 8%
 
 ---
@@ -25,9 +25,9 @@ Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://explo
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **1 april 2022**
+Laatste update: **5 april 2022**
 
-* [[!DNL Experience League] gebeurtenissen](#events) (**1 april**)
+* [[!DNL Experience League] gebeurtenissen](#events) (**5 april** - AEM herstart Gems)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrale interfacecomponenten &amp; beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -54,12 +54,14 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen!
 
+Bijgewerkt **5 april 2022**
+
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
+| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live Webinar | AEM Gems-updates voor 2022 zijn beschikbaar! AEM Gems is onze webinar reeks van technische diepe duiven op Adobe Experience Manager, die door experts van Adobe is geleverd. <br>Ga voor de meest recente AEM Gems naar [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) en [Sneller sites maken met AEM headless en App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Deze releaseopmerkingen vaak bekijken of zich abonneren op de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html) om bovenop AEM Gems en andere gebeurtenissen van het Experience League te blijven. |
 | [De Makers van de ervaring - de Uitwisseling van de Vaardigheid voor Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | We zijn blij om de eerste editie van _De Makers van de ervaring - de Uitwisseling van de Vaardigheid voor Adobe Workfront_. <br>Deze gratis, 3-uurs digitale leergebeurtenis is volledig gericht op Workfront. U kunt vragen stellen aan experts en collega&#39;s die het beste weten wat het werkbeheer is. Of je nu nieuwer bent in Workfront of een ervaren expert bent, we hebben iets voor iedereen.<br>**Datum:** Woensdag 13 april om 9.00 uur - 12:00 p.m. PDT. [Details en registratie](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe raadt u aan om zelfs te registreren als u niet kunt deelnemen, zodat u gegarandeerd toegang hebt tot opnamen op aanvraag. |
 | [Essentiële elementen van Adobe Workfront System Admin: Een ideale gebruikerservaring ontwerpen](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live Webinar | Sluit u aan bij Mary Ann Erickson, Customer Success Manager bij Adobe Workfront, en Steve Enos, Creative Operations Analyst bij Liberty Mutual Insurance om te ontdekken hoe u een ideale gebruikerservaring kunt ontwerpen. <br>**Datum:** Woensdag 27 april. Tijd: 08:00 uur PDT / 17:00 uur VK. <br>[Details en registratie](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Live en video op aanvraag | Een live streaming show die wordt geproduceerd door het team van het Experience League. Het is een kans om verbinding te maken met Adobe-productexperts. Leer actiemotionele tips, trucs en strategieën die u kunt toepassen met de Adobe Experience Cloud-toepassingen.<br> [Details en eerdere gebeurtenissen](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live Webinar | Apps van één pagina snel Bootstrap en implementeren (SPA) met behulp van Adobe [!UICONTROL App Builder] workflows en gereedschappen zonder dat traditionele Experience Managers zoals Java™ en Sling vereist zijn. Met Experience Manager Headless kunnen marketers en ontwikkelaars elk over de expertise op hun eigen domein beschikken — ontwikkelaars beheren het algemene toepassingsframework, de opmaak en het routeren, terwijl marketers de inhoud en de weergave ervan bepalen.<br>**Datum:** Woensdag 23 maart - [Details en registratie](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Onbruikbare artikelen voorzien van gegevens](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live Webinar | Het doorgeven van gegevens wordt goed uitgevoerd als het een evenwicht tussen kunst en wetenschap is. Dus, waarom overingenieur? Adobe Analytics champion Amy Ard bespreekt drie onderdelen die u helpen bij het vertellen van gegevens zonder de creativiteit te verminderen:<ul><li>De kans of het probleem identificeren</li><li>Uitleg via gegevens</li><li>Een oplossing aanbieden</li></ul>**Datum:** Donderdag 31 maart - [Details en registratie](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | [!DNL Developers Live] presenteert de nieuwste technologische vooruitgang en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van klantervaringen in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, de open-bronprojecten van de Ontwikkelaar van Adobe, en veel meer. |
 
@@ -105,7 +107,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Platfo
 | -----------| ---------- | ---------- | ---------- |
 | Maart 2022 | [Zelfstudie Adobe Experience Cloud implementeren in mobiele apps](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Cursus | Leer hoe u Adobe Experience Cloud-toepassingen implementeert in uw mobiele app met de Adobe Experience Platform Mobile SDK. |
 | Maart 2022 | [Apparaat-id&#39;s van de eerste fabrikant genereren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Video | Meer informatie over het genereren van apparaat-id&#39;s van eerste bedrijven en over hoe deze werken. |
-| Maart 2022 | [Gegevensstromen configureren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Leer hoe te om gegevensstromen voor de implementaties van SDK van het Web en van Mobile tot stand te brengen en te vormen. |
+| Maart 2022 | [Gegevensstromen configureren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Leer hoe te om gegevensstromen voor de implementaties van SDK van het Web en van de Mobiele te creëren en te vormen. |
 
 {style=&quot;table-layout:auto&quot;}
 
