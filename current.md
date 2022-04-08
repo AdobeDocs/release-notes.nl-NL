@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 88d7c6385f680dba693d856585679c517589441d
+source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
 workflow-type: tm+mt
-source-wordcount: '5784'
+source-wordcount: '5897'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,7 @@ Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://explo
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **5 april 2022**
+Laatste update: **7 april 2022**
 
 * [[!DNL Experience League] gebeurtenissen](#events) (**5 april** - AEM herstart Gems)
 * [[!DNL Adobe System Status]](#status)
@@ -483,14 +483,15 @@ Last updated: **October 27, 2021**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **14 maart 2022** voor release 12 maart
+Laatst bijgewerkt: **7 april 2022**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Portfolios] | Standaard is hybride optimalisatie beschikbaar op campagnereniveau. U kunt nu desgewenst hybride optimalisatie op ad-groepsniveau inschakelen, waarvoor de optimalisatiefunctie is ingesteld [!DNL Google] CPA of ROAS doelstellingen op het niveau van de ad groep voor nauwkeurigere controle over prestaties.<br>Met een portfolio moet u een leerperiode toestaan voordat u het portfolio start, zodat het voldoende modeldekking heeft. Op dezelfde manier als u een hybride portefeuille van campagne-niveau in een optimalisering op groepsniveau verandert, dan plaats de portefeuille aan de actieve staat voor ongeveer twee weken. Dit zorgt ervoor dat de optimalisatiefunctie tijd heeft om meer te leren over de opgenomen ad-groepen en om doelen te genereren.<br>Voor ondersteuning van optimalisatie op ad-groepsniveau kunnen aangepaste simulaties nu resultaten per ad-groeplocatie bevatten. Voer een aangepaste simulatie met resultaten op advertentieniveau uit voordat u een hybride portfolio met optimalisatie op groepsniveau start. |
-| [!UICONTROL Portfolios] <br> [!UICONTROL Campaigns] | (Beta-functie, [!DNL Microsoft® Advertising] campagnes) - U kunt onderzoekscampagnes nu vormen om te gebruiken [!UICONTROL Maximize Conversions] biedstrategie en eventueel een maximale kostprijs per klik instellen.<br>Als u al deelneemt aan de bètaversie voor hybride optimalisatie voor andere strategieën voor automatische biedingen, hebt u automatisch toegang tot de [!UICONTROL Maximize Conversions] en u kunt campagnes opnemen met de [!UICONTROL Maximize Conversions] strategie in hybride portefeuilles. Als u deze strategie wilt gebruiken in een hybride portfolio, moet u het uploaden van Advertising Cloud Search-doelstellingen inschakelen voor [!DNL Microsoft® Ads]. Als u nog niet deelneemt aan de bètaversie en u wilt deelnemen, neemt u contact op met uw [!DNL Adobe] accountmanager. |
-| Campagne [!UICONTROL Audiences]<br><br>Campagne [!UICONTROL Bulksheets] | ([!DNL Microsoft® Advertising] campagnes) - U kunt nu elk van uw [!DNL Microsoft® Advertising] publiek, met uitzondering van publiek op de markt als streefdoel op campagneniveau of [!UICONTROL adgroup]streefcijfers op niveau. Eerder konden ze alleen worden gebruikt als [!UICONTROL adgroup]streefcijfers op niveau. |
-| Campaign [!UICONTROL Audiences] | (Beta-functie, [!DNL Microsoft® Advertising] rekeningen die in aanmerking komen voor [!UICONTROL Customer Match]) U kunt nu klantovereenkomsten maken en beheren door CSV-bestanden met e-mailadressen te uploaden. De gegevens moeten worden gehasht gebruikend het algoritme SHA-256. |
+| [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (7 april) [!DNL Google Ads] accounts) Advertising Cloud Search voert een overgang uit naar alle API-aanroepen uit de verouderde [!DNL Google AdWords API] uiterlijk [!DNL Google Ads API]. Naar de nieuwe [!DNL Google Ads API] zorgt voor continuïteit met de bestaande capaciteiten en maakt toegang tot [!DNL Google’s] nieuwste [!DNL Ads] functies.<br><br>Sommige functies zijn nog niet bijgewerkt naar de nieuwe API en zijn tijdelijk niet beschikbaar:<ul><li>Extensies voor locatie:<ul>De uitbreidingen van de plaats zijn niet zichtbaar in [!UICONTROL Extensions] weergeven.</li><li>U kunt geen extensie maken.</li><li>Filters op locaties werken niet.</li></li></ul><li>[!UICONTROL Advertising Insights]: De [!UICONTROL Impression Share Lost] en [!UICONTROL Query Cross Matching Beta] analyses zijn vanaf 11 april niet beschikbaar.</li></ul>We verwachten dat de mogelijkheden voor uitbreiding van locaties eind april zullen zijn hersteld. Zodra we bepalen wanneer de betrokken [!UICONTROL Advertising Insights] de modules kunnen ook worden hersteld, wij zullen een update met de geschatte datum verzenden. |
+| [!UICONTROL Portfolios] | (Release van 12 maart) Standaard is hybride optimalisatie beschikbaar op campagnereniveau. U kunt nu desgewenst hybride optimalisatie op ad-groepsniveau inschakelen, waarvoor de optimalisatiefunctie is ingesteld [!DNL Google] CPA of ROAS doelstellingen op het niveau van de ad groep voor nauwkeurigere controle over prestaties.<br>Met een portfolio moet u een leerperiode toestaan voordat u het portfolio start, zodat het voldoende modeldekking heeft. Op dezelfde manier als u een hybride portefeuille van campagne-niveau in een optimalisering op groepsniveau verandert, dan plaats de portefeuille aan de actieve staat voor ongeveer twee weken. Dit zorgt ervoor dat de optimalisatiefunctie tijd heeft om meer te leren over de opgenomen ad-groepen en om doelen te genereren.<br>Voor ondersteuning van optimalisatie op ad-groepsniveau kunnen aangepaste simulaties nu resultaten per ad-groeplocatie bevatten. Voer een aangepaste simulatie met resultaten op advertentieniveau uit voordat u een hybride portfolio met optimalisatie op groepsniveau start. |
+| [!UICONTROL Portfolios] <br> [!UICONTROL Campaigns] | (Overeenkomst met versie 12); Bètafunctie voor [!DNL Microsoft® Advertising] campagnes) - U kunt onderzoekscampagnes nu vormen om te gebruiken [!UICONTROL Maximize Conversions] biedstrategie en eventueel een maximale kostprijs per klik instellen.<br>Als u al deelneemt aan de bètaversie voor hybride optimalisatie voor andere strategieën voor automatische biedingen, hebt u automatisch toegang tot de [!UICONTROL Maximize Conversions] en u kunt campagnes opnemen met de [!UICONTROL Maximize Conversions] strategie in hybride portefeuilles. Als u deze strategie wilt gebruiken in een hybride portfolio, moet u het uploaden van Advertising Cloud Search-doelstellingen inschakelen voor [!DNL Microsoft® Ads]. Als u nog niet deelneemt aan de bètaversie en u wilt deelnemen, neemt u contact op met uw [!DNL Adobe] accountmanager. |
+| Campagne [!UICONTROL Audiences]<br><br>Campagne [!UICONTROL Bulksheets] | (release van 12 maart; [!DNL Microsoft® Advertising] campagnes) - U kunt nu elk van uw [!DNL Microsoft® Advertising] publiek, met uitzondering van publiek op de markt als streefdoel op campagneniveau of [!UICONTROL adgroup]streefcijfers op niveau. Eerder konden ze alleen worden gebruikt als [!UICONTROL adgroup]streefcijfers op niveau. |
+| Campaign [!UICONTROL Audiences] | (release van 12 maart; Bètafunctie voor [!DNL Microsoft® Advertising] rekeningen die in aanmerking komen voor [!UICONTROL Customer Match]) U kunt nu klantovereenkomsten maken en beheren door CSV-bestanden met e-mailadressen te uploaden. De gegevens moeten worden gehasht gebruikend het algoritme SHA-256. |
 
 {style=&quot;table-layout:auto&quot;}
 
