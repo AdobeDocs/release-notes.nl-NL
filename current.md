@@ -6,7 +6,7 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e6a44b87d3c4f39a6e0304d44213d866ae43aec4
+source-git-commit: 4f25c9ff1ac5f923c63ad8c7401146fff0f781da
 workflow-type: tm+mt
 source-wordcount: '6058'
 ht-degree: 8%
@@ -124,7 +124,7 @@ Zie [Opmerkingen bij de release en logbestanden wijzigen](https://aep-sdks.gitbo
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Releasedatum: **23 maart 2022**
+Releasedatum: **20 april 2022**
 
 * Adobe Analytics [releaseopmerkingen](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/analytics.html)
@@ -154,14 +154,14 @@ Nieuwe videozelfstudies, artikelen en cursussen gepubliceerd voor Adobe Analytic
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Releasedatum: **23 maart 2022**
+Releasedatum: **20 april 2022**
 
 * Customer Journey Analytics [releaseopmerkingen](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Releasedatum: **16 maart 2022**
+Releasedatum: **20 april 2022**
 
 * [!DNL Streaming Media Analytics] [releaseopmerkingen](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**nieuwe locatie**)
 * [!DNL Streaming Media Analytics] [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
