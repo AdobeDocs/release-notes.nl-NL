@@ -6,9 +6,9 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
+source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
 workflow-type: tm+mt
-source-wordcount: '6060'
+source-wordcount: '6346'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,7 @@ Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://explo
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **18 april 2022**
+Laatste update: **22 april 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -500,12 +500,16 @@ Last updated: **October 27, 2021**
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **11 april 2022**
+Laatst bijgewerkt: **22 april 2022** voor release 23 april
 
 | Functie | Beschrijving |
 | ------- | ----------- |
+| [!UICONTROL Audiences] | ([!DNL Microsoft Advertising] accounts die in aanmerking komen voor klantenservice) Alle gebruikers kunnen nu klantovereenkomsten maken en beheren door CSV-bestanden met e-mailadressen te uploaden. De gegevens moeten worden gehasht gebruikend het algoritme SHA-256. |
+| [!UICONTROL Campaigns] | De volgende bètafuncties zijn beschikbaar voor adverteerders die zich aanmelden:<ul><li>([!DNL Microsoft Advertising] accounts) Ondersteuning voor synchronisatie, alleen-lezen zichtbaarheid en rapportage (inclusief doorkijkgegevens) voor uw bestaande native advertentiecampagnes op de [!DNL Microsoft Audience Network], met inbegrip van [!DNL Microsoft Audience Ads].</li><li>([!DNL Google Ads] en [!DNL Microsoft Advertising] accounts) Mogelijkheid om uw [!DNL Google Ads] campagnes en campagnestructuur om [!DNL Microsoft Advertising] vanuit Advertising Cloud Search.</li></ul>Neem contact op met uw Adobe-accountmanager als u geïnteresseerd bent in een van de bètaprogramma&#39;s. |
+| [!UICONTROL Campaigns]<br><br>[!UICONTROL Portfolios] | ([!DNL Microsoft Advertising] campagnes) Ondersteuning is beschikbaar voor de volgende biedstrategieën:<ul><li>(Algemene beschikbaarheid) [!UICONTROL Maximize Conversions], [!UICONTROL Target CPA], en [!UICONTROL Target Return on Ad Spend]: Deze strategieën zijn nu voor iedereen beschikbaar. U kunt zoekcampagnes met deze biedstrategie toevoegen aan hybride (maar niet standaard) portfolio&#39;s.</li><li>(Functie Bèta) [!UICONTROL Target Impression Share]: Als u deelneemt aan de hybride optimalisatiebèta, kunt u campagnes met deze strategie vormen, en naar keuze een aandeel van de doelindruk, een doel en een positie, en een maximumkosten per klik plaatsen. Let op: Deze optie wordt nog niet ondersteund in hybride portfolio&#39;s en kan niet worden toegevoegd aan standaardportfolio&#39;s.</li><li>(Functie Bèta) [!UICONTROL Maximize Clicks]: Als u deelneemt aan de hybride optimalisatiebèta, kunt u campagnes met deze strategie vormen, en naar keuze een doelmaximumkosten per klik plaatsen. U kunt campagnes met deze strategie in of standaard of hybride portefeuilles omvatten. Om deze strategie in een hybride portefeuille te gebruiken, moet de doelstelling van de portefeuille slechts omvatten [!DNL Adobe] eigenschappen (metriek) en u moet het uploaden van Advertising Cloud Search-doelstellingen naar [!DNL Microsoft Ads].</li></ul>Neem contact op met uw [!DNL Adobe] accountmanager. |
+| [!UICONTROL Advertising Insights] | Alle inzichten behalve [!UICONTROL Query Cross Matching] en [!UICONTROL Hybrid Portfolio Setup Readiness] zijn nu geen bèta meer. |
 | [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (11 april) [!DNL Google Ads] accounts) Advertising Cloud Search heeft alle API-aanroepen van de verouderde [!DNL Google AdWords API] uiterlijk [!DNL Google Ads API]. Naar de nieuwe [!DNL Google Ads API] zorgt voor continuïteit met bestaande mogelijkheden en biedt toegang tot [!DNL Google’s] nieuwste [!DNL Ads] functies.<br><br>Sommige functies zijn nog niet bijgewerkt naar de nieuwe API en zijn tijdelijk niet beschikbaar:<ul><li>Extensies voor locatie:<ul>De uitbreidingen van de plaats zijn niet zichtbaar in [!UICONTROL Extensions] weergeven.</li><li>U kunt geen extensie maken.</li><li>Filters op locaties werken niet.</li></li></ul><li>[!UICONTROL Advertising Insights]: De [!UICONTROL Impression Share Lost] en [!UICONTROL Query Cross Matching Beta] analyses zijn niet beschikbaar.</li></ul>We verwachten dat de mogelijkheden voor uitbreiding van locaties eind april zullen zijn hersteld. Zodra we bepalen wanneer de betrokken [!UICONTROL Advertising Insights] de modules kunnen ook worden hersteld, wij zullen een update met de geschatte datum verzenden. |
-| Integratie met Adobe Analytics | (7 april) In de gegevensinvoer die Advertising Cloud toezendt aan [!DNL Analytics], gegevens voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] responsieve zoekopdrachten (RSA&#39;s) worden nu geclassificeerd bij de [!UICONTROL Responsive Ad Type] &quot;[!UICONTROL Responsive Search Ads].&quot; Eerder waren de gegevens opgenomen voor de [!UICONTROL Responsive Ad Type] &quot;[!UICONTROL Responsive Text Ads].&quot;<br><br>Bovendien [!UICONTROL Responsive Ad Title] wordt nu gevuld met de eerste kop en de [!UICONTROL Responsive Ad Description] wordt gevuld met de eerste beschrijving. |
+| Integratie met Adobe Analytics | (7 april) In de gegevensinvoer die Advertising Cloud toezendt aan [!DNL Analytics], gegevens voor [!DNL Google Ads] en [!DNL Microsoft Advertising] responsieve zoekopdrachten (RSA&#39;s) worden opnieuw geclassificeerd met de [!UICONTROL Ad Type] &quot;[!UICONTROL Responsive Search Ads]&quot; als ze een nieuwe klik krijgen. Eerder waren de gegevens opgenomen voor de [!UICONTROL Ad Type] &quot;[!UICONTROL Text Ads].&quot; RSA&#39;s in inactieve campagnes worden niet opnieuw ingedeeld.<br><br>Voor geherclassificeerde RSA&#39;s geldt dat de [!UICONTROL Responsive Ad Title] wordt nu gevuld met de eerste kop en de [!UICONTROL Responsive Ad Description] wordt gevuld met de eerste beschrijving. |
 
 {style=&quot;table-layout:auto&quot;}
 
