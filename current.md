@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
+source-git-commit: cdf35cca137c192dfc32398565b693e4843b6418
 workflow-type: tm+mt
-source-wordcount: '6346'
-ht-degree: 8%
+source-wordcount: '5979'
+ht-degree: 9%
 
 ---
 
@@ -25,7 +25,7 @@ Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://explo
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **22 april 2022**
+Laatste update: **11 mei 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -55,20 +55,16 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen!
 
-Bijgewerkt **5 april 2022**
+Bijgewerkt: **11 mei 2022**
 
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
+| Gebeurtenis | Type | Beschrijving |
+| — | — | — |
+| [Push-berichten met Journey Optimizer - Hoe kan ik uw mobiele app eenvoudig configureren voor push](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Leer meer over de gebruikelijke gebruiksgevallen voor pushberichten met Adobe Journey Optimizer en duik in de technische details over hoe u een app voor Push kunt configureren die wordt aangedreven door Adobe Experience Platform. <br>**Datum:** 12 mei 2022 @ 9:30 PDT<br>[Gebeurtenissen plannen en verleden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Koffie-einde &amp;vragen | Sluit u aan bij Brent Kostak en Drew Burns van het Adobe Target-productteam, die uw Adobe Target-vragen zullen beantwoorden over gedeeld publiek, Real-Time CDP, gegevens van de eerste partij, complete workflows voor personalisatie en meer.<br>Bekijk de recente [Wbinar voor realtime personalisatie](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/upcoming-webinar-4-28-22-real-time-personalization-with-adobe/td-p/449012) en stel uw vervolgvragen voor aan de deskundigen van de [Coffee Break](https://adobe.ly/3MyiDHa) in de Gemeenschap Adobe Target!<br>**Datum:** 25 mei 2022 @ 08.00 uur PDT<br>[Gegevens en registratie](https://adobe.ly/3MyiDHa) |
+| [Adobe [!DNL Developers Live]: Handel](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | Video&#39;s op aanvraag | _Adobe Developers Live: Handel 2022_ ontwikkelaars en ervaringsontwikkelaars met verschillende achtergronden en een speciaal doel samenbrengen - om ongelooflijke end-to-end ervaringen te creëren. Deze virtuele conferentie van één dag kenmerkt belangrijke updates van de Handel en van de Ontwikkelaar Open Bron, technische zittingen, van het communautaire voorzien van een netwerkkansen en meer. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | Op aanvraag uitgevoerde sessies | Leer van Adobe managers, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc, John Donahoe, CEO, NIKE, Inc., en Gail J. McGovernn, CEO en het Amerikaanse Rode Kruis delen hoe ervaringen van klanten de valuta van onze digitale economie zijn.<br>Verkennen [sessies op aanvraag](https://business.adobe.com/summit/2022/sessions.html) van Adobe Summit 2022. |
-| [AEM van Koprijk naar Koploos (en alles ertussen)](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | Bekijk een gedetailleerde uitsplitsing van de meest gangbare Adobe Experience Manager Sites-implementaties met Danny Gordon en gasten Amol Anand, Sachin Mali en Sean Steimer. <br>**Datum:** 21 april 2022 @ 9.00 uur PDT<br>[Gebeurtenissen plannen en verleden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Hoe ga ik met al deze soorten publiek om?](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience League LIVE | Demystifying publiek strategy with Audience Manager and Real-time CDP. Doug Moore verwelkomt Nick Cammuso en Jackie Chevallier in dit Experience League LIVE evenement.<br>**Datum:** 28 april 2022 @ 9.00 uur PDT<br>[Gebeurtenissen plannen en verleden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Adobe Campaign Classic v7 &amp; Campagne v8](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/adobe-campaign-community-q-amp-a-coffee-break-april-21st-8am-pt/td-p/444060) | Koffie-einde &amp;vragen | Sluit u aan bij Scott Segrin, Eric Knee, David Loyd en Peter Mancuso - Adobe Campaign Enterprise Architecture Team in Adobe Campaign Community voor een live vraag en antwoord.<br>**Datum:** 21 april 2022 @ 08.00 uur PDT<br>[Gegevens en registratie](https://adobe.ly/3NB6kuG) |
-| [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Koffie-einde &amp;vragen | Jim McTiernan beantwoordt uw vragen over Adobe Target Recommendations, AB Testing en MVT Personalization in Adobe Target Community <br>**Datum:** 27 april 2022 @ 08.00 uur PDT<br>[Gegevens en registratie](https://adobe.ly/3joCuvU%C2%A0) |
-| [AEM en CIF-framework](https://adobe.ly/3O0uXl5) | AEM Gems | Integreer AEM en CIF kader om een rijke en immersive e-commerce ervaring te bouwen <br>**Datum:** 27 april 2022 @ 8:00 PDT / 17:00 p.m. CET / 20:30 p.m. IST<br>[Details en registratie](https://adobe.ly/3O0uXl5) |
-| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live Webinar | AEM Gems-updates voor 2022 zijn beschikbaar! AEM Gems is Adobe webinar reeks technische diepe duiven op Adobe Experience Manager, geleverd door Adobe-experts. <br>Ga voor de meest recente AEM Gems naar [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) en [Sneller sites maken met AEM headless en App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Deze releaseopmerkingen vaak bekijken of zich abonneren op de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html) om bovenop AEM Gems en andere gebeurtenissen van het Experience League te blijven. |
-| [De Makers van de ervaring - de Uitwisseling van de Vaardigheid voor Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | Adobe is blij de eerste editie van _De Makers van de ervaring - de Uitwisseling van de Vaardigheid voor Adobe Workfront_. <br>Deze gratis, 3-uurs digitale leergebeurtenis is volledig gericht op Workfront. U kunt vragen stellen aan experts en collega&#39;s die het beste weten wat het werkbeheer is. Of je nu nieuwer bent in Workfront of een ervaren expert bent, we hebben iets voor iedereen.<br>**Datum:** Woensdag 13 april om 9.00 uur - 12:00 p.m. PDT. [Details en registratie](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe raadt u aan om zelfs te registreren als u niet kunt deelnemen, zodat u gegarandeerd toegang hebt tot opnamen op aanvraag. |
-| [Essentiële elementen van Adobe Workfront System Admin: Een ideale gebruikerservaring ontwerpen](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live Webinar | Sluit u aan bij Mary Ann Erickson, Customer Success Manager bij Adobe Workfront, en Steve Enos, Creative Operations Analyst bij Liberty Mutual Insurance om te ontdekken hoe u een ideale gebruikerservaring kunt ontwerpen. <br>**Datum:** Woensdag 27 april. Tijd: 08:00 uur PDT / 17:00 uur VK. <br>[Details en registratie](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video op aanvraag | [!DNL Developers Live] presenteert de nieuwste technologische vooruitgang en ontwikkelaarsgereedschappen die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van klantervaringen in alle bedrijfstakken verbeteren. Bekijk het sleutelnotitieadres, leer over Analytics APIs, de laag van cliëntgegevens, Adobe Developer open-bronprojecten, en veel meer. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -420,9 +416,9 @@ Nieuwste Journey Optimizer-zelfstudies:
 | april 2022 | [Overzicht van het reiscanvas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas.html?lang=en) | Video | Begrijp de functies en mogelijkheden van het reiscanvas. |
 | april 2022 | [Verenigd profiel en segmentatie](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/unified-profile-and-segmentation-overview.html?lang=en) | Video | Ontdek hoe u een uniform profiel kunt maken en vervolgens segmenten kunt bouwen op basis van profielkenmerken om klantenreizen te personaliseren. |
 | april 2022 | [Mobiele mogelijkheden voor marketeers](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/mobile-capabilities.html) | Video | Begrijp welke mobiele mogelijkheden Adobe Journey Optimizer biedt aan marketeers. |
-| april 2022 | [Aanbiedingen op maat maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-personalized-offers.html) | Video | Leer hoe u persoonlijke aanbiedingen kunt maken in de Offer decisioning. Aan aanbiedingen op maat zijn regels verbonden om u te helpen ze alleen aan relevante klanten tonen. |
+| april 2022 | [Gepersonaliseerde aanbiedingen maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-personalized-offers.html) | Video | Leer hoe u persoonlijke aanbiedingen kunt maken in de Offer decisioning. Aan aanbiedingen op maat zijn regels verbonden om u te helpen ze alleen aan relevante klanten tonen. |
 | april 2022 | [Tags maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-tags.html?lang=en) | Video | Leer hoe u in Offer Decisioning tags kunt maken. Tags zijn optionele bouwstenen van aanbiedingen. Ze kunnen worden gebruikt om aanbiedingen te organiseren en deze in dynamische verzamelingen te groeperen. |
-| april 2022 | [Demo van de mogelijkheden voor besluitvormingsbeheer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/demo-of-offer-decisioning.html?lang=en) | Video | Leer hoe merken de mogelijkheden van het besluitvormingsbeheer kunnen gebruiken om hun aanbiedingen te bepalen en te beheren, klantengegevens in real time toe te passen, en de juiste ervaringen te leveren hun klanten verwachten. |
+| april 2022 | [Demo van de mogelijkheden voor beslissingsbeheer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/demo-of-offer-decisioning.html?lang=en) | Video | Leer hoe merken de mogelijkheden voor beslissingsbeheer kunnen gebruiken om hun aanbiedingen te definiëren en te beheren, realtimeklantgegevens toe te passen en de juiste ervaringen te leveren die hun klanten verwachten. |
 
 {style=&quot;table-layout:auto&quot;}
 
