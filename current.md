@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
+source-git-commit: 84794d6d051c913cef2ca11504d8cc9857af3000
 workflow-type: tm+mt
-source-wordcount: '4951'
+source-wordcount: '4950'
 ht-degree: 9%
 
 ---
@@ -321,7 +321,7 @@ Alle Experience Manager-releaseopmerkingen worden op de volgende pagina&#39;s bi
 
 De Gidsen van de Experience Manager (vroeger, XML Documentation voor Experience Manager) is een toepassing die op AEM wordt opgesteld. Het is een krachtige oplossing voor componentcontentbeheer op bedrijfsniveau (CCMS) die native DITA-ondersteuning in Adobe Experience Manager mogelijk maakt en AEM in staat stelt om op DITA gebaseerde content creation en delivery af te handelen.
 
-Meer informatie over [XML-documentatie voor AEM](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
+Meer informatie over [Hulplijnen Experience Manager](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
 ### Aanvullende bronnen
 
