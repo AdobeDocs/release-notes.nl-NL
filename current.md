@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 15310fdeb95016c4366dfed02076296fcc2a4734
+source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
 workflow-type: tm+mt
-source-wordcount: '4956'
+source-wordcount: '4951'
 ht-degree: 9%
 
 ---
@@ -36,7 +36,7 @@ Laatste update: **14 mei 2022**
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
+* [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -317,16 +317,16 @@ Alle Experience Manager-releaseopmerkingen worden op de volgende pagina&#39;s bi
 * [Dynamic Media Classic Help-startpagina](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Documentatie Experience Manager: Recente updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
 
-## ![Pictogram](/assets/ec_appicon_24.png) XML-documentatie voor Adobe Experience Manager {#xml-doc}
+## ![Pictogram](/assets/ec_appicon_24.png) Adobe Experience Manager-hulplijnen {#xml-doc}
 
-De Documentatie van XML voor Adobe Experience Manager is een toepassing die op AEM wordt opgesteld. Het is een krachtige oplossing voor componentcontentbeheer op bedrijfsniveau (CCMS) die native DITA-ondersteuning in Adobe Experience Manager mogelijk maakt en AEM in staat stelt om op DITA gebaseerde content creation en delivery af te handelen.
+De Gidsen van de Experience Manager (vroeger, XML Documentation voor Experience Manager) is een toepassing die op AEM wordt opgesteld. Het is een krachtige oplossing voor componentcontentbeheer op bedrijfsniveau (CCMS) die native DITA-ondersteuning in Adobe Experience Manager mogelijk maakt en AEM in staat stelt om op DITA gebaseerde content creation en delivery af te handelen.
 
 Meer informatie over [XML-documentatie voor AEM](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
 ### Aanvullende bronnen
 
-* [XML-documentatie voor Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - zelfstudies over Experience League
-* [XML-documentatie voor Adobe Experience Manager Learn &amp; Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - productdocumentatie
+* [Hulplijnen Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - zelfstudies over Experience League
+* [Hulplijnen Experience Manager Leren en ondersteunen](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - productdocumentatie
 
 ## ![Pictogram](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
