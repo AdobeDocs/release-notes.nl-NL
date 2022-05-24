@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 181c2ee19d1a3687355876f70f25c6e110a90ebc
+source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
 workflow-type: tm+mt
-source-wordcount: '4950'
+source-wordcount: '4914'
 ht-degree: 9%
 
 ---
@@ -25,7 +25,7 @@ Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://explo
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **14 mei 2022**
+Laatste update: **24 mei 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -39,7 +39,7 @@ Laatste update: **14 mei 2022**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (Bijgewerkt) **24 mei**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -55,11 +55,10 @@ Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen!
 
-Bijgewerkt: **13 mei 2022**
+Bijgewerkt: **24 mei 2022**
 
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
-| [Adobe Analytics - Ervaar van de Ervaring - de Uitwisseling van de Vaardigheid](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) | De Uitwisseling van de Vaardigheid | Meld u aan voor deze gratis digitale gebeurtenis van drie uur die volledig op Adobe Analytics is gericht. Stel vragen onder de aandacht van experts en collega&#39;s die Workspace het beste kennen.<br>18 mei 2022 @ 1:30pm-4:30:00 EST<br> [Details en registratie](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) |
 | [Adobe Campaign - Succesvolle Webinar-reeks voor klanten](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Uw klantreizen verbeteren via Adobe Campaign. | Neem deel aan deze live Peer2Peer-discussie met Anja Starun, hoofd van Betrokkenheid over de Kayo-, Binge- en Flash-merken van de Streamotion. Haak rechtstreeks van haar over de succesvolle strategieën die haar team uitvoerde om individuele klantenreizen tot stand te brengen gebruikend Adobe Campaign. <br>**Datum:** 26 mei om 15.00 uur EST <br>[Details en registratie](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Push-berichten met Journey Optimizer - Hoe kan ik uw mobiele app eenvoudig configureren voor push](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Leer meer over de gebruikelijke gebruiksgevallen voor pushberichten met Adobe Journey Optimizer en duik in de technische details over hoe u een app voor Push kunt configureren die wordt aangedreven door Adobe Experience Platform. <br>**Datum:** 12 mei 2022 @ 9:30 PDT<br>[Gebeurtenissen plannen en verleden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Koffie-einde &amp;vragen | Sluit u aan bij Brent Kostak en Drew Burns van het Adobe Target-productteam, die uw Adobe Target-vragen kunnen beantwoorden over gedeeld publiek, Real-Time CDP, gegevens van de eerste partij, complete workflows voor personalisatie en nog veel meer.<br>Bekijk de recente [Wbinar voor realtime personalisatie](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) en stel uw vervolgvragen voor aan de deskundigen van de [Coffee Break](https://adobe.ly/3MyiDHa) in de Gemeenschap Adobe Target!<br>**Datum:** 25 mei 2022 @ 08.00 uur PDT<br>[Gegevens en registratie](https://adobe.ly/3MyiDHa) |
@@ -349,6 +348,8 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 ### Nieuwste productreleases van campagne
 
+**Laatste release:** [Campaign Standard release 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (juni 2022)
+
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Campagne v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html), en [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) opmerkingen bij de release.
 
 ### Help-informatie en bronnen voor Campaign
@@ -484,7 +485,7 @@ Nieuwe zelfstudies en cursussen voor Adobe Document Cloud.
 Raadpleeg voor hulp bij Documenten Cloud:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
-* [Adobe Acrobat-handtekening](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
+* [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud - Meer informatie en ondersteuning](https://helpx.adobe.com/support/document-cloud.html)
 
 ## ![Pictogram](/assets/creative-cloud-24.png) Adobe Creative Cloud for enterprise {#creative-cloud}
