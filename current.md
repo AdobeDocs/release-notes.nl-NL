@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
+source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
 workflow-type: tm+mt
-source-wordcount: '4914'
+source-wordcount: '4912'
 ht-degree: 9%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-Als Ervaar, begint uw weg aan succes met [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Zoek naar een uitgebreide &#39;Hoe kan ik&#39;-documentatiebibliotheek, zelfgeleide zelfstudies, &#39;Hoe kan ik&#39;-video&#39;s en cursussen voor alle niveaus en rollen, een online gemeenschap van peers en een expert support wanneer u deze nodig hebt.
+Als Ervaar, begint uw weg aan succes met [Experience League](https://experienceleague.adobe.com/?lang=en#home). Zoek naar een uitgebreide &#39;Hoe kan ik&#39;-documentatiebibliotheek, zelfgeleide zelfstudies, &#39;Hoe kan ik&#39;-video&#39;s en cursussen voor alle niveaus en rollen, een online gemeenschap van peers en een expert support wanneer u deze nodig hebt.
 
 Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)!
 
@@ -49,7 +49,7 @@ Laatste update: **24 mei 2022**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Digital Experience Blueprints - zelfstudies](#blueprints)
 
-Hulp nodig? Bezoek [Adobe Experience League](https://experienceleague.adobe.com/#home) voor product en technische documentatie, cursussen met Adobe-cursus, videozelfstudies, snelle antwoorden, inzicht in de gemeenschap en training onder leiding van instructeurs.
+Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home) voor product en technische documentatie, cursussen met Adobe-cursus, videozelfstudies, snelle antwoorden, inzicht in de gemeenschap en training onder leiding van instructeurs.
 
 ## ![Pictogram](/assets/experience-league.png) [!DNL Experience League] gebeurtenissen {#events}
 
