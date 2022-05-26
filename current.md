@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
+source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
 workflow-type: tm+mt
-source-wordcount: '4912'
+source-wordcount: '4945'
 ht-degree: 9%
 
 ---
@@ -55,13 +55,14 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen!
 
-Bijgewerkt: **24 mei 2022**
+Bijgewerkt: **26 mei 2022**
 
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
+| [Vraag het de experts: De grondbeginselen van Web SDK](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webinar | Tips en trucs voor het verzamelen van gegevens. <br>[Gebeurtenissen plannen en verleden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Campaign - Succesvolle Webinar-reeks voor klanten](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Uw klantreizen verbeteren via Adobe Campaign. | Neem deel aan deze live Peer2Peer-discussie met Anja Starun, hoofd van Betrokkenheid over de Kayo-, Binge- en Flash-merken van de Streamotion. Haak rechtstreeks van haar over de succesvolle strategieën die haar team uitvoerde om individuele klantenreizen tot stand te brengen gebruikend Adobe Campaign. <br>**Datum:** 26 mei om 15.00 uur EST <br>[Details en registratie](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
-| [Push-berichten met Journey Optimizer - Hoe kan ik uw mobiele app eenvoudig configureren voor push](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Leer meer over de gebruikelijke gebruiksgevallen voor pushberichten met Adobe Journey Optimizer en duik in de technische details over hoe u een app voor Push kunt configureren die wordt aangedreven door Adobe Experience Platform. <br>**Datum:** 12 mei 2022 @ 9:30 PDT<br>[Gebeurtenissen plannen en verleden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Koffie-einde &amp;vragen | Sluit u aan bij Brent Kostak en Drew Burns van het Adobe Target-productteam, die uw Adobe Target-vragen kunnen beantwoorden over gedeeld publiek, Real-Time CDP, gegevens van de eerste partij, complete workflows voor personalisatie en nog veel meer.<br>Bekijk de recente [Wbinar voor realtime personalisatie](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) en stel uw vervolgvragen voor aan de deskundigen van de [Coffee Break](https://adobe.ly/3MyiDHa) in de Gemeenschap Adobe Target!<br>**Datum:** 25 mei 2022 @ 08.00 uur PDT<br>[Gegevens en registratie](https://adobe.ly/3MyiDHa) |
+| [Push-berichten met Journey Optimizer - Hoe kan ik uw mobiele app eenvoudig configureren voor push](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Leer meer over de gebruikelijke gebruiksgevallen voor pushberichten met Adobe Journey Optimizer en duik in de technische details over hoe u een app voor Push kunt configureren die wordt aangedreven door Adobe Experience Platform. <br>**Datum:** 12 mei 2022 @ 9:30 PDT<br>[Gebeurtenissen plannen en verleden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe [!DNL Developers Live]: Handel](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | Video&#39;s op aanvraag | _Adobe Developers Live: Handel 2022_ ontwikkelaars en ervaringsontwikkelaars met verschillende achtergronden en een speciaal doel samenbrengen - om ongelooflijke end-to-end ervaringen te creëren. Deze virtuele conferentie van één dag kenmerkt belangrijke updates van de Handel en van de Ontwikkelaar Open Bron, technische zittingen, van het communautaire voorzien van een netwerkkansen en meer. |
 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | Video&#39;s op aanvraag | Lees meer over het belang van je Marketo-routekaart en hoe je slechte planning kunt voorkomen. Vraag advies over het ontsluiten van het potentieel van Aangepaste velden voor programmaleden, tips en trucs voor Marketo Engage en nog veel meer in de [!DNL Marketo] Skill Exchange vanaf augustus 2021, nu op Experience League. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | Op aanvraag uitgevoerde sessies | Leer van Adobe managers, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc, John Donahoe, CEO, NIKE, Inc., en Gail J. McGovernn, CEO en het Amerikaanse Rode Kruis delen hoe ervaringen van klanten de valuta van onze digitale economie zijn.<br>Verkennen [sessies op aanvraag](https://business.adobe.com/summit/2022/sessions.html) van Adobe Summit 2022. |
