@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
+source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
-source-wordcount: '4945'
+source-wordcount: '5012'
 ht-degree: 9%
 
 ---
@@ -25,9 +25,9 @@ Klaar om aan de slag te gaan? [Neem een quiz van 5 minuten en win](https://explo
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **24 mei 2022**
+Laatste update: **27 mei 2022**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] gebeurtenissen](#events) (Bijgewerkt) **27 mei**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrale interfacecomponenten &amp; beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,10 +55,11 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen!
 
-Bijgewerkt: **26 mei 2022**
+Bijgewerkt: **27 mei 2022**
 
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
+| [Experience Makers Government Forum](https://adobegovforum.govexec.com/agenda/) | Video op aanvraag | Het 13e jaarlijkse AEMGF op 10 mei was een succes, met een combinatie van virtuele en persoonlijke deelnemers. Vergaderingen voor beheer en brainstormsessies die zijn toegespitst op het thema van _Digitale ervaringen die mensen op de eerste plaats zetten_. Meest gebruikte sessies _Manhunters: Hoe we Pablo Escobar hebben afgenomen_, _De toekomst van CX_, en _De gouden eeuw van de creativiteit en de moderne werkplek_. |
 | [Vraag het de experts: De grondbeginselen van Web SDK](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webinar | Tips en trucs voor het verzamelen van gegevens. <br>[Gebeurtenissen plannen en verleden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Campaign - Succesvolle Webinar-reeks voor klanten](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Uw klantreizen verbeteren via Adobe Campaign. | Neem deel aan deze live Peer2Peer-discussie met Anja Starun, hoofd van Betrokkenheid over de Kayo-, Binge- en Flash-merken van de Streamotion. Haak rechtstreeks van haar over de succesvolle strategieën die haar team uitvoerde om individuele klantenreizen tot stand te brengen gebruikend Adobe Campaign. <br>**Datum:** 26 mei om 15.00 uur EST <br>[Details en registratie](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Koffie-einde &amp;vragen | Sluit u aan bij Brent Kostak en Drew Burns van het Adobe Target-productteam, die uw Adobe Target-vragen kunnen beantwoorden over gedeeld publiek, Real-Time CDP, gegevens van de eerste partij, complete workflows voor personalisatie en nog veel meer.<br>Bekijk de recente [Wbinar voor realtime personalisatie](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) en stel uw vervolgvragen voor aan de deskundigen van de [Coffee Break](https://adobe.ly/3MyiDHa) in de Gemeenschap Adobe Target!<br>**Datum:** 25 mei 2022 @ 08.00 uur PDT<br>[Gegevens en registratie](https://adobe.ly/3MyiDHa) |
