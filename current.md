@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
+source-git-commit: 5d75fb745b2694e31346b27efdb1d5f71fe91449
 workflow-type: tm+mt
-source-wordcount: '4684'
+source-wordcount: '4679'
 ht-degree: 8%
 
 ---
@@ -23,7 +23,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **10 juni 2022**
+Laatste update: **12 juni 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -349,9 +349,10 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 ### Nieuwste productreleases van campagne
 
-**Laatste release:** [Campaign Standard release 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (juni 2022)
-
-Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Campagne v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html), en [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) opmerkingen bij de release.
+* Nieuw [Release van campagne v8.3](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
+* Nieuw [release van Campaign Standard 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* Nieuw [Het bedieningspaneel kan worden losgelaten](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
+* Nieuw [zelfstudies en cursussen](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) over Experience League
 
 ### Nieuw [!DNL Campaign] zelfstudies en cursussen {#tutorials-campaign}
 
