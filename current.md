@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5d75fb745b2694e31346b27efdb1d5f71fe91449
+source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
 workflow-type: tm+mt
-source-wordcount: '4679'
+source-wordcount: '4684'
 ht-degree: 8%
 
 ---
@@ -51,7 +51,7 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 ## ![Pictogram](/assets/experience-league.png) [!DNL Experience League] gebeurtenissen {#events}
 
-Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen!
+[Gebeurtenissen van Experience League](https://experienceleague.adobe.com/events/?lang=en) zijn een geweldige plek om te leren, te interageren en antwoorden te krijgen van productexperts bij Adobe!
 
 Bijgewerkt op **10 juni 2022**
 
