@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
+source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
 workflow-type: tm+mt
-source-wordcount: '4684'
-ht-degree: 8%
+source-wordcount: '4804'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **12 juni 2022**
+Laatste update: **28 juni 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -53,10 +53,12 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 [Gebeurtenissen van Experience League](https://experienceleague.adobe.com/events/?lang=en) zijn een geweldige plek om te leren, te interageren en antwoorden te krijgen van productexperts bij Adobe!
 
-Bijgewerkt op **10 juni 2022**
+Bijgewerkt op **28 juni 2022**
 
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
+| [Maak gebruik van Diepe Gegevensintelligentie om personalisatie te versnellen](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | Webinar voor succes van klant | Doe mee met onze Adobe-expert om te leren hoe de geavanceerde mogelijkheden in Adobe Analytics de analisten en marketers in uw organisatie in staat zullen stellen om diepgaande gegevensanalyse te versnellen en actuele inzichten te kweken om meer gepersonaliseerde klantenervaringen over kanalen, momenten, en het kopen stadia te drijven.<br>**Datum:** 6 juli om 15.00 uur AEST - [Details en registratie](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target - Skill Up for Success](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | Begrijp de kernconcepten en mogelijkheden van Adobe Target om de kracht van AI te testen, personaliseren en herkennen die uw merkervaring van generiek tot geniaal verandert.<br>**Datum:** 30 juni en 1 juli - [Details en registratie](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 | Adobe Campaign, Journey Optimizer - [De uitdaging voor meerdere kanalen: Personalisatie op schaal](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | Virtuele gebeurtenis | Hoort van Sheryl Kingstone, Research Director op 451 Research, over het bijhouden van het tempo van de verandering, het gebruiken van marketing technologie als kritieke enabler, en het worden van meer gegeven-gedreven. We gaan ook terug op belangrijke sessies en tips en trucs die tijdens Adobe Summit 2022 worden gedeeld, waar u van experts hoort hoe u personalisatie via verschillende kanalen kunt stimuleren.<br>**Datum:** 14 juni - [Details en registratie](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
 | [Onder de kap zoeken - Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems - Virtuele gebeurtenis | Ontdek de nieuwe functies die vorig jaar zijn gepubliceerd, een update van de ontwikkelingen achter de schermen en kijk uit naar de rest van 2022. <br>**Datum:** 15 juni -[Details en registratie](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
 | [Hoe te om Vertrouwen te bouwen en Gevolgen mee te delen om Uw Digitale Strategie te schrapen](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | Stramienen rondetafel | Sluit u aan bij ons voor een exclusieve en intieme conversatie, waar we manieren bespreken om de impact van uw digitale strategie effectief te communiceren. <br>**Datum:** 21 juni - [Details en registratie](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
@@ -363,9 +365,9 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 | Juni 2022 | [Een leveringssjabloon maken](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/using-delivery-templates/configure-a-delivery-template.html) | Video | Leer hoe u een sjabloon voor een ad-hoclevering configureert. | Campaign v8 |
 | Juni 2022 | [Herhalende en doorlopende e-mailleveringen maken](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/recurring-deliveries.html) | Video | Leer hoe te om een terugkomende levering en een planneractiviteit te vormen. | Campagne v8 |
 | Juni 2022 | [Verrijkingsactiviteiten configureren](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/enrichment-activity.html) | Video | Leer hoe u een verrijkingsactiviteit kunt configureren op basis van het leveringslogboek. | Campagne v8 |
-| Juni 2022 | [Inleiding tot SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html) | Video | Ontdek wat SMS is, de rol van de SMS-serviceprovider, hoe Adobe Campaign verbinding maakt met de serviceprovider. Begrijp welke informatie door de dienstverlener wordt doorgegeven en welke technische nota&#39;s beschikbaar zijn. | Campagne v8, Campaign Standard, Campaign Classic v7 |
-| Juni 2022 | [Een SMS-account instellen voor een standaard SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=en) | Video | Leer hoe u een SMPP-account instelt bij Adobe Campaign, hoe u de resultaten van de SMS-levering analyseert en de SR-verwerking aanpast aan de specificaties van uw SMPP-provider. | Campagne v8, Campaign Classic v7 |
-| Juni 2022 | [Pas de SMS-aansluiting aan op uw SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html) | Video | Leer hoe u de SMS-connector aanpast aan uw SMPP-provider. Pas uw SMS-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS. | Campagne v8, Campaign Classic v7, Campaign Standard |
+| Juni 2022 | [Inleiding tot sms](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=nl) | Video | Ontdek wat SMS is, de rol van de SMS-serviceprovider, hoe Adobe Campaign verbinding maakt met de serviceprovider. Begrijp welke informatie door de serviceprovider wordt doorgegeven en welke technische notities beschikbaar zijn. | Campagne v8, Campaign Standard, Campaign Classic v7 |
+| Juni 2022 | [Een sms-account instellen voor een standaard SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=nl?lang=nl) | Video | Leer hoe u een SMPP-account instelt bij Adobe Campaign, hoe u de resultaten van de SMS-levering analyseert en de SR-verwerking aanpast aan de specificaties van uw SMPP-provider. | Campagne v8, Campaign Classic v7 |
+| Juni 2022 | [Pas de sms-connector aan voor uw SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=nl) | Video | Leer hoe u de sms-connector aanpast voor uw SMPP-provider. Pas uw sms-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS. | Campagne v8, Campaign Classic v7, Campaign Standard |
 
 {style=&quot;table-layout:auto&quot;}
 
