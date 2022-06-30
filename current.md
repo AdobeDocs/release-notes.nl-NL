@@ -6,7 +6,7 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4256f9f814955a7819c8f0333ea8ba3bc9c2745a
+source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
 workflow-type: tm+mt
 source-wordcount: '4276'
 ht-degree: 10%
@@ -60,9 +60,9 @@ Bijgewerkt op **28 juni 2022**
 | [Maak gebruik van Diepe Gegevensintelligentie om personalisatie te versnellen](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | Webinar voor succes van klant | Doe mee met onze Adobe-expert om te leren hoe de geavanceerde mogelijkheden in Adobe Analytics de analisten en marketers in uw organisatie in staat zullen stellen om diepgaande gegevensanalyse te versnellen en actuele inzichten te kweken om meer gepersonaliseerde klantenervaringen over kanalen, momenten, en het kopen stadia te drijven.<br>**Datum:** 6 juli om 15.00 uur AEST - [Details en registratie](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target - Skill Up for Success](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | Begrijp de kernconcepten en mogelijkheden van Adobe Target om de kracht van AI te testen, personaliseren en herkennen die uw merkervaring van generiek tot geniaal verandert.<br>**Datum:** 30 juni en 1 juli - [Details en registratie](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
-Zie [Gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) op Experience League om bij te werken.
-
 {style=&quot;table-layout:auto&quot;}
+
+Zie [Gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) op Experience League om bij te werken.
 
 ## ![Pictogram](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
