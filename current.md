@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
+source-git-commit: 1e283c634ce9af45252e7df5c1b300e244e8196f
 workflow-type: tm+mt
-source-wordcount: '4276'
+source-wordcount: '4369'
 ht-degree: 10%
 
 ---
@@ -164,7 +164,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor CJA.
 
 Laatste update: **23 maart 2022**
 
-* [!DNL Streaming Media Analytics][Aanvullende informatie voor ](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)
+* [!DNL Streaming Media Analytics] [releaseopmerkingen](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
 ## ![Pictogram](/assets/audience-manager.png) Audience Manager {#aam}
@@ -431,21 +431,24 @@ Last updated: **October 27, 2021**
 
 ### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Laatst bijgewerkt: **8 juni 2022** voor 31 mei
+Laatst bijgewerkt: **14 juli 2022**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| Aangepaste rapporten | (Beta eigenschap) Advertising Cloud DSP kan nu eerste-partijsegmenten die van voor authentiek verklaarde signalen worden samengesteld binnen een platform van klantengegevens (CDP) worden opgenomen. |
+| Aangepaste rapporten | (31 mei vrijgave; bètafunctie) Advertising Cloud DSP kan nu eerste-partijsegmenten opnemen die bestaan uit geverifieerde signalen die zijn gemaakt in een CDP (Customer Data Platform). |
+| [!UICONTROL Inventory] | (29 juni) De nieuwe [!UICONTROL Inventory] > [!UICONTROL Deals] de weergave beschikt over dezelfde mogelijkheden voor gegevensaanpassing als de [!UICONTROL Campaigns] weergaven, waaronder aanvullende filters, kolomaanpassing en de optie om aangepaste weergaven, kolomsortering en een weergave voor gegevensvisualisatie (grafiek) op te slaan. U kunt een opdrachtmenu in elke rij openen door op [!UICONTROL …] na de overeenkomstennaam. |
+| [!DNL Inventory Inspector] | (29 juni) De [!UICONTROL Inventory] tabblad van de plaatsing [!UICONTROL Inspector] omvat nu aanpasbare gegevensvisualisatiekaarten en uitgebreide prestatiesmetriek, zoals [!UICONTROL Viewability Rate], [!UICONTROL Clicks], en [!UICONTROL Yesterday’s CPM]. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **8 juni 2022** voor 11 juni
+Laatst bijgewerkt: **14 juli 2022**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Insights] | De analyse voor het delen van indrukken is nu weer beschikbaar als bètafunctie. |
+| [!UICONTROL Insights] | (Release 11 juni) De analyse van het verlies van het Aandeel van de Impressie is nu opnieuw beschikbaar als bètaeigenschap. |
+| [!DNL Advanced Campaign Management] | (20 juni) ([!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes) U kunt nu dynamische responsieve onderzoek en variaties tot stand brengen gebruikend een onderzoeksmotor-specifieke advertentiesjabloon, gebaseerd op de inhoud van uw inventaris, van [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]. |
 
 {style=&quot;table-layout:auto&quot;}
 
