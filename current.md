@@ -316,7 +316,7 @@ Raadpleeg de volgende koppelingen voor Adobe Commerce-releaseopmerkingen:
 
 ## ![Pictogram](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Laatst bijgewerkt: **7 juni 2022**
+Laatst bijgewerkt: **30 juni 2022**
 
 * Voor informatie over de release raadpleegt u [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * Zie voor actuele informatie [Opmerkingen bij de release van Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
