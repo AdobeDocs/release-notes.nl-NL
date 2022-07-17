@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
+source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
 workflow-type: tm+mt
 source-wordcount: '5220'
 ht-degree: 10%
@@ -53,11 +53,11 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen! Zie [Gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) inzake Experience League dat voor juli 2022 moet worden bijgewerkt.
 
-Bijgewerkt **14 juli 2022**
+Bijgewerkt **17 juli 2022**
 
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
-| [Vraag het de experts: DataStreams en voorinstelling van gegevens](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | In deze laatste van drie sessies met betrekking tot gegevensverzameling voor de Adobe Experience Cloud zullen onze experts een diepgaandere analyse geven van de geavanceerde mogelijkheden van Adobe om gegevens te verzamelen, waaronder functies zoals data prep voor gegevensverzameling. Aan het einde van deze sessie zullen de deelnemers vertrouwen hebben in de nieuwste en krachtigste functies voor het verzamelen van gegevens uit digitale ervaringen <br>**Datum:** 21 juli 2010 om 21.00 uur PST - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Aanstaande en eerdere afleveringen](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Vraag het de experts: DataStreams en voorinstelling van gegevens](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | In deze laatste van drie sessies met betrekking tot gegevensverzameling voor de Adobe Experience Cloud zullen onze experts een diepgaandere analyse geven van de geavanceerde mogelijkheden van Adobe om gegevens te verzamelen, waaronder functies zoals data prep voor gegevensverzameling. Aan het einde van deze sessie zullen de deelnemers vertrouwen hebben in de nieuwste en krachtigste functies voor het verzamelen van gegevens uit digitale ervaringen <br>**Datum:** 21 juli 2010 om 9.00 uur PST - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Aanstaande en eerdere afleveringen](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
