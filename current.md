@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
+source-git-commit: bd6e90a7cbb0f07b21c65b6486fb65327fce6003
 workflow-type: tm+mt
-source-wordcount: '5519'
+source-wordcount: '5522'
 ht-degree: 10%
 
 ---
@@ -23,7 +23,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **18 juli 2022**
+Laatste update: **19 juli 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -75,6 +75,8 @@ Experience Cloud [centrale UI-componenten](https://experienceleague.adobe.com/do
 
 ### Provisioning-update
 
+Bijgewerkt: **19 juli 2022**
+
 >[!IMPORTANT]
 >
 >Controleer de volgende kennisgeving met betrekking tot Experience Cloud-provisioning.
@@ -115,7 +117,7 @@ Ga voor meer informatie over de nieuwe mogelijkheden naar de pagina&#39;s op het
 * [Bezoekers-id](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
 
-Geen: **11 juli 2022**
+Functie-update: **11 juli 2022**
 
 | Functie | Beschrijving |
 | ------- | ------- |
