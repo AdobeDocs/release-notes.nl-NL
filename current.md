@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
+source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
 workflow-type: tm+mt
-source-wordcount: '5206'
+source-wordcount: '5519'
 ht-degree: 10%
 
 ---
@@ -72,6 +72,48 @@ Voor de recentste versieinformatie, zie de Status van het Systeem van Adobe [rel
 ## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud - centrale interfacecomponenten &amp; beheer {#ecloud}
 
 Experience Cloud [centrale UI-componenten](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) bevat functies die beschikbaar zijn op de homepage en de permanente productkoptekst. Deze functies zijn onder andere instellingen voor gebruikersprofielen, voorkeuren en zoekopdrachten. U kunt ook hulp vinden bij gebruikers- en productbeheer, klantkenmerken en Experience Cloud-soorten publiek.
+
+### Provisioning-update
+
+>[!IMPORTANT]
+>
+>Controleer de volgende kennisgeving met betrekking tot Experience Cloud-provisioning.
+
+Adobe werkt zijn levering bij om alle klanten van de Experience Cloud toegang tot stichtingsmogelijkheden te verlenen die interoperabiliteit tussen sommige producten van Experience Cloud helpen. Gebruikers krijgen Adobe Experience Platform als nieuwe machtiging toegevoegd aan hun Experience Cloud-organisaties, met [!UICONTROL Data Collection] als inbegrepen dienst.
+
+Adobe Experience Platform [!UICONTROL Data Collection] include [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) voor vereenvoudigd beheer van universele tags en biedt een vertrouwde, robuuste en complete, streaminggegevensinfrastructuur. Tags vereenvoudigen het verzamelen van gegevens door de klant en stroomlijnen de levering van ervaringen.
+
+Met deze update kunnen beheerders wijzigingen of toevoegingen aan de Admin Console zien:
+
+1. De Adobe Experience Platform-productkaart in de Admin Console bevat:
+
+   * Plaatsen
+   * Betrouwbaarheid
+   * Naamruimte van identiteit
+   * Sandboxen
+   * Experience Data Model
+   * Schema&#39;s
+   * DataStreams
+   * Bezoekers-id
+
+   Voor organisaties die momenteel geen Experience Platform gebruiken, ziet u nu de _Adobe Experience Platform_ in de Admin Console, met inbegrip van de hierboven vermelde mogelijkheden.
+
+   Voor organisaties die momenteel Experience Platform gebruiken, _Plaatsen_ wordt nu geconsolideerd in de kaart van het Experience Platform.
+
+1. Adobe Experience Platform Data Collection (voorheen, Launch) en Privacy zullen als afzonderlijke productkaarten van de andere mogelijkheden van het Experience Platform blijven verschijnen.
+
+Ga voor meer informatie over de nieuwe mogelijkheden naar de pagina&#39;s op het Experience League:
+
+* [Gegevensverzameling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Plaatsen](https://experienceleague.adobe.com/docs/places/using/home.html?lang=nl)
+* [Betrouwbaarheid](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Naamruimte van identiteit](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
+* [Sandboxen](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
+* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=nl)
+* [Schema&#39;s](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+* [DataStreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [Bezoekers-id](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
 
 Geen: **11 juli 2022**
 
