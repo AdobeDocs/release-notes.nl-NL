@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5524'
+source-wordcount: '5525'
 ht-degree: 10%
 
 ---
@@ -75,8 +75,6 @@ Experience Cloud [centrale UI-componenten](https://experienceleague.adobe.com/do
 
 ### Provisioning-update
 
-Bijgewerkt: **19 juli 2022**
-
 >[!IMPORTANT]
 >
 >Controleer de volgende kennisgeving met betrekking tot Experience Cloud-provisioning.
@@ -85,9 +83,11 @@ Adobe werkt zijn levering bij om alle klanten van de Experience Cloud toegang to
 
 Adobe Experience Platform [!UICONTROL Data Collection] include [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) voor vereenvoudigd beheer van universele tags en biedt een vertrouwde, robuuste en complete, streaminggegevensinfrastructuur. Tags vereenvoudigen het verzamelen van gegevens door de klant en stroomlijnen de levering van ervaringen.
 
-Met deze update kunnen beheerders wijzigingen of toevoegingen aan de Admin Console zien:
+**Wijzigingen in Admin Console**
 
-1. De Adobe Experience Platform-productkaart in de Admin Console bevat:
+Beheerders kunnen de wijzigingen of toevoegingen aan de Admin Console als volgt zien:
+
+* De Adobe Experience Platform-productkaart in de Admin Console bevat:
 
    * Plaatsen
    * Betrouwbaarheid
@@ -102,7 +102,7 @@ Met deze update kunnen beheerders wijzigingen of toevoegingen aan de Admin Conso
 
    Voor organisaties die momenteel Experience Platform gebruiken, _Plaatsen_ wordt nu geconsolideerd in de kaart van het Experience Platform.
 
-1. Adobe Experience Platform Data Collection (voorheen, Launch) en Privacy zullen als afzonderlijke productkaarten van de andere mogelijkheden van het Experience Platform blijven verschijnen.
+* Adobe Experience Platform Data Collection (voorheen, Launch) en Privacy zullen als afzonderlijke productkaarten van de andere mogelijkheden van het Experience Platform blijven verschijnen.
 
 Ga voor meer informatie over de nieuwe mogelijkheden naar de pagina&#39;s op het Experience League:
 
