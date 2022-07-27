@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
+source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
 workflow-type: tm+mt
-source-wordcount: '5622'
+source-wordcount: '5650'
 ht-degree: 9%
 
 ---
@@ -475,6 +475,10 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Marketo.
 ## ![Pictogram](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] is een uniforme toepassing voor werkbeheer voor het delen van ideeën, het maken van inhoud, het beheren van complexe processen en het uitvoeren van hun beste werk.
+
+**Workfront-zelfstudie home**
+
+**27 juli 2022**: Nieuwe Workfront bezoeken [zelfstudie home op Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) voor alle video&#39;s en artikelen van trainingen en zelfstudies.
 
 Zie de [[!DNL Workfront] lozingen](https://one.workfront.com/s/product-releases) pagina voor een afronding van de meest recente informatie voor alle producten.
 
