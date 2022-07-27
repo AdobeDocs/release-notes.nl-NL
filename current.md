@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 32c6aff94fda6fa1a7d916b440aea7d656eafa44
+source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
 workflow-type: tm+mt
-source-wordcount: '5523'
-ht-degree: 10%
+source-wordcount: '5622'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **19 juli 2022**
+Laatste update: **27 juli 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -500,24 +500,23 @@ Last updated: **October 27, 2021**
 
 ### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Laatst bijgewerkt: **14 juli 2022**
+Laatst bijgewerkt: **27 juli 2022**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| Aangepaste rapporten | (31 mei vrijgave; bètafunctie) Advertising Cloud DSP kan nu eerste-partijsegmenten opnemen die bestaan uit geverifieerde signalen die zijn gemaakt in een CDP (Customer Data Platform). |
-| [!UICONTROL Inventory] | (29 juni) De nieuwe [!UICONTROL Inventory] > [!UICONTROL Deals] de weergave beschikt over dezelfde mogelijkheden voor gegevensaanpassing als de [!UICONTROL Campaigns] weergaven, waaronder aanvullende filters, kolomaanpassing en de optie om aangepaste weergaven, kolomsortering en een weergave voor gegevensvisualisatie (grafiek) op te slaan. U kunt een bevelmenu in elke rij openen door de ellipsen (...) na de overeenkomstennaam te klikken. |
-| [!UICONTROL Inventory Inspector] | (29 juni) De [!UICONTROL Inventory] tabblad van de plaatsing [!UICONTROL Inspector] omvat nu aanpasbare gegevensvisualisatiekaarten en uitgebreide prestatiesmetriek, zoals [!UICONTROL Viewability Rate], [!UICONTROL Clicks], en [!UICONTROL Yesterday’s CPM]. |
+| [!UICONTROL Inventory] | (release van 27 juli) [!UICONTROL Auction Insights] is een nieuw het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Met behulp van gegevensvisualisaties toont dit gereedschap de trend en de relatieve verhoudingen van waarden die binnen een specifieke periode voor essentiële veilingkenmerken zijn ontvangen. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **14 juli 2022**
+Laatst bijgewerkt: **27 juli 2022**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Insights] | (Release 11 juni) De analyse van het verlies van het Aandeel van de Impressie is nu opnieuw beschikbaar als bètaeigenschap. |
-| [!DNL Advanced Campaign Management] | (20 juni) ([!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes) U kunt nu dynamische responsieve onderzoek en variaties tot stand brengen gebruikend een onderzoeksmotor-specifieke advertentiesjabloon, gebaseerd op de inhoud van uw inventaris, van [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]. |
+| [!UICONTROL Campaigns] | (Opt-in bètafunctie voor alle adverteerders; Release 16 juli) U kunt nu maken en beheren [!DNL Google Ads] maximale prestatiecampagnes, waaronder het handmatig maken van groepen elementen en het uploaden van elementen. Koppelingen naar [!DNL Google Merchant Center] productfeeds worden niet ondersteund.<br><br>Als u zich hebt aangemeld voor de bètaversie, kunt u campagnes maken met de [!UICONTROL Campaign Type] &quot;[!UICONTROL Performance Max]&quot; en stel elementgroepen in binnen de instellingen voor de campagne. U kunt uw bestaande prestaties maximumcampagnes, met prestatiesgegevens in lijst en tendensen grafiekformaat ook bekijken, in [!UICONTROL Campaigns] weergeven. Gegevens over de prestaties op campagnereniveau zijn ook beschikbaar in rapporten en in Adobe Analytics (voor adverteerders met een [!DNL Analytics] integratie).<br><br>Als u zich wilt aanmelden voor de bètaversie, neemt u contact op met uw [!DNL Adobe] accountteam. |
+|  | [!DNL Google Ads] biedt niet langer prestatiegegevens op ad-niveau voor standaardwinkelcampagnes, dynamische zoekopdrachten of plaatsingen. |
+| [!UICONTROL Campaigns], [!DNL Advanced Campaign Management], [!UICONTROL Reports] | (Release van 16 juli) ([!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes) De volgende ondersteuning is nu beschikbaar voor responsieve zoekadvertenties:<ul><li>De [!UICONTROL Ads] In deze weergave worden nu voorvertoningen van responsieve zoekadvertenties weergegeven.</li><li> (Sinds 20 juni) U kunt nu dynamische responsieve zoekopdrachten en variaties maken met behulp van een zoekmachine-specifieke advertentiesjabloon, gebaseerd op de inhoud van uw voorraad, van [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)].</li><li>De [!UICONTROL Ad Variation Report] bevat twee nieuwe aangepaste kolommen: &quot;[!UICONTROL Creative Titles],&quot; dit is een door komma&#39;s gescheiden lijst met de titelrijen van de advertentie, en &quot;[!UICONTROL Descriptions],&quot; dit is een lijst met door komma&#39;s gescheiden beschrijvingen van de rijen van de advertentie.</li></ul> |
 
 {style=&quot;table-layout:auto&quot;}
 
