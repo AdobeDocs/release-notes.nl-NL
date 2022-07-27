@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
+source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
 workflow-type: tm+mt
-source-wordcount: '5650'
+source-wordcount: '5690'
 ht-degree: 9%
 
 ---
@@ -40,8 +40,8 @@ Laatste update: **27 juli 2022**
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
-* [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Marketo Engage]](#marketo) (**Bijgewerkt op 27 juli**)
+* [[!DNL Adobe Workfront]](#workfront) (**Bijgewerkt op 27 juli**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -467,6 +467,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Marketo.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| 27 juli 2022 | [Marketo Engage-zelfstudies](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | Video&#39;s | Ga naar [Marketo Engage-zelfstudie naar huis](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) over Experience League voor alle oude en nieuwe zelfstudies. |
 | Juli 2022 | [B2B-ervaringen met Marketo Engage en Adobe Experience Cloud](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=en) | Video | Krijg een analyse van de integratie tussen de toepassing van Marketo Engage en van Adobe Experience Cloud, en welke pijnpunten zullen worden opgelost. | Marketo Engage |
 | Juli 2022 | [Beter samen - Adobe Marketo Engage en Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=en) | Video | Leer hoe u B2B-campagnes kunt ordenen met Marketo Engage en RT-CDP (B2B-editie) en wat zijn de meest gebruikte gevallen en voordelen die zijn ontgrendeld. | Marketo, Real-time Customer Data Platform |
 
