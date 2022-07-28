@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
+source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5690'
+source-wordcount: '5786'
 ht-degree: 9%
 
 ---
@@ -53,10 +53,11 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen! Zie [Gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) inzake Experience League dat voor juli 2022 moet worden bijgewerkt.
 
-Bijgewerkt **17 juli 2022**
+Bijgewerkt **28 juli 2022**
 
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
+| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Communautair afbreking van Q&amp;A-koffie | We worden vergezeld door Adobe Premier Support Business Consultant Rachel Booth, ook bekend als `@rbooth115`. Ze wordt aangemeld bij de Adobe Target Community om rechtstreeks met je te chatten op [deze thread](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) over uw vragen met betrekking tot haar expertisegebieden ( personalisatie , optimalisatie , integratie ) . <br>**Datum:** Woensdag 3 augustus om 8.00 uur PDT - 9.00 uur - [Details en registratie](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
 | [Vraag het de experts: DataStreams en voorinstelling van gegevens](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | In deze laatste van drie sessies met betrekking tot gegevensverzameling voor de Adobe Experience Cloud zullen onze experts een diepgaandere analyse geven van de geavanceerde mogelijkheden van Adobe om gegevens te verzamelen, waaronder functies zoals data prep voor gegevensverzameling. Aan het einde van deze sessie zullen de deelnemers vertrouwen hebben in de nieuwste en krachtigste functies voor het verzamelen van gegevens uit digitale ervaringen <br>**Datum:** 21 juli @ 9.00 uur PDT - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
