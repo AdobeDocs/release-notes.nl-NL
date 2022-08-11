@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
+source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
 workflow-type: tm+mt
-source-wordcount: '5786'
+source-wordcount: '6290'
 ht-degree: 9%
 
 ---
@@ -23,7 +23,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **27 juli 2022**
+Laatste update: **11 augustus 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Laatste update: **27 juli 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**Bijgewerkt op 27 juli**)
-* [[!DNL Adobe Workfront]](#workfront) (**Bijgewerkt op 27 juli**)
+* [[!DNL Adobe Workfront]](#workfront) (**Bijgewerkt op 11 augustus**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -478,9 +478,30 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Marketo.
 
 Adobe [!DNL Workfront] is een uniforme toepassing voor werkbeheer voor het delen van ideeën, het maken van inhoud, het beheren van complexe processen en het uitvoeren van hun beste werk.
 
-**Workfront-zelfstudie home**
+### Nieuwe cursussen en zelfstudies voor Adobe Workfront {#tutorials-workfront}
 
-**27 juli 2022**: Nieuwe Workfront bezoeken [zelfstudie home op Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) voor alle video&#39;s en artikelen van trainingen en zelfstudies.
+Nieuwe Workfront-cursus en zelfstudies voor Experience League.
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| Augustus 2022 | [Workfront-zelfstudies](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | Zelfstudie naar huis | Ga naar de nieuwe startpagina voor Workfront-zelfstudies over Experience League. |
+| Augustus 2022 | [Aan de slag met Workfront voor systeembeheerders](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | Cursus | Leer de eerste stadia van het instellen van gebruikers en het optimaliseren van de gebruikerservaring met systeeminstellingen. |
+| Augustus 2022 | [Meer informatie over uw systeeminstellingen voor Workfront-beheerders](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Cursus | Leer meer over systeemmontages om uw gebruikerservaring te verbeteren, met inbegrip van gebruikersorganisatie, douaneformulieren, goedkeuringsprocessen en mijlpalen, en lay-outmalplaatjes. |
+| Augustus 2022 | [Aan de slag met Workfront for Planners](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Cursus | Start uw Workfront-reis door te leren projecten te maken en te plannen. Workfront raadt u aan de zaken eenvoudig te houden. |
+| Augustus 2022 | [Een project beheren en sluiten](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Cursus | Nu u hebt geleerd om projecten te maken en te plannen, kunnen wij hen beheren en sluiten. |
+| Augustus 2022 | [Meer inzicht in het beheer van werk als planner ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Cursus | Zodra u de grondbeginselen van het creëren van, planning, en het leiden van projecten hebt geleerd, zijn er een paar meer dingen u zou moeten weten om het beste uit Workfront te krijgen. |
+| Augustus 2022 | [Aan de slag met Workfront for Workers](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Cursus | Deze cursus is bedoeld voor gebruikers met een werkvergunning in Adobe Workfront die werk of verzoeken ontvangen en met teams samenwerken aan projecten en documenten. |
+| Augustus 2022 | [Adobe Workfront for Collaborators](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Cursus | Leer hoe u een licentie voor revisie of aanvragen kunt gebruiken om taken, documenten en proefdrukken eenvoudig aan te vragen, te bekijken en samen te werken in de nieuwe Workfront-ervaring. |
+| Augustus 2022 | [Aangepaste formulieren maken en beheren](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Cursus | Leg de unieke informatie van uw organisatie vast door aangepaste velden in uw systeem te maken. Leer aangepaste formulieren te maken, te delen en bij te voegen in Workfront. |
+| Augustus 2022 | [Workfront Proof - beheer en installatie](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | Cursus | Leer proefdrukinstellingen aan te passen, acties en rapporten aan te passen en proefdrukworkflows in te stellen. |
+| Augustus 2022 | [Workfront-proefdrukken - proefdrukken uploaden](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | Cursus | Leer proefdrukken te uploaden voor revisie en goedkeuring. |
+| Augustus 2022 | [Workfront Proef - de werkzaamheden evalueren en goedkeuren](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | Cursus | Leer Workfront Proof gebruiken als revisor of fiatteur. |
+| Augustus 2022 | [Basisrapportageelementen](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | Cursus | De rapportelementen zijn de filters, de meningen, en de groeperingen die in alle lijstrapporten in Workfront worden gevonden. Als u hier iets over leert, kunt u aangepaste rapporten en kalenders maken. |
+| Augustus 2022 | [Een aangepaste kalender maken](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | Cursus | Met een aangepaste kalender kunt u datums en informatie rechtstreeks vanuit projecten, taken en uitgaven weergeven in een kalenderindeling. |
+| Augustus 2022 | [Aangepaste rapporten en dashboards maken](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | Cursus | Rapporten zijn de vensters in uw gegevens. Leer hoe u drie verschillende typen rapporten maakt in Workfront en deze gebruikt in dashboards. |
+| Augustus 2022 | [Tussenfilters maken](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | Cursus | U krijgt meer inzicht in jokertekens, OF-filters en tekstmodus. Open ingebouwde project-, taak- en uitgiftefilters en bekijk de details van wat er echt gaande is. |
+
+{style=&quot;table-layout:auto&quot;}
 
 Zie de [[!DNL Workfront] lozingen](https://one.workfront.com/s/product-releases) pagina voor een afronding van de meest recente informatie voor alle producten.
 
