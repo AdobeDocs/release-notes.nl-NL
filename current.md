@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
+source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
 workflow-type: tm+mt
-source-wordcount: '6290'
+source-wordcount: '5929'
 ht-degree: 9%
 
 ---
@@ -53,12 +53,12 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen! Zie [Gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) inzake Experience League dat voor juli 2022 moet worden bijgewerkt.
 
-Bijgewerkt **28 juli 2022**
+Bijgewerkt **11 augustus 2022**
 
 | Gebeurtenis | Type | Beschrijving |
 | -----------|---------- | ----|
-| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Communautair afbreking van Q&amp;A-koffie | We worden vergezeld door Adobe Premier Support Business Consultant Rachel Booth, ook bekend als `@rbooth115`. Ze wordt aangemeld bij de Adobe Target Community om rechtstreeks met je te chatten op [deze thread](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) over uw vragen met betrekking tot haar expertisegebieden ( personalisatie , optimalisatie , integratie ) . <br>**Datum:** Woensdag 3 augustus om 8.00 uur PDT - 9.00 uur - [Details en registratie](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
-| [Vraag het de experts: DataStreams en voorinstelling van gegevens](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | In deze laatste van drie sessies met betrekking tot gegevensverzameling voor de Adobe Experience Cloud zullen onze experts een diepgaandere analyse geven van de geavanceerde mogelijkheden van Adobe om gegevens te verzamelen, waaronder functies zoals data prep voor gegevensverzameling. Aan het einde van deze sessie zullen de deelnemers vertrouwen hebben in de nieuwste en krachtigste functies voor het verzamelen van gegevens uit digitale ervaringen <br>**Datum:** 21 juli @ 9.00 uur PDT - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) | Webinar | _De successen van morgen voeden: Gegevenskwaliteit en -acceptatie_ - Doe mee aan Adobe Analytics Champions Frederik Werner en Sarah Owen tijdens dit live webinar om te leren hoe u gegevenskwaliteit kunt bouwen in elk aspect van de analyse en een gedeelde cultuur rondom de analyse kunt creëren.<p>**Datum:** 25 augustus @ 11:00 uur ET - [Details en registratie](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |
+| [Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) | Webinar | Een gratis evenement voor Experience Makers met toetsaantekeningen van Sara Blakely, Peyton Manning en Eli Manning.<p>**Datum:** 13 september - 14 - [Details en registratie](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,45 +78,7 @@ Experience Cloud [centrale UI-componenten](https://experienceleague.adobe.com/do
 
 >[!IMPORTANT]
 >
->Controleer de volgende kennisgeving met betrekking tot Experience Cloud-provisioning.
-
-Adobe werkt zijn levering bij om alle klanten van de Experience Cloud toegang tot stichtingsmogelijkheden te verlenen die interoperabiliteit tussen sommige producten van Experience Cloud helpen. Gebruikers krijgen Adobe Experience Platform als nieuwe machtiging toegevoegd aan hun Experience Cloud-organisaties, met [!UICONTROL Data Collection] als inbegrepen dienst.
-
-Adobe Experience Platform [!UICONTROL Data Collection] include [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) voor vereenvoudigd beheer van universele tags en biedt een vertrouwde, robuuste en complete, streaminggegevensinfrastructuur. Tags vereenvoudigen het verzamelen van gegevens door de klant en stroomlijnen de levering van ervaringen.
-
-**Wijzigingen in Admin Console**
-
-Beheerders kunnen de wijzigingen of toevoegingen aan de Admin Console als volgt zien:
-
-* De Adobe Experience Platform-productkaart in de Admin Console bevat:
-
-   * Plaatsen
-   * Betrouwbaarheid
-   * Naamruimte van identiteit
-   * Sandboxen
-   * Experience Data Model
-   * Schema&#39;s
-   * DataStreams
-   * Bezoekers-id
-
-   Voor organisaties die momenteel geen Experience Platform gebruiken, ziet u nu de _Adobe Experience Platform_ in de Admin Console, met inbegrip van de hierboven vermelde mogelijkheden.
-
-   Voor organisaties die momenteel Experience Platform gebruiken, _Plaatsen_ wordt nu geconsolideerd in de kaart van het Experience Platform.
-
-* Adobe Experience Platform Data Collection (voorheen, Launch) en Privacy zullen als afzonderlijke productkaarten van de andere mogelijkheden van het Experience Platform blijven verschijnen.
-
-Ga voor meer informatie over de nieuwe mogelijkheden naar de pagina&#39;s op het Experience League:
-
-* [Gegevensverzameling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
-* [Plaatsen](https://experienceleague.adobe.com/docs/places/using/home.html?lang=nl)
-* [Betrouwbaarheid](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
-* [Naamruimte van identiteit](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
-* [Sandboxen](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
-* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=nl)
-* [Schema&#39;s](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* [DataStreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
-* [Bezoekers-id](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
-* [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
+>Beheerders, mis dit niet [belangrijke kennisgeving](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en#july---2022) over de voorziening van Experience Cloud (gepubliceerd in juli 2022).
 
 ### Functie bijwerken
 
