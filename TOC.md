@@ -5,10 +5,10 @@ user-guide-title: Releaseopmerkingen bij Adobe Experience Cloud
 breadcrumb-title: Aanvullende informatie
 user-guide-description: Meer informatie over nieuwe functies, oplossingen en belangrijke kennisgevingen in Adobe Experience Cloud en Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: c10931ebda4dfa5fa44342c6004d62ad7fdef238
+source-git-commit: 1767fba0d6bddb0a30ced8cfb2e97e385649ea71
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 57%
+source-wordcount: '70'
+ht-degree: 58%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 57%
 + [Opmerkingen bij de huidige release](current.md)
 + Opmerkingen bij vorige release {#previous}
    + 2022 {#2022}
+      + [Juli 2022](c-legacy-releases/2022/07202022.md)
       + [Juni 2022](c-legacy-releases/2022/06152022.md)
       + [Mei 2022](c-legacy-releases/2022/05182022.md)
       + [April 2022](c-legacy-releases/2022/04202022.md)
