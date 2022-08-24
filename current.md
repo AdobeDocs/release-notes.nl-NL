@@ -5,9 +5,10 @@ doc-type: release notes
 last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 02987b7f5f4fd84837e4d774ff8f96cea6b4debd
+exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
+source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
 workflow-type: tm+mt
-source-wordcount: '4129'
+source-wordcount: '4147'
 ht-degree: 7%
 
 ---
@@ -22,7 +23,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 >
 >Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
 
-Laatste update: **12 augustus 2022**
+Laatste update: **23 augustus 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -40,7 +41,7 @@ Laatste update: **12 augustus 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Workfront]](#workfront) (bijgewerkt **23 augustus**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -410,6 +411,8 @@ Adobe [!DNL Workfront] is een uniforme toepassing voor werkbeheer voor het delen
 ### Nieuwe cursussen en zelfstudies voor Adobe Workfront {#tutorials-workfront}
 
 Nieuwe Workfront-cursus en zelfstudies voor Experience League.
+
+**Update 23 augustus:** Binnenkort vindt u een vertaling op Experience League voor alle zelfstudies en productdocumentatie van Workfront!
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
