@@ -6,7 +6,7 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
+source-git-commit: b463f30f9d36a0047933ce500d81a8f123d48131
 workflow-type: tm+mt
 source-wordcount: '5105'
 ht-degree: 5%
@@ -58,7 +58,7 @@ Bijgewerkt **7 september 2022**
 | Product-/gebeurtenisnaam | Type | Beschrijving |
 | -----------|---------- | ----|
 | **[!DNL Adobe Analytics]** | Webinar | _De Makers van de ervaring - de Uitwisseling van de Vaardigheid_ - Doe mee voor onze Adobe [!DNL Analytics] editie waarin experts je de les van de binnenkant van de Adobe geven [!DNL Analytics]. <p>**Datum:** 8 september om 9:00 uur PT - [Details en registratie](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
-| **[!DNL Adobe Workfront]** | Workshop | Op zoek naar een mogelijkheid om verbinding te maken met andere klanten en [!DNL Workfront] functies? Sluit u aan bij onze reeks CS Connections! Een maandelijkse kans om met andere klanten te verbinden om de hete onderwerpen van uw organisatie te bespreken.<p>>**Datum:** 12 september om 7:00 uur MT [Details en registratie](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | Workshop | Op zoek naar een mogelijkheid om verbinding te maken met andere klanten en [!DNL Workfront] functies? Sluit u aan bij onze reeks CS Connections! Een maandelijkse kans om met andere klanten te verbinden om de hete onderwerpen van uw organisatie te bespreken.<p>**Datum:** 12 september om 7:00 uur MT [Details en registratie](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | Webinar | _Experience Makers Live_ - Een gratis evenement met sleutelnoten van Sara Blakely, Peyton Manning en Eli Manning.<p>**Datum:** 13 september - 14 - [Details en registratie](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | Workshop | De Werkschema&#39;s van het Diagrammen - sluit zich aan bij het team van het Succes van de Klant voor een levende bespreking en looppas-door van het diagrammen van werkschema&#39;s - van opname door voltooiing - en begrip hoe te om een stevige stichting voor efficiënte werkbeheerpraktijken te plaatsen. <p>**Datum:** 20 september - [Details en registratie](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign]** (Klassiek en Standaard) | Webinar | Het vakantieseizoen, een piekseizoen en de drukste tijd van het jaar voor de kanaalmarkt, ligt in de buurt. De planning moet goed op gang komen. Dit [!DNL Adobe Campaign] De sessie van Insider behandelt onderwerpen die u helpen met e-mailleverbaarheid, [!DNL Adobe Campaign] prestaties afstemmen, en workflow- en leveringsbest practices om ervoor te zorgen dat uw instantie in vorm is voor piekactiviteit.<p>**Datum:** 15 september om 8:00 uur PT [Details en registratie](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
