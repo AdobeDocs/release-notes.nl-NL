@@ -6,14 +6,14 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2b212054c9798d6c4a78a382f838e037697e7d7d
+source-git-commit: 1c31b0d7fc934b0c54d250703d30bee7f344b1e7
 workflow-type: tm+mt
-source-wordcount: '5346'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# INTERNE EVALUATIE - Opmerkingen bij de release van Adobe Experience Cloud - september 2022
+# Opmerkingen bij de release van Adobe Experience Cloud - september 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
