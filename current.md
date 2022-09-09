@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7c5a6c8ca64bef6ae2421b24a51ab4d0237d186d
+source-git-commit: 2b212054c9798d6c4a78a382f838e037697e7d7d
 workflow-type: tm+mt
 source-wordcount: '5346'
 ht-degree: 7%
@@ -169,7 +169,7 @@ Adobe raadt u aan de [Updates van de release van Experience Managers en routekaa
 
 ### Video over productupdates
 
-Kijk naar de [Video over het overzicht van augustus](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) voor een overzicht van de functies die zijn toegevoegd in de release van 2022.8.0 (augustus 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+Kijk naar de [Video over het overzicht van augustus](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) voor een overzicht van de functies die zijn toegevoegd in de release van 2022.8.0 (augustus 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
 
 * [Video over het overzicht van de release van juli 2022](https://video.tv.adobe.com/v/345409/?quality=12)
 * [Video over het overzicht van de release van juni 2022](https://video.tv.adobe.com/v/344308/?quality=12)
