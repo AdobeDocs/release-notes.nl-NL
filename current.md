@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c31b0d7fc934b0c54d250703d30bee7f344b1e7
+source-git-commit: de17195b999264f06cb12433c97e8ebf6706a42e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Laatste update: **9 september 2022**
 
-* [[!DNL Experience League] gebeurtenissen](#events) (bijgewerkt **7 september**)
+* [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrale interfacecomponenten &amp; beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,11 +53,10 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen! Zie [Gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) inzake Experience League dat voor juli 2022 moet worden bijgewerkt.
 
-Bijgewerkt **8 september 2022**
+Bijgewerkt **9 september 2022**
 
 | Product-/gebeurtenisnaam | Type | Beschrijving |
 | -----------|---------- | ----|
-| **[!DNL Adobe Analytics]** | Webinar | _De Makers van de ervaring - de Uitwisseling van de Vaardigheid_ - Doe mee voor onze Adobe [!DNL Analytics] editie waarin experts je de les van de binnenkant van de Adobe geven [!DNL Analytics]. <p>**Datum:** 8 september om 9:00 uur PT - [Details en registratie](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
 | **[!DNL Adobe Workfront]** | Workshop | Op zoek naar een mogelijkheid om verbinding te maken met andere klanten en [!DNL Workfront] functies? Sluit u aan bij onze reeks CS Connections! Een maandelijkse kans om met andere klanten te verbinden om de hete onderwerpen van uw organisatie te bespreken.<p>**Datum:** 12 september om 7:00 uur MT [Details en registratie](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | Webinar | _Experience Makers Live_ - Een gratis evenement met sleutelnoten van Sara Blakely, Peyton Manning en Eli Manning.<p>**Datum:** 13 september - 14 - [Details en registratie](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | Workshop | De Werkschema&#39;s van het Diagrammen - sluit zich aan bij het team van het Succes van de Klant voor een levende bespreking en looppas-door van het diagrammen van werkschema&#39;s - van opname door voltooiing - en begrip hoe te om een stevige stichting voor efficiënte werkbeheerpraktijken te plaatsen. <p>**Datum:** 20 september - [Details en registratie](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
