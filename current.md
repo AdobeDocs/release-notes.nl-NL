@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce5a4fc5fa4acea6976ec2958a23d864bcf2dc72
+source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
 workflow-type: tm+mt
-source-wordcount: '5270'
-ht-degree: 7%
+source-wordcount: '6362'
+ht-degree: 5%
 
 ---
 
@@ -163,13 +163,13 @@ Voor hulpmiddelen voor zelfhulp raadpleegt u [Documentatie en zelfstudies voor A
 
 Nieuwe functies, correcties en updates in Experience Manager. Adobe raadt klanten met On-Premise-implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
 
-Zie [Huidige releaseopmerkingen voor Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+<!-- See [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) -->
 
 Adobe raadt u aan de [Updates van de release van Experience Managers en routekaarten](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) pagina om actueel te blijven bij releasegegevens.
 
 ### Video over productupdates
 
-Kijk naar de [Video over het overzicht van augustus](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) voor een overzicht van de functies die zijn toegevoegd in de release van 2022.8.0 (augustus 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
+Kijk naar de [Video over het overzicht van de release van augustus 2022](https://video.tv.adobe.com/v/345409/?quality=12) voor een overzicht van de functies die zijn toegevoegd in de release van 2022.8.0 (augustus 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
 * [Video over het overzicht van de release van juli 2022](https://video.tv.adobe.com/v/345409/?quality=12)
 * [Video over het overzicht van de release van juni 2022](https://video.tv.adobe.com/v/344308/?quality=12)
@@ -180,6 +180,80 @@ Kijk naar de [Video over het overzicht van augustus](https://experienceleague.ad
 * [Video over het overzicht van de release van december 2021](https://video.tv.adobe.com/v/339278)
 * [Video over het overzicht van de release van oktober 2021](https://video.tv.adobe.com/v/338253)
 * [Video over het overzicht van de release van september 2021](https://video.tv.adobe.com/v/337381)
+
+### Experience Manager [!DNL Assets] als [!DNL Cloud Service]
+
+_Nieuwe functies_
+
+* Wanneer gebruikers digitale elementen delen als een koppeling, kunnen ze de URL direct naar het klembord kopiëren. Dankzij deze verbetering kunt u elementen sneller en gemakkelijker delen. Dankzij deze functionaliteit kunt u sneller en handig elementen delen.
+* Wanneer u TXT-bestanden uploadt, genereert de elementmicroservices automatisch een miniatuur. De PNG-miniatuur is een uitvoering van het TXT-bestand waarmee gebruikers de inhoud of de bestanden tot op zekere hoogte kunnen identificeren zonder de bestanden te openen. Deze functionaliteit vereist geen configuratie en werkt standaard.
+
+_Nieuwe functie beschikbaar in prerelease-kanaal_
+
+* Gebruikers kunnen de elementen die in de zoekresultaten worden weergegeven nu sorteren in de kolom- en kaartweergave. Het sorteren werkt op de kolommen Naam, Gemaakt, Gewijzigd of Geen.
+
+### Experience Manager [!DNL Forms] als [!DNL Cloud Service]
+
+_Nieuwe functies_
+
+* AEM Archetype-project voor Forms as a Cloud Service omvat nu [modellen met formuliergegevens voor Microsoft® Dynamics en Salesforce.com](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
+* Op acroform gebaseerd Document of Record: as a Cloud Service Experience Manager Forms-ondersteuning gebruiken [Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html) als een sjabloon voor Document of Record naast XFA-formuliersjabloon.
+* Microsoft® Azure Data Store-connector: U kunt nu [Formuliergegevensmodel verbinden met Microsoft® Azure-opslag](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-azure-storage.html). Hiermee kunt u adaptieve formuliergegevens ophalen en opslaan naar Microsoft® Azure-opslag als een BLOB.
+
+_Bètafuncties van Forms_
+
+* **Unified Storage Connector** - Gebruik Unified Storage Connector om procesgegevens in door de klant beheerde opslagruimten extern te maken. U kunt bijvoorbeeld
+   * Schakel de functie Opslaan en hervatten van Forms Portal in en sla adaptieve formulierconcepten op in een gegevensopslagruimte onder klantbeheer.
+   * De gegevens van de Werkstromen van de Experience Manager van de opslag in-proces (de gegevens van de Variabelen van het Werkschema van de Experience Manager) die Gevoelige Persoonlijke Gegevens (SPD) in een klant-beheerde bewaarplaats bevat.
+* **Experience Manager Forms as a Cloud Service, communicatie** - [Communicatie-API&#39;s](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) Hiermee kunt u XDP-sjablonen en XML-gegevens combineren om afdrukdocumenten in verschillende indelingen te genereren. Met deze service kunt u documenten genereren in synchrone modus. Met de API&#39;s kunt u toepassingen maken waarmee u:
+   * Genereer documenten door sjabloonbestanden te vullen met XML-gegevens.
+   * Uitvoerformulieren genereren in verschillende indelingen, waaronder niet-interactieve PDF-afdrukstromen.
+   * Afdruk-PDF-bestanden genereren op basis van een XFA-formulier met PDF en Adobe Acrobat-formulier.
+U kunt schrijven naar [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) om u aan te melden voor het bètaprogramma.
+
+_Nieuwe functies beschikbaar in prerelease-kanaal_
+
+* **Adobe Sign-rollen gebruiken in een adaptief formulier** - Adobe Sign for business and enterprise service levels kunnen optioneel de rollen voor overeenkomstontvangers uitbreiden tot buiten de ondertekenaar, zodat ze beter aan hun workflowvereisten kunnen voldoen. U kunt nu [elke ontvanger van de overeenkomst in staat stellen zijn rol in een adaptief formulier te configureren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform), waarbij Ondertekenaar de standaardrol is.
+* **Analyses voor Adaptive Forms** - U kunt nu het gedrag van eindgebruikers vastleggen en volgen via Adobe Analytics for Adaptive Forms om inzichten van eindgebruikers te verzamelen. Het helpt geïnformeerde besluiten te nemen die op gegevens gebaseerd zijn om eindgebruikerservaring te verbeteren.
+* **Maak eenvoudig verbinding met Experience Manager Forms met Microsoft® Dynamics en Salesforce.com** - De service biedt out-of-the-box gegevensbronconfiguratie en gegevensmodellen voor Microsoft® Dynamics en [Salesforce.com](https://www.salesforce.com/?bc=DF). Deze mogelijkheid maakt het [sneller en eenvoudiger voor ontwikkelaars om Microsoft® Dynamics 365 en Salesforce cloud services te configureren voor een adaptieve vorm](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-msdynamics-salesforce.html).
+
+### Experience Managers Screens as a Cloud Service
+
+_Nieuwe functies_
+
+* as a Cloud Service schermen ondersteunen nu elementaire afspeelcontrole. De speler rapporteert nu verschillende playbackmetriek met elk pingelt (gebrek is 30 seconden). Op basis van de meetgegevens kunnen er verschillende randgevallen worden gedetecteerd (geplakte ervaring, leeg scherm, planningsprobleem, enzovoort). Met deze functie kan het team op afstand controleren of een speler inhoud correct afspeelt. Het verbetert ook de reactiviteit aan lege schermen of gebroken ervaringen op het gebied, en vermindert het risico om een gebroken ervaring aan het eind te tonen - gebruiker.
+Zie [Standaardafspeelcontrole](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/manage-player-registration/installing-screens-cloud-player.html?lang=en#playback-monitoring) voor meer informatie .
+* Ondersteuning van miniaturen voor video&#39;s wordt nu ondersteund in as a Cloud Service schermen. Een auteur van inhoud kan een miniatuur voor video&#39;s definiëren, zodat de afbeelding als plaatsaanduiding wordt gebruikt. Ze kunnen het afspelen en activeren van inhoud op de juiste wijze testen, terwijl de video zelf wordt voltooid door het juiste team. De afbeelding kan ook worden gebruikt voor het geval dat het afspelen van de video mislukt.
+Zie [Ondersteuning van miniaturen voor video&#39;s](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/core-product-features/thumbnail-support-videos.html) voor meer informatie .
+
+### [!DNL Cloud Manager]
+
+_Nieuwe functies_
+
+* De versie van het project Archetype van de AEM die wordt gebruikt door Cloud Manager wordt nu bijgewerkt naar versie 30.
+* De programmakaarten op de landingspagina van Cloud Manager en de bijbehorende ervaring worden nu vernieuwd.
+* Het logbestand met stappen voor codekwaliteit bevat nu uitgebreide logboekgegevens over het OakPal-scanproces.
+* De opties in het menu Activiteitenpagina bevatten nu een optie voor het downloaden van logbestanden voor voltooide uitvoering van codegeneratoren. Als u deze optie selecteert, wordt het logboek van de stap build gedownload.
+* Als u rechtstreeks op de programmakaart klikt, gaat u nu naar de overzichtspagina van Cloud Manager.
+* Klanten van Cloud Servicen kunnen nu SLA-rapporten (Service Level Agreement) weergeven in Cloud Manager. Dit onderdeel wordt de komende maanden geleidelijk beschikbaar gesteld.
+Zie [SLA-rapportage](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/sla-reporting.html) voor meer informatie.
+* Het type en de strengheid van de IndexType en IndexDamAssetLucene kwaliteitsregels zijn veranderd. Dit zijn nu beide bugs van de ernst van de blokkering.
+* De nieuwe de kwaliteitsregels van de indexkwaliteit van de eikel zijn geïntroduceerd om asynchrone en configuraties van de Tika te behandelen.
+* Verhoog de maximale SSL-certs per programma tot 50.
+* Self-service mogelijkheid om gebruikers meerdere opslagruimten te laten maken en beheren via de gebruikersinterface van Cloud Manager.
+* SonarQube leest onnodig de gegevens uit de Git-geschiedenis. Op grote codebasis, zou dit tot een onnodige bouwstijlprestaties kunnen leiden.
+* Er is nu een API beschikbaar om het Geweven gebiedsdeelheidsgeheime voorgeheugen per pijpleiding ongeldig te maken.
+* De versie van het project Archetype van de AEM die wordt gebruikt door Cloud Manager wordt nu bijgewerkt naar versie 29.
+
+### Community
+
+* Een uitgebreide lijst van [de nieuwste inhoud van de Experience Manager op het Experience League is hier te vinden](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
+* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) gemeenschappen zijn de hartslag die onze gebruikers verbinden, in dienst nemen en in staat stellen om game-veranderende digitale ervaringen voor hun klanten te creëren.
+Als u een lijst met alle communautaire adviseurs wilt bekijken, raadpleegt u deze [Adobe blog](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
+* Hoe te om een nieuw eigenschapverzoek of een suggestie voor Experience Manager voor te leggen
+   * De nieuwe procedure voor het indienen van aanvragen voor de functie Experience Manager is nu live. [Een idee maken](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
+   * Zie [details hier](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
+   * [Richtlijnen voor het indienen van een nieuwe Experience Manager](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
 
 ### Nieuwe cursussen en tutorials voor Experience Manager {#tutorials-aem}
 
@@ -220,7 +294,7 @@ Alle Experience Manager-releaseopmerkingen worden op de volgende pagina&#39;s bi
 * [Experience Manager 6.5 Introductie &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 - Introductiepagina](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager 6.3 Introductie &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
-* [Experience Manager 6.2 Thuis leren &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)html
+* [Experience Manager 6.2 Thuis leren &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Oudere versies van de Documentatie van de Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic Help-startpagina](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Documentatie Experience Manager: Recente updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
