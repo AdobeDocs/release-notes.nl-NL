@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '6364'
-ht-degree: 5%
+source-wordcount: '6429'
+ht-degree: 6%
 
 ---
 
@@ -455,9 +455,8 @@ Zie de [[!DNL Workfront] productreleases](https://experienceleague.adobe.com/doc
 Opmerkingen bij de release voor [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [Nieuwe functies in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nieuwe functies in [!DNL Advertising Cloud Search]](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -473,17 +472,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+Laatst bijgewerkt: **12 september 2022**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL Package and placement pacing] | (Release 12 september) Er zijn nu aparte besturingselementen voor het plaatsen van vluchten en het plaatsen binnen de dag beschikbaar. Eerder stond er een enkele strategie in het teken van beide. De instellingen voor uw bestaande pakketten en plaatsen zijn als volgt toegewezen:<ul><li>Verouderd **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* — Nu geconfigureerd als **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* en **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Verouderd **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* — Nu geconfigureerd als **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* en **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Verouderd **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* — Nu geconfigureerd als **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* en **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>Verouderd **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* — Nu geconfigureerd als **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* en **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
