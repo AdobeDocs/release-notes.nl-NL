@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
+source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
 workflow-type: tm+mt
-source-wordcount: '6429'
+source-wordcount: '6364'
 ht-degree: 6%
 
 ---
@@ -247,13 +247,9 @@ Zie [SLA-rapportage](https://experienceleague.adobe.com/docs/experience-manager-
 
 ### Community
 
-* Een uitgebreide lijst van [de nieuwste inhoud van de Experience Manager op het Experience League is hier te vinden](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
-* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) gemeenschappen zijn de hartslag die onze gebruikers verbinden, in dienst nemen en in staat stellen om game-veranderende digitale ervaringen voor hun klanten te creëren.
-Als u een lijst met alle communautaire adviseurs wilt bekijken, raadpleegt u deze [Adobe blog](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
-* Hoe te om een nieuw eigenschapverzoek of een suggestie voor Experience Manager voor te leggen
-   * De nieuwe procedure voor het indienen van aanvragen voor de functie Experience Manager is nu live. [Een idee maken](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
-   * Zie [details hier](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
-   * [Richtlijnen voor het indienen van een nieuwe Experience Manager](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+* AEM as a Cloud Service 2022.7.0 - [Geen update](https://adobe.ly/3paYDAo).
+* **Experience League Showcase** - Toon ons—en de wereld—wat u kunt doen met meerdere Adobe Experience Cloud-producten. [Verzend vandaag je verhaal!](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email)
+* Vergaderingen gebruikersgroep AEM | Adobe PTP, Bangalore | 30 september 2022 | [Hier registreren](https://adobe.ly/3DlsUos) | [Praten over Community Thread](https://adobe.ly/3DhQwub).
 
 ### Nieuwe cursussen en tutorials voor Experience Manager {#tutorials-aem}
 
