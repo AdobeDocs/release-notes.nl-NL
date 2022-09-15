@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
+source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
 workflow-type: tm+mt
-source-wordcount: '6364'
+source-wordcount: '6352'
 ht-degree: 6%
 
 ---
@@ -488,7 +488,7 @@ Laatst bijgewerkt: **9 september 2022** voor release 10 september
 |  | ([!DNL Google Ads] accounts) De campagnes > Advertentieweergave bevat nu een optioneel [!UICONTROL Ad Strength] kolom, die erop wijst hoe goed elke ontvankelijke onderzoek en (RSA) volgt [!DNL Google Ads] best practices voor prestaties.<br><br>[!DNL Microsoft® Advertising] schakelt nog geen vergelijkbare ondersteuning via hun API in. |
 |  | ([!DNL Microsoft® Advertising] accounts) Ondersteuning voor synchronisatie, alleen-lezen en rapportage (inclusief doorkijkgegevens) is nu beschikbaar voor uw bestaande native advertentiecampagnes op de [!DNL Microsoft® Audience Network], met inbegrip van [!DNL Microsoft®] publieksadvertenties. |
 | [!UICONTROL Campaigns], [!UICONTROL Reports] | Meer uitgeversindruk deelt metriek wordt beschikbaar in de volgende weken als kolommen in de meningen en de rapporten van het campagnebeheer. |
-| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]; bètafunctie) U kunt nu de bestaande regels voor conversiewaarden bekijken vanuit [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules]. Adverteerders met [!DNL Google Ads] het bijhouden van conversies op het niveau van de individuele account of lager kan ook regels maken en beheren.<br><br>In een toekomstige release zullen de regels voor omzetwaarden automatisch worden geoptimaliseerd. |
+| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]; bètafunctie) U kunt nu de bestaande regels voor conversiewaarden bekijken vanuit [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules]. Adverteerders met [!DNL Google Ads] het bijhouden van conversies op het niveau van de individuele account of lager kan ook regels maken en beheren. |
 | [!UICONTROL Portfolios] | (Opt-in bètafunctie; [!DNL Google Ads] accounts) [!DNL YouTube] campagnes met de [!UICONTROL Maximize Conversions] de biedstrategie in hybride portefeuilles is nu opgenomen in de resultaten van aangepaste simulaties . De hybride portefeuille moet slechts omvatten [!DNL YouTube] campagnes.<br><br>Neem contact op met uw accountteam als u wilt deelnemen aan het bètaprogramma. |
 | [!UICONTROL Advertising Insights] | De [!UICONTROL Advertising Insights] de weergave heeft een nieuwe look en workflow op basis van een nieuwe infrastructuur die de prestaties en betrouwbaarheid verbetert. Klik nu gewoon op de naam van een inzicht, selecteer of voer de instellingen in en klik vervolgens op [!UICONTROL Generate Insight].<br><br>Als u tijdelijk wilt terugkeren naar de oude weergave, schakelt u [!UICONTROL Switch to old UI] in de rechterbovenhoek. De oude weergave wordt eind september verwijderd. |
 |  | De [!UICONTROL Query Cross Matching Beta] de analyse is nu beschikbaar . |
