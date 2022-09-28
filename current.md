@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ceaa0175f0c01830cba0a247e248f054d1f39b89
+source-git-commit: ce5bafed072084badc26e0ba4326239910a3c72d
 workflow-type: tm+mt
 source-wordcount: '6394'
 ht-degree: 6%
@@ -377,7 +377,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journ
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| september 2022 | [Aan de slag met besluitvormingsbeheer voor marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Video | Meer informatie over Adobe Journey Optimizer-mogelijkheden voor besluitvormingsbeheer. Deze cursus wordt ontworpen voor marketers die opbrengst, klantenervaring en loyaliteit willen drijven door de beste aanbiedingen aan hun klanten te leveren |
+| september 2022 | [Aan de slag met besluitvormingsbeheer voor marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Cursus | Meer informatie over Adobe Journey Optimizer-mogelijkheden voor besluitvormingsbeheer. Deze cursus wordt ontworpen voor marketers die opbrengst, klantenervaring en loyaliteit willen drijven door de beste aanbiedingen aan hun klanten te leveren |
 | september 2022 | [Een campagne maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=en) | Video | Leer hoe u eenmalige content aan een specifiek publiek kunt leveren door acties direct of volgens een opgegeven planning uit te voeren. |
 
 {style=&quot;table-layout:auto&quot;}
