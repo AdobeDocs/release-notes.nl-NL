@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94c4f698be83ab2820d3b352c3c40c67a6c1dce3
+source-git-commit: d7ece438ac9e0dcc5cbdcdecbc914daa43010aeb
 workflow-type: tm+mt
-source-wordcount: '6394'
+source-wordcount: '6397'
 ht-degree: 6%
 
 ---
@@ -351,7 +351,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassingen |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | september 2022 | [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | Cursus | Leer hoe te om uw instantie van de Campagne met uw leverancier te verbinden SMTP en hoe te om de configuratie te analyseren en problemen op te lossen. | Campaign Classic v7 |
-| september 2022 | [Sms instellen voor Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/course-discussion-set-up-sms-for-adobe-campaign/m-p/542687#M2301) | Cursus | Leer hoe te om uw instantie van de Campagne met uw leverancier te verbinden SMTP en hoe te om de configuratie te analyseren en problemen op te lossen. | Campaign v8 |
+| september 2022 | [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/courses/using/campaign-a-1-2022-v8-setupsms.html?lang=en) | Cursus | Leer hoe te om uw instantie van de Campagne met uw leverancier te verbinden SMTP en hoe te om de configuratie te analyseren en problemen op te lossen. | Campaign v8 |
 | september 2022 | [SMPP-protocol, meer details en probleemoplossing](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=nl) | Video | Leer hoe SMPP-verbindingen tot stand komen en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen. | Campagne v8 |
 
 {style=&quot;table-layout:auto&quot;}
