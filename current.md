@@ -6,9 +6,9 @@ last-update: October 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c7229afcce0251cb463a526381f09bbc8531e6e
+source-git-commit: 76804dc71f9585f1d2e4171c32359c1ce53ac256
 workflow-type: tm+mt
-source-wordcount: '5965'
+source-wordcount: '6506'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Laatste update: **4 oktober 2022**
+Laatste update: **14 oktober 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -467,8 +467,7 @@ Opmerkingen bij de release voor [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
 * [Nieuwe functies in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
-
-<!-- * [New features in [!DNL Advertising Cloud Search]](#adcloud-search) -->
+* [Nieuwe functies in [!DNL Advertising Cloud Search]](#adcloud-search)
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -494,28 +493,22 @@ Laatst bijgewerkt: **6 oktober 2022**
 
 {style=&quot;table-layout:auto&quot;}
 
-<!--
+### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
+Laatst bijgewerkt: **14 oktober 2022** voor 15 oktober
 
-Last updated: **September 9, 2022** for September 10 release
-
-| Feature | Description |
+| Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Google Ads] accounts; beta feature) You can now create and manage [!DNL Google Ads] performance max campaigns, which show and optimize conversions for your ads across channels using [!DNL Google Ads] smart bidding, using the [!UICONTROL Campaign Type] "[!UICONTROL Performance Max]."  |
-|  | ([!DNL Google Ads] accounts) The Campaigns > Ads view now includes an optional [!UICONTROL Ad Strength] column, which indicates how well each responsive search ad (RSA) follows [!DNL Google Ads] best practices for performance.<br><br>[!DNL Microsoft&reg; Advertising] doesn't yet enable similar support via their API. |
-|  | ([!DNL Microsoft&reg; Advertising] accounts) Synchronization, read-only, and reporting (including view-through data) support are now available for your existing native ad campaigns on the [!DNL Microsoft&reg; Audience Network], including those with [!DNL Microsoft&reg;] audience ads. |
-| [!UICONTROL Campaigns], [!UICONTROL Reports] | More publisher impression share metrics become available in the following weeks as columns in the campaign management views and reports. |
-| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]; beta feature) You can now view your existing conversion value rules from [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules]. Advertisers with [!DNL Google Ads] conversion tracking at the individual account level or lower can also create and manage rules. |
-| [!UICONTROL Portfolios] | (Opt-in beta feature; [!DNL Google Ads] accounts) [!DNL YouTube] campaigns with the [!UICONTROL Maximize Conversions] bid strategy in hybrid portfolios are now included in custom simulation results. The hybrid portfolio must include only [!DNL YouTube] campaigns.<br><br>To participate in the beta program, contact your account team. |
-| [!UICONTROL Advertising Insights] | The [!UICONTROL Advertising Insights] view has a new look and workflow, based on a new infrastructure that improves performance and reliability. Now, just click an insight name, select or enter the settings, and then click [!UICONTROL Generate Insight].<br><br>To temporarily return to the legacy view, enable [!UICONTROL Switch to old UI] in the upper right. The legacy view will be removed at the end of September. |
-|  | The [!UICONTROL Query Cross Matching Beta] analysis is now available. |
-| [!UICONTROL Reports] | ([!DNL Google Ads] accounts only) The new specialty report [!UICONTROL RSA Assets Report] shows impression metrics for each asset ([!UICONTROL Creative Title] or [!UICONTROL Description]) for the responsive search ads (RSAs) in one or more portfolios or one or more accounts, campaigns, and ad groups. By default, data includes one row for each asset that received at least one impression in the specified data range, even if the asset was disabled (removed) during the reporting period. **Note:** When you select the option to "[!UICONTROL Include rows with no performance data]," the data still won't include data for assets that have never received data. |
-|  | Additional support for responsive search ads (RSA) is available in the [!UICONTROL Ad Variation Report]:<ul><ul>([!DNL Google Ads] accounts only) In the [!UICONTROL Columns] settings, a new "[!UICONTROL Ad Strength]" column indicates how well the RSA follows [!DNL Google Ads] best practices for performance. The same column is available in the [!UICONTROL Campaigns] > [!UICONTROL Ads] view. [!DNL Microsoft&reg; Advertising] doesn't yet enable similar support via their API.</li><li>In the [!UICONTROL Columns] settings, you can sort the report results by [!UICONTROL Creative Titles] and by [!UICONTROL Descriptions].</li><li>In the [!UICONTROL Advanced Filters] settings, you can filter by the [!UICONTROL Ad Text] field, which applies to both [!UICONTROL Creative Titles] and [!UICONTROL Descriptions].</li></ul> |
-| [!UICONTROL Recommendations] | ([!DNL Google Ads] accounts; beta feature) Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations Beta], you can:<ul><li>See at a glance all recommendations that haven't been acted on for a [!DNL Google Ads] account.</li><li>Apply and dismiss the recommendations for an account.</li><li>View logs of each recommendation that was applied for an account.</li></ul><br>Supported Recommendations:<li><strong>Recommendation Category; Recommendation Type; Description</strong></li><li>Ads & extensions; CALL_EXTENSION; Add call extensions to campaign</li><li>Ads & extensions; CALLOUT_EXTENSION; Add callout extensions to campaign</li><li>Ads & extensions; OPTIMIZE_AD_ROTATION; Use optimized ad rotations</li><li>Ads & extensions; RESPONSIVE SEARCH_AD; Add new responsive search ad</li><li>Ads & extensions; RESPONSIVE_SEARCH_AD_ASSET; Add responsive search ad assets to an ad</li><li>Ads & extensions; SITELINK_EXTENSION; Add [!UICONTROL sitelink] extensions to Campaign</li><li>ads & extensions; TEXT_AD; Add ad suggestions</li><li>Bidding & budgets; CAMPAIGN BUDGET; Fix campaigns Limited by budget</li><li>Bidding & budgets; ENHANCED_CPC_OPT_IN; Bid with Enhanced CPC</li><li>Bidding & budgets; FORECASTING_CAMPAIGN BUDGET; Fix campaigns that are expected to become Limited by budget in the future</li><li>Bidding & budgets; MARGINAL ROI_CAMPAIGN BUDGET; Adjust campaign budget to increase ROI</li><li>Bidding & budgets; MAXIMIZE CLICKS OPT_IN; Bid with Maximize Clicks</li><li>Bidding & budgets; MAXIMIZE CONVERSIONS OPT_IN; Bid with Maximize Conversions</li><li>Bidding & budgets; MOVE_UNUSED_BUDGET; Move unused to constrained budgets</li><li>Bidding & budgets; TARGET_CPA_OPT_IN; Bid with Target CPA</li><li>Bidding & budgets; TARGET_ROAS_OPT_IN; Bid with Target ROAS</li><li>Keywords & targeting; KEYWORD; Add new keywords</li><li>keywords & targeting; SEARCH_PARTNERS_OPT_IN; Expand reach with Google search partners</li><li>keywords & targeting; USE_BROAD MATCH KEYWORD; Use broad match for conversion-based campaigns with <strong>Fully Automated Conversion Based Bidding</strong></li> |
-| [!UICONTROL Import Campaigns] | (Beta feature) You can import your [!DNL Google Display Network] campaigns, including ad images, into [!DNL Microsoft&reg; Advertising] audience campaigns on the [!DNL Microsoft&reg; Audience Network] from [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. Once you import campaigns, you can check the status of your import job, review any error logs, and edit, pause, or delete your import schedule. |
+| [!UICONTROL Portfolios], [!UICONTROL Campaigns] | (Opt-in bètafunctie) Een nieuwe &quot;[!UICONTROL Network Spend Constraints]&quot; optie staat u toe om grenzen op de begrotingstoewijzingen voor specifieke ad netwerken in multi-network portefeuilles te bepalen. De optie is beschikbaar voor portefeuilles met dagelijkse, wekelijkse, en maandelijkse besteedstrategieën, en slechts wanneer &quot;[!UICONTROL Enable campaign max spend target %]&quot; is niet ingeschakeld. Wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie wordt geselecteerd, werken de beperkingen binnen de waarden die voor de veelvoudige en minimummontages van het campagnebudget worden gevormd.<br><br>Een nieuw Rapport van de Beperking van het Netwerk in BasisRapporten toont alle gespecificeerde minimum en maximumbegrotingen van de onderzoeksmotor evenals daadwerkelijke uitgaven (kosten) voor uw portefeuilles.<br><br>Neem contact op met uw accountteam als u wilt deelnemen aan het bètaprogramma. |
+| Campagnes, bolletjes, rapporten | (Beta-functie voor [!DNL Microsoft Advertising] accounts) De volgende ondersteuning is nu beschikbaar voor campagnes op het [!DNL Microsoft Audience Network]:<ul><li>U kunt nu publiekscampagnes maken, bewerken en de status ervan wijzigen (het type campagne &quot;[!UICONTROL Audience (image)]&quot; of &quot;[!UICONTROL Audience (feed)]&quot;), ad groepen (en groepstype &quot;[!UICONTROL Audience]&quot;), en advertenties (creatief type &quot;[!UICONTROL Responsive Ad]&quot;) van de [!UICONTROL Campaigns] weergaven en het gebruik van opsommingstekens.</li><li>U kunt uw bestaande publiekscampagnes, met prestatiesgegevens in lijst en trendgrafiek formaat bekijken, in [!UICONTROL Campaigns] weergeven. Prestatiegegevens op advertentieniveau zijn ook beschikbaar in rapporten en in Adobe Analytics (voor adverteerders met een [!DNL Analytics] integratie).</li></ul>Ondersteuning voor optimalisatie is in een toekomstige release beschikbaar. |
+|  | (Beta-functie voor [!DNL Microsoft Advertising] accounts) U kunt nu multimediacaads in zoekcampagnes maken en beheren via de [!UICONTROL Campaigns] bekijken en gebruiken bulksbladen. De advertenties hebben het creatieve type &quot;[!UICONTROL Multimedia ad].&quot;<br><br>U kunt campagnes met multimediadeskundigen opnemen in standaardportfolio&#39;s of hybride portfolio&#39;s met een uitgavenstrategie, behalve voor [!UICONTROL Target Impression Share] (wordt nog niet ondersteund in hybride portfolio&#39;s).<br><br>U kunt uw bestaande publiekscampagnes, met prestatiesgegevens in lijst en trendgrafiek formaat bekijken, in [!UICONTROL Campaigns] weergeven. Prestatiegegevens op ad-niveau zijn ook beschikbaar in rapporten en in [!DNL Analytics] (voor adverteerders met een [!DNL Analytics] integratie). |
+| [!UICONTROL Campaigns], [!UICONTROL Reports] | (Beta-functie voor [!DNL Google Ads] en [!DNL Microsoft Advertising] accounts) De indruk dat uitgever gegevens deelt, zijn nu beschikbaar als kolommen in de volgende weergaven en rapporten van het campagnebeheer:<ul><li>Weergaven van Campagnebeheer: Alle meningen van de campagneentiteit behalve [!UICONTROL Ads]. <b>Opmerking:</b> Gegevens op ad-niveau zijn niet beschikbaar in de advertentienetwerken.</li><li>Basisrapporten: Alle rapporten behalve de [!UICONTROL Ad Variation], [!UICONTROL Campaign Hourly], en [!UICONTROL Network Constraints] rapporten. <b>Opmerking:</b> Gegevens op ad-niveau zijn niet beschikbaar in de advertentienetwerken.</li><li>Speciale rapporten: [!UICONTROL Adwords and Bing Audience Target], [!UICONTROL Campaign Daily Impression Share], en [!UICONTROL Keyword Daily Impression Share] rapporten.</li></ul><b>Opmerking:</b> Omdat [!UICONTROL Campaign Daily Impression Share] en [!UICONTROL Keyword Daily Impression Share] rapporten zijn nu overbodig en worden in een toekomstige release verwijderd . Als u die rapporttypes voor geplande rapporten, malplaatjes, of spreadsheetvoer gebruikt, overgang aan het gebruiken van [!UICONTROL Campaign] en [!UICONTROL Keyword] rapporten. Ondertussen, worden sommige bestaande metriek gedupliceerd in die rapporttypes. |
+| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts])  [!UICONTROL Conversion Value Rules] de weergave is nu niet meer bètaversie en is over het algemeen beschikbaar . Gebruik dit om uw bestaande [!DNL Google Ads] omzettingswaardenregels. Adverteerders met [!DNL Google Ads] het bijhouden van conversies op het niveau van de individuele account of lager kan ook regels maken en beheren. |
+| [!UICONTROL Advertising Insights] | De [!UICONTROL Impression Share Lost] en [!UICONTROL Query Cross Matching] analyses zijn nu niet meer bèta en zijn over het algemeen beschikbaar . |
+| [!UICONTROL Recommendations] | ([!DNL Google Ads] alleen accounts) [!UICONTROL Recommendations] Deze functie is nu niet meer bètaversie en is over het algemeen beschikbaar.<ul><li>Alles in één oogopslag bekijken [!DNL Google Ads] aanbevelingen waarvoor geen actie is ondernomen voor een account.</li><li>Pas de aanbevelingen voor een account toe en negeer deze.</li><li>Logboeken weergeven van elke aanbeveling die voor een account is toegepast.</li></ul> |
+| [!UICONTROL Import Campaigns] | (bètfunctie) U kunt uw [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft Advertising] slimme winkelcampagnes van [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. Nadat u campagnes hebt geïmporteerd, kunt u de status van uw importtaak controleren, eventuele foutlogboeken controleren en uw importschema bewerken, pauzeren of verwijderen. |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ## ![Pictogram](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
