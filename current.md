@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f760ba0834875bd36d4ea7a604458277cc55012
+source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
 workflow-type: tm+mt
-source-wordcount: '5182'
+source-wordcount: '5194'
 ht-degree: 8%
 
 ---
@@ -19,15 +19,13 @@ ht-degree: 8%
 
 Als Ervaar, begint uw weg aan succes met [Experience League](https://experienceleague.adobe.com/?lang=en#home). Zoek naar een uitgebreide &#39;Hoe kan ik&#39;-documentatiebibliotheek, zelfgeleide zelfstudies, &#39;Hoe kan ik&#39;-video&#39;s en cursussen voor alle niveaus en rollen, een online gemeenschap van peers en een expert support wanneer u deze nodig hebt.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven.
+>Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Priority-productupdate](https://www.adobe.com/subscription/priority-product-update.html). Vaak terugkijken om boven op wat er op het Experience League gebeurt te blijven. De volgende prioritaire productupdate zal in **Januari 2023**, na het vakantieseizoen. Blijf op de hoogte!
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Releasedatum: **november 2022**
-
-Laatste update: **26 oktober 2022**
+Laatste update: **14 november 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
