@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
+source-git-commit: ece304539959b8aa223e378f365852277213822f
 workflow-type: tm+mt
-source-wordcount: '5194'
-ht-degree: 8%
+source-wordcount: '4897'
+ht-degree: 9%
 
 ---
 
@@ -25,7 +25,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Laatste update: **14 november 2022**
+Laatste update: **17 november 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -449,8 +449,9 @@ Zie de [[!DNL Workfront] productreleases](https://experienceleague.adobe.com/doc
 Opmerkingen bij de release voor [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [Nieuwe functies in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [Nieuwe functies in [!DNL Advertising Cloud Search]](#adcloud-search)
+
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -466,30 +467,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+<!--
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Laatst bijgewerkt: **6 oktober 2022**
+Last updated: **October 6, 2022**
 
-| Functie | Beschrijving |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (6 oktober) Er zijn nieuwe metrische kolommen met betrekking tot plaatsing beschikbaar voor de [!UICONTROL Campaigns] weergaven: **[!UICONTROL Yesterday's OTS]** (voor de doeluitgaven), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (voor de doeluitgaven), **[!UICONTROL Today's delivery]**, en **[!UICONTROL Today's Goal]**. |
+| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
 
-{style=&quot;table-layout:auto&quot;}
+-->
 
 ### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Laatst bijgewerkt: **14 oktober 2022** voor 15 oktober
+Laatst bijgewerkt: **17 november 2022** voor release 15 november
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Portfolios], [!UICONTROL Campaigns] | (Opt-in bètafunctie) Een nieuwe **[!UICONTROL Network Spend Constraints]** kunt u grenzen op de begrotingstoewijzingen voor specifieke advertentienetwerken in multi-netwerk portefeuilles bepalen. De optie is alleen beschikbaar voor portfolio&#39;s met dagelijkse, wekelijkse en maandelijkse uitgavenstrategieën en alleen wanneer de optie **[!UICONTROL Enable campaign max spend target %]** is niet ingeschakeld. Wanneer de **[!UICONTROL Auto adjust campaign budget limits]** wordt geselecteerd, werken de beperkingen binnen de waarden die voor de veelvoudige en minimummontages van het campagnebudget worden gevormd.<br><br>Een nieuw Rapport van de Beperking van het Netwerk in [!UICONTROL Basic Reports] geeft alle opgegeven minimale en maximale budgetten voor zoekprogramma&#39;s en de werkelijke uitgaven (kosten) voor uw portfolio&#39;s weer.<br><br>Neem contact op met uw accountteam als u wilt deelnemen aan het bètaprogramma. |
-| Campagnes, bolletjes, rapporten | (Beta-functie voor [!DNL Microsoft® Advertising] accounts) De volgende ondersteuning is nu beschikbaar voor campagnes op het [!DNL Microsoft® Audience Network]:<ul><li>U kunt nu publiekscampagnes maken, bewerken en de status ervan wijzigen (type campagne) **[!UICONTROL Audience (image)]** of **[!UICONTROL Audience (feed)]**), ad groepen (en groepstype **[!UICONTROL Audience]**), en advertenties (creatief type **[!UICONTROL Responsive Ad]**) van de [!UICONTROL Campaigns] weergaven en het gebruik van opsommingstekens.</li><li>U kunt uw bestaande publiekscampagnes, met prestatiesgegevens in lijst en trendgrafiek formaat bekijken, in [!UICONTROL Campaigns] weergeven. Prestatiegegevens op advertentieniveau zijn ook beschikbaar in rapporten en in Adobe Analytics (voor adverteerders met een [!DNL Analytics] integratie).</li></ul>Ondersteuning voor optimalisatie is in een toekomstige release beschikbaar. |
-|  | (Beta-functie voor [!DNL Microsoft® Advertising] accounts) U kunt nu multimediacaads in zoekcampagnes maken en beheren via de [!UICONTROL Campaigns] bekijken en gebruiken bulksbladen. De advertenties hebben het creatieve type **[!UICONTROL Multimedia ad]**.<br><br>U kunt campagnes met multimediadeskundigen opnemen in standaardportfolio&#39;s of hybride portfolio&#39;s met een uitgavenstrategie, behalve voor [!UICONTROL Target Impression Share] (wordt nog niet ondersteund in hybride portfolio&#39;s).<br><br>U kunt uw bestaande publiekscampagnes, met prestatiesgegevens in lijst en trendgrafiek formaat bekijken, in [!UICONTROL Campaigns] weergeven. Prestatiegegevens op ad-niveau zijn ook beschikbaar in rapporten en in [!DNL Analytics] (voor adverteerders met een [!DNL Analytics] integratie). |
-| [!UICONTROL Campaigns], [!UICONTROL Reports] | (Beta-functie voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] accounts) De indruk dat uitgever gegevens deelt, zijn nu beschikbaar als kolommen in de volgende weergaven en rapporten van het campagnebeheer:<ul><li>Weergaven van Campagnebeheer: Alle meningen van de campagneentiteit behalve [!UICONTROL Ads]. <b>Opmerking:</b> Gegevens op ad-niveau zijn niet beschikbaar in de advertentienetwerken.</li><li>Basisrapporten: Alle rapporten behalve de [!UICONTROL Ad Variation], [!UICONTROL Campaign Hourly], en [!UICONTROL Network Constraints] rapporten. <b>Opmerking:</b> Gegevens op ad-niveau zijn niet beschikbaar in de advertentienetwerken.</li><li>Speciale rapporten: [!UICONTROL Adwords and Bing Audience Target], [!UICONTROL Campaign Daily Impression Share], en [!UICONTROL Keyword Daily Impression Share] rapporten.</li></ul><b>Opmerking:</b> Omdat [!UICONTROL Campaign Daily Impression Share] en [!UICONTROL Keyword Daily Impression Share] rapporten zijn nu overbodig en worden in een toekomstige release verwijderd . Als u die rapporttypes voor geplande rapporten, malplaatjes, of spreadsheetvoer gebruikt, overgang aan het gebruiken van [!UICONTROL Campaign] en [!UICONTROL Keyword] rapporten. Ondertussen, worden sommige bestaande metriek gedupliceerd in die rapporttypes. |
-| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts])  [!UICONTROL Conversion Value Rules] de weergave is nu niet meer bètaversie en is over het algemeen beschikbaar . Gebruik dit om uw bestaande [!DNL Google Ads] omzettingswaardenregels. Adverteerders met [!DNL Google Ads] het bijhouden van conversies op het niveau van de individuele account of lager kan ook regels maken en beheren. |
-| [!UICONTROL Advertising Insights] | De [!UICONTROL Impression Share Lost] en [!UICONTROL Query Cross Matching] analyses zijn nu niet meer bèta en zijn over het algemeen beschikbaar . |
-| [!UICONTROL Recommendations] | ([!DNL Google Ads] alleen accounts) [!UICONTROL Recommendations] Deze functie is nu niet meer bètaversie en is over het algemeen beschikbaar.<ul><li>Alles in één oogopslag bekijken [!DNL Google Ads] aanbevelingen waarvoor geen actie is ondernomen voor een account.</li><li>Pas de aanbevelingen voor een account toe en negeer deze.</li><li>Logboeken weergeven van elke aanbeveling die voor een account is toegepast.</li></ul> |
-| **[!UICONTROL Import Campaigns]** | (bètfunctie) U kunt uw [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft® Advertising] slimme winkelcampagnes van **[!UICONTROL Tools]** > **[!UICONTROL Import Campaigns]**. Nadat u campagnes hebt geïmporteerd, kunt u de status van uw importtaak controleren, eventuele foutlogboeken controleren en uw importschema bewerken, pauzeren of verwijderen. |
+| Campagnes, bolletjes, rapporten | ([!DNL Microsoft® Advertising] accounts) Steun voor campagnes op het [!DNL Microsoft® Audience Network] is nu uit bèta.<ul><li>U kunt publiekscampagnes maken, bewerken en de status ervan wijzigen (het type campagne &quot;[!UICONTROL Audience (image)]&quot; of &quot;[!UICONTROL Audience (feed)]&quot;), ad groepen (en groepstype &quot;[!UICONTROL Audience]&quot;), en advertenties (creatief type &quot;[!UICONTROL Responsive Ad]&quot;) van de [!UICONTROL Campaigns] weergaven en het gebruik van opsommingstekens.</li><li>U kunt uw bestaande publiekscampagnes, met prestatiesgegevens in lijst en trendgrafiek formaat bekijken, in [!UICONTROL Campaigns] weergeven. Prestatiegegevens op advertentieniveau zijn ook beschikbaar in rapporten en in Adobe Analytics (voor adverteerders met een [!DNL Analytics] integratie).</li></ul>Ondersteuning voor optimalisatie is in een toekomstige release beschikbaar. |
+|  | ([!DNL Microsoft® Advertising] accounts) Multimedia en ondersteuning is nu niet meer bètaversie. U kunt multimediaciliteiten maken en beheren in zoekcampagnes via de [!UICONTROL Campaigns] bekijken en gebruiken bulksbladen. De advertenties hebben het creatieve type &quot;[!UICONTROL Multimedia ad].&quot;<br><br>U kunt campagnes met multimediadeskundigen opnemen in standaardportfolio&#39;s of hybride portfolio&#39;s met een uitgavenstrategie, behalve voor [!UICONTROL Target Impression Share] (wordt nog niet ondersteund in hybride portfolio&#39;s).<br><br>U kunt uw bestaande publiekscampagnes, met prestatiesgegevens in lijst en trendgrafiek formaat bekijken, in [!UICONTROL Campaigns] weergeven. Prestatiegegevens op ad-niveau zijn ook beschikbaar in rapporten en in [!DNL Analytics] (voor adverteerders met een [!DNL Analytics] integratie). |
+| [!UICONTROL Audiences], [!UICONTROL Reports] | (Beta-functie voor [!DNL Microsoft® Advertising] accounts) Uw [!DNL Microsoft® Advertising] het dynamische publiek voor hermarketing wordt nu gesynchroniseerd en beschikbaar in [!UICONTROL Campaigns] > [!UICONTROL Audiences] met de [!UICONTROL Audience Type] &quot;[!UICONTROL Dynamic Remarketing] &lt;*VisitorType*>&quot; (zoals &quot;Dynamic Remarketing Past Buyers&quot;). U kunt ook een dynamisch publiek voor opnieuw op de markt brengen maken, bijwerken en verwijderen.<br><br>U kunt het publiek gebruiken als campagneniveau en ad-groepsniveau en als doelen en uitsluitingen. Doelen kunnen biedingsopties bevatten. **Opmerking:** Bodmodifiers voor dynamische remarketing publieksdoelen worden niet geoptimaliseerd in portfolio&#39;s met &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot; instellen.<br><br>Gegevens voor dynamisch hermarketingpubliek zijn beschikbaar in de [!UICONTROL Audience Target Report]. |
 
 {style=&quot;table-layout:auto&quot;}
 
