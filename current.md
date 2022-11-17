@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ece304539959b8aa223e378f365852277213822f
+source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
 workflow-type: tm+mt
-source-wordcount: '4897'
-ht-degree: 9%
+source-wordcount: '4955'
+ht-degree: 8%
 
 ---
 
@@ -27,7 +27,7 @@ Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van he
 
 Laatste update: **17 november 2022**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] gebeurtenissen](#events) (Bijgewerkt) **17 november**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrale interfacecomponenten &amp; beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,16 +55,13 @@ Hulp nodig? Bezoek [Experience League](https://experienceleague.adobe.com/#home)
 
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen!
 
-De volgende gebeurtenissen zijn:
+Komende gebeurtenissen:
 
-* **[!DNL Journey Optimizer]:** 25 oktober - _Het juiste aanbod op het juiste moment met beslissingsbeheer aanbieden_
-* **[!DNL Workfront]:** 25 oktober - _Vraag het de experts: Workflows en processen voor webinaire follow-up van ontwerp_
-* **[!DNL Analytics]:** 3 november - _Tips en trucs voor Adobe Analytics Champions_
-* **[!DNL Workfront]:** 4 november - _Adobe Workfront Admin Chat: Marketing en creatief_
-* **[!DNL Experience Manager]:** 9 november - _Adobe Developers Live: Koploos_
-* **[!DNL Workfront]:** 9 november - _Workfront Woensdag - Chat - Gemeenschap_
+* [Adobe Target Coffee Break](https://adobe.ly/3WoLYth) - **29 november** - _Communautaire afbraak van Q&amp;A-koffie met Cristinel Anastasoaie_
+* [Workshop klant](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 december** - _Vraag het de Deskundigen - Succesvolle Goedkeuring van de Eindgebruiker Webinar Follow-up_
+* [Chat Vragen en antwoorden](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **5 december** - _CS-verbindingen - Tips en trucs delen_
 
-Als u wilt bijwerken, raadpleegt u [Gebeurtenissen op Experience League](https://experienceleague.adobe.com/events/?lang=en) voor komende en vroegere gebeurtenissen.
+Voor een volledig gebeurtenissenschema raadpleegt u [Gebeurtenissen op Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![Pictogram](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
