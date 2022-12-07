@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e7df40e37c8cdc40cec618c0ee2989ae8fca7ec
+source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
 workflow-type: tm+mt
-source-wordcount: '5104'
-ht-degree: 8%
+source-wordcount: '4841'
+ht-degree: 9%
 
 ---
 
@@ -124,10 +124,12 @@ Nieuwe videozelfstudies, artikelen en cursussen gepubliceerd voor Adobe Analytic
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| December 2022 | [Beveiliging verbeteren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Bijgewerkte video | Leer over de montages van de Manager van de Veiligheid in de Montages van het Bedrijf om toegang tot Adobe Analytics te controleren. Hieronder vallen sterke wachtwoorden, functies voor het verlopen en herstellen van wachtwoorden en beperkingen voor e-maildomeinen. |
+| december 2022 | [Een Analysis Workspace-project instellen als bestemmingspagina](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Bijgewerkte video | Leer over een efficiënte manier om begingebruikers gemakkelijk in de projectgegevens van de werkruimteanalyse te krijgen. |
+| december 2022 | [Het menu in Rapporten en Analytics aanpassen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Bijgewerkte video | Leer hoe u het menu Rapporten en analyses aanpast voor gebruikers in uw organisatie. Zo kunnen gebruikers gemakkelijker rapporten vinden die ze het vaakst gebruiken. |
 | November 2022 | [Wat is Analytics?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=en) | Artikel | Lees alles over de basisprincipes van analyses voordat je Adobe Analytics leert. |
 | november 2022 | [Aangepaste detailweergaven maken voor dashboards](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=en) | Video | Leer gedetailleerde weergaven aan te passen, inclusief tekst voor Adobe Analytics-dashboards, om het verhaal dat u aan uw belanghebbenden wilt vertellen, te verfijnen via mobiele scorecardprojecten. |
 | november 2022 | [Belangrijkste metrische overzichtsvisualisatie](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html) | Video | Leer over de belangrijkste metrische summiere visualisatie in Analysis Workspace, die u laat zien hoe belangrijke metrisch binnen één enkel tijdkader trending. Ook kunt u de metrische prestaties in twee tijdframes vergelijken. |
-| Oktober 2022 | [Opsommingstekens in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html) | Video | Leer meer over de Combo Chart visualization in Analysis Workspace. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -488,19 +490,9 @@ Nieuwe zelfstudies en cursussen voor Adobe Document Cloud, waaronder [!DNL Docum
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassing |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| december 2022 | [Termijnen en herinneringen instellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | Video | Leer hoe u regelmatig herinneringen en deadlines voor e-mail kunt verzenden om uw documenten snel te laten ondertekenen. | Acrobat Sign |
 | november 2022 | [Registreren en ondertekenen met D-Trust](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=en) | Video | Leer hoe u uw identiteit registreert bij D-Trust en vervolgens de digitale handtekening voor D-vertrouwen in een document gebruikt. | Acrobat Sign |
 | november 2022 | [Aan de slag met nieuwe beheerders](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html) | Video | In deze uitgebreide videogids, leer over alle hulpmiddelen noodzakelijk om uw organisatie te krijgen aan de slag. | Acrobat Sign |
-| Oktober 2022 | [Alles naar PDF scannen](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html) | Video | Leer hoe u elk papieren document met de gratis mobiele app van Adobe Scan omzet in een PDF. | Acrobat |
-| Oktober 2022 | [Pagina&#39;s ordenen](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html) | Bijgewerkte video | Leer hoe u pagina&#39;s net zoals u houdt opnieuw rangschikt - allen in een kwestie van seconden. U kunt discontinue pagina&#39;s invoegen, vervangen, splitsen, opnieuw ordenen, roteren en zelfs uitnemen om een professioneel ogende PDF te maken. | Acrobat |
-| Oktober 2022 | [Werken met bestanden van Dropbox](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=en) | Video | Leer hoe u wijzigingen in uw Dropbox-bestanden opent, maakt, bewerkt, ondertekent en opslaat vanuit Acrobat. | Acrobat |
-| Oktober 2022 | [Bestanden automatisch archiveren in SharePoint met Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=en) | Video | Leer hoe ondertekende documenten automatisch worden gearchiveerd naar een SharePoint-bibliotheek met Power Automate. | Acrobat Sign |
-| Oktober 2022 | [Gegevenstoewijzing instellen in Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?) | Video | Leer hoe u in Salesforce gegevenstoewijzing voor Acrobat Sign instelt. Met gegevenstoewijzing kunt u gegevens terughalen in Salesforce nadat een overeenkomst is ondertekend. | Acrobat Sign |
-| Oktober 2022 | [Een extern archief instellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=en) | Video | Leer hoe u een extern archief kunt maken voor back-ups van ondertekende overeenkomsten. | Acrobat Sign |
-| Oktober 2022 | [Uw overeenkomsten beheren en bijhouden](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=en) | Bijgewerkte video | Leer hoe u documenten die ter ondertekening zijn verzonden in Acrobat Sign beheert en bijhoudt. | Acrobat Sign |
-| Oktober 2022 | [Samenvoegingstoewijzing instellen in Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=en) | Bijgewerkte video | Leer hoe u gegevens van Salesforce rechtstreeks kunt samenvoegen in een Acrobat Sign-document. | Acrobat Sign |
-| Oktober 2022 | [Document Builder voor Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html) | Video | Leer hoe u een herbruikbare documentsjabloon maakt met de Document Builder for Salesforce. | Acrobat Sign |
-| Oktober 2022 | [Webformuliergegevens beheren](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=en) | Video | Leer hoe u gegevens van een webformulier kunt bijhouden, beheren en exporteren. | Acrobat Sign |
-| Oktober 2022 | [Vloeiende modus in Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html) | Video | Leer hoe vloeiende modus de mobiele ondertekeningservaring verbetert. Niet meer knijpen en zoomen tijdens het lezen en ondertekenen van documenten. | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
