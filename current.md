@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c84c5cf8b04236f15c9abdc3330147360ab643d5
+source-git-commit: 1e7df40e37c8cdc40cec618c0ee2989ae8fca7ec
 workflow-type: tm+mt
-source-wordcount: '5091'
+source-wordcount: '5104'
 ht-degree: 8%
 
 ---
@@ -25,9 +25,9 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Laatste update: **29 november 2022**
+Laatste update: **7 december 2022**
 
-* [[!DNL Experience League] gebeurtenissen](#events) (Bijgewerkt) **17 november**)
+* [[!DNL Experience League] gebeurtenissen](#events) (Bijgewerkt) **7 december**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrale interfacecomponenten &amp; beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,9 +57,9 @@ Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren
 
 Komende gebeurtenissen:
 
-* [Adobe Target Coffee Break](https://adobe.ly/3WoLYth) - **29 november** - _Communautaire afbraak van Q&amp;A-koffie met Cristinel Anastasoaie_
-* [Workshop klant](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 december** - _Vraag het de Deskundigen - Succesvolle Goedkeuring van de Eindgebruiker Webinar Follow-up_
-* [Chat Vragen en antwoorden](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **5 december** - _CS-verbindingen - Tips en trucs delen_
+* [Adobe Target Webinar](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **8 december** - _Hoe Automated Personalization bij elk bezoek dynamische persoonlijke ervaringen biedt_
+* [Adobe Workfront Chat Vragen en antwoorden](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 december** - _Vraag het de experts: Navigeren in Webinar-follow-up wijzigingsbeheer_
+* [Adobe Workfront-workshop voor klanten](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **21 december** - _Neem deel aan het team van het Succes van de Klant voor een 1 uur gesprek om trending onderwerpen van de Gemeenschap van Workfront te herzien._
 
 Voor een volledig gebeurtenissenschema raadpleegt u [Gebeurtenissen op Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
@@ -87,7 +87,7 @@ Experience Cloud [centrale UI-componenten](https://experienceleague.adobe.com/do
 
 Laatste releasegegevens en nieuwe documentatie voor [!DNL Experience Platform] en [!UICONTROL Mobile SDK]:
 
-Laatste release: **26 oktober 2022**
+Laatste release: **23 november 2022**
 
 * [Releaseopmerkingen bij Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
@@ -107,11 +107,7 @@ Bijgewerkt: **19 oktober 2022** - Zie [Opmerkingen bij de release en logbestande
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release van november: **26 oktober 2022**
-
->[!NOTE]
->
->Opmerkingen bij de release van november zijn beschikbaar op **26 oktober 2022**.
+Laatste update: **18 november 2022**
 
 * Adobe Analytics [releaseopmerkingen](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/analytics.html)
