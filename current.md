@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
+source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
 workflow-type: tm+mt
-source-wordcount: '4681'
-ht-degree: 9%
+source-wordcount: '4760'
+ht-degree: 8%
 
 ---
 
@@ -237,7 +237,9 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassingen |
 | -----------| ---------- | ---------- | ---------- | ------|
-| december 2022 | [Codevoorbeeld van jQuery- en Handlebars filteren](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Ontdek AEM GraphQL API&#39;s zonder koppen de mogelijkheid om gegevens te filteren met een JavaScript-app die jQuery en Handlebars gebruikt. Deze app maakt een lijst met WKND-avonturen die kunnen worden gefilterd op Type activiteit. | AEM CS (zonder kop) |
+| december 2022 | [Voorbeeld van Reageren van app-code filteren](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | Video | Een eenvoudige React-app die WKND-avonturen weergeeft die zijn gemodelleerd met Content Fragments. | AEM Headless Developer Portal |
+| december 2022 | [Basic React-app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | Video | Leer hoe te om inhoud te vragen gebruikend AEM GraphQL APIs gebruikend persisted query&#39;s. Deze toepassing geeft filterbaar van avonturen WKND terug, en na het selecteren van een avontuur, toont de avonturen volledige details. | AEM Headless Developer Portal |
+| december 2022 | [Codevoorbeeld van jQuery- en Handlebars filteren](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Ontdek AEM GraphQL API&#39;s zonder koppen de mogelijkheid om gegevens te filteren met een JavaScript-app die jQuery en Handlebars gebruikt. Deze app maakt een lijst met WKND-avonturen die kunnen worden gefilterd op Type activiteit. | AEM Headless Developer Portal |
 | december 2022 | [URL-omleidingen](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | Video | Leer meer over de verschillende opties om URL omleiding in AEM uit te voeren. | AEM leren |
 | november 2022 | [Voeg bundels van derden toe aan uw AEM-project](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | Video | Leer hoe te om de bundel van externe OSGi in uw AEM project te omvatten. | AEM Forms |
 | november 2022 | [Een PDF-document met fragmenten genereren met behulp van ECMA-script](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | Video | Leer hoe u de uitvoerservice gebruikt om een PDF-bestand te genereren met behulp van XDP-fragmenten. | AEM Forms |
