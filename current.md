@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d3ddc8b95ba69f19d3b7e5164a66793085ba5728
+source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
 workflow-type: tm+mt
-source-wordcount: '4999'
+source-wordcount: '4860'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Laatste update: **14 december 2022**
+Laatste update: **26 december 2022**
 
 * [[!DNL Experience League] gebeurtenissen](#events) (Bijgewerkt) **7 december**)
 * [[!DNL Adobe System Status]](#status)
@@ -57,8 +57,6 @@ Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren
 
 Komende gebeurtenissen:
 
-* [Adobe Workfront-workshop voor klanten - Einde van jaarrapport](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **15 december** - _Meld u aan bij ons voor een interactieve discussie over hoe u rapporten in Workfront het beste kunt gebruiken om uw verhaal aan het einde van het jaar te delen, inclusief een praktische demo._
-* [Adobe Workfront-workshop voor klanten](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **21 december** - _Neem deel aan het team van het Succes van de Klant voor een 1 uur gesprek om trending onderwerpen van de Gemeenschap van Workfront te herzien._
 * [Admin Chat: Marketing en creatief](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6 januari** - _Deze interactieve sessie is gericht op het verbinden van u met andere beheerders, het bespreken van beste praktijken evenals uiteinden en trucs om u te helpen het beste uit Workfront voor u en uw gebruikers krijgen._
 * [CS-verbindingen: Het delen van Strategische Beste praktijken](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9 januari** - _Op zoek naar een mogelijkheid om verbinding te maken met andere klanten en Workfront-functies te bespreken? Sluit u aan bij onze reeks CS Connections! Een maandelijkse kans om met andere klanten te verbinden om de hete onderwerpen van uw organisatie te bespreken._
 
@@ -108,7 +106,7 @@ Bijgewerkt: **19 oktober 2022** - Zie [Opmerkingen bij de release en logbestande
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Laatste update: **18 november 2022**
+Volgende release: **11 januari 2023**
 
 * Adobe Analytics [releaseopmerkingen](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/analytics.html)
@@ -126,17 +124,17 @@ Nieuwe videozelfstudies, artikelen en cursussen gepubliceerd voor Adobe Analytic
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | December 2022 | [Beveiliging verbeteren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Bijgewerkte video | Leer over de montages van de Manager van de Veiligheid in de Montages van het Bedrijf om toegang tot Adobe Analytics te controleren. Hieronder vallen sterke wachtwoorden, functies voor het verlopen en herstellen van wachtwoorden en beperkingen voor e-maildomeinen. |
-| december 2022 | [Een Analysis Workspace-project instellen als bestemmingspagina](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Bijgewerkte video | Leer over een efficiënte manier om begingebruikers gemakkelijk in de projectgegevens van de werkruimteanalyse te krijgen. |
-| december 2022 | [Het menu in Rapporten en Analytics aanpassen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Bijgewerkte video | Leer hoe u het menu Rapporten en analyses aanpast voor gebruikers in uw organisatie. Zo kunnen gebruikers gemakkelijker rapporten vinden die ze het vaakst gebruiken. |
+| December 2022 | [Een Analysis Workspace-project instellen als bestemmingspagina](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Bijgewerkte video | Leer over een efficiënte manier om begingebruikers gemakkelijk in de projectgegevens van de werkruimteanalyse te krijgen. |
+| December 2022 | [Het menu in Rapporten en Analytics aanpassen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Bijgewerkte video | Leer hoe u het menu Rapporten en analyses aanpast voor gebruikers in uw organisatie. Zo kunnen gebruikers gemakkelijker rapporten vinden die ze het vaakst gebruiken. |
 | November 2022 | [Wat is Analytics?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=en) | Artikel | Lees alles over de basisprincipes van analyses voordat je Adobe Analytics leert. |
-| november 2022 | [Aangepaste detailweergaven maken voor dashboards](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=en) | Video | Leer gedetailleerde weergaven aan te passen, inclusief tekst voor Adobe Analytics-dashboards, om het verhaal dat u aan uw belanghebbenden wilt vertellen, te verfijnen via mobiele scorecardprojecten. |
-| november 2022 | [Belangrijkste metrische overzichtsvisualisatie](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html) | Video | Leer over de belangrijkste metrische summiere visualisatie in Analysis Workspace, die u laat zien hoe belangrijke metrisch binnen één enkel tijdkader trending. Ook kunt u de metrische prestaties in twee tijdframes vergelijken. |
+| November 2022 | [Aangepaste detailweergaven maken voor dashboards](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=en) | Video | Leer gedetailleerde weergaven aan te passen, inclusief tekst voor Adobe Analytics-dashboards, om het verhaal dat u aan uw belanghebbenden wilt vertellen, te verfijnen via mobiele scorecardprojecten. |
+| November 2022 | [Belangrijkste metrische overzichtsvisualisatie](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html) | Video | Leer over de belangrijkste metrische summiere visualisatie in Analysis Workspace, die u laat zien hoe belangrijke metrisch binnen één enkel tijdkader trending. Ook kunt u de metrische prestaties in twee tijdframes vergelijken. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Volgende release: **26 oktober 2022**
+Volgende release: **11 januari 2023**
 
 >[!NOTE]
 >
@@ -238,16 +236,16 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassingen |
 | -----------| ---------- | ---------- | ---------- | ------|
-| december 2022 | [Blijvende query&#39;s voor GraphQL](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | Video | Leer hoe u GraphQL-query&#39;s in Adobe Experience Manager as a Cloud Service kunt voortzetten om de prestaties te optimaliseren. | AEM CS |
-| december 2022 | [Voorbeeld van Reageren van app-code filteren](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | Video | Een eenvoudige React-app die WKND-avonturen weergeeft die zijn gemodelleerd met Content Fragments. | AEM Headless Developer Portal |
-| december 2022 | [Basic React-app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | Video | Leer hoe te om inhoud te vragen gebruikend AEM GraphQL APIs gebruikend persisted query&#39;s. Deze toepassing geeft filterbaar van avonturen WKND terug, en na het selecteren van een avontuur, toont de avonturen volledige details. | AEM Headless Developer Portal |
-| december 2022 | [Codevoorbeeld van jQuery- en Handlebars filteren](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Ontdek AEM GraphQL API&#39;s zonder koppen de mogelijkheid om gegevens te filteren met een JavaScript-app die jQuery en Handlebars gebruikt. Deze app maakt een lijst met WKND-avonturen die kunnen worden gefilterd op Type activiteit. | AEM Headless Developer Portal |
-| december 2022 | [URL-omleidingen](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | Video | Leer meer over de verschillende opties om URL omleiding in AEM uit te voeren. | AEM leren |
-| november 2022 | [Voeg bundels van derden toe aan uw AEM-project](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | Video | Leer hoe te om de bundel van externe OSGi in uw AEM project te omvatten. | AEM Forms |
-| november 2022 | [Een PDF-document met fragmenten genereren met behulp van ECMA-script](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | Video | Leer hoe u de uitvoerservice gebruikt om een PDF-bestand te genereren met behulp van XDP-fragmenten. | AEM Forms |
-| november 2022 | [Een PDF-document genereren met behulp van fragmenten](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html) | Video | Leer hoe u de uitvoerservice gebruikt om PDF-bestanden te genereren met behulp van SDP-fragmenten. | AEM Forms |
-| november 2022 | [Gebonden gegevens extraheren en opslaan in een tekenreeksvariabele](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html) | Video | Leer hoe u de verzonden gegevens in de tekst van uw e-mail opneemt. | AEM Forms |
-| november 2022 | [AEM-CIF kerncomponenten en de integratie van het Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html) | Video | Leer hoe te om storefront gebeurtenisgegevens van een AEM-teruggegeven productpagina naar het Experience Platform te verzenden gebruikend CIF - de Schakelaar van het Experience Platform. | AEM CS |
+| December 2022 | [Blijvende query&#39;s voor GraphQL](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | Video | Leer hoe u GraphQL-query&#39;s in Adobe Experience Manager as a Cloud Service kunt voortzetten om de prestaties te optimaliseren. | AEM CS |
+| December 2022 | [Voorbeeld van Reageren van app-code filteren](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | Video | Een eenvoudige React-app die WKND-avonturen weergeeft die zijn gemodelleerd met Content Fragments. | AEM Headless Developer Portal |
+| December 2022 | [Basic React-app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | Video | Leer hoe te om inhoud te vragen gebruikend AEM GraphQL APIs gebruikend persisted query&#39;s. Deze toepassing geeft filterbaar van avonturen WKND terug, en na het selecteren van een avontuur, toont de avonturen volledige details. | AEM Headless Developer Portal |
+| December 2022 | [Codevoorbeeld van jQuery- en Handlebars filteren](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Ontdek AEM GraphQL API&#39;s zonder koppen de mogelijkheid om gegevens te filteren met een JavaScript-app die jQuery en Handlebars gebruikt. Deze app maakt een lijst met WKND-avonturen die kunnen worden gefilterd op Type activiteit. | AEM Headless Developer Portal |
+| December 2022 | [URL-omleidingen](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | Video | Leer meer over de verschillende opties om URL omleiding in AEM uit te voeren. | AEM leren |
+| November 2022 | [Voeg bundels van derden toe aan uw AEM-project](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | Video | Leer hoe te om de bundel van externe OSGi in uw AEM project te omvatten. | AEM Forms |
+| November 2022 | [Een PDF-document met fragmenten genereren met behulp van ECMA-script](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | Video | Leer hoe u de uitvoerservice gebruikt om een PDF-bestand te genereren met behulp van XDP-fragmenten. | AEM Forms |
+| November 2022 | [Een PDF-document genereren met behulp van fragmenten](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html) | Video | Leer hoe u de uitvoerservice gebruikt om PDF-bestanden te genereren met behulp van SDP-fragmenten. | AEM Forms |
+| November 2022 | [Gebonden gegevens extraheren en opslaan in een tekenreeksvariabele](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html) | Video | Leer hoe u de verzonden gegevens in de tekst van uw e-mail opneemt. | AEM Forms |
+| November 2022 | [AEM-CIF kerncomponenten en de integratie van het Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html) | Video | Leer hoe te om storefront gebeurtenisgegevens van een AEM-teruggegeven productpagina naar het Experience Platform te verzenden gebruikend CIF - de Schakelaar van het Experience Platform. | AEM CS |
 | Oktober 2022 | [Eigenschap voor objectladen in AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html) | Video | Leer hoe te om drop-down lijst te vormen en te bevolken gebruikend het bezit van de weg van de puntlading. | AEM Forms CS |
 
 {style=&quot;table-layout:auto&quot;}
@@ -318,7 +316,7 @@ Nieuwe functies en inhoud beschikbaar voor [!DNL Adobe Commerce].
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| november 2022 | [Handleiding voor beveiliging en naleving](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/overview.html) | Productdocumentatie | Uitgebreide informatie verkennen over marketing- en promotiefuncties in Adobe Commerce, waaronder gerichte kortingen en evenementen. |
+| November 2022 | [Handleiding voor beveiliging en naleving](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/overview.html) | Productdocumentatie | Uitgebreide informatie verkennen over marketing- en promotiefuncties in Adobe Commerce, waaronder gerichte kortingen en evenementen. |
 | Oktober 2022 | [Adobe Commerce Support Knowledge Base](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/overview.html?lang=en) | Ondersteuningsdocumentatie | Omvat het oplossen van problemen en beste praktijken, gastheeraankondigingen, antwoorden FAQs, en benadrukt specifieke scenario&#39;s die (om het even welke reden) niet vermeld in de officiële documentatie zijn. |
 | Oktober 2022 | [Overzicht van installatie op locatie](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html) | Productdocumentatie | Leer over het installatieproces voor plaatsingen op-gebouw van Adobe Commerce en Magento Open Source. |
 | Oktober 2022 | [Handel (magento-cloud-infrastructuur)](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html) | Productdocumentatie | Meer informatie over alle beschikbare opdrachten, argumenten en opties voor Adobe Commerce magento-cloud-opdrachtregelprogramma&#39;s. |
@@ -350,7 +348,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassingen |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Oktober 2022 | [Aan de slag met besluitvormingsbeheer voor marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en) | Video | Leer hoe te om opgesomde gebieden en voorgestelde waarden te gebruiken om vriendschappelijke dropdown menu&#39;s in de segmentbouwerinterface tot stand te brengen. | Campaign v8 |
-| Oktober 2022 | [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | Cursus | Leer hoe te om uw instantie van de Campagne met uw leverancier te verbinden SMTP en hoe te om de configuratie te analyseren en problemen op te lossen. | Campagne v8 |
+| Oktober 2022 | [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | Cursus | Leer hoe te om uw instantie van de Campagne met uw leverancier te verbinden SMTP en hoe te om de configuratie te analyseren en problemen op te lossen. | Campaign v8 |
 | Oktober 2022 | [Volledige subdomeindelegatie](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=en) | Bijgewerkte video | Leer hoe u een subdomein volledig kunt delegeren aan Adobe Campaign. | Configuratiescherm  |
 
 {style=&quot;table-layout:auto&quot;}
@@ -360,7 +358,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 * Adobe Campaign v8: [Documentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Implementatiehulplijnen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
 * Adobe Campaign Standard: [Campaign Standard Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl) - [Release-planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Campaign Classic v7-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) - [Nieuwste documentatieupdates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign-configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - Hoe kan ik-video&#39;s voor [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en)
+* Adobe Campaign-configuratiescherm: [Documentatie](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) - [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - Hoe kan ik-video&#39;s voor [Hoe kan ik-video&#39;s](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=nl)
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -376,7 +374,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journ
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | --------- | ---------- |
-| november 2022 | [Dynamische inhoud maken met de ontwikkelaar voor voorwaardelijke regels](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/create-dynamic-content.html?lang=en) | Video | Leer om voorwaardelijke regels te maken en op te slaan en leer deze voorwaardelijke regels toepassen op content over alle kanalen. |
+| November 2022 | [Dynamische inhoud maken met de ontwikkelaar voor voorwaardelijke regels](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/create-dynamic-content.html?lang=en) | Video | Leer om voorwaardelijke regels te maken en op te slaan en leer deze voorwaardelijke regels toepassen op content over alle kanalen. |
 | Oktober 2022 | [Een journey naar een andere sandbox kopiëren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en) | Video | Leer hoe u een journey en zijn afhankelijke objecten van de ene sandbox naar de andere kunt kopiëren. |
 | Oktober 2022 | [Waarschuwingen gebruiken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en) | Video | Ontdek hoe u vooraf gedefinieerde waarschuwingen kunt ontvangen voor onverwacht journeygedrag en meldingen kunt ontvangen via e-mail, in Journey Optimizer of via een API. |
 
@@ -432,7 +430,7 @@ Nieuw [!DNL Workfront] cursussen en verzamelingen zelfstudies over Experience Le
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| december 2022 | [ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-expressies maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.html?lang=en) | Bijgewerkte video | Leer hoe u de ADD-expressies in een berekend veld in Adobe Workfront gebruikt en maakt. |
+| December 2022 | [ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-expressies maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.html?lang=en) | Bijgewerkte video | Leer hoe u de ADD-expressies in een berekend veld in Adobe Workfront gebruikt en maakt. |
 | Oktober 2022 | [Kolominstellingen toevoegen en bewerken op een board](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en) | Video | Leer hoe u kolominstellingen in een board toevoegt en bewerkt. |
 | Oktober 2022 | [Geavanceerde rapportage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) | Video | Leer hoe te om de API Ontdekkingsreiziger en tekstwijze te gebruiken om geavanceerde filters, meningen, en groeperingen tot stand te brengen die voorbij de mogelijkheden van de Rapporterende UI gaan. |
 
@@ -491,9 +489,9 @@ Nieuwe zelfstudies en cursussen voor Adobe Document Cloud, waaronder [!DNL Docum
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassing |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| december 2022 | [Termijnen en herinneringen instellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | Video | Leer hoe u regelmatig herinneringen en deadlines voor e-mail kunt verzenden om uw documenten snel te laten ondertekenen. | Acrobat Sign |
-| november 2022 | [Registreren en ondertekenen met D-Trust](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=en) | Video | Leer hoe u uw identiteit registreert bij D-Trust en vervolgens de digitale handtekening voor D-vertrouwen in een document gebruikt. | Acrobat Sign |
-| november 2022 | [Aan de slag met nieuwe beheerders](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html) | Video | In deze uitgebreide videogids, leer over alle hulpmiddelen noodzakelijk om uw organisatie te krijgen aan de slag. | Acrobat Sign |
+| December 2022 | [Termijnen en herinneringen instellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | Video | Leer hoe u regelmatig herinneringen en deadlines voor e-mail kunt verzenden om uw documenten snel te laten ondertekenen. | Acrobat Sign |
+| November 2022 | [Registreren en ondertekenen met D-Trust](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=en) | Video | Leer hoe u uw identiteit registreert bij D-Trust en vervolgens de digitale handtekening voor D-vertrouwen in een document gebruikt. | Acrobat Sign |
+| November 2022 | [Aan de slag met nieuwe beheerders](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html) | Video | In deze uitgebreide videogids, leer over alle hulpmiddelen noodzakelijk om uw organisatie te krijgen aan de slag. | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -509,9 +507,9 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| november 2022 | [Verbluffende digitale middelen](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/stunning-digital-assets.html?lang=en) | PDF | Leer hoe u Adobe Stock kunt integreren met CC-bibliotheken om consistente en professionele ontwerpresultaten te maken voor afdrukken en scherm in deze praktische zelfstudie. |
-| november 2022 | [CC-workflows verbeteren met CC-bibliotheken](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=en) | PDF | Leer hoe de Bibliotheken van de Creative Cloud ontwerpelementen samen houden verzekerend projectconsistentie voor ontwerpers en teams in dit hands-on leerprogramma. |
-| november 2022 | [Video-revisie met Frame.io](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=en) | PDF | Leer hoe u met de extensie Frame.io voor Adobe Premiere Pro elementen kunt centraliseren en delen, real-time opmerkingen kunt ontvangen, revisies kunt bijhouden en snellere goedkeuringen kunt krijgen zonder de tijdlijn in deze praktische zelfstudie te verlaten. |
+| November 2022 | [Verbluffende digitale middelen](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/stunning-digital-assets.html?lang=en) | PDF | Leer hoe u Adobe Stock kunt integreren met CC-bibliotheken om consistente en professionele ontwerpresultaten te maken voor afdrukken en scherm in deze praktische zelfstudie. |
+| November 2022 | [CC-workflows verbeteren met CC-bibliotheken](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=en) | PDF | Leer hoe de Bibliotheken van de Creative Cloud ontwerpelementen samen houden verzekerend projectconsistentie voor ontwerpers en teams in dit hands-on leerprogramma. |
+| November 2022 | [Video-revisie met Frame.io](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=en) | PDF | Leer hoe u met de extensie Frame.io voor Adobe Premiere Pro elementen kunt centraliseren en delen, real-time opmerkingen kunt ontvangen, revisies kunt bijhouden en snellere goedkeuringen kunt krijgen zonder de tijdlijn in deze praktische zelfstudie te verlaten. |
 
 {style=&quot;table-layout:auto&quot;}
 
