@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
+source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
 workflow-type: tm+mt
-source-wordcount: '4860'
+source-wordcount: '4934'
 ht-degree: 8%
 
 ---
@@ -25,9 +25,9 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Laatste update: **26 december 2022**
+Laatste update: **6 januari 2022**
 
-* [[!DNL Experience League] gebeurtenissen](#events) (Bijgewerkt) **7 december**)
+* [[!DNL Experience League] gebeurtenissen](#events) (Bijgewerkt) **6 januari**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrale interfacecomponenten &amp; beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,8 +57,10 @@ Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren
 
 Komende gebeurtenissen:
 
-* [Admin Chat: Marketing en creatief](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6 januari** - _Deze interactieve sessie is gericht op het verbinden van u met andere beheerders, het bespreken van beste praktijken evenals uiteinden en trucs om u te helpen het beste uit Workfront voor u en uw gebruikers krijgen._
-* [CS-verbindingen: Het delen van Strategische Beste praktijken](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9 januari** - _Op zoek naar een mogelijkheid om verbinding te maken met andere klanten en Workfront-functies te bespreken? Sluit u aan bij onze reeks CS Connections! Een maandelijkse kans om met andere klanten te verbinden om de hete onderwerpen van uw organisatie te bespreken._
+* [Admin Chat: Marketing en creatief](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6 januari** - _Deze interactieve sessie is gericht op het verbinden van u met andere beheerders, het bespreken van best practices en tips en trucs om u te helpen optimaal te profiteren [!DNL Workfront] voor u en uw gebruikers._
+* [CS-verbindingen: Het delen van Strategische Beste praktijken](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9 januari** - _Op zoek naar een mogelijkheid om verbinding te maken met andere klanten en [!DNL Workfront] functies? Sluit u aan bij onze reeks CS Connections! Een maandelijkse kans om met andere klanten te verbinden om de hete onderwerpen van uw organisatie te bespreken._
+* [Nieuwe functies in [!DNL Adobe Workfront] 23,1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **10 januari** - _Verbinden met [!DNL Adobe Workfront] productteam voor meer informatie over toekomstige functies en verbeteringen in onze nieuwste versie._
+* [AEM Best Practices Analyzer voor omgevingen op locatie en AMS](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **18 januari** - _Leer over het hulpmiddel van de Analysator van Beste praktijken van Adobe Experience Manager dat analyse en rapporteringsmogelijkheden betreffende AEM op-gebouw &amp; instanties van AMS verstrekt. Het is niet van toepassing op AEM as a Cloud Service._
 
 Voor een volledig gebeurtenissenschema raadpleegt u [Gebeurtenissen op Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
