@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0b6455a86208c498304f7278c64b67e03d4ffc07
+source-git-commit: dee94925c7872cf6108ec5c4fa4caaff774cf08b
 workflow-type: tm+mt
-source-wordcount: '4927'
+source-wordcount: '4930'
 ht-degree: 8%
 
 ---
@@ -502,7 +502,7 @@ Raadpleeg voor hulp bij Documenten Cloud:
 
 ## ![Pictogram](/assets/creative-cloud-24.png) Adobe Creative Cloud for enterprise {#creative-cloud}
 
-Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
+Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Creative Cloud for enterprise.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
