@@ -6,9 +6,9 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 97ced2d9addab71d26dc94ba55af5e5f9e23f227
+source-git-commit: 0f238ebb4a330646e16379cbb61f959a37cd7c87
 workflow-type: tm+mt
-source-wordcount: '5355'
+source-wordcount: '5354'
 ht-degree: 5%
 
 ---
@@ -44,7 +44,7 @@ Laatste update: **11 januari 2023**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Digital Experience Blueprints - zelfstudies](#blueprints)
@@ -451,29 +451,29 @@ Nieuw [!DNL Workfront] cursussen en verzamelingen zelfstudies over Experience Le
 
 Zie de [[!DNL Workfront] productreleases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) pagina voor een afronding van de meest recente informatie voor alle producten.
 
-## ![Pictogram](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
+## ![Pictogram](/assets/advertising-cloud.png) Adobe Adverteren {#advertising}
 
-Opmerkingen bij de release voor [!DNL Adobe Advertising Cloud].
+Opmerkingen bij de release voor [!DNL Adobe Advertising].
 
-<!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [Nieuwe functies in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
-* [Nieuwe functies in [!DNL Advertising Cloud Search]](#adcloud-search)
-<!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
+<!-- * [New features across [!DNL Advertising]](#advertising-all) -->
+* [Nieuwe functies in [!DNL Advertising DSP]](#advertising-dsp)
+* [Nieuwe functies in [!DNL Advertising Search]](#advertising-search)
+<!-- * [New [!DNL Advertising] tutorials](#tutorials-advertising) -->
 
 <!--
-### New features across [!DNL Advertising Cloud] {#adcloud-all}
+### New features across [!DNL Advertising] {#advertising-all}
 
 Last updated: **August 9, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
+| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
 
 {style="table-layout:auto"}
 
 -->
 
-### Nieuwe functies in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Nieuwe functies in [!DNL Advertising DSP] {#advertising-dsp}
 
 Laatst bijgewerkt: **23 november 2022**
 
@@ -483,7 +483,7 @@ Laatst bijgewerkt: **23 november 2022**
 
 {style=&quot;table-layout:auto&quot;}
 
-### Nieuwe functies in [!DNL Advertising Cloud Search] {#adcloud-search}
+### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
 
 Laatst bijgewerkt: **10 januari 2022**
 
