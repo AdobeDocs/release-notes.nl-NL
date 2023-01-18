@@ -6,9 +6,9 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0f238ebb4a330646e16379cbb61f959a37cd7c87
+source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
 workflow-type: tm+mt
-source-wordcount: '5354'
+source-wordcount: '5433'
 ht-degree: 5%
 
 ---
@@ -25,7 +25,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Laatste update: **11 januari 2023**
+Laatste update: **18 januari 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -485,10 +485,11 @@ Laatst bijgewerkt: **23 november 2022**
 
 ### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
 
-Laatst bijgewerkt: **10 januari 2022**
+Laatst bijgewerkt: **18 januari 2022**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
+| Campagnes, Opsommingstekens, Geavanceerd (ACM) | (5 januari) [!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes) Als u en klantgerichte redacteurs in de redacteurs van het advertentienetwerk hebt gecreeerd, kunt u hen nu als attributen in de tekstgebieden van ontvankelijke onderzoeksadvertenties in [!DNL Advertising Search]. Gebruik in advertentiekoppen, beschrijvingen en de eerste en tweede paden van weergave-URL&#39;s de volgende indelingen om een advertentieklanker op te nemen:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Voorbeeld van een advertentieklanker in een advertentitel: &quot;Enorme inventarisatie van regenlaarzen bij een `{CUSTOMIZER.Discount:10%}` korting.&quot; |
 | Campagnes, bolletjes, rapporten | ([!DNL Microsoft® Advertising] rekeningen; Release 15 november) Ondersteuning voor campagnes op het [!DNL Microsoft® Audience Network] is nu uit bèta.<ul><li>U kunt publiekscampagnes maken, bewerken en de status ervan wijzigen (het type campagne &quot;[!UICONTROL Audience (image)]&quot; of &quot;[!UICONTROL Audience (feed)]&quot;), ad groepen (en groepstype &quot;[!UICONTROL Audience]&quot;), en advertenties (creatief type &quot;[!UICONTROL Responsive Ad]&quot;) van de [!UICONTROL Campaigns] weergaven en het gebruik van opsommingstekens.</li><li>U kunt uw bestaande publiekscampagnes, met prestatiesgegevens in lijst en trendgrafiek formaat bekijken, in [!UICONTROL Campaigns] weergeven. Prestatiegegevens op advertentieniveau zijn ook beschikbaar in rapporten en in Adobe Analytics (voor adverteerders met een [!DNL Analytics] integratie).</li></ul>U kunt publiekscampagnes opnemen in standaard- of hybride portfolio&#39;s. |
 |  | ([!DNL Microsoft® Advertising] rekeningen; 15 november) Multimedia en ondersteuning is nu niet meer beschikbaar. U kunt multimediaciliteiten maken en beheren in zoekcampagnes via de [!UICONTROL Campaigns] bekijken en gebruiken bulksbladen. De advertenties hebben het creatieve type &quot;[!UICONTROL Multimedia ad].&quot;<br><br>U kunt campagnes met multimediadeskundigen opnemen in standaardportfolio&#39;s of hybride portfolio&#39;s met een uitgavenstrategie, behalve voor [!UICONTROL Target Impression Share] (wordt nog niet ondersteund in hybride portfolio&#39;s).<br><br>U kunt uw bestaande publiekscampagnes, met prestatiesgegevens in lijst en trendgrafiek formaat bekijken, in [!UICONTROL Campaigns] weergeven. Prestatiegegevens op ad-niveau zijn ook beschikbaar in rapporten en in [!DNL Analytics] (voor adverteerders met een [!DNL Analytics] integratie). |
 | [!UICONTROL Audiences], [!UICONTROL Reports] | ([!DNL Microsoft® Advertising] rekeningen; Release 29 november) Ondersteuning voor dynamisch hermarketingpubliek is nu niet meer beschikbaar in de bètaversie:<ul><li>Uw dynamische publiek voor opnieuw op de markt brengen wordt gesynchroniseerd en beschikbaar in [!UICONTROL Campaigns] > [!UICONTROL Audiences] met de [!UICONTROL Audience Type] &quot;[!UICONTROL Dynamic Remarketing] &lt;*VisitorType*>&quot; (zoals &quot;Dynamic Remarketing Past Buyers&quot;). U kunt ook een dynamisch publiek voor opnieuw op de markt brengen maken, bijwerken en verwijderen.</li><li>U kunt het publiek gebruiken als campagneniveau en ad-groepsniveau en als doelen en uitsluitingen. Doelen kunnen biedingsopties bevatten. **Opmerking:** Bodmodifiers voor dynamische remarketing publieksdoelen worden niet geoptimaliseerd in portfolio&#39;s met &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot; instellen.</li><li>Gegevens voor dynamisch hermarketingpubliek zijn beschikbaar in de [!UICONTROL Audience Target Report].</li></ul> |
