@@ -6,9 +6,9 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
 workflow-type: tm+mt
-source-wordcount: '5433'
+source-wordcount: '5441'
 ht-degree: 5%
 
 ---
@@ -25,7 +25,7 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Laatste update: **18 januari 2023**
+Laatste update: **3 februari 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -266,7 +266,7 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 | Januari 2023 | [Voorbeeldcode om Xdp-documenten te verstevigen met behulp van assembleer](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/xdp-stitching-using-assembler-service.html) | Artikel | XDP-documenten plaatsen met gebruik van de AEM Forms-assembleerservice. | AEM Forms |
 | Januari 2023 | [Aangepaste naamruimten](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/custom-namespaces.html) | Video | Leer hoe u aangepaste naamruimten definieert en implementeert om as a Cloud Service te AEM. | AEM CS |
 | Januari 2023 | [Welkomstkit](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/welcome-kit/introduction.html) | Artikelen | Leer hoe u een AEM pagina met koppelingen samenstelt om verschillende middelen te downloaden op basis van de ingediende formuliergegevens. | AEM Forms |
-| Januari 2023 | [Blijvende query&#39;s voor GraphQL](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | Video | Leer hoe u GraphQL-query&#39;s in Adobe Experience Manager as a Cloud Service kunt voortzetten om de prestaties te optimaliseren. | AEM CS |
+| Januari 2023 | [Blijvende GraphQL-query&#39;s](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | Video | Leer hoe u GraphQL-query&#39;s in Adobe Experience Manager as a Cloud Service kunt voortzetten om de prestaties te optimaliseren. | AEM CS |
 | Januari 2023 | [Bulkeigenschap bijwerken, voorbeeldextensie](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/content-fragments/example-extensions/bulk-property-update.html) | Video | Een voorbeeld AEM de uitbreiding van de Console van Fragmenten van de Inhoud die bulksgewijs een bezit van Inhoudsfragmenten bijwerkt. | AEM CS |
 | Januari 2023 | [Responsieve onderbrekingspunten](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/developing/responsive-breakpoints.html?lang=en) | Video | Leer hoe u nieuwe responsieve onderbrekingspunten configureert voor AEM responsieve paginaeditor. | AEM Sites |
 
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### Nieuwe functies in [!DNL Advertising DSP] {#advertising-dsp}
 
-Laatst bijgewerkt: **23 november 2022**
+Laatst bijgewerkt: **3 februari 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| Overeenkomsten | De [!UICONTROL Inventory] > [!UICONTROL Deals] weergave bevat nu een &quot;[!UICONTROL Deal Health]&quot; kolom, die op de gezondheidsstatus van elke privé overeenkomst wijst: &quot;[!UICONTROL Success],&quot; &quot;[!UICONTROL Warning],&quot; &quot;[!UICONTROL Critical],&quot; of &quot;[!UICONTROL Unavailable].&quot; U kunt de status klikken om meer details, met inbegrip van te zien waarom een overeenkomst niet uitvoert of zoals verwacht uitgeeft en stappen om potentiële kwesties problemen op te lossen. |
+| [!UICONTROL Deals] | (25 januari versie) Een nieuwe kolom &quot;Pacing van de Impressie van PG&quot;besteedt in de Inventaris > de meningsrapporten van Overeenkomsten die voor gewaarborgde overeenkomsten verpakken. |
+| [!UICONTROL Campaigns] | (4 januari) Een veranderingslogboek, dat veranderingen toont die tijdens de geselecteerde datumwaaier worden aangebracht, is nu beschikbaar voor elke campagne. Wijzigingslogbestanden waren al beschikbaar voor pakketten en plaatsingen. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -513,7 +514,7 @@ Raadpleeg voor hulp bij Documenten Cloud:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
-* [Document Cloud - Meer informatie en ondersteuning](https://helpx.adobe.com/support/document-cloud.html)
+* [Leren en ondersteuning voor Document Cloud](https://helpx.adobe.com/nl/support/document-cloud.html)
 
 ## ![Pictogram](/assets/creative-cloud-24.png) Adobe Creative Cloud for enterprise {#creative-cloud}
 
