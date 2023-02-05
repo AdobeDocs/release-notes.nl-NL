@@ -6,9 +6,9 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+source-git-commit: 668e3a94c48a157a4abd3496754fac219c342362
 workflow-type: tm+mt
-source-wordcount: '5441'
+source-wordcount: '5351'
 ht-degree: 5%
 
 ---
@@ -25,7 +25,9 @@ Als Ervaar, begint uw weg aan succes met [Experience League](https://experiencel
 
 Deze pagina biedt toegang tot pagina&#39;s met opmerkingen bij de release van het Experience Cloud-product en de meest recente zelfstudies, cursussen en gebeurtenissen op het Experience League.
 
-Laatste update: **3 februari 2023**
+Releasedatum: **januari 2023**
+
+Laatste update: **5 februari 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -57,10 +59,13 @@ Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren
 
 Komende gebeurtenissen:
 
-* [AEM Best Practices Analyzer voor omgevingen op locatie en AMS](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **18 januari** - _Leer over het hulpmiddel van de Analysator van Beste praktijken van Adobe Experience Manager dat analyse en rapporteringsmogelijkheden betreffende AEM op-gebouw &amp; instanties van AMS verstrekt. Zij is niet van toepassing op AEM as a Cloud Service._
-* [Adobe Experience League Live: Hooglichten en routekaart voor gegevensverzameling](https://www.youtube.com/watch?v=Gj_FDCMgU8I) - **26 januari** - _Gegevensverzameling is belangrijk bij Adobe! U moet de gegevens kunnen vertrouwen u met werkt. Vorig jaar hebben we een gebeurtenis gehad met lozingen en er komen geweldige dingen op. In deze live streamgebeurtenis, sluit u zich aan bij de experts voor gegevensverzameling om een overzicht te krijgen van belangrijke recente updates en een glimp van komende roadmap-items._ [Details en registratie](https://engage.adobe.com/ExpLeagueLive-230126.html).
+* [!DNL Workfront] - **7 februari** - _Tien communicatiepunten leren om u en uw gebruikers op het spoor te houden_
 
-Voor een volledig gebeurtenissenschema raadpleegt u [Gebeurtenissen op Experience League](https://experienceleague.adobe.com/events/?lang=en).
+* [!DNL Campaign Classic] - **8 februari** - _Hoe kan ik. Rowe prijs drijft klantenovereenkomst_
+
+* [!DNL Campaign Standard] - **9 februari** - Koffiepauze in de Gemeenschap - _Adobe [!DNL Campaign] Communautaire afbreking van Q&amp;A-koffie - APAC_
+
+Voor registratie van gebeurtenissen en een volledig schema raadpleegt u [Gebeurtenissen op Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![Pictogram](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
