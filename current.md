@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '4958'
+source-wordcount: '4936'
 ht-degree: 7%
 
 ---
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### Nieuwe functies in [!DNL Advertising DSP] {#advertising-dsp}
 
-Laatst bijgewerkt: **3 februari 2023**
+Laatst bijgewerkt: **8 februari 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Deals] | (25 januari versie) Een nieuwe kolom &quot;Pacing van de Impressie van PG&quot;besteedt in de Inventaris > de meningsrapporten van Overeenkomsten die voor gewaarborgde overeenkomsten verpakken. |
-| [!UICONTROL Campaigns] | (4 januari) Een veranderingslogboek, dat veranderingen toont die tijdens de geselecteerde datumwaaier worden aangebracht, is nu beschikbaar voor elke campagne. Wijzigingslogbestanden waren al beschikbaar voor pakketten en plaatsingen. |
+| [!UICONTROL Campaigns] | (3 februari) bètafuncties) U kunt nu logboeken van wijzigingen weergeven in diagramvorm en u kunt notities toevoegen aan elk item. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
 
-Laatst bijgewerkt: **18 januari 2022**
+Laatst bijgewerkt: **8 februari 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns], [!UICONTROL Bulksheets], [!UICONTROL Advanced (ACM)] | (release van 5 januari: [!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes) - Als u en klantgerichte redacteurs in de redacteurs van het advertentienetwerk hebt gecreeerd, kunt u hen nu als attributen in de tekstgebieden van ontvankelijke onderzoeksposten in [!DNL Advertising Search]. Gebruik in advertentiekoppen, beschrijvingen en de eerste en tweede paden van weergave-URL&#39;s de volgende indelingen om een advertentieklanker op te nemen:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Voorbeeld van een advertentieklanker in een advertentitel: &quot;Enorme inventarisatie van regenlaarzen bij een `{CUSTOMIZER.Discount:10%}` korting.&quot; |
-| [!UICONTROL Import Campaigns] | (release van 5 januari: [!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes) - U kunt uw [!DNL Google Ads] adverteerders voor uw [!DNL Microsoft Advertising] campagnes van [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. Deze worden automatisch gerepliceerd als u de importtaak niet aanpast. Als u de importtaak aanpast door op te geven wat u wilt importeren, moet u [!UICONTROL Feeds] > [!UICONTROL Ad customizer feeds.] |
+| [!UICONTROL Campaigns] | (6 februari) bètafunctie) Ondersteuning voor alleen-lezen synchronisatie is nu beschikbaar voor uw [!DNL Google Ads] detectiecampagnes. Detectiecampagnes hebben [!UICONTROL Campaign Type] &quot;[!UICONTROL Discovery],&quot; [!UICONTROL Ad Group Type] &quot;[!UICONTROL Discovery],&quot; en [!UICONTROL Creative Type] &quot;[!UICONTROL Discovery Ad]&quot; (voor advertenties met één afbeelding) of &quot;[!UICONTROL Discovery Carousel Ad]&quot; (voor carrouseladvertenties met meerdere afbeeldingen). U kunt detectiecampagnes opnemen in standaard- en hybride portfolio&#39;s.<br><br>Gegevens op ad-niveau voor uw detectiecampagnes zijn beschikbaar in rapporten. Voor adverteerders met een Adobe Analytics-integratie zijn gegevens op advertentieniveau beschikbaar in [!DNL Analytics]. Evenzo [!DNL Analytics] gegevens zijn beschikbaar in [!DNL Search]; de gegevens worden verzonden met behulp van de upgrade `s_kwcid` parameter tracking, ongeacht de `s_kwcid` gebruiken voor de account. Als u normaal de oudere versie van `s_kwcid`en vervolgens worden uw klikgegevens/kostengegevens en inkomstengegevens bijgehouden met behulp van verschillende `s_kwcids`, maar beide reeksen gegevens zijn volledig geclassificeerd en geaggregeerd in het kader van dezelfde campagne en rekening. |
 
 {style=&quot;table-layout:auto&quot;}
 
