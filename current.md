@@ -6,7 +6,7 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fdaf5906ad6dec1f52a29ef1522ca15d8242b64e
+source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
 workflow-type: tm+mt
 source-wordcount: '4958'
 ht-degree: 7%
@@ -86,7 +86,7 @@ Releasedatum: **19 jan. 2023**
 
 {style=&quot;table-layout:auto&quot;}
 
-<!-- For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=en#status). -->
+<!-- For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#status). -->
 
 ## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud-interface en -beheer {#ecloud}
 
