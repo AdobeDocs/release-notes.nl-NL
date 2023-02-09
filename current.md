@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
+source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
 workflow-type: tm+mt
-source-wordcount: '4936'
+source-wordcount: '4913'
 ht-degree: 7%
 
 ---
@@ -29,7 +29,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease - februari 2023
 
-Inhoud laatst bijgewerkt: **8 februari 2023**
+Inhoud laatst bijgewerkt: **9 februari 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -58,8 +58,6 @@ Inhoud laatst bijgewerkt: **8 februari 2023**
 Gebeurtenissen van het Experience League zijn een uitstekende plaats om te leren, interactie aan te gaan en antwoorden van productdeskundigen bij Adobe te krijgen!
 
 * [!DNL Campaign Standard] - **9 februari | 09:30 IST** - Koffiepauze in de Gemeenschap - _Adobe [!DNL Campaign] Communautaire afbreking van Q&amp;A-koffie - APAC_ - [Details en registratie](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9/td-p/568425)
-
-* [!DNL Campaign Standard] - **9 februari | 09:00 PST** - Koffiepauze in de Gemeenschap - _[!DNL Campaign]Communautaire Koffiepauze - Amerika/EMEA_ - [Details en registratie](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9am/td-p/568421)
 
 * [!DNL Workfront] - **9 februari | 10:00 MT** - _Deelvenster Klant - Registratietijd_ - [Details en registratie](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ApJEa7JdN0is2sG3HRpLDA,9brRsWkVcEahJAdD813wug,Xm1T4YtdIEGZaxxbANkVRg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
