@@ -6,7 +6,7 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
+source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
 workflow-type: tm+mt
 source-wordcount: '5047'
 ht-degree: 7%
@@ -27,11 +27,11 @@ Deze pagina helpt u bijgewerkt te blijven op de informatie van de productrelease
 
 Uw pad naar succes begint met [Experience League](https://experienceleague.adobe.com/?lang=en#home). Bladeren in onze uitgebreide bibliotheek met zelfhulp [productdocumentatie](https://experienceleague.adobe.com/docs/?lang=nl) en met instructies [zelfstudievideo&#39;s](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Zoeken [cursussen](https://experienceleague.adobe.com/?lang=en#courses) voor alle niveaus en rollen vragen stellen van onze online [gemeenschap](https://experienceleaguecommunities.adobe.com/?profile.language=en) van peers en expert [ondersteuning](https://experienceleague.adobe.com/?support-tab=home#support) wanneer u het nodig hebt.
 
-## Adobe Summit 2023
+## Adobe [!DNL Summit] 2023
 
 Meld u aan bij ons in Las Vegas om uw vaardigheden uit te breiden, inspiratie te wekken en verbindingen te bouwen die u in staat stellen de digitale economie persoonlijk te maken. Voor degenen die de gebeurtenis van wereldklasse in Vegas niet kunnen bijwonen, sluit u zich vrijwel overal gratis aan bij ons.
 
-[!BADGE Registreren voor top]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Registreren voor top"}
+[!BADGE Registreren]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;Registreren voor [!DNL Adobe Summit]&quot;}
 
 ## Updates en gebeurtenissen voor productrelease - februari 2023
 
