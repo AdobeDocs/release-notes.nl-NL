@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5047'
+source-wordcount: '5139'
 ht-degree: 7%
 
 ---
@@ -35,7 +35,7 @@ Meld u aan bij ons in Las Vegas om uw vaardigheden uit te breiden, inspiratie te
 
 ## Updates en gebeurtenissen voor productrelease - februari 2023
 
-Inhoud laatst bijgewerkt: **10 februari 2023**
+Inhoud laatst bijgewerkt: **2 maart 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### Nieuwe functies in [!DNL Advertising DSP] {#advertising-dsp}
 
-Laatst bijgewerkt: **8 februari 2023**
+Laatst bijgewerkt: **2 maart 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (3 februari) bètafuncties) U kunt nu logboeken van wijzigingen weergeven in diagramvorm en u kunt notities toevoegen aan elk item. |
+| [!UICONTROL Campaigns] | (Release 15 februari) U kunt nu wijzigingslogboeken weergeven in diagramvorm en u kunt notities toevoegen aan elke willekeurige vermelding. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
 
-Laatst bijgewerkt: **10 februari 2023**
+Laatst bijgewerkt: **2 maart 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (6 februari) bètafunctie) Ondersteuning voor alleen-lezen synchronisatie is nu beschikbaar voor uw [!DNL Google Ads] detectiecampagnes. Detectiecampagnes hebben [!UICONTROL Campaign Type] &quot;[!UICONTROL Discovery],&quot; [!UICONTROL Ad Group Type] &quot;[!UICONTROL Discovery],&quot; en [!UICONTROL Creative Type] &quot;[!UICONTROL Discovery Ad]&quot; (voor advertenties met één afbeelding) of &quot;[!UICONTROL Discovery Carousel Ad]&quot; (voor carrouseladvertenties met meerdere afbeeldingen). U kunt detectiecampagnes opnemen in standaard- en hybride portfolio&#39;s.<br><br>Gegevens op ad-niveau voor uw detectiecampagnes zijn beschikbaar in rapporten. Voor adverteerders met een Adobe Analytics-integratie zijn gegevens op advertentieniveau beschikbaar in [!DNL Analytics]. Evenzo [!DNL Analytics] gegevens zijn beschikbaar in [!DNL Search]; de gegevens worden verzonden met behulp van de upgrade `s_kwcid` parameter tracking, ongeacht de `s_kwcid` gebruiken voor de account. Als u normaal de oudere versie van `s_kwcid`en vervolgens worden uw klikgegevens/kostengegevens en inkomstengegevens bijgehouden met behulp van verschillende `s_kwcids`, maar beide reeksen gegevens zijn volledig geclassificeerd en geaggregeerd in het kader van dezelfde campagne en rekening. |
+| [!UICONTROL Campaigns] | (Google Ads-rekeningen; open bètafunctie; 23 februari) Alleen-lezen synchronisatieondersteuning voor [!DNL Google Ads] alle adverteerders hebben in de bètamodus van de detectiecampagnes .  Detectiecampagnes hebben [!UICONTROL Campaign Type] &quot;[!UICONTROL Discovery],&quot; [!UICONTROL Ad Group Type] &quot;[!UICONTROL Discovery],&quot; en [!UICONTROL Creative Type] &quot;[!UICONTROL Discovery Ad]&quot; (voor advertenties met één afbeelding) of &quot;[!UICONTROL Discovery Carousel Ad]&quot; (voor carrouseladvertenties met meerdere afbeeldingen). U kunt detectiecampagnes opnemen in standaard- en hybride portfolio&#39;s.<br><br>Gegevens op ad-niveau voor uw detectiecampagnes zijn beschikbaar in rapporten. Voor adverteerders met een Adobe Analytics-integratie zijn gegevens op advertentieniveau beschikbaar in [!DNL Analytics]. Evenzo [!DNL Analytics] gegevens zijn beschikbaar in [!DNL Search]; de gegevens worden verzonden met behulp van de upgrade `s_kwcid` parameter tracking, ongeacht de `s_kwcid` gebruiken voor de account. Als u normaal de oudere versie van `s_kwcid`en vervolgens worden uw klikgegevens/kostengegevens en inkomstengegevens bijgehouden met behulp van verschillende `s_kwcids`, maar beide reeksen gegevens zijn volledig geclassificeerd en geaggregeerd in het kader van dezelfde campagne en rekening. |
 |  | ([!DNL Google Ads] rekeningen; 11 februari) Ondersteuning voor &quot;[!UICONTROL Target Impression Share]&quot; biedstrategie is nu alleen beschikbaar voor campagnes op het zoeknetwerk . Voor deze biedstrategie: [!DNL Google Ads] (niet [!DNL Search]) optimaliseert biedingen om een doel te bereiken dat de indruk wordt gedeeld en geplaatst. U kunt desgewenst een [!UICONTROL Target Impression Share] als percentage, [!UICONTROL Target Ad Position]en [!UICONTROL Max CPC] (kosten per klik). Deze optie wordt nog niet ondersteund in hybride portfolio&#39;s. |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] campagnes; Release (11 februari) Bulksbladen bevatten nu &quot;[!UICONTROL Call to Action]&quot; en &quot;[!UICONTROL Call to Action Language]&quot; kolommen voor multimediaadvertenties (in responsieve en opgemaakte indeling) die de &quot;[!UICONTROL Creative (except RSA)]&quot; Rij. |
+| Google Manager-accounts | (23 februari) Een nieuwe [!UICONTROL Admin] > [!UICONTROL Manager Accounts] eigenschap staat u toe om authentificatie voor te verstrekken [!DNL Google Ads] beheerdersaccounts [!DNL Search] uploadt conversies naar andere accounts. Gebruik deze functie als u een upload wilt uitvoeren [!DNL Adobe]-tracked, cross-account conversie metrics naar a [!DNL Google Ads] de rekening van de manager of b) uploadt portefeuilledoelstellingen die dwars-rekeningsomzettingen in omvatten [!DNL Google Ads] voor hybride optimalisatie.<br><br>Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de optie &quot;[!UICONTROL Manager Account for Cross-Account Conversions]&quot; in de [!UICONTROL Campaigns] > [!UICONTROL Accounts] de mening wijst op managerrekening identiteitskaart voor elke kindrekening, en de kolom toont een fout wanneer de managerrekening niet voor authentiek wordt verklaard. |
 
 {style=&quot;table-layout:auto&quot;}
 
