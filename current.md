@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
+source-git-commit: c1a4ac7a30c7ba1a9021d2f2fd1052449bf0a1ee
 workflow-type: tm+mt
-source-wordcount: '5139'
+source-wordcount: '5098'
 ht-degree: 7%
 
 ---
@@ -31,7 +31,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 Meld u aan bij ons in Las Vegas om uw vaardigheden uit te breiden, inspiratie te wekken en verbindingen te bouwen die u in staat stellen de digitale economie persoonlijk te maken. Voor degenen die de gebeurtenis van wereldklasse in Vegas niet kunnen bijwonen, sluit u zich vrijwel overal gratis aan bij ons.
 
-[!BADGE Registreren]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other" tooltip="Registreren voor [!DNL Adobe Summit]"}
+[!BADGE Registreren]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;Registreren voor [!DNL Adobe Summit]&quot;}
 
 ## Updates en gebeurtenissen voor productrelease - februari 2023
 
@@ -88,7 +88,7 @@ Releasedatum: **19 jan. 2023**
 | Verbeterde gebruikerservaring en foutoplossingen | <ul><li>Geannuleerd onderhoud wordt correct gerapporteerd als Geannuleerd in plaats van Voltooid.</li><li>Fouten in oplossingen en verbeteringen voor e-mailmeldingen.</li></ul> |
 | Verbeterde abonnementen met update voor productaanbiedingen | <ul><li>Capaciteit om zich aan te melden [!DNL Adobe Campaign] en [!DNL Adobe Target] op granulair niveau van de productaanbiedingen op de [Abonnementen beheren](https://status.adobe.com/proactive-notifications/manage) pagina.</li></ul> |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 <!-- For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#status). -->
 
@@ -114,7 +114,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Platfo
 | -----------| ---------- | ---------- | ---------- |
 | Februari 2023 | [Onbekende naamruimten](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html) | Kennisbank, artikel | Ontdek waarom er niet-standaardnaamruimten voorkomen in het dialoogvenster [!DNL Adobe Experience Platform] (AEP) Identities gebruikersinterface (UI). |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Mobile] SDK
 
@@ -142,7 +142,7 @@ Nieuwe videozelfstudies, artikelen en cursussen gepubliceerd voor Adobe Analytic
 | Februari 2023 | [Filters voor vrije-vormtabellen in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/freeform-table-filters.html) | Bijgewerkte video | Leer hoe de filters meer controle kunnen verstrekken over welke rijen van gegevens in een lijst van de Vrije vorm worden gedeeld. |
 | Februari 2023 | [Cross-sell-analyse in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.html) | Bijgewerkte video | Leer hoe u de [!UICONTROL Cross Sell] rapporteren in Analysis Workspace, en deze nog verder uitbreiden tot elke meerwaardeerde dimensie of classificatie. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
@@ -184,7 +184,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Adobe Audience Ma
 | Februari 2023 | [Kan look-a-like model niet opslaan](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html) | Nieuw artikel | Ontdek de oplossing voor wanneer het blik-a-als model niet kan worden bewaard. |
 | Februari 2023 | [Hoe zijn AEP-naamruimten gerelateerd aan AAM gegevensbronnen?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html) | Nieuw artikel | Ontdek hoe AEP [!DNL Identity Namespaces] verband houden met AAM [!DNL Data Sources]. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Voor hulpmiddelen voor zelfhulp raadpleegt u [Documentatie en zelfstudies voor Audience Managers](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) op Experience League.
 
@@ -295,7 +295,7 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 | Februari 2023 | [Uitdrukkelijke app filteren](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-express-pug-app.html?lang=en) | AEM Headless Developer Portal | Ontdek AEM GraphQL-API&#39;s zonder koppen de mogelijkheid om gegevens te filteren met een Express- en Pug-app. Met deze Express-app maakt u een lijst met WKND-avonturen die kunnen worden gefilterd op Type activiteit. | AEM CS |
 | Februari 2023 | [Mijn werkruimte in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/my-workspace.html?lang=en) | Video | Leer hoe u efficiënter kunt werken met de door de gebruiker configureerbare widgets van Mijn werkruimte. | AEM Assets |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Experience Manager-releasegegevens
 
@@ -326,7 +326,7 @@ Nieuw artikel en updates van bestaande artikelen voor [!DNL Adobe Experience Man
 | Februari 2023 | [De binnenkomende koppelingen tonen niet alle koppelingspagina&#39;s](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html) | Nieuw artikel | Ontdek de oplossing voor de kwestie waar de inkomende verbindingen niet alle het verbinden pagina&#39;s tonen. |
 | Februari 2023 | [Voorbeelden van request.log analysis \| AEP](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html) | Nieuw artikel | Meer informatie over de verschillende informatie in het [!DNL Adobe Experience Manager] (AEM) `request.log`. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Overige Help-bronnen voor Experience Manager
 
@@ -370,7 +370,7 @@ Nieuwe functies en inhoud beschikbaar voor [!DNL Adobe Commerce].
 | Februari 2023 | [Developer App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.html?lang=en) | Video | Leer meer over Developer App Builder en hoe deze uw Adobe Commerce-winkel aangepaste, unieke functionaliteit kan bieden zonder dat u procesmethoden hoeft te gebruiken. |
 | Februari 2023 | [App Builder voor functionele demonstratie van Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.html) | Video | Meer informatie over Adobe Developer App Builder die in Adobe Commerce wordt gebruikt met een technische demonstratie. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Commerce] kennisbasis ondersteunen
 
@@ -380,7 +380,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor Adobe Commerce.
 |---------|--------|---------|---------|
 | Februari 2023 | [Kwaliteitspatches (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | Nieuwe artikelen | Er zijn nieuwe artikelen gepubliceerd over het toepassen van pleisters die beschikbaar zijn in QPT 1.1.24 en QPT 1.1.25. Deze artikelen staan in de desbetreffende secties. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![Pictogram](/assets/target.png) [!DNL Target] {#target}
 
@@ -403,7 +403,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Februari 2023 | _Tien best practices voor succes met Adobe Campaign voor marketeers_ | Artikel | Leer de tien best practices om Adobe Campaign-gebruikers te helpen de transformatie van de digitale consument en een betere ervaring voor hun klanten te ontgrendelen en te versnellen. | Zie: <ul><li>[Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/10-best-practices-for-marketers.html)<li>[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/strategy/10-best-practices-for-marketers.html)</li><li>[Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=en) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] kennisbasis ondersteunen
 
@@ -414,7 +414,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Adobe Campaign].
 | Februari 2023 | [V8 Lage aflevering](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21226.html) | Nieuw artikel | Ontdek de oplossing voor een lage aflevering in V8 8.3.8 versies van [!DNL Adobe Campaign Classic]. |
 | Februari 2023 | [De zaadadressen worden gedupliceerd wanneer de terugkomende levering wordt uitgevoerd](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21292.html) | Nieuw artikel | Ontdek de oplossing voor de kwestie waar de zaadadressen worden gedupliceerd wanneer de terugkomende levering wordt uitgevoerd. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] Help-bronnen
 
@@ -435,7 +435,9 @@ Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in 
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journey Optimizer].
 
-|februari 2023|[SMS API-referenties en kanaaloppervlakken configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=en)|Video |Leer hoe u Journey Optimizer met een SMS-serviceprovider kunt verbinden en hoe u een SMS-kanaaloppervlak kunt maken.|
+| Gepubliceerd | Naam | Type | Beschrijving |
+|---------|-------|--------|---------|
+| Februari 2023 | [SMS API-referenties en kanaaloppervlakken configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=en) | Video | Leer hoe u Journey Optimizer kunt verbinden met een SMS-serviceprovider en hoe u een SMS-kanaaloppervlak kunt maken. |
 
 ### [!DNL Journey Optimizer] kennisbasis ondersteunen
 
@@ -447,7 +449,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Adobe Journey Opt
 | Februari 2023 | [Toegang tot Assets Essentials geweigerd](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html) | Nieuw artikel | Ontdek de oplossing wanneer toegang tot [!DNL Assets Essentials] wordt geweigerd. |
 | Februari 2023 | [Het publiceren van de reis in testmodus mislukt](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html) | Nieuw artikel | Kom de oplossing te weten wanneer het publiceren van Journey op testwijze ontbreekt. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Meer bronnen voor [!DNL Journey Optimizer]
 
@@ -502,7 +504,7 @@ Nieuw [!DNL Workfront] cursussen en verzamelingen zelfstudies over Experience Le
 | Februari 2023 | [Een bestaande Adobe Workfront-instantie beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance.html?lang=en) | Video | Leer de belangrijkste fasen om, uw geval van te evalueren te begrijpen en te optimaliseren [!DNL Workfront] als een nieuwe systeem- of groepsbeheerder. |
 | Februari 2023 | [Projectkoppen aanpassen met lay-outsjablonen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.html) | Video | Leer om gebieden aan projectkopballen toe te voegen en te verwijderen door lay-outmalplaatjes. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Zie de [[!DNL Workfront] productreleases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) pagina voor een afronding van de meest recente informatie voor alle producten.
 
@@ -536,7 +538,7 @@ Laatst bijgewerkt: **2 maart 2023**
 | ------- | ----------- |
 | [!UICONTROL Campaigns] | (Release 15 februari) U kunt nu wijzigingslogboeken weergeven in diagramvorm en u kunt notities toevoegen aan elke willekeurige vermelding. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
 
@@ -549,7 +551,7 @@ Laatst bijgewerkt: **2 maart 2023**
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] campagnes; Release (11 februari) Bulksbladen bevatten nu &quot;[!UICONTROL Call to Action]&quot; en &quot;[!UICONTROL Call to Action Language]&quot; kolommen voor multimediaadvertenties (in responsieve en opgemaakte indeling) die de &quot;[!UICONTROL Creative (except RSA)]&quot; Rij. |
 | Google Manager-accounts | (23 februari) Een nieuwe [!UICONTROL Admin] > [!UICONTROL Manager Accounts] eigenschap staat u toe om authentificatie voor te verstrekken [!DNL Google Ads] beheerdersaccounts [!DNL Search] uploadt conversies naar andere accounts. Gebruik deze functie als u een upload wilt uitvoeren [!DNL Adobe]-tracked, cross-account conversie metrics naar a [!DNL Google Ads] de rekening van de manager of b) uploadt portefeuilledoelstellingen die dwars-rekeningsomzettingen in omvatten [!DNL Google Ads] voor hybride optimalisatie.<br><br>Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de optie &quot;[!UICONTROL Manager Account for Cross-Account Conversions]&quot; in de [!UICONTROL Campaigns] > [!UICONTROL Accounts] de mening wijst op managerrekening identiteitskaart voor elke kindrekening, en de kolom toont een fout wanneer de managerrekening niet voor authentiek wordt verklaard. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![Pictogram](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
@@ -559,7 +561,7 @@ Nieuwe zelfstudies en cursussen gepubliceerd voor [!DNL Document Cloud], met inb
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Februari 2023 | [Aan de slag met Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html) | Video | Ben je nog nooit Acrobat Sign gebruikt? Deze uitgebreide zelfstudie is een uitstekende beginplaats, omdat deze zich richt op alle basisbeginselen om u snel aan de slag te krijgen met Acrobat Sign. | Acrobat Sign |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Voor [!DNL Document Cloud] voor hulp , zie :
 
