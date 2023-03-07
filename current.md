@@ -31,7 +31,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 Meld u aan bij ons in Las Vegas om uw vaardigheden uit te breiden, inspiratie te wekken en verbindingen te bouwen die u in staat stellen de digitale economie persoonlijk te maken. Voor degenen die de gebeurtenis van wereldklasse in Vegas niet kunnen bijwonen, sluit u zich vrijwel overal gratis aan bij ons.
 
-[!BADGE Registreren]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;Registreren voor [!DNL Adobe Summit]&quot;}
+[!BADGE Registreren]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other" tooltip="Registreren voor [!DNL Adobe Summit]"}
 
 ## Updates en gebeurtenissen voor productrelease - februari 2023
 
