@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
+source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
 workflow-type: tm+mt
-source-wordcount: '4567'
+source-wordcount: '4554'
 ht-degree: 8%
 
 ---
@@ -115,7 +115,7 @@ De nieuwste releasegegevens en nieuwe documentatie vindt u voor [!DNL Experience
 
 +++Details
 
-* [Opmerkingen bij de release Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - geplande vrijlating - **29 maart 2032**
+* [Opmerkingen bij de release Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - geplande vrijlating - **29 maart 2023**
 
 ### Nieuw [!DNL Experience Platform] zelfstudies en cursussen
 
@@ -481,7 +481,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journ
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | Maart 2023 | [Een trainingssandbox configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | Tutorial | Leer hoe u een sandbox configureert voor trainingsdoeleinden. Ga door de stappen die worden vereist om de schema&#39;s te vormen, steekproefgegevens in te voeren, en gebeurtenissen tot stand te brengen. |
-| Maart 2023 | [Journey Optimizer-uitdagingen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Uitdagingen | De uitdagingen verstrekken een scenario en de vereisten nodig om te oefenen wat u leerde. Elke uitdaging richt een uniek gebruiksgeval dat u uitvoert. <p>Nieuwe uitdagingen:<ul><li>[Een aankondiging van een zomerverzameling maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Een bevestiging van een bestelling maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li><li>[Een productsuppletiemelding maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul> |
+| Maart 2023 | [Journey Optimizer-uitdagingen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Uitdagingen | De uitdagingen verstrekken een scenario en de vereisten nodig om te oefenen wat u leerde. Elke uitdaging richt een uniek gebruiksgeval dat u uitvoert. <p>Nieuwe uitdagingen:<ul><li>[Een aankondiging van een zomerverzameling maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Een bevestiging van een bestelling maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul> |
 
 {style="table-layout:auto"}
 
