@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4e24ba2510e2ed90a11c05e952312b8b08603d80
+source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
 workflow-type: tm+mt
-source-wordcount: '4554'
+source-wordcount: '4451'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **15 maart 2023**
+Laatste update: **20 maart 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -601,13 +601,15 @@ Last updated: **August 9, 2022**
 
 Meer informatie over de nieuwste functies voor Adobe-advertenties.
 
-Laatst bijgewerkt: **2 maart 2023**
+<!--
+Last updated: **March 2, 2023**
 
-| Functie | Beschrijving |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (Release 15 februari) U kunt nu wijzigingslogboeken weergeven in diagramvorm en u kunt notities toevoegen aan elke willekeurige vermelding. |
+| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
+-->
 
 ### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
 
@@ -615,10 +617,8 @@ Laatst bijgewerkt: **2 maart 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (Google Ads-rekeningen; open bètafunctie; 23 februari) Alleen-lezen synchronisatieondersteuning voor [!DNL Google Ads] alle adverteerders hebben in de bètamodus van de detectiecampagnes . Detectiecampagnes hebben [!UICONTROL Campaign Type] &quot;[!UICONTROL Discovery],&quot; [!UICONTROL Ad Group Type] &quot;[!UICONTROL Discovery],&quot; en [!UICONTROL Creative Type] &quot;[!UICONTROL Discovery Ad]&quot; (voor advertenties met één afbeelding) of &quot;[!UICONTROL Discovery Carousel Ad]&quot; (voor carrouseladvertenties met meerdere afbeeldingen). U kunt detectiecampagnes opnemen in standaard- en hybride portfolio&#39;s.<br><br>Gegevens op ad-niveau voor uw detectiecampagnes zijn beschikbaar in rapporten. Voor adverteerders met een Adobe Analytics-integratie zijn gegevens op advertentieniveau beschikbaar in [!DNL Analytics]. Evenzo [!DNL Analytics] gegevens zijn beschikbaar in [!DNL Search]; de gegevens worden verzonden met behulp van de upgrade `s_kwcid` parameter tracking, ongeacht de `s_kwcid` gebruiken voor de account. Als u normaal de oudere versie van `s_kwcid`en vervolgens worden uw klikgegevens/kostengegevens en inkomstengegevens bijgehouden met behulp van verschillende `s_kwcids`, maar beide reeksen gegevens zijn volledig geclassificeerd en geaggregeerd in het kader van dezelfde campagne en rekening. |
-|  | ([!DNL Google Ads] rekeningen; 11 februari) Ondersteuning voor &quot;[!UICONTROL Target Impression Share]&quot; biedstrategie is nu alleen beschikbaar voor campagnes op het zoeknetwerk . Voor deze biedstrategie: [!DNL Google Ads] (niet [!DNL Search]) optimaliseert biedingen om een doel te bereiken dat de indruk wordt gedeeld en geplaatst. U kunt desgewenst een [!UICONTROL Target Impression Share] als percentage, [!UICONTROL Target Ad Position]en [!UICONTROL Max CPC] (kosten per klik). Deze optie wordt nog niet ondersteund in hybride portfolio&#39;s. |
-| [!UICONTROL Bulksheets] | ([!DNL Microsoft] campagnes; Release (11 februari) Bulksbladen bevatten nu &quot;[!UICONTROL Call to Action]&quot; en &quot;[!UICONTROL Call to Action Language]&quot; kolommen voor multimediaadvertenties (in responsieve en opgemaakte indeling) die de &quot;[!UICONTROL Creative (except RSA)]&quot; Rij. |
-| Google Manager-accounts | (23 februari) Een nieuwe [!UICONTROL Admin] > [!UICONTROL Manager Accounts] eigenschap staat u toe om authentificatie voor te verstrekken [!DNL Google Ads] beheerdersaccounts [!DNL Search] uploadt conversies naar andere accounts. Gebruik deze functie als u een upload wilt uitvoeren [!DNL Adobe]-tracked, cross-account conversie metrics naar a [!DNL Google Ads] de rekening van de manager of b) uploadt portefeuilledoelstellingen die dwars-rekeningsomzettingen in omvatten [!DNL Google Ads] voor hybride optimalisatie.<br><br>Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de optie &quot;[!UICONTROL Manager Account for Cross-Account Conversions]&quot; in de [!UICONTROL Campaigns] > [!UICONTROL Accounts] de mening wijst op managerrekening identiteitskaart voor elke kindrekening, en de kolom toont een fout wanneer de managerrekening niet voor authentiek wordt verklaard. |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft Advertising] publiekscampagnes; open bètafunctie; (18 maart) Publiek campagnes kunnen nu de verbeterde CPC-biedstrategie (eCPC) gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br><br>Publiek campagnes met eCPC kunnen in portefeuilles voor optimalisering worden omvat. |
+| [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen; 18 maart) De volgende nieuwe prominence metrics zijn beschikbaar in de meningen en rapporten van het campagnebeheer:<ul><li><p>[!UICONTROL Content IS]: Het aantal indrukken dat u hebt ontvangen voor advertenties op het scherm-/publieksnetwerk gedeeld door het geschatte aantal weergaven en indrukken dat u in aanmerking kwam om te ontvangen.</p><p>Dit en het andere &quot;[!UICONTROL Content]*&quot;-meetgegevens zijn beschikbaar in alle weergaven voor campagnebeheer voor entiteiten die relevant zijn voor advertenties met inhoud en in de bijbehorende basisrapporten:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], en [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: Het geschatte percentage indrukken dat uw advertenties op het scherm/publieksnetwerk niet kregen omdat uw dagelijkse of maandelijkse budget te laag was.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: Het geschatte percentage indrukken dat uw advertenties op het scherm/publieksnetwerk niet werden getoond wegens een slechte advertentierangschikking.</p></li><li><p>[!UICONTROL Search exact match IS]: Het aantal indrukkingen dat u hebt ontvangen voor zoekopdrachten die exact overeenkomen met uw trefwoord gedeeld door het geschatte aantal exacte overeenkomende indrukkingen dat u in aanmerking kwam om te ontvangen.</p><p>Deze maatstaf is beschikbaar in alle weergaven voor campagnebeheer voor entiteiten die relevant zijn voor het doorzoeken van advertenties en in de bijbehorende basisrapporten:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group], en [!UICONTROL Portfolio]. Ze zitten ook in de [!UICONTROL Constraint], [!UICONTROL Label Classification], en [!UICONTROL Label Value] rapporten.</p></li></ul> |
 
 {style="table-layout:auto"}
 
