@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4451'
+source-wordcount: '4483'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **20 maart 2023**
+Laatste update: **27 maart 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -481,7 +481,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journ
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | Maart 2023 | [Een trainingssandbox configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | Tutorial | Leer hoe u een sandbox configureert voor trainingsdoeleinden. Ga door de stappen die worden vereist om de schema&#39;s te vormen, steekproefgegevens in te voeren, en gebeurtenissen tot stand te brengen. |
-| Maart 2023 | [Journey Optimizer-uitdagingen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Uitdagingen | De uitdagingen verstrekken een scenario en de vereisten nodig om te oefenen wat u leerde. Elke uitdaging richt een uniek gebruiksgeval dat u uitvoert. <p>Nieuwe uitdagingen:<ul><li>[Een aankondiging van een zomerverzameling maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Een bevestiging van een bestelling maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul> |
+| Maart 2023 | [Journey Optimizer-uitdagingen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Uitdagingen | Uitdagingen bieden een scenario en de vereisten die nodig zijn om te oefenen wat u hebt geleerd. Elke uitdaging richt zich op een uniek gebruiksscenario dat u implementeert. <p>Nieuwe uitdagingen:<ul><li>[Een aankondiging van een zomerverzameling maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Een bevestiging van een bestelling maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul> |
 
 {style="table-layout:auto"}
 
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
 
-Laatst bijgewerkt: **2 maart 2023**
+Laatst bijgewerkt: **27 maart 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
 | [!UICONTROL Campaigns] | ([!DNL Microsoft Advertising] publiekscampagnes; open bètafunctie; (18 maart) Publiek campagnes kunnen nu de verbeterde CPC-biedstrategie (eCPC) gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br><br>Publiek campagnes met eCPC kunnen in portefeuilles voor optimalisering worden omvat. |
+| [!UICONTROL Campaigns], [!UICONTROL Portfolios] | ([!DNL Google Ads] rekeningen; open bètafunctie) Optimalisatie-ondersteuning is nu beschikbaar voor [!DNL Google Ads] u kunt maximale prestatiecampagnes maken en deze toevoegen aan hybride portfolio&#39;s. De doelstellingen van de biedstrategie en de campagnebegrotingen worden vastgesteld op het campagneniveau. |
 | [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen; 18 maart) De volgende nieuwe prominence metrics zijn beschikbaar in de meningen en rapporten van het campagnebeheer:<ul><li><p>[!UICONTROL Content IS]: Het aantal indrukken dat u hebt ontvangen voor advertenties op het scherm-/publieksnetwerk gedeeld door het geschatte aantal weergaven en indrukken dat u in aanmerking kwam om te ontvangen.</p><p>Dit en het andere &quot;[!UICONTROL Content]*&quot;-meetgegevens zijn beschikbaar in alle weergaven voor campagnebeheer voor entiteiten die relevant zijn voor advertenties met inhoud en in de bijbehorende basisrapporten:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], en [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: Het geschatte percentage indrukken dat uw advertenties op het scherm/publieksnetwerk niet kregen omdat uw dagelijkse of maandelijkse budget te laag was.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: Het geschatte percentage indrukken dat uw advertenties op het scherm/publieksnetwerk niet werden getoond wegens een slechte advertentierangschikking.</p></li><li><p>[!UICONTROL Search exact match IS]: Het aantal indrukkingen dat u hebt ontvangen voor zoekopdrachten die exact overeenkomen met uw trefwoord gedeeld door het geschatte aantal exacte overeenkomende indrukkingen dat u in aanmerking kwam om te ontvangen.</p><p>Deze maatstaf is beschikbaar in alle weergaven voor campagnebeheer voor entiteiten die relevant zijn voor het doorzoeken van advertenties en in de bijbehorende basisrapporten:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group], en [!UICONTROL Portfolio]. Ze zitten ook in de [!UICONTROL Constraint], [!UICONTROL Label Classification], en [!UICONTROL Label Value] rapporten.</p></li></ul> |
 
 {style="table-layout:auto"}
