@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
+source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
 workflow-type: tm+mt
-source-wordcount: '4483'
+source-wordcount: '4420'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **27 maart 2023**
+Laatste update: **29 maart 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -59,17 +59,13 @@ Kom te weten wat er op Experience League gebeurt. Gebeurtenissen zijn een uitste
 
 +++Aanstaande gebeurtenissen
 
-* **[!DNL Analytics]** | _Snellere tijd voor inzicht met Adobe Analytics_ | **9 maart om 8:00 uur PT** |  [Registreren](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* **[!DNL Marketo]** | _Adobe Marketo Engage kan groot zijn, leer hoe een klein team hun exemplaar maximaliseert_ | **30 maart om 8:00 uur PT** |  [Registreren](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
 
-* **[!DNL Marketo Engage]** | _Marketo en Mochas: Leverbaarheid (Deel 1)_ | **9 maart om 13:00 UUR** | [Registreren](https://register.gotowebinar.com/register/6250682251177513567)
+* **[!DNL Workfront]** | _Verbinden: Admin Chat voor marketing en creatief_ | **31 maart @ 10:00** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Verbinden: Chat voor strategische beheerder_ | **13 maart om 7:00 uur MT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Marketo en Mochas: Leverbaarheid (deel 2)_ | **5 april om 13:00 uur ET** | [Registreren](https://register.gotowebinar.com/register/6818591002040103259)
 
-* **[!DNL Workfront]** | _Essentiële elementen systeembeheer: Het verbeteren van Ervaring van de Gebruiker met het Ontwerp van de Interface_ | **15 maart om 8:00 uur PT** | [Registreren](https://event.on24.com/wcc/r/4123271/D486841B3D743479F12BAC0C583C10ED?partnerref=exl)
-
-* **[!DNL Marketo Engage]** | _Marketo Community - Koffiepauze voor vragen en antwoorden_ | **15 maart @ 08:00 PT** | [Registreren](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_ME&amp;utm_content=230315)
-
-* **[!DNL Adobe Summit]** |_De ultieme ervaring is terug. Neem deel aan ons in Vegas om vaardigheden op te bouwen, van de topmerken van de wereld te leren en geïnspireerd te zijn_ | **19 maart om 9.00 uur PT** | [Registreren](https://summit.adobe.com/na/?promoid=2K4PC9V3&amp;mv=other)
+* **[!DNL Adobe Summit]** |_Herziening van de Top: het hele jaar!_ | **Op verzoek** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
 Zie [Gebeurtenissen Experience League](https://experienceleague.adobe.com/events/?lang=en) voor een volledig schema van aanstaande gebeurtenissen en gebeurtenissen uit het verleden op aanvraag.
 
