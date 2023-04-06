@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
+source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
 workflow-type: tm+mt
-source-wordcount: '4420'
+source-wordcount: '4529'
 ht-degree: 8%
 
 ---
@@ -31,9 +31,10 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **29 maart 2023**
+Laatste update: **6 april 2023**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] gebeurtenissen](#events) (**Bijgewerkt op 6 april 2023**)
+* [Certificering](#certification) (**Nieuw! 6 april 2023**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface en beheer](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -59,15 +60,31 @@ Kom te weten wat er op Experience League gebeurt. Gebeurtenissen zijn een uitste
 
 +++Aanstaande gebeurtenissen
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage kan groot zijn, leer hoe een klein team hun exemplaar maximaliseert_ | **30 maart om 8:00 uur PT** |  [Registreren](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _Verbinden: Chat voor strategische beheerder_ | **10 april @ 8:00 AM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Verbinden: Admin Chat voor marketing en creatief_ | **31 maart @ 10:00** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Adobe Target Community Q&amp;A Coffee Break met Matthew Baillie en Georgia Frailey_ | **12 april om 8:00 uur PT** |  [Registreren](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo en Mochas: Leverbaarheid (deel 2)_ | **5 april om 13:00 uur ET** | [Registreren](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _Leren: Adobe Workfront 23.2 Release Round Up_ | **12 april @ 12:30 PM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_Herziening van de Top: het hele jaar!_ | **Op verzoek** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
 Zie [Gebeurtenissen Experience League](https://experienceleague.adobe.com/events/?lang=en) voor een volledig schema van aanstaande gebeurtenissen en gebeurtenissen uit het verleden op aanvraag.
+
++++
+
+## ![Pictogram](/assets/certification-badge.png) Certificering{#certification}
+
+Let op alle Adobe certificatiekandidaten! Adobe vindt het spannend om de start van de nieuwe Experience Cloud aan te kondigen [Certificering](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) op Experience League.
+
++++Details
+
+De certificeringssite is uw one-stop shop voor iedereen [!DNL Experience Cloud] inhoud met betrekking tot certificering, met inbegrip van:
+
+* Beschikbare certificeringen
+* Certificatieverlengingen voor Adobe-oplossingen
+* Updates van het certificeringsprogramma
+
+En meer! Ga naar [Adobe-certificering](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) op Experience League en start vandaag nog uw certificeringsreis!
 
 +++
 
