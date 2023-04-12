@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
+source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
 workflow-type: tm+mt
-source-wordcount: '5750'
+source-wordcount: '5751'
 ht-degree: 9%
 
 ---
@@ -96,7 +96,7 @@ Meer informatie over de nieuwste functies en updates in [!DNL Adobe System Statu
 
 [!DNL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over problemen met Adobe-producten en -services, onderbrekingen en onderhoudsgebeurtenissen. Ga naar [status.adobe.com](https://status.adobe.com/).
 
-Zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=en#status) voor Adobe Status om de recentste updates te bekijken.
+Zie [Opmerkingen bij de release maart 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=en#status) voor Adobe Status om de recentste updates te bekijken.
 
 +++
 
