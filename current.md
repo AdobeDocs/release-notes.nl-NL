@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1901183db80b397aebd80187b0e03dc422342a93
+source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
 workflow-type: tm+mt
-source-wordcount: '5904'
+source-wordcount: '5750'
 ht-degree: 9%
 
 ---
@@ -90,25 +90,13 @@ En meer! Ga naar [Adobe-certificering](https://experienceleague.adobe.com/docs/c
 
 ## ![Pictogram](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
->[!IMPORTANT]
->
->Meer informatie over de nieuwste functies en updates in [!DNL Adobe System Status].
+Meer informatie over de nieuwste functies en updates in [!DNL Adobe System Status].
 
 +++Details
 
 [!DNL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over problemen met Adobe-producten en -services, onderbrekingen en onderhoudsgebeurtenissen. Ga naar [status.adobe.com](https://status.adobe.com/).
 
-Releasedatum: **15 februari 2023**
-
-**Wat is er nieuw**
-
-* [!DNL Status] heeft toegevoegd dat u API-supportservers rechtstreeks kunt aanroepen om gebeurtenissen zoals in de [status.adobe.com](https://status.adobe.com/) UI. U kunt deze APIs gebruiken om in uw controlesysteem of dashboards te integreren om gebeurtenissen in real time van de Status van Adobe te bekijken. Gebeurtenissen kunnen worden gefilterd op basis van product, productaanbod, regio, omgeving (indien beschikbaar), landinstelling en gebeurtenistype.
-
-| Functie | Beschrijving |
-| ------- | -------|
-| Adobe Status-API&#39;s | <ul><li>De status APIs van Adobe verstrekt gedetailleerde informatie en updates in real time over de producten en de dienststroomonderbreking van de Adobe wolk, verstoring, en onderhoudsgebeurtenissen.</li><li>De API&#39;s moeten worden ingesteld in [Adobe Developer Console](https://developer.adobe.com/console) voordat ze kunnen worden gebruikt. Uw organisatie moet rechten hebben voor minstens één product van Adobe om tot Adobe APIs toegang te hebben. Een rekening van de ontwikkelaarsconsole wordt vereist met de correcte toestemmingen.</li><li>Raadpleeg de documentatie [hier](https://developer.adobe.com/adobe-status/) en volgt u de hulplijnen voor installatie.</li><li>Zodra de opstelling wordt gedaan, kunt u gebruiken [API-naslagdocument](https://developer.adobe.com/adobe-status/api/) om de beschikbare API&#39;s en de handtekeningen te bekijken om deze aan te roepen.</li></ul> |
-
-{style="table-layout:auto"}
+Zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=en#status) voor Adobe Status om de recentste updates te bekijken.
 
 +++
 
