@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
+source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
 workflow-type: tm+mt
-source-wordcount: '5751'
-ht-degree: 9%
+source-wordcount: '5661'
+ht-degree: 10%
 
 ---
 
@@ -495,13 +495,13 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassingen |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | April 2023 | [Querygegevens](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en) | Video | Leer hoe te om gegevens te vragen gebruikend de vraagredacteur. | Campaign v8 |
-| April 2023 | [Bijlagen toevoegen aan een e-maillevering](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | Video | Leer hoe u bijlagen toevoegt aan een e-maillevering en hoe u verschillende typen e-mailbijlagen configureert. | Campaign v8 |
+| April 2023 | [Bijlagen toevoegen aan een e-mailaflevering](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | Video | Leer hoe u bijlagen toevoegt aan een e-maillevering en hoe u verschillende typen e-mailbijlagen configureert. | Campaign v8 |
 | April 2023 | [Leveringen configureren voor A/B-test](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html) | Video | Leer hoe uw een levering voor A/B-tests kunt configureren. | Campaign v8 |
 | April 2023 | [Openingspagina&#39;s configureren](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html) | Video | Leer hoe u bestemmingspagina&#39;s maakt en configureert. | Campaign v8 |
 | April 2023 | [Planningsactiviteiten configureren](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html) | Video | Leer hoe u een planningsactiviteit in een workflow kunt configureren. | Campaign v8 |
 | April 2023 | [Voorkeurscentrum maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html) | Video | Leer hoe u een voorkeurscentrum maakt met de Adobe Campaign-webtoepassingseditor. | Campaign v8 |
 | April 2023 | [Tijdzones beheren](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html) | Video | Leer hoe u tijdzones kunt toepassen voor geplande workflowactiviteiten. | Campaign v8 |
-| April 2023 | [quarantainebeheer begrijpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | Video | Begrijp hoe het quarantainebeheer in Adobe Campaign werkt en leer hoe te om quarantined adressen te beheren. | Campaign v8 |
+| April 2023 | [Quarantainebeheer begrijpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | Video | Begrijp hoe quarantainebeheer werkt in Adobe Campaign en leer hoe u in quarantaine geplaatste adressen beheert. | Campaign v8 |
 | April 2023 | [Berichten plannen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html) | Video | Leer hoe u een e-maillevering kunt plannen. | Campaign v8 |
 | April 2023 | [Een proef verzenden voor een e-maillevering](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html) | Video | Leer hoe u een e-mailbericht test voordat u het naar de uiteindelijke ontvangers verzendt. | Campaign v8 |
 
@@ -676,13 +676,12 @@ Laatst bijgewerkt: **10 april 2023**
 
 ### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
 
-Laatst bijgewerkt: **27 maart 2023**
+Laatst bijgewerkt: **14 april 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] publiekscampagnes; open bètafunctie; (18 maart) Publiek campagnes kunnen nu de verbeterde CPC-biedstrategie (eCPC) gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br><br>Publiek campagnes met eCPC kunnen in portefeuilles voor optimalisering worden omvat. |
-| [!UICONTROL Campaigns], [!UICONTROL Portfolios] | ([!DNL Google Ads] rekeningen; open bètafunctie) Optimalisatie-ondersteuning is nu beschikbaar voor [!DNL Google Ads] u kunt maximale prestatiecampagnes maken en deze toevoegen aan hybride portfolio&#39;s. De doelstellingen van de biedstrategie en de campagnebegrotingen worden vastgesteld op het campagneniveau. |
-| [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] en [!DNL Microsoft® Advertising] rekeningen; 18 maart) De volgende nieuwe prominence metrics zijn beschikbaar in de meningen en rapporten van het campagnebeheer:<ul><li><p>[!UICONTROL Content IS]: Het aantal indrukken dat u hebt ontvangen voor advertenties op het scherm-/publieksnetwerk gedeeld door het geschatte aantal weergaven en indrukken dat u in aanmerking kwam om te ontvangen.</p><p>Dit en het andere [!UICONTROL Content] De metriek is beschikbaar in alle meningen van het campagnebeheer voor entiteiten die op inhoudspots en in de verwante basisrapporten betrekking hebben:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], en [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: Het geschatte percentage indrukken dat uw advertenties op het scherm/publieksnetwerk niet kregen omdat uw dagelijkse of maandelijkse budget te laag was.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: Het geschatte percentage indrukken dat uw advertenties op het scherm/publieksnetwerk niet werden getoond wegens een slechte advertentierangschikking.</p></li><li><p>[!UICONTROL Search exact match IS]: Het aantal indrukkingen dat u hebt ontvangen voor zoekopdrachten die exact overeenkomen met uw trefwoord gedeeld door het geschatte aantal exacte overeenkomende indrukkingen dat u in aanmerking kwam om te ontvangen.</p><p>Deze maatstaf is beschikbaar in alle weergaven voor campagnebeheer voor entiteiten die relevant zijn voor het doorzoeken van advertenties en in de bijbehorende basisrapporten:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group], en [!UICONTROL Portfolio]. Ze zitten ook in de [!UICONTROL Constraint], [!UICONTROL Label Classification], en [!UICONTROL Label Value] rapporten.</p></li></ul> |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] publiekscampagnes; 15 april) Publiek campagnes kunnen nu de &quot;Manual CPM&quot; biedstrategie gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Recommendations] | Zes nieuw ([!DNL Google Ads] aanbevelingen zijn beschikbaar op [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Suggesties voor het verbeteren van de advertentie voor een responsieve zoekfunctie</li><li>[!UICONTROL Upgrade local campaign to performance max]: Een oudere lokale campagne upgraden naar een maximale prestatiecampagne</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Een verouderde, slimme winkelcampagne upgraden naar een maximale prestatiecampagne</li><li>[!UICONTROL Forecasting set Target ROAS]: De begroting verhogen vóór een seizoensgebeurtenis die naar verwachting het verkeer zal doen toenemen, en de biedstrategie wijzigen van [!DNL Maximize Conversion Value] tot [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: De [!DNL Target CPA] met een aanbevolen hoeveelheid wanneer het te laag is en er weinig of geen omzettingen zijn</li><li>[!UICONTROL Display expansion opt in]: Bereik uitbreiden door een campagne bij te werken om weergaveuitbreiding te gebruiken</li></ul>Omdat het toevoegen van en het verwijderen van activa, veranderende campagneretypes, en veranderende begrotingen en biedingsstrategieën prestaties kunnen beïnvloeden, adviseren wij het bespreken van de voor- en nadelen van elke aanbeveling met uw Team van de Rekening van de Adobe zodat u een geïnformeerde beslissing kunt nemen. |
 
 {style="table-layout:auto"}
 
