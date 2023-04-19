@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5661'
-ht-degree: 10%
+source-wordcount: '5709'
+ht-degree: 9%
 
 ---
 
@@ -31,7 +31,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **12 april 2023**
+Laatste update: **18 april 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certificering bij Adobe](#certification) (**Nieuw!**)
@@ -58,13 +58,23 @@ Laatste update: **12 april 2023**
 
 Kom te weten wat er op Experience League gebeurt. Gebeurtenissen zijn een uitstekende plek om te leren, te interageren en antwoorden te krijgen van productexperts bij Adobe!
 
+Bijgewerkt: **19 april 2023**
+
 +++Aanstaande gebeurtenissen
 
-* **[!DNL Workfront]** | _Verbinden: Chat voor strategische beheerder_ | **10 april @ 8:00 AM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Vraag het de experts: Workflowopschoning bevorderen via webinar-follow-up automatisering_ | **27 april om 10:30 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Adobe Target Community Q&amp;A Coffee Break met Matthew Baillie en Georgia Frailey_ | **12 april om 8:00 uur PT** |  [Registreren](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _Workshop AEM Sites Supercharger_ | **25 april om 8:00 uur PT** |  [Registreren](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _Leren: Adobe Workfront 23.2 Release Round Up_ | **12 april @ 12:30 PM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _Krijg gegevensinzameling en gebeurtenis door:sturen omhoog en lopend met enkel een paar klikken!_ | **25 april om 9:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo Champion diep duiken: E-mailcursus_ | **25 april om 10:00 uur PT** | [Registreren](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM kantooruren van Champion - AEM as a Cloud Service_ | **27 april om 7:30 uur PT** | [Registreren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Een team van Adobe Analytics-experts samenstellen_ | **27 april om 8:00 uur PT** | [Registreren](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target - Lever elke keer persoonlijke ervaringen met klanten!_ | **27 april om 9:00 BST** | [Registreren](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_Herziening van de Top: het hele jaar!_ | **Op verzoek** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Laatst bijgewerkt: **14 april 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] publiekscampagnes; 15 april) Publiek campagnes kunnen nu de &quot;Manual CPM&quot; biedstrategie gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] publiekscampagnes; 15 april) Publiek campagnes kunnen nu de &quot;Manual CPM&quot; biedstrategie gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | Zes nieuw ([!DNL Google Ads] aanbevelingen zijn beschikbaar op [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Suggesties voor het verbeteren van de advertentie voor een responsieve zoekfunctie</li><li>[!UICONTROL Upgrade local campaign to performance max]: Een oudere lokale campagne upgraden naar een maximale prestatiecampagne</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Een verouderde, slimme winkelcampagne upgraden naar een maximale prestatiecampagne</li><li>[!UICONTROL Forecasting set Target ROAS]: De begroting verhogen vóór een seizoensgebeurtenis die naar verwachting het verkeer zal doen toenemen, en de biedstrategie wijzigen van [!DNL Maximize Conversion Value] tot [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: De [!DNL Target CPA] met een aanbevolen hoeveelheid wanneer het te laag is en er weinig of geen omzettingen zijn</li><li>[!UICONTROL Display expansion opt in]: Bereik uitbreiden door een campagne bij te werken om weergaveuitbreiding te gebruiken</li></ul>Omdat het toevoegen van en het verwijderen van activa, veranderende campagneretypes, en veranderende begrotingen en biedingsstrategieën prestaties kunnen beïnvloeden, adviseren wij het bespreken van de voor- en nadelen van elke aanbeveling met uw Team van de Rekening van de Adobe zodat u een geïnformeerde beslissing kunt nemen. |
 
 {style="table-layout:auto"}
