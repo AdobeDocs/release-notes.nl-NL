@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
 source-wordcount: '5709'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -27,7 +27,7 @@ Deze pagina helpt u bijgewerkt te blijven op de informatie van de productrelease
 
 **Hulp nodig?**
 
-Uw pad naar succes begint met [Experience League](https://experienceleague.adobe.com/?lang=en#home). Blader door de uitgebreide Adobe van zelfhulp [productdocumentatie](https://experienceleague.adobe.com/docs/?lang=nl) en met instructies [zelfstudievideo&#39;s](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Zoeken [cursussen](https://experienceleague.adobe.com/?lang=en#courses) voor alle niveaus en rollen vragen stellen van onze online [gemeenschap](https://experienceleaguecommunities.adobe.com/?profile.language=en) van peers en expert [ondersteuning](https://experienceleague.adobe.com/?support-tab=home#support) wanneer u het nodig hebt.
+Uw pad naar succes begint met [Experience League](https://experienceleague.adobe.com/?lang=en#home). Blader door de uitgebreide Adobe van zelfhulp [productdocumentatie](https://experienceleague.adobe.com/docs/?lang=nl) en met instructies [zelfstudievideo&#39;s](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Zoeken [cursussen](https://experienceleague.adobe.com/?lang=en#courses) voor alle niveaus en rollen vragen stellen van onze online [gemeenschap](https://experienceleaguecommunities.adobe.com/?profile.language=en) van peers en expert [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support) wanneer u het nodig hebt.
 
 ## Updates en gebeurtenissen voor productrelease
 
