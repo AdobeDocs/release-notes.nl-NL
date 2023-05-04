@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
+source-git-commit: f92a2fb6b52631169fcf61eb89789483ff124b49
 workflow-type: tm+mt
-source-wordcount: '5696'
+source-wordcount: '5715'
 ht-degree: 10%
 
 ---
@@ -71,6 +71,8 @@ Bijgewerkt: **4 mei 2023**
 * **[!DNL Commerce]** | _Handel en koffie: 7 Manieren om klantenservice en -retentie te bouwen_ | **11 mei om 13:00 PT** | [Registreren](https://register.gotowebinar.com/#register/4149787110381957724)
 
 * **[!DNL Workfront]** | _Verbinden: Chat voor strategische beheerder_ | **15 mei @ 8:00 CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Ga naar [Gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) op Experience League om gebeurtenissen uit het verleden te bekijken en te zien wat nu is.
 
 +++
 
