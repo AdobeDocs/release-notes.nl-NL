@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
+source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
 workflow-type: tm+mt
-source-wordcount: '5709'
+source-wordcount: '5696'
 ht-degree: 10%
 
 ---
@@ -31,10 +31,10 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **18 april 2023**
+Laatste update: **4 mei 2023**
 
-* [[!DNL Experience League] events](#events)
-* [Certificering bij Adobe](#certification) (**Nieuw!**)
+* [[!DNL Experience League] gebeurtenissen](#events) (Bijgewerkt: **4 mei**)
+* [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface en beheer](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -58,27 +58,19 @@ Laatste update: **18 april 2023**
 
 Kom te weten wat er op Experience League gebeurt. Gebeurtenissen zijn een uitstekende plek om te leren, te interageren en antwoorden te krijgen van productexperts bij Adobe!
 
-Bijgewerkt: **19 april 2023**
+Bijgewerkt: **4 mei 2023**
 
 +++Aanstaande gebeurtenissen
 
-* **[!DNL Workfront]** | _Vraag het de experts: Workflowopschoning bevorderen via webinar-follow-up automatisering_ | **27 april om 10:30 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Verbinden: Admin Chat voor marketing en creatief_ | **5 mei om 10:00 uur MT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,QZnzwwUzu0qWtspyd1Q-Ng,8nguBLkENEq0VpYFX3yJoA,D3ZwH_h7f0uQqBK-mZyEdQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Sites]** | _Workshop AEM Sites Supercharger_ | **25 april om 8:00 uur PT** |  [Registreren](https://adobe.ly/3ZV8gUG)
+* **[!DNL Campaign]** | _Adobe Campaign: Je kunt je e-mailmarketing altijd laten aanpassen!_ | **11 mei om 9:00 BST** |  [Registreren](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Experience Platform]** | _Krijg gegevensinzameling en gebeurtenis door:sturen omhoog en lopend met enkel een paar klikken!_ | **25 april om 9:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-230425.html)
+* **[!DNL Workfront]** | _Leren: Berekende aangepaste velden in Workfront_ | **11 mei om 10:30 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Marketo Engage]** | _Marketo Champion diep duiken: E-mailcursus_ | **25 april om 10:00 uur PT** | [Registreren](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+* **[!DNL Commerce]** | _Handel en koffie: 7 Manieren om klantenservice en -retentie te bouwen_ | **11 mei om 13:00 PT** | [Registreren](https://register.gotowebinar.com/#register/4149787110381957724)
 
-* **[!DNL Experience Manager as a Cloud Service]** | _AEM kantooruren van Champion - AEM as a Cloud Service_ | **27 april om 7:30 uur PT** | [Registreren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
-
-* **[!DNL Analytics]** | _Een team van Adobe Analytics-experts samenstellen_ | **27 april om 8:00 uur PT** | [Registreren](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
-
-* **[!DNL Target]** | _Adobe Target - Lever elke keer persoonlijke ervaringen met klanten!_ | **27 april om 9:00 BST** | [Registreren](https://adobetargetemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Adobe Summit]** |_Herziening van de Top: het hele jaar!_ | **Op verzoek** | [Details](https://business.adobe.com/summit/adobe-summit.html)
-
-Zie [Gebeurtenissen Experience League](https://experienceleague.adobe.com/events/?lang=en) voor een volledig schema van aanstaande gebeurtenissen en gebeurtenissen uit het verleden op aanvraag.
+* **[!DNL Workfront]** | _Verbinden: Chat voor strategische beheerder_ | **15 mei @ 8:00 CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
