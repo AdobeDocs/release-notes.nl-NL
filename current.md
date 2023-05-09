@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b776f31ac5a97fea0f571597b9597f7e58f75799
+source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
 workflow-type: tm+mt
-source-wordcount: '5427'
-ht-degree: 7%
+source-wordcount: '5428'
+ht-degree: 8%
 
 ---
 
@@ -31,7 +31,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **8 mei 2023**
+Laatste update: **9 mei 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certificering bij Adobe](#certification)
@@ -60,7 +60,7 @@ Laatste update: **8 mei 2023**
 
 Kom te weten wat er op Experience League gebeurt. Gebeurtenissen zijn een uitstekende plek om te leren, te interageren en antwoorden te krijgen van productexperts bij Adobe!
 
-Bijgewerkt: **10 mei 2023**
+Bijgewerkt: **9 mei 2023**
 
 +++Aanstaande gebeurtenissen
 
@@ -195,7 +195,7 @@ Zoek de meest recente releasegegevens voor [!DNL Customer Journey Analytics]. Ni
 
 +++Details
 
-Volgende release: **10 mei 2023**
+Releasedatum: **10 mei 2023**
 
 * Customer Journey Analytics [releaseopmerkingen](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -217,7 +217,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor CJA.
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Geen: **10 mei 2023**
+Releasedatum: **10 mei 2023**
 
 * [!DNL Streaming Media Analytics] [releaseopmerkingen](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
