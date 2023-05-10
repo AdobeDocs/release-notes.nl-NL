@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
+source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
 workflow-type: tm+mt
-source-wordcount: '5672'
+source-wordcount: '5659'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **9 mei 2023**
+Laatste update: **10 mei 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certificering bij Adobe](#certification)
@@ -47,8 +47,8 @@ Laatste update: **9 mei 2023**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Campaign]](#ac) (Bijgewerkt) **10 mei**)
+* [[!DNL Journey Optimizer]](#journey-opt) (bijgewerkt **10 mei**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -478,10 +478,10 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassing |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Mei 2023 | [Een enquête maken](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Leer hoe u een enquête maakt in Adobe Campaign Classic. | Campaign v8 |
-| Mei 2023 | [Een enquête maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Leer hoe u een enquête maakt in Adobe Campaign Classic. | Campaign Classic |
-| Mei 2023 | [E-mailleveringsinhoud ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Leer hoe u inhoud voor e-maillevering configureert, personaliseert en test. Begrijp hoe u sjablonen gebruikt, afbeeldingen uploadt, emoticons toevoegt, staafcodes en QR-codes insluit. | Campaign Classic |
-| Mei 2023 | [Een verzending controleren](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Begrijp berichtlogboeken, baanlogboeken, en leveringslogboeken. | Campaign Standard |
+| Mei 2023 | [Een enquête maken](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Leer hoe u een enquête maakt in [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
+| Mei 2023 | [Een enquête maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Leer hoe u een enquête maakt in [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| Mei 2023 | [E-mailleveringsinhoud ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Leer hoe u inhoud voor e-maillevering configureert, personaliseert en test. Begrijp hoe u sjablonen gebruikt, afbeeldingen uploadt, emoticons toevoegt, staafcodes en QR-codes insluit. | [!DNL Campaign Classic] |
+| Mei 2023 | [Een verzending controleren](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Begrijp berichtlogboeken, baanlogboeken, en leveringslogboeken. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -522,9 +522,9 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journ
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Mei 2023 | [Een webcampagne maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Leer hoe u in Journey Optimizer-campagnes een webervaring kunt ontwerpen met de visuele webeditor. |
+| Mei 2023 | [Een webcampagne maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Leer hoe u een webervaring kunt ontwerpen met de visuele webeditor in [!DNL Journey Optimizer] campagnes. |
 | Mei 2023 | [Een webcampagne maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Video | Begrijp wat een webcampagne is. Leer hoe u de eigenschappen van de webcampagne configureert, controleert en publiceert. |
-| Mei 2023 | [Gegevenssets exporteren naar opslaglocaties in de cloud](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Leer hoe u een dataset van Journey Optimizer naar een Amazon S3-bestemming exporteert. |
+| Mei 2023 | [Gegevenssets exporteren naar opslaglocaties in de cloud](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Leer hoe u een gegevensset exporteert van [!DNL Journey Optimizer] aan een [!DNL Amazon] S3-bestemming. |
 
 {style="table-layout:auto"}
 
