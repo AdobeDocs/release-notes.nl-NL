@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
+source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
 workflow-type: tm+mt
-source-wordcount: '5659'
+source-wordcount: '5653'
 ht-degree: 8%
 
 ---
@@ -472,9 +472,9 @@ Ga hier voor de nieuwste mogelijkheden, verbeteringen en oplossingen in [!DNL Ad
 
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Campagne v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en), en [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) opmerkingen bij de release.
 
-### Nieuw [!DNL Campaign] zelfstudies en cursussen {#tutorials-campaign}
+### Nieuw [!DNL Campaign] zelfstudies {#tutorials-campaign}
 
-Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Campaign.
+Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor [!DNL Adobe Campaign].
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassing |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -516,7 +516,7 @@ Meer informatie over de nieuwste release voor [!DNL Journey Optimizer]. Bekijk d
 
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Opmerkingen bij de release van Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-### Nieuw [!DNL Journey Optimizer] zelfstudies en cursussen {#tutorials-ajo}
+### Nieuw [!DNL Journey Optimizer] zelfstudies {#tutorials-ajo}
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journey Optimizer].
 
