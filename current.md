@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
+source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
 workflow-type: tm+mt
-source-wordcount: '5653'
+source-wordcount: '5651'
 ht-degree: 8%
 
 ---
@@ -368,7 +368,7 @@ Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubli
 | Mei 2023 | [Teksteditor aanpassen in interactieve communicatie](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | Video | Pas de teksteditor in interactieve communicatie aan om aangepaste lettertypen en grootten toe te voegen. | AEM Forms |
 | Mei 2023 | [Reageer app met AEM Forms en Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | Video | Een interactief communicatiedocument maken met de gegevens die zijn verzonden vanuit een native reactie-app en dit presenteren aan de eindgebruiker voor ondertekening met de Acrobat-widget voor ondertekening | AEM Forms |
 | Mei 2023 | [Forms CS integreren met Sharepoint](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | Video | Leer AEM Forms CS te configureren en te integreren met Microsoft® Sharepoint | AEM Forms CS |
-| Mei 2023 | [Formulierverzending opslaan op één station](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Video | Configureer het adaptieve formulier om formuliergegevens op één station op te slaan. | AEM Forms CS |
+| Mei 2023 | [Formulierverzending opslaan in OneDrive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Video | Configureer het adaptieve formulier om formuliergegevens op te slaan in OneDrive. | AEM Forms CS |
 | Mei 2023 | [Optimale afbeeldingen van AEM headless gebruiken](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html) | Video | Leer hoe u geoptimaliseerde afbeeldingen kunt gebruiken in AEM Headless. | AEM CS |
 | Mei 2023 | [Hoe te met grote resultaten in AEM Headless werken](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en) | Video | Leer hoe u met grote resultaatsets werkt met AEM Headless. | AEM CS |
 
@@ -480,7 +480,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor [!DNL Adobe Campa
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Mei 2023 | [Een enquête maken](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Leer hoe u een enquête maakt in [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
 | Mei 2023 | [Een enquête maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Leer hoe u een enquête maakt in [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| Mei 2023 | [E-mailleveringsinhoud ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Leer hoe u inhoud voor e-maillevering configureert, personaliseert en test. Begrijp hoe u sjablonen gebruikt, afbeeldingen uploadt, emoticons toevoegt, staafcodes en QR-codes insluit. | [!DNL Campaign Classic] |
+| Mei 2023 | [Content voor e-maillevering ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Meer informatie over content voor e-mailaflevering configureren, personaliseren en testen. Inzichten in sjablonen gebruiken, afbeeldingen uploaden, emoticons toevoegen en barcodes en QR-codes insluiten. | [!DNL Campaign Classic] |
 | Mei 2023 | [Een verzending controleren](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Begrijp berichtlogboeken, baanlogboeken, en leveringslogboeken. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
@@ -680,7 +680,7 @@ Laatst bijgewerkt: **14 april 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] publiekscampagnes; 15 april) Publiek campagnes kunnen nu de &quot;Manual CPM&quot; biedstrategie gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] publiekscampagnes; 15 april) Publiek campagnes kunnen nu de &quot;Manual CPM&quot; biedstrategie gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br><br>De steun van de optimalisering is niet beschikbaar voor campagnes CPM. |
 | [!UICONTROL Recommendations] | Zes nieuw ([!DNL Google Ads] aanbevelingen zijn beschikbaar op [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Suggesties voor het verbeteren van de advertentie voor een responsieve zoekfunctie</li><li>[!UICONTROL Upgrade local campaign to performance max]: Een oudere lokale campagne upgraden naar een maximale prestatiecampagne</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Een verouderde, slimme winkelcampagne upgraden naar een maximale prestatiecampagne</li><li>[!UICONTROL Forecasting set Target ROAS]: De begroting verhogen vóór een seizoensgebeurtenis die naar verwachting het verkeer zal doen toenemen en de biedstrategie wijzigen van [!DNL Maximize Conversion Value] tot [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: De [!DNL Target CPA] met een aanbevolen hoeveelheid wanneer het te laag is en er weinig of geen omzettingen zijn</li><li>[!UICONTROL Display expansion opt in]: Bereik uitbreiden door een campagne bij te werken om weergaveuitbreiding te gebruiken</li></ul>Omdat het toevoegen van en het verwijderen van activa, veranderende campagneretypes, en veranderende begrotingen en biedingsstrategieën prestaties kunnen beïnvloeden, adviseren wij het bespreken van de voor- en nadelen van elke aanbeveling met uw Team van de Rekening van de Adobe zodat u een geïnformeerde beslissing kunt nemen. |
 
 {style="table-layout:auto"}
