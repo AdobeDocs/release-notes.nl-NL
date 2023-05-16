@@ -1,6 +1,6 @@
 ---
 title: Opmerkingen bij de nieuwste release
-description: Lees de nieuwste releaseopmerkingen voor Adobe [!DNL Experience Cloud] producten en diensten. Meer informatie over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste zelfstudies en cursussen voor [!DNL Experience Cloud] toepassingen.
+description: Lees de nieuwste aanvullende informatie voor Adobe [!DNL Experience Cloud] -producten en -services. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste tutorials en cursussen voor  [!DNL Experience Cloud] -applicaties.
 doc-type: release notes
 last-update: May 2023
 author: mfrei
@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
 workflow-type: tm+mt
 source-wordcount: '5651'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
