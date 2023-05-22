@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
+source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
 workflow-type: tm+mt
-source-wordcount: '5651'
+source-wordcount: '5653'
 ht-degree: 9%
 
 ---
@@ -31,9 +31,9 @@ Uw pad naar succes begint met [Experience League](https://experienceleague.adobe
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **10 mei 2023**
+Laatste update: **22 mei 2023**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **22 mei**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface en beheer](#ecloud)
@@ -56,29 +56,34 @@ Laatste update: **10 mei 2023**
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![Pictogram](/assets/experience-league.png) [!DNL Experience League] gebeurtenissen {#events}
+## ![Pictogram](/assets/experience-league.png) [!DNL Experience League] gebeurtenissen en updates {#events}
 
 Kom te weten wat er op Experience League gebeurt. Gebeurtenissen zijn een uitstekende plek om te leren, te interageren en antwoorden te krijgen van productexperts bij Adobe!
 
-Bijgewerkt: **9 mei 2023**
+Bijgewerkt: **22 mei 2023**
+
+**Verbeterde zoekopdracht naar inhoud op Experience League:** U kunt aanpassen hoe te om inhoud onderzoeksresultaten voor de producten te filtreren u bezit. Resultaten weergeven op basis van:
+
+* Lesbestanden
+* Cursussen
+* Documentatie
+* Producten
+* Gebeurtenissen
+* Certificeringen
+
+Ga naar [Experience League](https://experienceleague.adobe.com/?lang=en#home) en controleer het!
 
 +++Aanstaande gebeurtenissen
 
-* **[!DNL Campaign]** | _Adobe Campaign: Je kunt je e-mailmarketing altijd laten aanpassen!_ | **11 mei om 9:00 BST** |  [Registreren](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Workfront]** | _Leren: Berekende aangepaste velden in Workfront_ | **11 mei om 10:30 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Commerce]** | _Handel en koffie: 7 Manieren om klantenservice en -retentie te bouwen_ | **11 mei om 13:00 PT** | [Registreren](https://register.gotowebinar.com/#register/4149787110381957724)
-
-* **[!DNL Workfront]** | _Verbinden: Chat voor strategische beheerder_ | **15 mei @ 8:00 CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Sites]** | _Workshop Adobe Experience Manager Sites Supercharger_ | **16 mei om 9:00 BST** | [Registreren](https://landing.adobe.com/acs/AEM-ValueAcceleratorSeries-EMEA2023.html)
-
-* **[!DNL Experience Manager Sites]** | _Gemaakt voor inhoud: Componenten van inhouds- en ervaringsfragmenten_ | **16 mei om 8:00 uur PT** | [Registreren](https://engage.adobe.com/adobe-experience-manager-building-blocks-registration-page.html)
-
-* **[!DNL Analytics]** | _De Makers van de ervaring de Uitwisseling van de Vaardigheid voor Adobe Analytics - APAC_ | **17 mei 19:30** | [Registreren](https://cvent.me/vWyONx?RefId=Experience+League)
-
 * **[!DNL Experience Manager]** | _Developer&#39;s Live: Composable Ervaringen - De virtuele conferentie van één dag die levende zittingen en de mogelijkheden van het gemeenschapsvoorzien van een netwerkmogelijkheden kenmerkt._ | **23 mei bij 8:00 AM MDT** | [Registreren](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+
+* **[!DNL Workfront]** | _Leren: Introductie tot scrum met Adobe Workfront_ | **23 mei @ 2:00 PM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Geef uw organisatie meer mogelijkheden voor een persoonlijke personalisatie met gegevensgestuurde functies_ | **24 mei om 8:00 uur PT** | [Registreren](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+
+* **[!DNL Workfront]** | _Vraag het de experts: Stichting van de Malplaatjes van het Project Webinar Follow-up_ | **24 mei @ 10:00 CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Manager Assets]** | _Espressos &amp; Experience Manager - AEM Assets-migratie_ | **25 mei bij 1:00 PM PT** | [Registreren](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
 En meer! Ga naar [Gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) op Experience League om gebeurtenissen uit het verleden te bekijken en te zien wat gepland is.
 
