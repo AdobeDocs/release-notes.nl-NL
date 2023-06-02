@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
+source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5474'
 ht-degree: 9%
 
 ---
@@ -677,14 +677,14 @@ Laatst bijgewerkt: **30 mei 2023**
 
 {style="table-layout:auto"}
 
-### Nieuwe functies in [!DNL Advertising Search] {#advertising-search}
+### Nieuwe functies in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-Laatst bijgewerkt: **14 april 2023**
+Laatst bijgewerkt: **1 juni 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] publiekscampagnes; 15 april) Publiek campagnes kunnen nu de &quot;Manual CPM&quot; biedstrategie gebruiken. U kunt biedingen instellen binnen de instellingen voor onderliggende en gegroepeerde objecten.<br><br>De steun van de optimalisering is niet beschikbaar voor campagnes CPM. |
-| [!UICONTROL Recommendations] | Zes nieuw ([!DNL Google Ads] aanbevelingen zijn beschikbaar op [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Suggesties voor het verbeteren van de advertentie voor een responsieve zoekfunctie</li><li>[!UICONTROL Upgrade local campaign to performance max]: Een oudere lokale campagne upgraden naar een maximale prestatiecampagne</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Een verouderde, slimme winkelcampagne upgraden naar een maximale prestatiecampagne</li><li>[!UICONTROL Forecasting set Target ROAS]: De begroting verhogen vóór een seizoensgebeurtenis die naar verwachting het verkeer zal doen toenemen en de biedstrategie wijzigen van [!DNL Maximize Conversion Value] tot [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: De [!DNL Target CPA] met een aanbevolen hoeveelheid wanneer het te laag is en er weinig of geen omzettingen zijn</li><li>[!UICONTROL Display expansion opt in]: Bereik uitbreiden door een campagne bij te werken om weergaveuitbreiding te gebruiken</li></ul>Omdat het toevoegen van en het verwijderen van activa, veranderende campagneretypes, en veranderende begrotingen en biedingsstrategieën prestaties kunnen beïnvloeden, adviseren wij het bespreken van de voor- en nadelen van elke aanbeveling met uw Team van de Rekening van de Adobe zodat u een geïnformeerde beslissing kunt nemen. |
+| [!UICONTROL Campaigns], [!UICONTROL Reports], [!UICONTROL Objectives] | (Open bèta; 30 mei) Conversies bijgehouden door de [!DNL Microsoft Advertising] De tag Universal Event Tracking (UET) is nieuw in weergaven en rapporten voor campagnebeheer. U kunt voor deze omzettingen ook optimaliseren door hen in doelstellingen voor portefeuilles te omvatten die bevatten [!DNL Microsoft Advertising] campagnes. |
+| [!UICONTROL Reports] | (Open bèta; 30 mei) Drie nieuwe speciale rapporten bevatten gegevens voor [!DNL Microsoft Advertising] extensies toevoegen: [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Ad Extension by Ad Report], en [!UICONTROL MSA Ad Extension by Keyword Report]. |
 
 {style="table-layout:auto"}
 
