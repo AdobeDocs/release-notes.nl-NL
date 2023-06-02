@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
 workflow-type: tm+mt
-source-wordcount: '5550'
+source-wordcount: '5576'
 ht-degree: 9%
 
 ---
@@ -36,7 +36,7 @@ Laatste update: **30 mei 2023**
 * [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **22 mei**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud] interface en beheer](#ecloud)
+* [[!DNL Experience Cloud] interface en beheer](#ecloud) (Bijgewerkt) **25 mei**)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Analytics]](#analytics)
@@ -119,7 +119,9 @@ Updates zoeken naar de homepage, het beheer (product en gebruikersbeheer), de in
 
 +++Details
 
-_Niet bijgewerkt in mei._
+Geen: **25 mei 2023**
+
+* Het menu Help is bijgewerkt en bevat zoekresultaten van zelfstudievideo&#39;s over Experiencen League, productdocumentatie en communityberichten. U kunt de resultaten in Experience League bekijken.
 
 Raadpleeg voor hulp de [Experience Cloud Interface en Beheerdershandleiding](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (omvat [!UICONTROL Customer Attributes] en [!UICONTROL Audiences]).
 
