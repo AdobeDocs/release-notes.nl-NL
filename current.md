@@ -2,14 +2,14 @@
 title: Opmerkingen bij de nieuwste release
 description: Lees de nieuwste aanvullende informatie voor Adobe [!DNL Experience Cloud] -producten en -services. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste tutorials en cursussen voor  [!DNL Experience Cloud] -applicaties.
 doc-type: release notes
-last-update: May 2023
+last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fef359d7640b8bbe1a35e750e7641e65a071d479
+source-git-commit: 0dfcb85115d9518f189ef1f0b7eb211a2c268bee
 workflow-type: tm+mt
-source-wordcount: '5604'
-ht-degree: 9%
+source-wordcount: '6271'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ![Banner](assets/release-notes-header.png)
 
-## Mei 2023
+**Juni 2023**
 
 Deze pagina helpt u bijgewerkt te blijven op de informatie van de productrelease, gebeurtenissen, en leermogelijkheden bij Experience League.
 
@@ -27,51 +27,40 @@ Deze pagina helpt u bijgewerkt te blijven op de informatie van de productrelease
 
 **Hulp nodig?**
 
-Uw pad naar succes begint met [Experience League](https://experienceleague.adobe.com/?lang=en#home). Blader door de uitgebreide Adobe van zelfhulp [productdocumentatie](https://experienceleague.adobe.com/docs/?lang=nl) en met instructies [zelfstudievideo&#39;s](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Zoeken [cursussen](https://experienceleague.adobe.com/?lang=en#courses) voor alle niveaus en rollen vragen stellen van onze online [gemeenschap](https://experienceleaguecommunities.adobe.com/?profile.language=en) van peers en expert [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support) wanneer u het nodig hebt.
+Aanmelden bij [Experience League](https://experienceleague.adobe.com/?lang=en#home) en pas uw zoekervaring aan in de Adobe met bronnen voor zelfhulp. Bladeren [productdocumentatie](https://experienceleague.adobe.com/docs/?lang=nl), [zelfstudievideo&#39;s](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en), [cursussen](https://experienceleague.adobe.com/?lang=en#courses), en [gebeurtenissen](https://experienceleague.adobe.com/events/?lang=en) voor alle niveaus en rollen. Vragen stellen aan uw online [gemeenschap](https://experienceleaguecommunities.adobe.com/?profile.language=en) van peers en een expert [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support) wanneer je het het meest nodig hebt.
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **30 mei 2023**
+Laatste update: **6 juni 2023**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **22 mei**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface en beheer](#ecloud) (Bijgewerkt) **25 mei**)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Analytics]](#analytics)
+* [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
-* [[!DNL Streaming Media Analytics]](#sma)
-* [[!DNL Audience Manager]](#aam)
+* [[!DNL Streaming Media Analytics]](#sma)<!-- * [[!DNL Audience Manager]](#aam) -->
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Experience Manager Guides]](#xml-doc)
-* [[!DNL Commerce]](#commerce)
-* [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac) (Bijgewerkt) **10 mei**)
-* [[!DNL Journey Optimizer]](#journey-opt) (bijgewerkt **10 mei**)
+* [[!DNL Adobe Commerce]](#commerce)
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising) (bijgewerkt **30 mei**)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Document Cloud]](#doc-cloud)
-* [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
+* [[!DNL Creative Cloud for enterprise]](#creative-cloud)
+* [Digital Experience-blauwdrukken](#blueprints)
 
 ## ![Pictogram](/assets/experience-league.png) [!DNL Experience League] gebeurtenissen en updates {#events}
 
-Kom te weten wat er op Experience League gebeurt. Gebeurtenissen zijn een uitstekende plek om te leren, te interageren en antwoorden te krijgen van productexperts bij Adobe!
+Leer over spannende gebeurtenissen op Experience League. Het is een geweldige plek om te leren, te interageren en antwoorden te krijgen van productexperts bij Adobe!
 
-Bijgewerkt: **30 mei 2023**
-
-**Verbeterde zoekopdracht naar inhoud op Experience League:** U kunt aanpassen hoe te om inhoud onderzoeksresultaten voor de producten te filtreren u bezit. Resultaten weergeven op basis van:
-
-* Lesbestanden
-* Cursussen
-* Documentatie
-* Producten
-* Gebeurtenissen
-* Certificeringen
-
-Ga naar [Experience League](https://experienceleague.adobe.com/?lang=en#home) en controleer het!
+**Juni 2023 Bijwerken gebeurtenissen:** Op de [Gebeurtenisopnamen van Experiencen League](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=en) pagina, kunt u de linkernavigatie gebruiken om voorbij gebeurtenissen door reekstype en toepassing te doorbladeren.
 
 +++Aanstaande gebeurtenissen
 
@@ -125,9 +114,9 @@ Updates zoeken naar de homepage, het beheer (product en gebruikersbeheer), de in
 
 Geen: **25 mei 2023**
 
-* Het menu Help is bijgewerkt en bevat zoekresultaten van zelfstudievideo&#39;s over Experiencen League, productdocumentatie en communityberichten. U kunt de resultaten in Experience League bekijken.
+* In de [!DNL Experience Cloud] **[!UICONTROL Help]** -menu, is de zoekopdracht naar inhoud bijgewerkt en filtert deze via de toepassing in het dialoogvenster [Experience League](https://experienceleague.adobe.com/?lang=en#home) zoekresultaten.
 
-Raadpleeg voor hulp de [Experience Cloud Interface en Beheerdershandleiding](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (omvat [!UICONTROL Customer Attributes] en [!UICONTROL Audiences]).
+Voor hulp bij Experience Cloud interface gemeenschappelijke componenten, zie [Experience Cloud Interface en Beheerdershandleiding](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (omvat [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], en [!UICONTROL Audiences]).
 
 +++
 
@@ -139,33 +128,41 @@ De nieuwste releasegegevens en nieuwe documentatie vindt u voor [!DNL Experience
 
 * [Releaseopmerkingen bij Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
-<!-- ### New [!DNL Experience Platform] tutorials and courses
 
-New videos, tutorials, or courses published for Adobe Experience Platform.-->
+* [Opmerkingen bij de release van Experience Platform Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
-### [!DNL Mobile] SDK
+### Nieuwe zelfstudies en cursussen voor Experience Platforms{#tutorials-aep}
 
-Zie [Opmerkingen bij de release](https://developer.adobe.com/client-sdks/documentation/release-notes/) voor de [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
+Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Experience Platform.
+
+| Type | Productfunctie | Beschrijving |
+| -----------| ---------- |---------- |
+| Juni 2023 | [Gegevens verzamelen van [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html) | Video | Leer hoe u gegevens kunt invoeren van [!DNL Marketo Engage] in [!DNL Real-Time Customer Data Platform], B2B Edition, en [!DNL Adobe Experience Platform] het gebruiken van de bronschakelaar en twee werkschema&#39;s. |
+| Juni 2023 | [Gegevens verwerken met CRM-bronconnectors - Salesforce](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-crm.html) | Video | Leer hoe u gegevens uit CRM-bronnen in batch-inneemt [!UICONTROL Real-Time Customer Profile] en datumpeer naadloos. |
+| Juni 2023 | [Gebruiken [!DNL Real-Time CDP] segmenten in [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-segments-in-target.html) | Video | Leren gebruiken [!DNL Real-Time Customer Data Platform] segmenten in Adobe [!DNL Target] voor persoonlijke ervaringen op uw website en mobiele apps. |
+| Juni 2023 | [Segmenten en profielkenmerken activeren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html) | Video | Leer hoe u segmenten en profielkenmerken activeert vanuit [!DNL Real-Time Customer Data Platform] naar Adobe [!DNL Target]. U kunt persoonlijke inhoud in real-time weergeven op uw websites, mobiele apps en andere digitale eigenschappen. |
+| Juni 2023 | [Gegevens classificeren met labels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html) | Video | Leer hoe te om etiketten op uw schema&#39;s en datasets toe te passen. Met labels voor gegevensgebruik kunt u gegevens labelen en classificeren op basis van het bedrijfsbeleid, de contractuele verplichtingen, de nalevingsvereisten en de regionale regelgeving in [!DNL Experience Platform]. |
+| Juni 2023 | [Gebruiken [!DNL Real-Time CDP] profielkenmerken in Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html) | Video | Leren gebruiken [!DNL Real-Time Customer Data Platform] profielkenmerken in Adobe [!DNL Target] voor persoonlijke ervaringen op uw website en mobiele apps. |
 
 +++
 
-## ![Pictogram](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+<!-- ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
 
-De nieuwste zelfstudies voor Real-time Customer Data Platform op Experience League vinden.
+Find the latest tutorials for Real-Time Customer Data Platform on Experience League.
 
 +++Details
 
-Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Real-Time Customer Data Platform].
+New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer Data Platform].
 
-| Gepubliceerd | Naam | Type | Beschrijving | Toepassingen |
+|Published|Name|Type|Description |Applications|
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Mei 2023 | [Configureer de [!DNL Adobe Target] bestemming in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/configure-the-target-destination.html) | Video | Leer hoe u de Adobe Target-bestemming kunt configureren in [!DNL Real-Time Customer Data Platform] om segmenten en profielkenmerken te verzenden vanaf [!DNL Real-Time CDP] tot [!DNL Adobe Target]. | [!DNL Real-Time CDP], [!DNL Adobe Target] |
-| Mei 2023 | [Segmenten en profielkenmerken delen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html) | Video | Leer hoe u segmenten en profielkenmerken deelt vanuit Adobe [!DNL Real-Time Customer Data Platform] tot [!DNL Adobe Target] om realtime gepersonaliseerde inhoud weer te geven op uw websites, mobiele apps en andere digitale eigenschappen. | [!DNL Adobe Target] |
-| Mei 2023 | [CDP-segmenten in realtime gebruiken in Doel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-segments-in-target.html) | Video | Leren gebruiken [!DNL Real-Time Customer Data Platform] segmenten in [!DNL Adobe Target] voor persoonlijke ervaringen op uw website en mobiele apps. | [!DNL Adobe Target] |
+|May 2023|[Configure the [!DNL Adobe Target] destination in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/configure-the-target-destination.html)|Video |Learn how to configure the Adobe Target destination in [!DNL Real-Time Customer Data Platform] to start sending segments and profile attributes from [!DNL Real-Time CDP] to [!DNL Adobe Target]. |[!DNL Real-Time CDP], [!DNL Adobe Target] |
+|May 2023|[Share segments and profile attributes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html)|Video |Learn how to share segments and profile attributes from Adobe [!DNL Real-Time Customer Data Platform] to [!DNL Adobe Target] to display real-time personalized content in your websites, mobile apps, and other digital properties.|[!DNL Adobe Target] |
+|May 2023|[Use Real-time CDP segments in Target](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-segments-in-target.html)|Video |Learn how to use [!DNL Real-Time Customer Data Platform] segments in [!DNL Adobe Target] to deliver personalized experiences on your website and mobile apps.|[!DNL Adobe Target] |
 
 {style="table-layout:auto"}
 
-+++
++++ -->
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
@@ -173,7 +170,7 @@ Zoek de meest recente releasegegevens voor [!DNL Adobe Analytics] en [!DNL AppMe
 
 +++Details
 
-Releasedatum: **10 mei 2023**
+[!DNL Analytics] releasedatum: **7 juni 2023**
 
 * [!DNL Analytics] [releaseopmerkingen](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * [!DNL Analytics] [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/analytics.html)
@@ -188,9 +185,26 @@ Releaseversie: **2.23.0.**
 
 Nieuwe videozelfstudies, artikelen en cursussen gepubliceerd voor Adobe Analytics.
 
-| Datum | Naam | Type | Beschrijving |
+| Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Op verzoek | [Krijg gegevensinzameling en gebeurtenis door:sturen omhoog en lopend met enkel een paar klikken!](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-4-25-23.html?lang=nl) | Videogebeurtenis - Experience League Live | Als u nieuw bent aan Adobe moderne hulpmiddelen van de gegevensinzameling en nerveus om in het diepe eind te springen, kunt u nu met een basisinstallatie sneller dan ooit, met inbegrip van het verzenden van gebeurtenisgegevens naar Meta op de server kant opstaan. Met een paar klikken kunnen workflows voor het snel starten van gegevensverzameling van Adobe meerdere dingen op de achtergrond instellen om u tijd te besparen en ervoor te zorgen dat de instellingen correct zijn. |
+| Juni 2023 | [Breng uw gegevensanalyse naar het volgende niveau met [!UICONTROL Calculated Metrics]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.html?lang=en) | Artikel | Meer weten over het gebruik van een peer-expert [!UICONTROL Calculated Metrics] om metriek tot stand te brengen zonder hun implementatie te veranderen en gebruikt reeds verzamelde gegevens helpen complexe bedrijfsvragen beantwoorden. |
+| Juni 2023 | [Gebruik tekstvisualisaties en beschrijvingen in [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.html?lang=en) | Artikel | Meer weten over het gebruik van een peer-expert [!UICONTROL Calculated Metrics] om metriek tot stand te brengen zonder hun implementatie te veranderen en de gegevens te gebruiken die reeds worden verzameld om complexe bedrijfsvragen te helpen beantwoorden. |
+| Juni 2023 | [Gebruik segmenten om nieuwe inzichten te ontdekken in [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-to-discover-new-insights.html?lang=en) | Artikel | Leer hoe u segmenten kunt gebruiken in [!DNL Adobe Analytics] om nieuwe inzichten van uw te ontdekken [!UICONTROL Analysis Workspace] visualisaties en vrije-vormtabellen. |
+| Juni 2023 | [Gebruiken [!UICONTROL Cohort Analysis] om klantengedrag te begrijpen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.html) | Artikel | Gebruiken [!UICONTROL Cohort Analysis] om u te helpen uw betrokkenheid en behoud te begrijpen, wat leidt tot acties zoals het verbeteren van het aanmaken van accounts en het maken van campagnes voor maanden met een hoog volume. |
+| Juni 2023 | [Klantreissegmenten samenstellen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/building-customer-journey-segments.html) | Artikel | Volg deze stap-voor-stap gids om op gedrag-gebaseerde klantentransportsegmenten in te creëren [!DNL Adobe Analytics] en de ervaring van uw klanten verbeteren met [!DNL Experience Cloud]. |
+| Juni 2023 | [Afscheid Excel, hello Berekende Metriek](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.html) | Artikel | Ontdek de voordelen van het gebruik [!UICONTROL Calculated Metrics] in [!DNL Adobe Analytics] en hoe zij u van een ononderbroken, dynamische mening van uw gegevens in dit artikel kunnen voorzien. |
+| Juni 2023 | [Ontgrendel de kracht van alleen-lezen delen in [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.html) | Artikel | Meer weten over delen [!UICONTROL Analysis Workspace] projecten als read-only kunnen uitvoerend-klaar dashboardrapporten met een schone gebruikersinterface en vooraf bepaalde het filtreren opties tot stand brengen. |
+| Juni 2023 | [Start uw analyse met een vooraf samengesteld rapport](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.html) | Video | Leer hoe u uw analyse in Workspace kunt starten met een vooraf samengesteld rapport. |
+
+{style="table-layout:auto"}
+
+### Adobe Analytics-ondersteuningskennisbasis{#kb-analytics}
+
+Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Analytics].
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| Mei 2023 | [Hoe te om toegangstoestemming aan Data Warehouse te verlenen](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21666.html) | Leer welke toestemming zou moeten worden toegevoegd om toegangstoestemming aan Data Warehouse te verlenen. |
 
 {style="table-layout:auto"}
 
@@ -202,21 +216,19 @@ Zoek de meest recente releasegegevens voor [!DNL Customer Journey Analytics]. Ni
 
 +++Details
 
-Releasedatum: **10 mei 2023**
+[!DNL Customer Journey Analytics] releasedatum: **7 juni 2023**
 
 * Customer Journey Analytics [releaseopmerkingen](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
 
-### Nieuwe zelfstudies en cursussen voor Customer Journey Analytics {#tutorials-cja}
+### Nieuw [!DNL Customer Journey Analytics] zelfstudies en cursussen {#tutorials-cja}
 
-Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor CJA.
+Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor [!DNL Customer Journey Analytics].
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Mei 2023 | [Wat is Customer Journey Analytics?](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/cja-basics/what-is-customer-journey-analytics.html) | Video | Leer hoe u de reis van uw klant over kanalen kunt analyseren met behulp van de gegevens die u in Adobe Experience Platform hebt. |
-| Mei 2023 | [Filters gebruiken als afmetingen in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/use-filters-as-dimensions.html) | Video | Leer hoe u filters kunt vergelijken en visualiseren bij gebruik als afmetingen in Analysis Workspace-projecten. |
-| Mei 2023 | [Inleiding tot filters in Customer Journey Analytics](https://experienceleague.adobe.com/docs/platform-learn/tutorials/cja/introduction-to-filters-in-cja.html?lang=en) | Video | Desc. |
-| Mei 2023 | [Overzicht van filters](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/introduction-to-filters-in-cja.html) | Video | Leer over de belangrijkste componenten van de Bouwer van de Filter in Customer Journey Analytics. |
+| Juni 2023 | [Overzicht van filters](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/introduction-to-filters-in-cja.html) | Video | Filters identificeren subsets van bezoekers of klanten op basis van kenmerken en gebeurtenissen, zoals bezoekers van de website of betrokkenheid van het callcenter. Meer informatie over de belangrijkste onderdelen van [!UICONTROL Filter Builder] in [!DNL Customer Journey Analytics]. |
+| Juni 2023 | [Filters gebruiken als afmetingen in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/use-filters-as-dimensions.html) | Video | Leer hoe u filters kunt vergelijken en visualiseren bij gebruik als afmetingen in Analysis Workspace-projecten. |
 
 {style="table-layout:auto"}
 
@@ -224,37 +236,37 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor CJA.
 
 ## ![Pictogram](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Releasedatum: **10 mei 2023**
+[!DNL Analytics] releasedatum: **7 juni 2023**
 
 * [!DNL Streaming Media Analytics] [releaseopmerkingen](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
-## ![Pictogram](/assets/audience-manager.png) Audience Manager {#aam}
+<!-- ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-Updates en nieuwe inhoud voor [!DNL Audience Manager].
+Updates and new content for [!DNL Audience Manager].
 
 +++Details
 
-### [!DNL Audience Manager] kennisbasis ondersteunen
+### [!DNL Audience Manager] support knowledge base
 
-Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Audience Manager].
+New articles and updates to existing articles for [!DNL Audience Manager].
 
-| Gepubliceerd | Naam | Type | Beschrijving |
+|Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-| April 2023 | [Fout: _Niet toegestaan om te verwijderen omdat segment delen ingeschakeld is_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html) | Nieuw artikel | Leer hoe u de _Niet toegestaan om te verwijderen omdat segment delen ingeschakeld is_ fout. |
-| April 2023 | [Onverwachte AAM UI-toegang](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21831.html) | Nieuw artikel | Leer hoe te om de kwestie op te lossen waar de gebruikers toegang tot AAM UI maar hebben geen specifieke AAM toestemmingen hebben. |
-| April 2023 | [Exportopties voor bulkobjecten](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21861.html) | Nieuw artikel | Leer hoe u gegevens exporteert van [!DNL Audience Manager] in bulk. |
-| April 2023 | [Doel van LiveRamp server-naar-server](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21926.html) | Nieuw artikel | Dit artikel biedt een overzicht van de [!UICONTROL LiveRamp] bestemming binnen [!DNL Audience Manager]. |
+|April 2023|[Error: _Not allowed to delete due to segment sharing enabled_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html)|New article|Learn how to resolve the _Not allowed to delete due to segment sharing enabled_ error.|
+|April 2023|[Unexpected AAM UI access](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21831.html)|New article|Learn how to resolve the issue where users have access to the AAM UI but don't have specific AAM permissions.|
+|April 2023|[Bulk export options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21861.html)|New article|Learn how to export data from [!DNL Audience Manager] in bulk.|
+|April 2023|[LiveRamp server-to-server destination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21926.html)|New article|This article offers an overview of the [!UICONTROL LiveRamp] destination within [!DNL Audience Manager].|
 
 {style="table-layout:auto"}
 
-Voor hulpmiddelen voor zelfhulp raadpleegt u [Documentatie en zelfstudies voor Audience Managers](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) op Experience League.
+For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
-+++
++++ -->
 
 ## ![Pictogram](/assets/aem.png) Adobe Experience Manager {#aem}
 
-Meer informatie over nieuwe functies, oplossingen en updates in de Experience Manager. Bekijk de nieuwste zelfstudies en artikelen in de Knowledge Base over Experience League.
+Nieuwe functies, correcties en updates in Experience Manager. Adobe raadt klanten met On-Premise-implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
 
 +++Details
 
@@ -263,95 +275,93 @@ Meer informatie over nieuwe functies, oplossingen en updates in de Experience Ma
 Adobe raadt u aan de volgende bronnen te bezoeken om op de releasegegevens bij te blijven:
 
 * [Updates van de release van Experience Managers en routekaarten](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - Meer informatie over de routekaart voor de release van Experience Managers, vorige releaseupdates en documentatieupdates.
-* [Experience Manager as a Cloud Service release-updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - Video-overzichten van huidige en eerdere versies van de functie bekijken [!DNL Experience Manager as a Cloud Service].
+* [Experience Manager as a Cloud Service release-updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en) - Video-overzichten van huidige en eerdere versies van de functie bekijken [!DNL Experience Manager as a Cloud Service].
 * [Huidige releaseopmerkingen voor Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en) - Lees de meest recente releaseopmerkingen voor [!DNL Experience Manager as a Cloud Service].
 
 ### Video overzicht van de nieuwste release
 
-Kijk naar de [Video over het overzicht van de release van februari 2023](https://video.tv.adobe.com/v/3416885) voor een overzicht van de functies die zijn toegevoegd in de release van 2023.02.0 (februari 2023).
+Kijk naar de [Video over het overzicht van de release van februari 2023](https://video.tv.adobe.com/v/3416885) voor een overzicht van de functies die zijn toegevoegd in de release van 2023.02.0 (februari 2023). <!-- OLD. UPDATE ON JUNE 7 -->
 
 ### [!DNL Experience Manager Sites] als [!DNL Cloud Service]
 
 _Nieuwe functies_
 
-* Exporteer inhoudsfragmenten van AEM als cloudservice naar Adobe target zoals JSON biedt.
-* Ondersteuning voor paginering en sortering van GraphQL en verbeteringen in de interne cache helpen nu de prestaties van losgekoppelde clienttoepassingen te verbeteren wanneer u grote inhoudssets ophaalt van AEM met behulp van complexe GraphQL-query&#39;s en -filters.
+* Exporteer inhoudsfragmenten van AEM als cloudservice naar Adobe target zoals JSON biedt. <!-- OLD. UPDATE ON JUNE 7 -->
+* Ondersteuning voor paginering en sortering van GraphQL en verbeteringen in de interne cache helpen nu de prestaties van losgekoppelde clienttoepassingen te verbeteren wanneer u grote inhoudssets ophaalt van AEM met behulp van complexe GraphQL-query&#39;s en -filters. <!-- OLD. UPDATE ON JUNE 7 -->
 
 ### [!DNL Experience Manager Assets] als [!DNL Cloud Service]
 
-_Nieuwe functies_
+_Nieuwe functie_
 
-* Ondersteuning voor het nieuwe protocol (DASH - Dynamic Adaptive Streaming via HTTP) dat is gestart voor Adaptive streaming in Dynamic Media-video (met CMAF ingeschakeld):
-   * Adaptief streamen (DASH/HLS) zorgt voor een betere weergave voor eindgebruikers voor video&#39;s.
-   * DASH is het internationale standaardprotocol voor adaptieve videostreaming en wordt op grote schaal toegepast in de branche.
-   * Beschikbaar in Azië-Stille Oceaan en Noord-Amerika; [ingeschakeld via een ondersteuningsticket](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=en#enable-dash). Binnenkort in Europa-Midden-Oosten-Afrika.
-* Extra ondersteuning voor WebP-afbeeldingen om automatisch metagegevens te extraheren, miniaturen en aangepaste uitvoeringen te genereren. De mogelijkheden Slimme tags en Slim uitsnijden worden nu ook ondersteund voor deze bestanden.
+* Ondersteuning voor het nieuwe protocol (DASH - Dynamic Adaptive Streaming via HTTP) dat is gestart voor Adaptive streaming in Dynamic Media-video (met CMAF ingeschakeld):<!-- OLD. UPDATE FOR JUNE 7 -->
+   * Adaptief streamen (DASH/HLS) zorgt voor een betere weergave voor eindgebruikers voor video&#39;s.<!-- OLD. UPDATE FOR JUNE 7 -->
+   * DASH is het internationale standaardprotocol voor adaptieve videostreaming en wordt op grote schaal toegepast in de branche.<!-- OLD. UPDATE FOR JUNE 7 -->
+   * Beschikbaar in Azië-Stille Oceaan en Noord-Amerika; [ingeschakeld via een ondersteuningsticket](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=en#enable-dash). Binnenkort in Europa-Midden-Oosten-Afrika.<!-- OLD. UPDATE FOR JUNE 7 -->
+* Extra ondersteuning voor WebP-afbeeldingen om automatisch metagegevens te extraheren, miniaturen en aangepaste uitvoeringen te genereren. De mogelijkheden Slimme tags en Slim uitsnijden worden nu ook ondersteund voor deze bestanden.<!-- OLD. UPDATE FOR JUNE 7 -->
 
 ### [!DNL Experience Manager Forms] als [!DNL Cloud Service]
 
 _Nieuwe functies_
 
-* **[Gebruik kerncomponenten voor gegevensvastlegging om Adaptive Forms te bouwen](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html?lang=en)** - [Adaptieve Forms-editor gebruiken](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html?lang=en) formulieren maken op basis van gestandaardiseerde componenten voor het vastleggen van gegevens (Core Components). Deze componenten bieden aanpassingsmogelijkheden, kortere ontwikkelingstijd en lagere onderhoudskosten voor uw digitale inschrijving.
-* **[Ondersteuning voor de front-end pijpleiding voor de styling van de core component, gebaseerd op Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html?lang=en)** - Gebruik gestandaardiseerde BEM-thema&#39;s voor op kerncomponenten gebaseerde adaptieve Forms. U kunt hen met de pijpleiding van de Plaatsing van de Voorkant opstellen om de blik en het gevoel van uw vormen te verbeteren. Het kan ook helpen zich aan de merkgoedgekeurde ontwerprichtlijnen van uw organisatie richten.
-* **[Document met record genereren voor op kerncomponenten gebaseerde adaptieve Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html?lang=en)** - Maak een document met records die overgelegde gegevens voor Adaptive Forms bevatten die zijn gemaakt met kerncomponenten voor archivering of verwijzing naar eindgebruikers, in gedrukte vorm of in documentindeling.
-* **[Efficiënt formulieren maken met de functie Een adaptief formulier opslaan als sjabloon](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-an-adaptive-form-on-forms-cs/template-editor.html?lang=en#save-an-adaptive-form-as-template-saving-adaptive-form-as-template)** - De ontwikkeling van formulieren versnellen en standaardiseren door bestaande, door een merk goedgekeurde formulieren op te slaan als formuliersjablonen en deze snel opnieuw te gebruiken.
-* **[AEM Forms verbinden met databases die door JDBC worden ondersteund](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=en#configure-relational-database-configure-relational-database)** - Maak rechtstreeks vanuit AEM Cloud-service verbinding met bedrijfsdatabases met behulp van het JDBC-protocol, zonder dat u deze via de REST API hoeft te publiceren.
-* **[Integreer met REST Endpoints die Open API 3.0 gebruiken](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=en#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** - Naadloos integreren in recordsystemen die Open API 3.0 ondersteunen voor het opslaan en ophalen van gegevens met behulp van formuliergegevensmodellen.
-* **[Een adaptief formulier delen voor revisie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html?lang=en)** - Gebruik het revisiemechanisme van Adaptive Forms om een of meer revisoren in staat te stellen het formulier te reviseren.
+* **[Gebruik kerncomponenten voor gegevensvastlegging om Adaptive Forms te bouwen](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html?lang=en)** - [Adaptieve Forms-editor gebruiken](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html?lang=en) formulieren maken op basis van gestandaardiseerde componenten voor het vastleggen van gegevens (Core Components). Deze componenten bieden aanpassingsmogelijkheden, kortere ontwikkelingstijd en lagere onderhoudskosten voor uw digitale inschrijving.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Ondersteuning voor de front-end pijpleiding voor de styling van de core component, gebaseerd op Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html?lang=en)** - Gebruik gestandaardiseerde BEM-thema&#39;s voor op kerncomponenten gebaseerde adaptieve Forms. U kunt hen met de pijpleiding van de Plaatsing van de Voorkant opstellen om de blik en het gevoel van uw vormen te verbeteren. Het kan ook helpen zich aan de merkgoedgekeurde ontwerprichtlijnen van uw organisatie richten.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Document met record genereren voor op kerncomponenten gebaseerde adaptieve Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html?lang=en)** - Maak een document met records die overgelegde gegevens voor Adaptive Forms bevatten die zijn gemaakt met kerncomponenten voor archivering of verwijzing naar eindgebruikers, in gedrukte vorm of in documentindeling.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Efficiënt formulieren maken met de functie Een adaptief formulier opslaan als sjabloon](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-an-adaptive-form-on-forms-cs/template-editor.html?lang=en#save-an-adaptive-form-as-template-saving-adaptive-form-as-template)** - De ontwikkeling van formulieren versnellen en standaardiseren door bestaande, door een merk goedgekeurde formulieren op te slaan als formuliersjablonen en deze snel opnieuw te gebruiken.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[AEM Forms verbinden met databases die door JDBC worden ondersteund](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=en#configure-relational-database-configure-relational-database)** - Maak rechtstreeks vanuit AEM Cloud-service verbinding met bedrijfsdatabases met behulp van het JDBC-protocol, zonder dat u deze via de REST API hoeft te publiceren.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Integreer met REST Endpoints die Open API 3.0 gebruiken](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=en#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** - Naadloos integreren in recordsystemen die Open API 3.0 ondersteunen voor het opslaan en ophalen van gegevens met behulp van formuliergegevensmodellen.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Een adaptief formulier delen voor revisie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html?lang=en)** - Gebruik het revisiemechanisme van Adaptive Forms om een of meer revisoren in staat te stellen het formulier te reviseren.<!-- OLD. UPDATE FOR JUNE 7 -->
 
 ### Forms-programma voor vroege adoptie zonder adapter
 
-Gebruik Headless Adaptive Forms om uw ontwikkelaars in staat te stellen interactieve formulieren te maken, te publiceren en te beheren die via API&#39;s kunnen worden geopend en gebruikt in plaats van via een traditionele grafische gebruikersinterface. Met behulp van hoofdloze adaptieve formulieren kunt u:
+Gebruik Headless Adaptive Forms om uw ontwikkelaars in staat te stellen interactieve formulieren te maken, te publiceren en te beheren die via API&#39;s kunnen worden geopend en gebruikt in plaats van via een traditionele grafische gebruikersinterface. Met behulp van hoofdloze adaptieve formulieren kunt u:<!-- OLD. UPDATE FOR JUNE 7 -->
 
-* U kunt hoogwaardige multikanaalformulieren maken in de programmeertaal van uw keuze.
-* Formulieren integreren in uw bureaublad en mobiele apps, websites en chattoepassingen
-* Gebruik uw eigen UI-componenten opnieuw met formuliertoepassingen
-* De kracht van Adobe Experience Manager Forms gebruiken
+* U kunt hoogwaardige multikanaalformulieren maken in de programmeertaal van uw keuze.<!-- OLD. UPDATE FOR JUNE 7 -->
+* Formulieren integreren in uw bureaublad en mobiele apps, websites en chattoepassingen<!-- OLD. UPDATE FOR JUNE 7 -->
+* Gebruik uw eigen UI-componenten opnieuw met formuliertoepassingen<!-- OLD. UPDATE FOR JUNE 7 -->
+* De kracht van Adobe Experience Manager Forms gebruiken<!-- OLD. UPDATE FOR JUNE 7 -->
 
-U kunt [Stuur een e-mail naar aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) van uw officiële e-mailadres om deel te nemen aan het vroege adoptieprogramma.
+U kunt [Stuur een e-mail naar aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) van uw officiële e-mailadres om deel te nemen aan het vroege adoptieprogramma.<!-- OLD. UPDATE FOR JUNE 7 -->
 
 ### [!DNL Cloud Manager]
 
-* De [Projectarchetype AEM](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=en) is bijgewerkt naar versie 41.
+_Nieuwe functies_
+
+* Ondersteuning voor het testen van producten, functies en gebruikersinterfaces is nu uitgebreid tot [niet-productie van pijpleidingen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/configuring-non-production-pipelines.html?lang=en). <!-- NEW. LEAVE IN FOR JUNE 7 -->
+* Naast het inschakelen van stroomopwaartse tests, [Ondersteuning voor het testen van gebruikersinterfaces is nu uitgebreid tot het testen van cypress](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/functional-testing/ui-testing.html?lang=en).<!-- NEW. LEAVE IN FOR JUNE 7 -->
+* [Self-service inhoud kopiëren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=en) is nu beschikbaar vanuit een hogere naar een lagere omgeving via de gebruikersinterface van Cloud Manager.<!-- NEW. LEAVE IN FOR JUNE 7 -->
+* De de bevestigingsstap van de pijpleidingslooplooppas wordt nu verbeterd om de staat van de replicatierijen vroeg in het runtime proces te bevestigen. Deze capaciteit zorgt ervoor dat de plaatsingsstappen niet door geblokkeerde rijen worden beïnvloed die door AEM beheerdergebruikers direct in het auteursmilieu worden gericht.<!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 **Bugfixes**
 
-* Wanneer een [certificaat](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=en) verloopt, [domeinnamen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/introduction.html?lang=en) en [IP lijsten van gewenste personen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction.html?lang=en) die aan het certificaat zijn gekoppeld, niet meer uit de CDN worden verwijderd. In dergelijke gevallen is de site nog bereikbaar.
-* De interface van Cloud Manager biedt meer zichtbare waarschuwingen dat de [SSL-certificaat](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=en) bijna verlopen.
-* Er is een zeldzame situatie vastgesteld waarin klanten geen omgeving konden maken of verwijderen.
+* Het maken van omgevingen mislukt niet meer wanneer multi-bytetekens worden gebruikt in de naam van de omgeving. <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 ### [!DNL Workfront for Experience Manager] verbeterde aansluiting
 
-De releasedatum voor de nieuwste versie 1.9.9 van Workfront for Experience Manager Enhanced Connector is 10 april 2023.
+De releasedatum voor de nieuwste versie 1.9.10 van Workfront for Experience Manager Enhanced Connector is 18 mei 2023.<!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 _Geen hooglichten_
 
-* De Experience Manager toont een uitzondering DateTimeParseException wanneer het laatst gewijzigde datum van Workfront tijdens verbonden omslagverwezenlijking ontvangt.
-* Problemen tijdens het maken van meerdere gekoppelde projectmappen binnen een korte periode.
-* Kan geen drempellimiet configureren voor het aantal nieuwe set met aan een project gekoppelde mappen.
+* Workfront retourneert een 409 HTTP-reactie voor dubbele gebeurtenisabonnementen op basis van een REST-aanroep van Experience Manager naar Workfront. Dit leidt tot een null pointer-uitzondering. <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 >[!IMPORTANT]
 >
->Adobe raadt u aan [upgrade naar de nieuwste versie van 1.9.9](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) van de Workfront for Experience Manager Enhanced connector.
+>Adobe raadt u aan [upgrade naar de nieuwste versie van 1.9.10](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) van de Workfront for Experience Manager Enhanced connector. <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 _Bekende problemen_
 
-* Tijdens het vormen van project verbonden omslagen met AEM 6.4, [!DNL Experience Manager] slaat de waarden niet op voor **submappen** en **Gekoppelde map maken in projecten met portfolio** velden. De waarde voor de **submappen** veld bijwerken naar **ongedefinieerd**. De waarde voor de **Gekoppelde map maken in projecten met portfolio** veld bijwerken naar **Standaard Portfolio** automatisch na het opslaan van de configuratie.
-* Wanneer u de klassieke Workfront-ervaring gebruikt, kunt u de **Verzenden naar** beschikbaar in het dialoogvenster **Meer** In de vervolgkeuzelijst kunt u het doeldoel binnen de Experience Manager niet selecteren. De **Verzenden naar** Deze optie werkt correct met de **Documenthandelingen** vervolgkeuzelijst. De **Verzenden naar** deze optie werkt correct voor **Meer** en de **Documenthandelingen** vervolgkeuzelijst beschikbaar in de nieuwe Workfront-ervaring.
+* Tijdens het vormen van project verbonden omslagen met AEM 6.4, [!DNL Experience Manager] slaat de waarden niet op voor **submappen** en **Gekoppelde map maken in projecten met portfolio** velden. De waarde voor de **submappen** veld bijwerken naar **ongedefinieerd**. De waarde voor de **Gekoppelde map maken in projecten met portfolio** veld bijwerken naar **Standaard Portfolio** automatisch na het opslaan van de configuratie. <!-- NEW. LEAVE IN FOR JUNE 7 -->
+* Als u de klassieke Workfront-ervaring gebruikt, kunt u **Verzenden naar** beschikbaar in het dialoogvenster **Meer** In de vervolgkeuzelijst kunt u het doeldoel binnen de Experience Manager niet selecteren. De **Verzenden naar** Deze optie werkt correct met de **Documenthandelingen** vervolgkeuzelijst. De **Verzenden naar** deze optie werkt correct voor **Meer** en de **Documenthandelingen** vervolgkeuzelijst beschikbaar in de nieuwe Workfront-ervaring.<!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 ### Community
 
-* [Adobe Experience Manager as a Cloud Service 2023.2.0-releaseupdate](https://adobe.ly/3KCfab0)
-* [Adobe Developers Live: Composable Experience](https://adobe.ly/3GWSdOL) | Dinsdag 23 mei 2023, 19:30 (GMT+5:30)
-* Adobe Developers Live: Composable Experience, mei 2023 | [Volledige lijst met sessies](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-composable-experiences-may-2023-complete/td-p/591146)
-* [Adobe Experience Manager Community Lens 5th Edition](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-5th-edition-april-2023/ba-p/587822), april 2023
+* De opnamen voor alle sessies van _Developer Live 2023_ zijn nu beschikbaar in [!DNL Experience Manager] Contextuele draden van de Gemeenschap. Verbeter toegang tot deze waardevolle hulpmiddelen en ontgrendel een wereld van kennis en inspiratie. Klaar om in te duiken? Hier volgen de opnamen: [https://adobe.ly/3LRFDDv](https://adobe.ly/3LRFDDv). <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 ### Experience Manager-releasegegevens
 
-Alles [!DNL Experience Manager] releasegegevens zijn te vinden op :
+Alles [!DNL Experience Manager] releaseopmerkingen worden op de volgende pagina&#39;s bijgehouden:
 
 * [Informatie over as a Cloud Service release van Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
-* [Experience Manager as a Cloud Service release-updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
+* [Adobe Experience Manager as a Cloud Service-release-updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en)
 * [Huidige releaseopmerkingen voor Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
 * [Informatie over as a Cloud Service release van Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
 * [Opmerkingen bij de release Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=en)
@@ -365,33 +375,37 @@ Alles [!DNL Experience Manager] releasegegevens zijn te vinden op :
 * [Releaseopmerkingen bij Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Releaseopmerkingen bij Livefyre](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
 
-### Nieuwe cursussen en tutorials voor Experience Manager {#tutorials-aem}
+### Nieuwe zelfstudies en cursussen voor Experience Managers {#tutorials-aem}
 
-Nieuwe video&#39;s, zelfstudies en cursussen die de afgelopen maand zijn gepubliceerd.
+Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Manager.
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassingen |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Mei 2023 | [Experience Platform Web SDK integreren](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html#create-datastream---experience-platform) | Video | Leer hoe te om AEM as a Cloud Service met het Web SDK van het Experience Platform te integreren. | AEM Sites |
-| Mei 2023 | [Teksteditor aanpassen in interactieve communicatie](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | Video | Pas de teksteditor in interactieve communicatie aan om aangepaste lettertypen en grootten toe te voegen. | AEM Forms |
-| Mei 2023 | [Reageer app met AEM Forms en Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | Video | Een interactief communicatiedocument maken met de gegevens die zijn verzonden vanuit een native reactie-app en dit presenteren aan de eindgebruiker voor ondertekening met de Acrobat-widget voor ondertekening | AEM Forms |
-| Mei 2023 | [Forms CS integreren met Sharepoint](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | Video | Leer AEM Forms CS te configureren en te integreren met Microsoft® Sharepoint | AEM Forms CS |
-| Mei 2023 | [Formulierverzending opslaan in OneDrive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Video | Configureer het adaptieve formulier om formuliergegevens op te slaan in OneDrive. | AEM Forms CS |
-| Mei 2023 | [Optimale afbeeldingen van AEM headless gebruiken](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html) | Video | Leer hoe u geoptimaliseerde afbeeldingen kunt gebruiken in AEM Headless. | AEM CS |
-| Mei 2023 | [Hoe te met grote resultaten in AEM Headless werken](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en) | Video | Leer hoe u met grote resultaatsets werkt met AEM Headless. | AEM CS |
+| Juni 2023 | [Eerste zelfstudie AEM zonder hoofd](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/headless-first/overview.html?lang=en) | Video | Leer het proces van het creëren van een dynamische en interactieve Webtoepassing door de macht van React te combineren, Adobe [!DNL Experience Manager] headless API&#39;s en [!DNL GraphQL]. | AEM CS |
+| Juni 2023 | [Een adaptief formulier zonder kop insluiten](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/introduction.html) | Video | Leer een adaptief formulier zonder kop in te sluiten [!UICONTROL Single Page Application]. | AEM Forms |
+| Juni 2023 | [Console voor inhoudsfragmenten](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/basics/content-fragments-console.html?lang=en) | Meerdere video&#39;s | Meer informatie over de basisfuncties en -functies van de [!UICONTROL Content Fragments] ontwerpconsole in  [!DNL AEM as a Cloud Service]. | AEM Sites |
+| Juni 2023 | [De formulieren ophalen en weergeven in kaartformaat](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-forms-card-view.html) | Video | Koploze formulieren ophalen met `listForms` API en de formulieren weergeven in kaartindeling. | AEM Forms |
+| Juni 2023 | [Adobe IMS-gebruikersgroepen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=en) | Video&#39;s | Adobe IMS-gebruikersgroepen stellen logische gebruikersgroepen in die worden blootgesteld aan AEM, waar ze kunnen worden gebruikt om machtigingen voor afstemmen voor AEM gebruikers te definiëren. | AEM CS |
+| Juni 2023 | [Adobe IMS-productprofielen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-product-profiles.html?lang=en) | Video | Met Adobe IMS-productprofielen kunnen gebruikers zich aanmelden bij een AEM Auteur-service en een basislijn voor toegang opgeven, afhankelijk van het productprofiel waarvan ze lid zijn. | AEM CS |
+| Juni 2023 | [GraphQL-videoreeks](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | Video | Leer hoe u definieert en gebruikt [!UICONTROL Content Fragments] in Adobe Experience Manager (AEM) voor gebruik met GraphQL. | AEM CS |
+| Juni 2023 | [Toegang tot AEM doorlopen configureren](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/walk-through.html?lang=en) | Video | Een verkorte loopanalyse over het vormen van de Gebruikers van Adobe IMS, de Groepen van de Gebruiker, en [!UICONTROL Product Profiles] in [!UICONTROL Admin Console]. Leer hoe u deze Adobe IMS-abstracties kunt gebruiken in [!UICONTROL AEM Author] om specifieke op groep-gebaseerde toestemmingen te bepalen en te beheren. | AEM CS |
 
 {style="table-layout:auto"}
 
-### [!DNL Experience Manager] kennisbasis ondersteunen
+### [!DNL Experience Manager] kennisbasis ondersteunen{#kb-aem}
 
 Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Manager].
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|--------|---------|---------|
-| April 2023 | [Wijzigingen in GraphQL-verwerking van null-waarden](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html) | Nieuw artikel | Leer hoe u het mogelijke onverwachte gedrag in de toepassingscode kunt oplossen (in [!DNL Experience Manager as a Cloud Service]) als gevolg van de recente verbeteringen in de uitvoering van GraphQL. |
-| April 2023 | [Verwijzingen niet bijgewerkt tijdens rollout voor live kopie binnen](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21808.html) | Nieuw artikel | Leer hoe u het probleem verhelpt waarbij verwijzingen niet worden bijgewerkt tijdens rollout voor live interne kopie. |
-| April 2023 | [Slepen en neerzetten van een map met middelen naar de gebruikersinterface van AEM Assets Web mislukt](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21865.html) | Nieuw artikel | Ontdek de oplossing voor het probleem waarbij het slepen en neerzetten van een map met middelen naar de gebruikersinterface van AEM Assets Web mislukt. |
-| April 2023 | [Gepubliceerde pagina&#39;s aanbieden met [!UICONTROL Query Builder] API](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21884.html) | Nieuw artikel | Leer hoe u de pagina&#39;s kunt weergeven die op een AEM auteur zijn gepubliceerd. |
-| April 2023 | [Hoe te om het tijdformaat van de activeringsdatum aan te passen voor [!UICONTROL Manage Publication]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21885.html) | Nieuw artikel | Leer hoe u de tijdnotatie van de activeringsdatum voor [!UICONTROL Manage Publication]. |
+| Mei 2023 | [Hoe te om aan douane login pagina van een AEM OAuth stroommislukking om te leiden](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21954.html) | Nieuw artikel | Leer waarom er een behoefte is om naar de aangepaste login pagina in het geval van AEM om te leiden `OAuth` stroomstoring en hoe dit te doen. |
+| Mei 2023 | [Pipet mislukt vanwege fout _De eigenschap end_name_createsegmentstore ontbreekt_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22091.html) | Nieuw artikel | Leer de oplossing voor de kwestie wanneer de CI/CD pijpleiding met fout ontbreekt _De eigenschap end_name_createsegmentstore ontbreekt_. |
+| Mei 2023 | [Hoe te om een replicatierij te controleren](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22082.html) | Nieuw artikel | Leer hoe u een replicatiewachtrij kunt controleren. |
+| Mei 2023 | [Hoe te om geschrapt uit te rollen [!UICONTROL Live Copy]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22081.html) | Nieuw artikel | Leer hoe u een verwijderde toepassing kunt implementeren [!UICONTROL Live Copy]. |
+| Mei 2023 | [Brand Portal activeren met OAuth Server-to-Server-referenties](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22074.html) | Nieuw artikel | Leer waarom klanten de methode van geloofsbrieven JWT in plaats van zouden moeten gebruiken [!DNL OAuth Sever-to-Server] aanmeldingsmethode om de Adobe te maken [!UICONTROL IMS Technical Account Configuration]. |
+| Mei 2023 | [Uitlogprobleem AEM zelfs na SAML SSO-verificatie](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22065.html) | Nieuw artikel | Leer de oplossing voor de kwestie waar de gebruikers niet zich kunnen melden wanneer AEM gebruikend SAML Enige Sign-On (SSO) voor authentiek wordt verklaard. |
+| Mei 2023 | [Het verwijderen van NetworkInfrastructure via CM API mislukt met 405](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22063.html) | Nieuw artikel | Ontdek de oplossing voor het probleem waarbij u het bestand verwijdert `NetworkInfrastructure` via CM API mislukt met 405. |
+| Mei 2023 | [Inhoud extraheren via migratieset mislukt](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22031.html) | Nieuw artikel | Ontdek waarom inhoud wordt geëxtraheerd via [!DNL Migration Set] kan falen. |
 
 {style="table-layout:auto"}
 
@@ -435,22 +449,20 @@ Toegang krijgen tot releaseopmerkingen, nieuwe zelfstudies en artikelen in de Kn
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Mei 2023 | [sessie voor architectuur zonder hoofd 1](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/headless-architecture/introduction-to-headless/session-1.html) | Video | Leer wat een headless architectuur, composable handel, en gepersonaliseerde ervaringen is. |
-| Mei 2023 | [Volledige demonstratie op [!UICONTROL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-full-demonstration.html) | Video | Bekijk een volledige demonstratie over de functies en flexibiliteit van [!UICONTROL Live Search]. |
-| Mei 2023 | [Inleiding tot [!UICONTROL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=en) | Video | Meer informatie [!UICONTROL Live Search] van Adobe Commerce biedt een snelle, relevante en intuïtieve zoekervaring. |
-| Mei 2023 | [Adobe Commerce-overzicht met zelfhosting](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/self-hosting/overview.html) | Video | Leer over zelf-ontvangende beste praktijken om te overwegen wanneer het overgaan naar een e-commerceplatform. |
+| Juni 2023 | [Adobe [!DNL Commerce] over cloudinfrastructuur - Overzicht](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/1-overview.html) | Video | Identificeer de belangrijkste technologieën binnen de wolkenstapel. Beschrijf de strategie voor de levering van inhoud voor [!DNL Adobe Commerce]. Begrijp de waarde van het alleen-lezen bestandssysteem. |
+| Juni 2023 | [Adobe [!DNL Commerce] over cloudinfrastructuur - Hosting en accounts](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/2-accounts.html) | Video | Meer informatie over bestaande hostoplossingen voor Adobe [!DNL Commerce]. Begrijp verschillen tussen Starter- en Pro-accounts. |
+| Juni 2023 | [Een [!UICONTROL Cart Price Rule]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/cart-price-rules.html) | Video | Leer hoe u regels voor winkelwagenprijzen kunt maken die kortingen op winkelwagentjes toepassen op basis van een aantal voorwaarden. |
 
 {style="table-layout:auto"}
 
-### [!DNL Commerce] kennisbasis ondersteunen
+### [!DNL Commerce] kennisbasis ondersteunen{#kb-commerce}
 
 Nieuwe artikelen en updates van bestaande artikelen voor Adobe Commerce.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|--------|---------|---------|
-| April 2023 | [QPT (Quality Patches)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | Nieuwe artikelen | Er zijn nieuwe artikelen gepubliceerd over het toepassen van patches die beschikbaar zijn in QPT 1.1.28, QPT 1.1.29 en QPT 1.1.30. Deze artikelen staan in de desbetreffende secties. |
-| April 2023 | [Nieuw domein wordt omgeleid naar standaarddomein](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/new-domain-redirecting.html) | Nieuw artikel | Leer hoe u het probleem verhelpt waarbij een nieuw domein wordt omgeleid naar het standaarddomein in de bestaande of andere omgeving. |
-| April 2023 | [Hoe wijzigt u het e-mailadres op een Magento.com-account wanneer het veld grijs wordt weergegeven?](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/change-email-address-on-magento-account.html) | Nieuw artikel | Leer hoe u het e-mailadres op uw [Magento.com](https://account.magento.com/customer/account/login) als het veld grijs wordt weergegeven. |
+| Mei 2023 | [QPT (Quality Patches)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | Nieuwe artikelen | Er zijn nieuwe artikelen gepubliceerd over het toepassen van patches die beschikbaar zijn in QPT 1.1.29, QPT 1.1.30 en QPT 1.1.31. Deze artikelen zijn te vinden in de desbetreffende secties. |
+| Mei 2023 | [Kan gebruiker niet toevoegen aan Adobe Commerce Cloud Project](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html) | Nieuw artikel | Kom de oplossing voor de kwestie te weten waar u een gebruiker aan een wolkenproject probeert toe te voegen, maar het ontbreekt met een fout: _Gebruiker XXX bestaat niet_. |
 
 {style="table-layout:auto"}
 
@@ -458,9 +470,18 @@ Nieuwe artikelen en updates van bestaande artikelen voor Adobe Commerce.
 
 ## ![Pictogram](/assets/target.png) [!DNL Target] {#target}
 
-Profiteer van toegang tot opmerkingen die al zijn uitgebracht, opmerkingen bij de huidige release en nieuwe zelfstudies voor Adobe Target.
+Toegang krijgen tot opmerkingen die vooraf zijn uitgebracht, opmerkingen bij de huidige release en nieuwe zelfstudies voor [!DNL Adobe Target].
 
 +++Details
+
+### [!DNL Target] kennisbasis ondersteunen{#kb-target}
+
+Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Adobe Target].
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+|---------|----|----|-----------|
+| Mei 2023 | [Adobe importeren [!DNL Target] feed-bestanden](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21827.html) | Nieuw artikel | Leer meer of de waarden tijdens het importeren van Adobe worden overschreven [!DNL Target] feed-bestanden. |
+| Mei 2023 | [Over Back-up van inhoud die werkt met &quot;Criteria Sequence&quot; van Adobe Target](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22032.html) | Nieuw artikel | Meer informatie over back-upinhoud die werkt met [!DNL Criteria Sequence]in [!DNL Adobe Target]. |
 
 * Voor informatie over de release raadpleegt u [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * Zie voor actuele informatie [[!DNL Adobe Target] releaseopmerkingen](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
@@ -475,32 +496,34 @@ Download de nieuwste updates voor [!DNL Adobe Campaign]. Zoek naar nieuwe zelfst
 
 ### Nieuwste productreleases van campagne
 
-Ga hier voor de nieuwste mogelijkheden, verbeteringen en oplossingen in [!DNL Adobe Campaign]:
+* [!DNL Campaign Control Panel] Mag vrijgeven, met SSL-certificaten van subdomeinen gedelegeerd aan Adobe. [Meer informatie...](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Campagne v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en), en [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) opmerkingen bij de release.
 
-### Nieuw [!DNL Campaign] zelfstudies {#tutorials-campaign}
+### Nieuw [!DNL Campaign] zelfstudies en cursussen {#tutorials-campaign}
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor [!DNL Adobe Campaign].
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassing |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Mei 2023 | [Een enquête maken](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Leer hoe u een enquête maakt in [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
-| Mei 2023 | [Een enquête maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Leer hoe u een enquête maakt in [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| Mei 2023 | [Content voor e-maillevering ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Meer informatie over content voor e-mailaflevering configureren, personaliseren en testen. Inzichten in sjablonen gebruiken, afbeeldingen uploaden, emoticons toevoegen en barcodes en QR-codes insluiten. | [!DNL Campaign Classic] |
-| Mei 2023 | [Een verzending controleren](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Begrijp berichtlogboeken, baanlogboeken, en leveringslogboeken. | [!DNL Campaign Standard] |
+| Juni 2023 | [Content voor e-maillevering ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Meer informatie over content voor e-mailaflevering configureren, personaliseren en testen. Inzichten in sjablonen gebruiken, afbeeldingen uploaden, emoticons toevoegen en barcodes en QR-codes insluiten. | Campaign Classic v7 |
+| Juni 2023 | [Problemen met markeertekens oplossen: 5 Algemene workflowfouten en leveringsfouten](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/troubleshooting-for-marketers.html?lang=en) | Video | Leer veelvoorkomende fouten te voorkomen en uw productiviteit te verhogen. Deze het oplossen van problemenuiteinden om u te helpen gelijkaardige fouten effectief oplossen aangezien zij voorkomen. | Campaign Standard |
 
 {style="table-layout:auto"}
 
-### [!DNL Campaign] kennisbasis ondersteunen
+### [!DNL Campaign] kennisbasis ondersteunen{#kb-campaign}
 
 Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Campaign].
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|----|----|-----------|
-| April 2023 | [Gegevens ophalen uit externe database waarvan de waarden meer dan 255 tekens bevatten](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21880.html) | Nieuw artikel | Leer hoe u gegevens kunt ophalen uit een externe database waarin waarden groter zijn dan 255 tekens. |
-| April 2023 | [Fout: _XSV-350064 inch [!DNL Google BigQuery] externe rekening_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21895.html) | Nieuw artikel | Leer hoe u de _XSV-350064 inch [!DNL Google BigQuery] externe rekening_ fout. |
-| April 2023 | [Versie 9356: Externe koppelingen zijn nog open in [!DNL Internet Explorer] postupgrade](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21907.html) | Nieuw artikel | Leer hoe u het probleem kunt oplossen waarnaar de externe koppelingen nog steeds verwijzen [!DNL Internet Explorer] eerder dan [!DNL Microsoft Edge] na de upgrade naar 9356. |
+| Mei 2023 | [Hoe te om langzame e-maillevering wegens Deco-mail ontvangers te verhinderen?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21942.html) | Nieuw artikel | Leer hoe u een trage verzending via e-mail voorkomt vanwege [!UICONTROL Deco-mail] ontvangers. |
+| Mei 2023 | [Hoe lang verzamelen de leveringen het volgen gegevens?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html) | Nieuw artikel | Ontdek hoe lang het volggegevens op de server worden opgeslagen. |
+| Mei 2023 | [Compatibiliteit tussen Adobe Campaign Classic en SOCKS5 Proxy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22075.html) | Nieuw artikel | Kom te weten of het mogelijk is om dossiers met Volmacht over te brengen SOCKS5 in [!DNL Campaign Classic]. |
+| Mei 2023 | [Schemadefinitie niet gevonden - Kan niet genereren op basis van schemafout](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21964.html) | Nieuw artikel | Kom de oplossing te weten wanneer u niet de douanemiddel kunt opnieuw ontwerpen en publiceren. |
+| Mei 2023 | [Hoe lang verzamelen de leveringen het volgen gegevens?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html) | Nieuw artikel | Ontdek hoe lang het volggegevens op de server worden opgeslagen. |
+| Mei 2023 | [Leveringsfout met _Berichten in de wachtrij (verbindingsquota gehaald)_ fout](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22154.html) | Nieuw artikel | Ontdek de oplossing voor de leveringsmislukking met _Berichten in de wachtrij (verbindingsquota gehaald)_ fout. |
+| Mei 2023 | [Hoe te om post-verbetering voor op-gebouw instanties in werking te stellen wanneer er veelvoudige servers zijn](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22055.html) | Nieuw artikel | Leer hoe te om post-verbetering voor op-gebouw instanties in werking te stellen wanneer er veelvoudige servers zijn. |
 
 {style="table-layout:auto"}
 
@@ -521,6 +544,12 @@ Meer informatie over de nieuwste release voor [!DNL Journey Optimizer]. Bekijk d
 
 ### Laatste [!DNL Journey Optimizer] productreleases
 
+Nieuwe functies:
+
+* [!DNL Adobe Journey Optimizer] Mei vrijgeven, met[!UICONTROL  Content Experimentation] en [!UICONTROL Email Fragments]. [Meer informatie...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)
+
+* [!UICONTROL Decision Management] Mei vrijgeven, met [!UICONTROL Personalized Optimization AI] rangschikkingsmodel. [Meer informatie...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)
+
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Opmerkingen bij de release van Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
 ### Nieuw [!DNL Journey Optimizer] zelfstudies {#tutorials-ajo}
@@ -529,9 +558,11 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journ
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Mei 2023 | [Een webcampagne maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Leer hoe u een webervaring kunt ontwerpen met de visuele webeditor in [!DNL Journey Optimizer] campagnes. |
-| Mei 2023 | [Een webcampagne maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Video | Begrijp wat een webcampagne is. Leer hoe u de eigenschappen van de webcampagne configureert, controleert en publiceert. |
-| Mei 2023 | [Gegevenssets exporteren naar opslaglocaties in de cloud](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Leer hoe u een gegevensset exporteert van [!DNL Journey Optimizer] aan een [!DNL Amazon] S3-bestemming. |
+| Juni 2023 | [AI-modellen maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-ai-models.html) | Video | Leer hoe u een AI-model maakt voor [!UICONTROL Offer Decisioning] en hoe deze op een besluit moet worden toegepast. |
+| Juni 2023 | [Inhoud-experimenten voor e-mails configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/content-experiments-for-emails.html) | Video | Leer hoe u contentexperimenten configureert voor een A/B-test en e-mailinhoud verkent, wat de beste manier is om uw zakelijke doelstellingen te bepalen. |
+| Juni 2023 | [Inhoud-experimenten voor in-app-berichten configureren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/content-experiments-for-in-app-messages.html) | Video | Leer hoe u contentexperimenten configureert en analyseert op basis van A/B test in-app berichten. |
+| Juni 2023 | [Fragmenten beheren, maken en gebruiken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html) | Video | Leer hoe u fragmenten beheert, ontwerpt en gebruikt in [!DNL Journey Optimizer]. |
+| Juni 2023 | [E-mailkanaal instellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html) | Video | Leer hoe u voorinstellingen voor berichten maakt, hoe u ze gebruikt en hoe u een subdomein delegeert en een IP-pool maakt. |
 
 {style="table-layout:auto"}
 
@@ -548,7 +579,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 
 ## ![Pictogram](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
 
-Heb toegang tot de recentste versienota&#39;s voor Journey Orchestration op Experience League.
+De nieuwste releaseopmerkingen openen voor [!DNL Journey Orchestration] op Experience League.
 
 +++Details
 
@@ -579,15 +610,22 @@ Ontdek de nieuwste releaseopmerkingen en de releaseplanning voor [!DNL Marketo E
 * Zie [Maart 2023 - opmerkingen bij de huidige release](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=en) voor de meest recente informatie
 * Zie [!DNL Marketo Engage] [releaseplanning](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) voor de recentste informatie van het versieschema en versienota&#39;s.
 
-<!-- ### New Marketo tutorials and courses {#tutorials-marketo}
+### Nieuwe zelfstudies en cursussen voor Marketo {#tutorials-marketo}
 
-New videos, tutorials, or courses published for Adobe Marketo.
+Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Marketo.
 
-|Published|Name|Type|Description |
+| Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-|August 2022 |[Marketo Engage tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)|Videos |Visit the [Marketo Engage tutorial home](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) on Experience League for all past and new tutorials for Marketo Engage.|
+| Juni 2023 | [Standaardprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html) | Video | Meer weten over het maken en meten van uw eerste [!UICONTROL Default Program]. |
+| Juni 2023 | [E-mailprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | Video | Bekijk deze stapsgewijze zelfstudie om te leren hoe u een e-mailprogramma maakt met een A/B-test. |
+| Juni 2023 | [Betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html) | Video | Volg deze stapsgewijze zelfstudie om uw eerste betrokkenheidsprogramma samen te stellen. |
+| Juni 2023 | [Gebeurtenisprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | Video | Ontwikkel een fundamenteel begrip en bouw uw eerste Programma van de Gebeurtenis door deze video te bekijken. |
+| Juni 2023 | [Een gebeurtenisprogramma maken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en) | Video | Leer hoe u een &#39;trade show event&#39;-programma maakt dat is gebaseerd op een vooraf gebouwd programma in [!DNL Marketo]. |
+| Juni 2023 | [Rapportage en analyse](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en) | Video | Leer hoe u door de [!DNL Analytics] en [!UICONTROL Database] om verschillende rapporten uit de doos in te trekken [!DNL Marketo Engage]. |
+| Juni 2023 | [Marketo-programma&#39;s en -campagnes](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns.html?lang=en) | Video | Programma&#39;s vormen één marketinginitiatief. Leer hoe u ze samen met campagnes kunt gebruiken om uw publiek op verschillende manieren te bereiken. |
+| Juni 2023 | [Navigeren in de gebruikersinterface van Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/ui-navigation.html?lang=en) | Video | Leer hoe u door de gebruikersinterface kunt navigeren en vertrouwd raakt met uw weg rond de [!DNL Marketo Engage] platform. |
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 Raadpleeg voor de meest recente productdocumentatie de [Marketo-productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en) thuis
 
@@ -605,28 +643,7 @@ Nieuw [!DNL Workfront] cursussen en verzamelingen zelfstudies over Experience Le
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Mei 2023 | [Punten via een lay-outsjabloon toevoegen en beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.html?lang=en) | Video | Leer wat een speld is en hoe u belangrijke of relevante pagina&#39;s voor een reeks gebruikers vastzet door lay-outsjablonen. |
-| Mei 2023 | [Zichtbaarheid maken met de Jira-integratie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/jira/jira.html?lang=en) | Artikel | Bekijk een glimp van hoe de integratie van Jira zichtbaarheid kan creëren in wat uw team doet. |
-| Mei 2023 | [Voortgang van doel berekenen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/monitor-goals/calculate-goal-progress.html?lang=en) | Artikel | Leer hoe de voortgang van het doel wordt berekend in Workfront Goals. |
-| Mei 2023 | [Doelstatus communiceren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/monitor-goals/communicate-goal-status.html?lang=en) | Artikel | Leer hoe u met anderen kunt communiceren over de voortgang en status van uw doelen in Workfront Goals. |
-| Mei 2023 | [Geplande weergaven voor uren en tijdsduur begrijpen in Verbeterde analyse](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/8-planned-hours-and-duration-views.html?lang=en) | Artikel | In de grafieken van de Verbranding en van de Verloop van het Project, kunt u de informatie door geplande uren of duur bekijken. |
-| Mei 2023 | [Leer vier manieren om een project te maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects.html?lang=en) | Video | Leer hoe u een project maakt op basis van een sjabloon, een geheel nieuw project maakt, een bestaand project kopieert of een Microsoft®-projectbestand importeert. |
-| Mei 2023 | [Uw projecten zoeken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.html?lang=en) | Artikel en video&#39;s | Leer hoe u uw projecten in Workfront kunt vinden met behulp van spelden, favorieten, dashboards en de pagina Projecten. |
-| Mei 2023 | [Handelingen in Verbeterde analyse begrijpen - houd de muisaanwijzer boven, klik en sleep en klik op](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.html?lang=en) | Video | Leer hoe u meer informatie krijgt door de muisaanwijzer boven een diagram te houden, een tijdframe op een diagram te maken en extra grafieken weer te geven, allemaal in Verbeterde analyse. |
-| Mei 2023 | [Bronbeheerinstellingen voor gebruikers](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-management/settings-for-users.html?lang=en) | Video | Meer informatie over de gebruikersinstellingen die nodig zijn om de hulpmiddelen voor resourcebeheer correct te gebruiken. |
-| Mei 2023 | [Inleiding tot Workfront Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/1-intro-to-workfront-analytics.html) | Video | Leer hoe analyses tot stand zijn gekomen en de spannende mogelijkheden die dit mogelijk maakt met Joel Pettigrew, productmanager voor verbeterde analysemogelijkheden. |
-| Mei 2023 | [Een verzoek bijwerken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request.html?lang=en) | Video | Klik hier als je wilt weten hoe je de aanvragen kunt vinden die je hebt verzonden en hoe je deze aanvragen kunt bijwerken in Workfront. |
-| Mei 2023 | [De sectie Grafieken begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/monitor-goals/understand-the-graphs-section.html?lang=en) | Video | Leer om het Grafiek van de Gezondheid van het Goal en Goal grafiek in Doelstellingen te lezen en te interpreteren. |
-| Mei 2023 | [Workfront Fusion-oefenbestanden instellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.html?lang=en) | Video | Leer hoe u de oefenbestanden downloadt en deze bestanden uploadt naar een map in Workfront, in Adobe Workfront Fusion. |
-| Mei 2023 | [Een project delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en) | Video | Leer hoe u een project kunt delen, zodat belanghebbenden en anderen die geïnteresseerd zijn in het project, zichtbaar zijn in het werk dat wordt uitgevoerd met Workfront. |
-| Mei 2023 | [Algemene vragen over aanvraagrijen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/request-queue-faq.html?lang=en) | Artikel | Ontvang antwoorden op veelgestelde vragen over aanvraagwachtrijen in Workfront. |
-| Mei 2023 | [Begrijp de grafiek van de middelcapaciteit in Verbeterde Analyse](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/19-resource-capacity-chart.html?lang=en) | Video | Leer hoe de grafiek van de capaciteit van het Middel het aantal geplande uren toont die aan een huisteam binnen de gefiltreerde tijdspanne in vergelijking met de totale beschikbare uren van het team worden toegewezen. |
-| Mei 2023 | [Begrijp de activiteit door teamgrafiek in Verbeterde Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/18-activity-by-team-chart.html?lang=en) | Artikel | Leer hoe de huisteams van uw organisatie hun tijd in Workfront doorbrengen. |
-| Mei 2023 | [Inzicht in teamcapaciteit in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/20-team-capacity-overview.html?lang=en) | Artikel | Leer hoe de de capaciteitsgrafiek van het Team toont wanneer een huisteam over-toegewezen of onderverdeeld was. |
-| Mei 2023 | [Een doel sluiten zodra dit is voltooid](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/manage-goals/close-a-goal-once-complete.html?lang=en) | Video | Leren gebruiken [!UICONTROL Goals] om een doel te sluiten. |
-| Mei 2023 | [Inzicht in maken van basisprojecten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation.html?lang=en) | Video | Leer de vier stappen om een project te beginnen, de definitie van een project en de drie meest gebruikelijke manieren om een project te maken. |
-| Mei 2023 | [Voortgang van resultaten en activiteiten bijwerken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/manage-goals/make-a-quantitative-update.html?lang=en) | Video | Leer hoe u de voortgang van resultaten en activiteiten in Workfront Goals kunt bijwerken. |
-| Mei 2023 | [De projectdetails invullen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details.html?lang=en) | Artikel | Leer welke 12 gebieden van projectdetails Workfront u adviseert in te vullen wanneer het creëren van een project. |
+| Juni 2023 | [Updates van Workfront-zelfstudie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | Video&#39;s en artikelen | Bladeren in het dialoogvenster [!DNL Workfront] lesbibliotheek voor toegang tot de meest recente video- en artikelzelfstudies die onlangs zijn gepubliceerd naar het Experience League. |
 
 {style="table-layout:auto"}
 
@@ -636,7 +653,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Workfront].
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| April 2023 | [Kan aangepaste velden niet bewerken](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21913.html) | Nieuw artikel | Leer hoe u het probleem kunt oplossen waarbij gebruikers problemen ondervinden bij het bewerken van aangepaste velden. |
+| Mei 2023 | [Onjuiste aanvraagfout bij het configureren van de [!DNL Workfront] for [!DNL Jira] invoegtoepassing](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22169.html) | Nieuw artikel | Leer de oplossing voor de kwestie waar een onjuiste verzoekfout wanneer het proberen van een verbinding tussen aanwezig is [!DNL Workfront] en [!DNL Jira]. |
 
 {style="table-layout:auto"}
 
@@ -687,8 +704,8 @@ Laatst bijgewerkt: **1 juni 2023**
 
 | Functie | Beschrijving |
 | ------- | ----------- |
-| [!UICONTROL Campaigns], [!UICONTROL Reports], [!UICONTROL Objectives] | (Open bèta; 30 mei) Conversies bijgehouden door de [!DNL Microsoft Advertising] De tag Universal Event Tracking (UET) is nieuw in weergaven en rapporten voor campagnebeheer. U kunt voor deze omzettingen ook optimaliseren door hen in doelstellingen voor portefeuilles te omvatten die bevatten [!DNL Microsoft Advertising] campagnes. |
-| [!UICONTROL Reports] | (Open bèta; 30 mei) Drie nieuwe speciale rapporten bevatten gegevens voor [!DNL Microsoft Advertising] extensies toevoegen: [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Ad Extension by Ad Report], en [!UICONTROL MSA Ad Extension by Keyword Report]. |
+| [!UICONTROL Campaigns], [!UICONTROL Reports], [!UICONTROL Objectives] | (bèta openen) Conversies bijgehouden door de [!DNL Microsoft Advertising] De tag Universal Event Tracking (UET) is nieuw in weergaven en rapporten voor campagnebeheer. U kunt voor deze omzettingen ook optimaliseren door hen in doelstellingen voor portefeuilles te omvatten die bevatten [!DNL Microsoft Advertising] campagnes. |
+| [!UICONTROL Reports] | (Open bèta) Drie nieuwe speciale rapporten bevatten gegevens voor [!DNL Microsoft Advertising] extensies toevoegen: [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Ad Extension by Ad Report], en [!UICONTROL MSA Ad Extension by Keyword Report]. |
 
 {style="table-layout:auto"}
 
@@ -706,8 +723,22 @@ Nieuwe zelfstudies en cursussen gepubliceerd voor [!DNL Document Cloud], met inb
 
 | Gepubliceerd | Naam | Type | Beschrijving | Toepassing |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Mei 2023 | [Acrobat Sign + Workday nieuwe inboarding](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/workday/acrobat-sign-workday-onboarding.html?lang=en) | Video | U kunt Acrobat Sign gebruiken binnen andere toepassingen die uw organisatie al gebruikt, zoals Microsoft, Salesforce, Workday en Marketo om er een paar te noemen. Leer hoe u de workflows voor e-handtekeningen kunt vereenvoudigen in deze integratiehandleidingen en zelfstudies. | Acrobat Sign |
-| Mei 2023 | [Documenten verzenden voor notariatie](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/notarize/send-document-notarize.html?lang=en) | Video | Leer hoe u een document verzendt voor notarisering. | Acrobat Sign |
+| Juni 2023 | [Redactie: De juiste weg](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/redaction.html?lang=en) | Video | In deze videozelfstudie van 60 seconden leert u de juiste manier om vertrouwelijke informatie uit een PDF te verwijderen. | Acrobat Pro |
+| Juni 2023 | [Een PDF delen voor opmerkingen](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment.html?lang=en) | Video | In deze videozelfstudie van 60 seconden leert u hoe u een PDF kunt delen om snel feedback van meerdere personen in één bestand te verzamelen. | Acrobat |
+| Juni 2023 | [Delen en opmerkingen plaatsen over PDF-bestanden in teams](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams.html?lang=en) | Video | In deze videozelfstudie van 60 seconden leert u hoe u in real-time kunt samenwerken aan een PDF-bestand in Microsoft Teams. | Acrobat |
+| Juni 2023 | [Verschillen met PDF vergelijken opsommen](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/compare.html?lang=en) | Video | In deze videozelfstudie van 60 seconden leert u hoe u de verschillen tussen twee PDF-bestanden kunt opsporen met het gereedschap Bestanden vergelijken in Acrobat. | Acrobat Pro |
+| Juni 2023 | [PDF opmerkingen met overzicht](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/summarize-comments.html?lang=en) | Video | In deze videozelfstudie van 60 seconden leert u hoe u een overzicht maakt van alle opmerkingen en markeringen in uw PDF-bestand. | Acrobat |
+| Juni 2023 | [Een PDF naar Word converteren](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-word.html) | Video | In deze videozelfstudie van 60 seconden leert u hoe u een PDF-bestand kunt omzetten in een volledig bewerkbaar Microsoft Word-document. | Acrobat |
+| Juni 2023 | [Een PDF maken van Microsoft Word](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/word-to-pdf.html?lang=en) | Video | In deze videozelfstudie van 60 seconden leert u hoe u een PDF maakt van Microsoft Word. | Acrobat |
+| Juni 2023 | [Een PDF omzetten in een standaardindeling](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/conform.html) | Video | In deze videozelfstudie van 60 seconden leert u hoe u PDF-inhoud kunt valideren aan de hand van PDF-standaardcriteria zoals PDF/X, PDF/A of PDF/E. | Acrobat Pro |
+| Juni 2023 | [PDF-bestanden maken met Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/create-from-acrobat.html?lang=en) | Video | Leer in deze videozelfstudie van 60 seconden hoe u PDF kunt maken van [!DNL Microsoft 365] in de Acrobat-bureaubladtoepassing. | Acrobat |
+| Juni 2023 | [Een PDF converteren naar Excel](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-excel.html) | Video | In deze videozelfstudie van 60 seconden leert u hoe u een PDF-bestand omzet in een volledig bewerkbaar Microsoft Excel-document. | Acrobat |
+| Juni 2023 | [Een PDF omzetten in PowerPoint](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html) | Video | Leer in deze videozelfstudie van 60 seconden hoe u een PDF-bestand omzet in een volledig bewerkbaar Microsoft PowerPoint-document. | Acrobat |
+| Juni 2023 | [In real-time samenwerken](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | Video | Naadloze samenwerking is van essentieel belang voor het leveren van inhoud met snelheid en schaal, omdat overal op afstand wordt gewerkt. Verplaats uw projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van uw documenten in real-time en overal te volgen. | Acrobat Sign |
+| Juni 2023 | [Formuliergegevens beheren](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html) | Video | Leer hoe u formuliergegevens uit uw documenten kunt samenvoegen, zodat u deze kunt weergeven en beheren in een rapport of Excel-werkblad. | Acrobat Sign |
+| Juni 2023 | [Verificatiemethoden in Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | Video | Leer meer over de methoden die beschikbaar zijn in Acrobat Sign om de identiteit te verifiëren van iemand die een document ondertekent. Identiteitsverificatie helpt fraude te verminderen en voegt een extra beveiligingslaag toe aan documenten die zijn ondertekend. |  |
+| Juni 2023 | [Gebruikers toevoegen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) | Video | Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren. Gebruikersbeheer vindt plaats binnen de Admin Console. | Acrobat Sign |
+| Juni 2023 | [Rapportopties voor gebruikers](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en) | Video | Leer als Acrobat Sign-beheerder hoe u rapportopties voor gebruikers instelt. | Acrobat Sign |
 
 {style="table-layout:auto"}
 
@@ -747,10 +778,12 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
-### New Digital Experience Blueprints tutorials
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|January 2023|[Customer Journeys - AEP + Apps & AJO Architecture](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=en)|Diagram updates|Deliver individual, just-in-time customer experiences across screens.| 
 -->
 
+## Nieuwe blauwdrukken voor digitale beleving {#blueprints}
+
+[Lesbestanden voor Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) zijn herhaalbare implementaties die u strategie laten behandelen en snel gevestigde bedrijfsproblemen oplossen. Elke blauwdruk verstrekt een reeks artefacten die het high-value bedrijfsprobleem, architectuur, implementatiestappen, technische overwegingen, en verbindingen aan de relevante documentatie verklaren.
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| Juni 2023 | [Het gebeurtenis-door:sturen van meerdere sandbox gegevensinzameling](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/multi-sandbox-event-forwarding.html?lang=en) | Zelfstudie blauwdruk | Leer hoe de gegevens die met het Web van het Experience Platform en Mobiele SDKs worden verzameld kunnen worden gevormd om één enkele gebeurtenis te verzamelen en aan veelvoudige zandbakken van AEP door:sturen. |
