@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
+source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
 workflow-type: tm+mt
 source-wordcount: '6269'
 ht-degree: 8%
@@ -143,6 +143,8 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Experience 
 | Juni 2023 | [Segmenten en profielkenmerken activeren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html) | Video | Leer hoe u segmenten en profielkenmerken activeert vanuit [!DNL Real-Time Customer Data Platform] naar Adobe [!DNL Target]. U kunt persoonlijke inhoud in real-time weergeven op uw websites, mobiele apps en andere digitale eigenschappen. |
 | Juni 2023 | [Gegevens classificeren met labels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html) | Video | Leer hoe te om etiketten op uw schema&#39;s en datasets toe te passen. Met labels voor gegevensgebruik kunt u gegevens labelen en classificeren op basis van het bedrijfsbeleid, de contractuele verplichtingen, de nalevingsvereisten en de regionale regelgeving in [!DNL Experience Platform]. |
 | Juni 2023 | [Gebruiken [!DNL Real-Time CDP] profielkenmerken in Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html) | Video | Leren gebruiken [!DNL Real-Time Customer Data Platform] profielkenmerken in Adobe [!DNL Target] voor persoonlijke ervaringen op uw website en mobiele apps. |
+
+{style="table-layout:auto"}
 
 +++
 
