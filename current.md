@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
+source-git-commit: f5ea5fd49968d95b322127435b048b61ed8b2709
 workflow-type: tm+mt
 source-wordcount: '6269'
 ht-degree: 8%
@@ -620,7 +620,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe Marketo.
 | -----------| ---------- | ---------- | ---------- |
 | Juni 2023 | [Standaardprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html) | Video | Meer weten over het maken en meten van uw eerste [!UICONTROL Default Program]. |
 | Juni 2023 | [E-mailprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | Video | Bekijk deze stapsgewijze zelfstudie om te leren hoe u een e-mailprogramma maakt met een A/B-test. |
-| Juni 2023 | [Betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html) | Video | Volg deze stapsgewijze zelfstudie om uw eerste betrokkenheidsprogramma samen te stellen. |
+| Juni 2023 | [Betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | Video | Volg deze stapsgewijze zelfstudie om uw eerste betrokkenheidsprogramma samen te stellen. |
 | Juni 2023 | [Gebeurtenisprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | Video | Ontwikkel een fundamenteel begrip en bouw uw eerste Programma van de Gebeurtenis door deze video te bekijken. |
 | Juni 2023 | [Een gebeurtenisprogramma maken](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en) | Video | Leer hoe u een &#39;trade show event&#39;-programma maakt dat is gebaseerd op een vooraf gebouwd programma in [!DNL Marketo]. |
 | Juni 2023 | [Rapportage en analyse](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en) | Video | Leer hoe u door de [!DNL Analytics] en [!UICONTROL Database] om verschillende rapporten uit de doos in te trekken [!DNL Marketo Engage]. |
@@ -738,7 +738,7 @@ Nieuwe zelfstudies en cursussen gepubliceerd voor [!DNL Document Cloud], met inb
 | Juni 2023 | [Een PDF omzetten in PowerPoint](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html) | Video | Leer in deze videozelfstudie van 60 seconden hoe u een PDF-bestand omzet in een volledig bewerkbaar Microsoft PowerPoint-document. | Acrobat |
 | Juni 2023 | [In real-time samenwerken](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | Video | Naadloze samenwerking is van essentieel belang voor het leveren van inhoud met snelheid en schaal, omdat overal op afstand wordt gewerkt. Verplaats uw projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van uw documenten in real-time en overal te volgen. | Acrobat Sign |
 | Juni 2023 | [Formuliergegevens beheren](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html) | Video | Leer hoe u formuliergegevens uit uw documenten kunt samenvoegen, zodat u deze kunt weergeven en beheren in een rapport of Excel-werkblad. | Acrobat Sign |
-| Juni 2023 | [Verificatiemethoden in Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | Video | Leer meer over de methoden die beschikbaar zijn in Acrobat Sign om de identiteit te verifiëren van iemand die een document ondertekent. Identiteitsverificatie helpt fraude te verminderen en voegt een extra beveiligingslaag toe aan documenten die zijn ondertekend. |  |
+| Juni 2023 | [Verificatiemethoden in Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | Video | Leer meer over de methoden die beschikbaar zijn in Acrobat Sign om de identiteit te verifiëren van iemand die een document ondertekent. Identiteitsverificatie helpt fraude te verminderen en voegt een extra beveiligingslaag toe aan documenten die zijn ondertekend. | |
 | Juni 2023 | [Gebruikers toevoegen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) | Video | Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren. Gebruikersbeheer vindt plaats binnen de Admin Console. | Acrobat Sign |
 | Juni 2023 | [Rapportopties voor gebruikers](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en) | Video | Leer als Acrobat Sign-beheerder hoe u rapportopties voor gebruikers instelt. | Acrobat Sign |
 
