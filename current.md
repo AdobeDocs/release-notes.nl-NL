@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 768938cac02fcc31f707cf1763619eb60d35a1dc
+source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
 workflow-type: tm+mt
-source-wordcount: '6085'
-ht-degree: 8%
+source-wordcount: '5985'
+ht-degree: 9%
 
 ---
 
@@ -31,7 +31,7 @@ Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en p
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **7 juni 2023**
+Laatste update: **21 juni 2023**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
@@ -64,15 +64,13 @@ Leer over spannende gebeurtenissen op Experience League. Het is een geweldige pl
 
 +++Aanstaande gebeurtenissen
 
-* **[!DNL Workfront]** | _Verbinden: Admin Chat voor marketing en creatief_ | **6 juni om 3:00 PM MT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Commerce]** | _Handel en koffie: B2B-succes inschakelen_ | **22 juni @ 1:00 PM ET** | [Registreren](https://register.gotowebinar.com/register/2180200047542819420)
 
-* **[!DNL Marketo Engage]** | _Marketo &amp; Mochas - Beheer van reizen van klanten: Levenscyclusmodellering_ | **8 juni om 13:00 UUR** | [Registreren](https://register.gotowebinar.com/register/8576570459027384151)
+* **[!DNL Experience Manager]** | _Master de kunst van de certificatie van de Experience Manager - Klaar, krijg Reeks, krijg Verklaard!_ | **28 juni om 8:00 uur PT** | [Registreren](https://adobe.ly/3Ni6XeL)
 
-* **[!DNL Workfront]** | _Vraag het de experts: Profiteer van de gratis Adobe Workfront + Creative Cloud-integratie_ | **8 juni om 10:30** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Houd uw marketingcampagnes bij, analyseer en optimaliseer deze met Marketo Engage_ | **28 juni om 8:00 uur PT** | [Registreren](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
 
-* **[!DNL Workfront]** | _Verbinden: Chat voor strategische beheerder van Workfront_ | **12 juni @ 8:00 AM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Vraag het de experts: Resourcebeheer in Workfront Office-uren_ | **13 juni om 2:00 PM MT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Vraag het de experts: Opzetten van een Webinar-follow-up van het Excellence Centre_ | **28 juni @ 10:00 CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [Meer...](https://experienceleague.adobe.com/events?lang=nl/)
 
