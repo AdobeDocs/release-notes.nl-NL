@@ -6,9 +6,9 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
+source-git-commit: ea5d551af30eb02a07b87506775b8c9e5180a508
 workflow-type: tm+mt
-source-wordcount: '5985'
+source-wordcount: '6072'
 ht-degree: 9%
 
 ---
@@ -41,7 +41,8 @@ Laatste update: **21 juni 2023**
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
-* [[!DNL Streaming Media Analytics]](#sma)<!-- * [[!DNL Audience Manager]](#aam) -->
+* [[!DNL Streaming Media Analytics]](#sma)
+* [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -241,12 +242,18 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor [!DNL Customer Jo
 * [!DNL Streaming Media Analytics] [releaseopmerkingen](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
 * [!DNL Streaming Media Analytics] [productdocumentatie en zelfstudies](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html)
 
-<!-- ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
+## ![Pictogram](/assets/audience-manager.png) Audience Manager {#aam}
 
-Updates and new content for [!DNL Audience Manager].
+Updates en nieuwe inhoud voor [!DNL Audience Manager].
 
 +++Details
 
+Vanaf juli 2023 heeft Adobe de ontwikkeling van de [!DNL Data Integration Library (DIL)] en de [!DNL DIL] extensie.
+Bestaande klanten kunnen hun [!DNL DIL] uitvoering. Adobe zal zich echter niet ontwikkelen [!DNL DIL] verder dan dit punt. Klanten worden aangeraden [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) voor hun strategie voor het verzamelen van gegevens op lange termijn. Klanten die na juli 2023 nieuwe integratie voor gegevensverzameling willen implementeren, moeten [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) in plaats daarvan.
+
++++
+
+<!-- 
 ### [!DNL Audience Manager] support knowledge base
 
 New articles and updates to existing articles for [!DNL Audience Manager].
@@ -262,7 +269,7 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html) on Experience League.
 
-+++ -->
+ -->
 
 ## ![Pictogram](/assets/aem.png) Adobe Experience Manager {#aem}
 
