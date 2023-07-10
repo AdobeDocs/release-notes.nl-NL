@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 35e5429a141ab07dbaac97d168197ffcdadbea2b
+source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
 workflow-type: tm+mt
 source-wordcount: '6074'
 ht-degree: 9%
@@ -352,7 +352,7 @@ _Geen hooglichten_
 
 >[!IMPORTANT]
 >
->Adobe raadt u aan [upgrade naar de nieuwste versie van 1.9.10](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets-view/integrations/workfront-connector-install.html?lang=en) van de Workfront for Experience Manager Enhanced connector. <!-- NEW. LEAVE IN FOR JUNE 7 -->
+>Adobe raadt u aan [upgrade naar de nieuwste versie van 1.9.10](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=en) van de Workfront for Experience Manager Enhanced connector. <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 _Bekende problemen_
 
