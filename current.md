@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3cea608378d8d87e1bfd08d3ef2ce7c6a4e87010
+source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
 workflow-type: tm+mt
-source-wordcount: '5743'
+source-wordcount: '5753'
 ht-degree: 7%
 
 ---
@@ -73,7 +73,7 @@ Leer over spannende gebeurtenissen op Experience League. Het is een geweldige pl
 
 * **[!DNL AEM as a Cloud Service]** | _Effectieve beveiligingsstrategieën in de Cloud Service_ | **18 juli om 8:00 uur PT** | [Registreren](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
 
-* **[!DNL Analytics]** | _Geschikt publiek op één plaats, van om het even welke bron, met standaardcontroles_ | **20 juli om 9:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-230720.html)
+* **[!DNL Analytics]** | EXL Live: _Geschikt publiek op één plaats, van om het even welke bron, met standaardcontroles_ | **20 juli om 9:00 uur PT** ([Gebeurteniskoppeling](https://www.youtube.com/watch?v=QaJy9Tp-vTE)) | [Registreren](https://engage.adobe.com/ExpLeagueLive-230720.html)
 
 * **[!DNL Workfront]** | _Leren: Adobe Workfront 23.3 Release Round Up_ | **20 juli @ 11:00 AM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
