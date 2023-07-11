@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: bf84dd7489440a296b62838a2b93d8d47fb61962
+source-git-commit: ff12c5a38af50a6cf7b44b0e6914cba6f3254b86
 workflow-type: tm+mt
-source-wordcount: '4261'
+source-wordcount: '4260'
 ht-degree: 9%
 
 ---
@@ -279,7 +279,7 @@ Adobe raadt u aan de volgende bronnen te bezoeken om op de releasegegevens bij t
 
 ### Video overzicht van de nieuwste release
 
-Kijk naar de [Video over het overzicht van de release van februari 2023](https://video.tv.adobe.com/v/3416885) voor een overzicht van de functies die zijn toegevoegd in de release van 2023.02.0 (februari 2023).
+Kijk naar de [Video over het overzicht van de release van juni 2023](https://video.tv.adobe.com/v/3420971/) voor een overzicht van de functies die zijn toegevoegd in de release van 2023.06.0.
 
 <!-- ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
