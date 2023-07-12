@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5753'
+source-wordcount: '5751'
 ht-degree: 7%
 
 ---
@@ -31,7 +31,7 @@ Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en p
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **11 juli 2023**
+Laatste update: **12 juli 2023**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
@@ -424,19 +424,19 @@ Alles [!DNL Experience Manager] releaseopmerkingen worden op de volgende pagina&
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Manager.
 
-| Gepubliceerd | Naam | Type | Beschrijving | Toepassingen |
+| Gepubliceerd | Toepassingen | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Juli 2023 | [Snelle toegang](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Video | Meer informatie [!UICONTROL Quick Access] kan uw productiviteit verhogen en uw workflow stroomlijnen door als uw persoonlijke lens in te dienen [!DNL AEM Assets]. Met deze functie blijven alle middelen die u nodig hebt voor de toegewezen taken binnen handbereik. | [!DNL AEM Assets] |
-| Juli 2023 | [Weergave _dank u_ bericht bij verzending zonder kop](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Artikel | Een _dank u_ bericht over geslaagde verzending zonder kop. | [!DNL AEM Forms] |
-| Juli 2023 | [Voorvertoning bladwijzer - Codevoorbeeld](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Artikel | Leer hoe u een JavaScript-bladwijzervoorvertoning maakt voor uw[!UICONTROL  App Builder Content Fragment] verlenging in het kader van de AEM [!UICONTROL Content Fragment] pagina&#39;s. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [Inhoudsfragment exporteren naar XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Artikel | U kunt aangepaste knoppen toevoegen aan de [!UICONTROL Content Fragment Editor] met het `headerMenu` extensiepunt. In dit voorbeeld wordt getoond hoe u een knop aan het kopmenu toevoegt en hoe u de klikgebeurtenis verwerkt om de actieve [!UICONTROL Content Fragment] als XML of CSV. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [Het formulier weergeven op de kaartklik](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Artikel | Boor neer op formulier van kaartmening. | [!DNL AEM Forms] |
-| Juli 2023 | [Widgets toevoegen aan Rich Text Editor (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Video | Leer hoe u widgets aan de Rich Text Editor (RTE) in de AEM kunt toevoegen [!UICONTROL Content Fragment Editor]. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [Badges toevoegen aan de Rich Text Editor](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Video | Leer hoe te om badges aan Rich Text Editor (RTE) in de AEM toe te voegen [!UICONTROL Content Fragment Editor]. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [Aangepaste rasterkolommen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Video | Leer hoe u een aangepaste rasterkolom aan de [!UICONTROL Content Fragment Console]. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [3D-elementen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Video | Meer informatie over ondersteuning voor 3D-middelen in [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| Juli 2023 | [Verwijzingen](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Leer hoe AEM de Console en de Redacteur van het Fragment van de Inhoud het gemakkelijk maken om referenced inhoud te begrijpen en te beheren. | [!DNL AEM Sites] |
-| Juli 2023 | [Reactie aanpassen op basis van verzonden gegevens](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Video | Maak een aangepaste verzendservice voor het verwerken van koploze adaptieve formulierverzendingen. | [!DNL AEM Forms] |
+| Juli 2023 | [!DNL AEM Assets] | [Snelle toegang](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Video | Meer informatie [!UICONTROL Quick Access] kan uw productiviteit verhogen en uw workflow stroomlijnen door als uw persoonlijke lens in te dienen [!DNL AEM Assets]. Met deze functie blijven alle middelen die u nodig hebt voor de toegewezen taken binnen handbereik. |
+| Juli 2023 | [!DNL AEM Assets] | [3D-elementen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Video | Meer informatie over ondersteuning voor 3D-middelen in [!DNL AEM Assets as a Cloud Service]. |
+| Juli 2023 | [!DNL AEM Forms] | [Weergave _dank u_ bericht bij verzending zonder kop](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Artikel | Een _dank u_ bericht over geslaagde verzending zonder kop. |
+| Juli 2023 | [!DNL AEM Forms] | [Het formulier weergeven op de kaartklik](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Artikel | Boor neer op formulier van kaartmening. |
+| Juli 2023 | [!DNL AEM Forms] | [Reactie aanpassen op basis van verzonden gegevens](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Video | Maak een aangepaste verzendservice voor het verwerken van koploze adaptieve formulierverzendingen. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Voorvertoning bladwijzer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Artikel | Leer hoe u een JavaScript-bladwijzervoorvertoning maakt voor uw[!UICONTROL  App Builder Content Fragment] verlenging in het kader van de AEM [!UICONTROL Content Fragment] pagina&#39;s. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Inhoudsfragment exporteren naar XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Artikel | U kunt aangepaste knoppen toevoegen aan de [!UICONTROL Content Fragment Editor] met het `headerMenu` extensiepunt. In dit voorbeeld wordt getoond hoe u een knop aan het kopmenu toevoegt en hoe u de klikgebeurtenis verwerkt om de actieve [!UICONTROL Content Fragment] als XML of CSV. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Widgets toevoegen aan Rich Text Editor (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Video | Leer hoe u widgets aan de Rich Text Editor (RTE) in de AEM kunt toevoegen [!UICONTROL Content Fragment Editor]. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Badges toevoegen aan de Rich Text Editor](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Video | Leer hoe te om badges aan Rich Text Editor (RTE) in de AEM toe te voegen [!UICONTROL Content Fragment Editor]. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Aangepaste rasterkolommen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Video | Leer hoe u een aangepaste rasterkolom aan de [!UICONTROL Content Fragment Console]. |
+| Juli 2023 | [!DNL AEM Sites] | [Verwijzingen](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Leer hoe AEM de Console en de Redacteur van het Fragment van de Inhoud het gemakkelijk maken om referenced inhoud te begrijpen en te beheren. |
 
 {style="table-layout:auto"}
 
