@@ -2,10 +2,12 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+role: User,Admin,Developer
+product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.nl-NL
 index: true
-source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
+source-git-commit: 61ddca8eea54372f44bbfd1e0e32e58cbb44e31c
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 75%
@@ -13,9 +15,9 @@ ht-degree: 75%
 ---
 
 
-# Metagegevens voor intern gebruik
+# Metadata voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+Het bestand metadata.md bevat metadata op repo-niveau die worden doorgegeven aan de handleiding voor TOC.md-bestanden in de repo. Als u de inhoud van metadata.md voor een handleiding wilt wijzigen, doe dit dan in een TOC.md-bestand.
 
 | metadata | wat het doet |
 |--- |--- |
@@ -31,7 +33,7 @@ Het bestand metadata.md bevat metagegevens op niveau van de repository die worde
 
 In TOC.md-bestand
 
-| metagegevens | wat het doet |
+| metadata | wat het doet |
 |--- |--- |
 | user-guide-title | Gebruikt in artikelkoptekst als koppeling |
 | user-guide-url | Opent helpx-hubpagina |
