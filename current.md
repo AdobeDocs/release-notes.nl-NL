@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
+source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
 workflow-type: tm+mt
 source-wordcount: '5751'
 ht-degree: 7%
@@ -133,7 +133,7 @@ De nieuwste releasegegevens en nieuwe documentatie vindt u voor [!DNL Experience
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Experience Platform].
 
-| Type | Productfunctie | Beschrijving |
+| Gepubliceerd | Productfunctie | Beschrijving |
 | -----------| ---------- |---------- |
 | Juli 2023 | [Voorbeeldgegevens importeren naar [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) | Bijgewerkte video | Leer hoe u een [!DNL Experience Platform] sandboxomgeving met voorbeeldgegevens. Een [!UICONTROL Postman] de inzameling, kunt u gebiedsgroepen, schema&#39;s, datasets tot stand brengen en dan steekproefgegevens invoeren in [!DNL Experience Platform]. |
 | Juli 2023 | [Verifiëren en toegang [!DNL Experience Platform] API&#39;s](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=nl) | Bijgewerkte video | Aan de slag met Adobe [!DNL Experience Platform] API&#39;s. Deze zelfstudie begeleidt u door het proces van het maken van verificatiereferenties en het maken van [!DNL Experience Platform] API-aanvragen. |
