@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
+source-git-commit: 86a6d628b123ec77f5b64e0a80dc0b0dc56bb72a
 workflow-type: tm+mt
 source-wordcount: '5751'
 ht-degree: 7%
@@ -31,7 +31,7 @@ Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en p
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **12 juli 2023**
+Laatste update: **18 juli 2023**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
@@ -176,7 +176,7 @@ Zoek de meest recente releasegegevens voor [!DNL Adobe Analytics] en [!DNL AppMe
 
 ### AppMeasurement {#appm}
 
-Releaseversie: **2.23.0.**
+Releaseversie: **2.24.0.**
 
 * [AppMeasurement voor JavaScript-releaseopmerkingen](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
