@@ -6,7 +6,7 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 637dbc7168945c8ec51ddabbef72d3ea2981a6b9
+source-git-commit: 94e567e767551992e794b8c8476307d441d77953
 workflow-type: tm+mt
 source-wordcount: '5489'
 ht-degree: 6%
@@ -72,7 +72,7 @@ Leer over de gemeenschappelijkste Experience Cloud toepassingsintegratie. Door i
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Connect - Chat voor strategische Workfront-beheerders_ |** 14 augustus @ 7:00 uur CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Connect - Chat voor strategische Workfront-beheerders_ |**14 augustus @ 7:00 AM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER]** | Ervaar makelaars | _De Uitwisseling van de Vaardigheid voor Adobe Experience Manager_ | **17 augustus om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -83,9 +83,9 @@ Leer over de gemeenschappelijkste Experience Cloud toepassingsintegratie. Door i
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Meer informatie met Workfront - aangevraagde wachtrijen_ | **22 augustus om 9:00 uur MT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* [!DNL EXPERIENCE CLOUD] | Webinar | De perfecte overvloeiing: Adobe Analytics + Adobe Commerce | **22 augustus @ 11:00 MT** | [Registreren](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | Webinar | _De perfecte overvloeiing: Adobe Analytics + Adobe Commerce_ | **22 augustus @ 11:00 MT** | [Registreren](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
 
-* [!DNL EXPERIENCE CLOUD] | Webinar | De perfecte overvloeiing: Marketo + Workfront | **31 augustus om 11:00 uur** | [Registreren](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | Webinar | _De perfecte overvloeiing: Marketo + Workfront_ | **31 augustus om 11:00 uur** | [Registreren](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
 
 Alles weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). U kunt nu met de linkernavigatie zoeken naar opgenomen gebeurtenissen op basis van het type of de toepassing van de reeks.
 
