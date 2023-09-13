@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 18f0dfbf87fbd168537caa313c03b27e94c8203e
+source-git-commit: 3543720e4e115c18473596f4953f3a2cad88f997
 workflow-type: tm+mt
-source-wordcount: '7850'
+source-wordcount: '7847'
 ht-degree: 5%
 
 ---
@@ -67,7 +67,7 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 | Gepubliceerd | Toepassing | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| September 2023 | Experience Cloud | Klantsucces Webinar | [Vaststelling van een doeltreffende strategie voor Audience Activation](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | Deze sessie gaat over het belang van een strategie voor gegevensbeheer, Adobe Audience Manager-overzicht en mogelijkheden, Adobe Audience Manager-gebruiksscenario&#39;s, een actieplan voor het opzetten van een strategie voor gegevensbeheer |
+| September 2023 | Experience Cloud | [Vaststelling van een doeltreffende strategie voor Audience Activation](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | Klantsucces Webinar | Leer het belang van een strategie voor gegevensbeheer, Adobe Audience Manager-overzicht en mogelijkheden, Adobe Audience Manager-gebruiksscenario&#39;s, een actieplan voor het opzetten van een strategie voor gegevensbeheer |
 | Zomer 2023 | Experience Cloud | [Integratiezelfstudies thuis voor Experience Cloud-toepassingen](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | Video&#39;s | Leer over de gemeenschappelijkste de toepassingsintegratie van het Experience Cloud. Door integratiezelfstudies te bladeren [oplossing](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en) of [toepassing](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en). Deze inhoud wordt vaak bijgewerkt, dus kom regelmatig terug. |
 
 {style="table-layout:auto"}
@@ -655,9 +655,9 @@ Download de nieuwste updates voor [!DNL Adobe Campaign]. Zoek naar nieuwe zelfst
 
 * Campaign Standard: [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
-* Campaign Classic v7: [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+* Campaign Classic v7.3.4: [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
-* Nieuw! Regelpaneel: [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
+* Regelpaneel: [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 
 Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in de [Campagne v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html), en [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) opmerkingen bij de release.
 
