@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 90be4cc050b3e0219f86648a99427a883d5ec185
+source-git-commit: 54b40c6a51aaccdc0e9b121d82c30f3112d4d754
 workflow-type: tm+mt
-source-wordcount: '7077'
+source-wordcount: '7074'
 ht-degree: 5%
 
 ---
@@ -33,7 +33,7 @@ Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en p
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **13 september 2023**
+Laatste update: **18 september 2023**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
@@ -41,7 +41,7 @@ Laatste update: **13 september 2023**
 * [[!DNL Experience Cloud] interface en beheer](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) **(release van 13 september)**
+* [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Audience Manager]](#aam)
@@ -55,6 +55,7 @@ Laatste update: **13 september 2023**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
+* [[!DNL Adobe Pass]](#pass) (voorheen) [!DNL Adobe Primetime])
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [Beheer van klantgegevens - Voices](#voices)
@@ -76,10 +77,6 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL COMMERCE]** | Webinar | _Voorbereiding piek seizoen_ | **14 september om 13:00 PM ET** | [Registreren](https://register.gotowebinar.com/register/1649826426335413079?source=ExL)
-
-* **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Vraag de Deskundigen: Het Skill Exchange Grow Track_ | **15 september om 10:00 uur MT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ti9YHZqvVUyqJ5ooYWQSYQ,Vc_WBSS-uEGcM_vITdto1A,QitJ7x6tM0GLC9Ahpcgblg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Workshop klant | _Admin 101 - Aan de slag met Workfront_ | **19 september @ 10:00 AM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** AEM GEMS | _Maak gebruik van de kracht van New Relic APM voor AEM as a Cloud Service_ | **20 september om 8:00 uur PT** | [Registreren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
@@ -93,6 +90,8 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 * **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | **6 oktober om 10:00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Je gebruikers Workfront laten gebruiken_ | **17 oktober om 9.00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+<!-- * **[!DNL AEM]** and **[!DNL COMMERCE]** | Developers Live | _Content and Commerce_ | **November 6 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) -->
 
 Alles weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). U kunt nu met de linkernavigatie zoeken naar opgenomen gebeurtenissen op basis van het type of de toepassing van de reeks.
 
@@ -770,6 +769,16 @@ Zie [Nieuwe functies in [!DNL Advertising DSP]](https://experienceleague.adobe.c
 Zie [Nieuwe functies in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/home.html)
 
 +++
+
+## ![Pictogram](/assets/pass.png) [!DNL Adobe Pass] {#pass}
+
+[!DNL Adobe Pass] is een tv-platform met meerdere schermen dat omroepen, kabelnetwerken en serviceproviders helpt aantrekkelijke, persoonlijke kijkervaringen te maken en te monetiseren.
+
+>[!NOTE]
+>
+>_[!DNL Adobe Primetime]_is nu_[!DNL Adobe Pass]_. In de nabije toekomst kunt u beide merknamen zien in documentatie, totdat de hermerkwerkzaamheden zijn voltooid.
+
+Zie [Opmerkingen bij de release van Adobe Pass](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html) om informatie over de release, systeemvereisten, beperkingen, vaste problemen en bekende problemen te vinden.
 
 ## ![Pictogram](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
