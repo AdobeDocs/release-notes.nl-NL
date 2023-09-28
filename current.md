@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
+source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
 workflow-type: tm+mt
-source-wordcount: '7103'
+source-wordcount: '7036'
 ht-degree: 5%
 
 ---
@@ -33,9 +33,9 @@ Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en p
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **19 september 2023**
+Laatste update: **28 september 2023**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt: **28 september**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface en beheer](#ecloud)
@@ -77,15 +77,13 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101 - Aan de slag met Workfront_ | **19 september @ 10:00 AM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL ANALYTICS]** | Webinar | _Handelbare inzichten ontdekken en leveren met Adobe Analytics_ | **5 oktober om 9:00 BST** | [Registreren](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** AEM GEMS | _Maak gebruik van de kracht van New Relic APM voor AEM as a Cloud Service_ | **20 september om 8:00 uur PT** | [Registreren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
+* **[!DNL WORKFRONT]** | Webinar | _Nieuwe functies in Adobe Workfront 23.10?_ | **5 oktober om 7:00 uur PT** | [Registreren](https://webinars.on24.com/adobe_workfront/whatsnewin2310?partnerref=EXL)
 
-* **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Vragen aan de klant: Voordelen en beste praktijken met Fusion_ | **26 september @ 11:00 AM CT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wwMNpBFpyU6JRZ7t-hkIIQ,SV8DFIlim0ivqJp7uYE5zg,-iWPFBz0s0aNbozaOGyGsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER]** | Webinar | _Espressos &amp; Experience Manager: Upgrade naar Dynamic Media_ | **5 oktober om 1:00 UUR** | [Registreren](https://attendee.gotowebinar.com/register/401473910088026710?source%3CExL)
 
-* **[!DNL EXPERIENCE MANAGER SITES]** | Leren van uw collega&#39;s | _Een diepe insteekmodule voor AEM Sites_ | **28 september om 8:00 uur PT** | [Registreren](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
-
-* **[!DNL WORKFRONT]** | Leren van uw collega&#39;s | _Een diepe insteekmodule voor AEM Sites_ | **28 september om 8:00 uur PT** | [Registreren](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
+* **[!DNL WORKFRONT]** | Workshop klant | _Vraag het de experts: Automatiseer uw werkprocessen met Workfront Fusion_ | **5 oktober om 11:00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | **6 oktober om 10:00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
