@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
 workflow-type: tm+mt
-source-wordcount: '7036'
+source-wordcount: '7175'
 ht-degree: 5%
 
 ---
@@ -647,6 +647,11 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Journ
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| September 2023 | [Fragmenten beheren, maken en gebruiken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html) | Video | Leer hoe u fragmenten beheert, ontwerpt en gebruikt in Adobe Journey Optimizer. |
+| September 2023 | [Ondersteuning voor één pagina-toepassing (SPA) in de webeditor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Video | Leer hoe u toepassingen van één pagina (SPA) ontwerpt in de Journey Optimizer-webeditor. |
+| September 2023 | [Rapporten op kanaalniveau](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | Video | Leer hoe u rapporten op kanaalniveau kunt openen, weergeven en exporteren. |
+| September 2023 | [Rapporten exporteren in CSV-indeling](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | Video | Begrijp hoe te om een CSV- rapport voor een rapport en voor één enkele widget te downloaden. |
+| September 2023 | [Ondersteuning voor één pagina-toepassing (SPA) in de webeditor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Video | Leer hoe u toepassingen van één pagina (SPA) ontwerpt in de Journey Optimizer-webeditor. |
 | September 2023 | [Een bericht in de app maken tijdens een rit](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html) | Video | Begrijp wat een in-app bericht is en hoe het in een reis kan worden toegepast. Leer hoe u tijdens een reis een bericht in de app maakt en hoe u uw reis test en publiceert. |
 
 {style="table-layout:auto"}
