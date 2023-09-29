@@ -6,7 +6,7 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b889ad2ce5a36b05621fc206e62d5b365a6fb5a3
+source-git-commit: 4f55e03e4909e6e743c0ae97fac779c897dd87ef
 workflow-type: tm+mt
 source-wordcount: '7177'
 ht-degree: 5%
@@ -89,7 +89,7 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Je gebruikers Workfront laten gebruiken_ | **17 oktober om 9.00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** en **[!DNL COMMERCE]** | Developers Live | _Inhoud en handel: een diepe duik over [!UICONTROL Edge Delivery Services], ongeëvenaarde mogelijkheden, rekbaarheid, composability en productiviteitshulpmiddelen_ | **6 november om 9.00 uur MT** | [Registreren](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** en **[!DNL COMMERCE]** | Developers Live | _Inhoud en handel: een diepe duiksessie over [!UICONTROL Edge Delivery Services], ongeëvenaarde mogelijkheden, rekbaarheid, composability en productiviteitshulpmiddelen_ | **6 november om 9.00 uur MT** | [Registreren](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 Alles weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). U kunt nu met de linkernavigatie zoeken naar opgenomen gebeurtenissen op basis van het type of de toepassing van de reeks.
 
