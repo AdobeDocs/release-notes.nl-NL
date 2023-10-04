@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5cae1d473da0a27eed20018de5545af7d76f0953
+source-git-commit: 7088f9b9644c7c555c3f1a061adf140c7f95e07a
 workflow-type: tm+mt
-source-wordcount: '7455'
+source-wordcount: '7453'
 ht-degree: 6%
 
 ---
@@ -35,7 +35,7 @@ Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en p
 
 Laatste update: **4 oktober 2023**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt: **28 september**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
