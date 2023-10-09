@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7088f9b9644c7c555c3f1a061adf140c7f95e07a
+source-git-commit: 7be5fe7a514f31b4c798166332adba5fe96d6919
 workflow-type: tm+mt
-source-wordcount: '7453'
+source-wordcount: '7484'
 ht-degree: 6%
 
 ---
@@ -54,6 +54,7 @@ Laatste update: **4 oktober 2023**
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass) (voorheen) [!DNL Adobe Primetime])
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
@@ -782,6 +783,17 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Workfront].
 {style="table-layout:auto"}
 
 Zie de [[!DNL Workfront] productreleases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) pagina voor een afronding van de meest recente informatie voor alle producten.
+
++++
+
+## ![Pictogram](/assets/ec_appicon_24.png) [!DNL Adobe Mix Modeler] {#mix-modeler}
+
++++Details
+
+Raadpleeg de volgende pagina&#39;s voor de meest recente informatie:
+
+* Mix Modeler [releaseopmerkingen](https://experienceleague.adobe.com/docs/mix-modeler/using/releases/latest.html)
+* Mix Modeler [productdocumentatie](https://experienceleague.adobe.com/docs/mix-modeler.html?lang=en)
 
 +++
 
