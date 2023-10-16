@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
+source-git-commit: 230040e579ffeedd77e493036bf23f0c1ea33d63
 workflow-type: tm+mt
-source-wordcount: '7485'
+source-wordcount: '7468'
 ht-degree: 6%
 
 ---
@@ -21,19 +21,13 @@ ht-degree: 6%
 
 **Oktober 2023**
 
-Deze pagina helpt u bijgewerkt te blijven op de informatie van de productrelease, gebeurtenissen, en leermogelijkheden bij Experience League.
-
->[!TIP]
->
->Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Prioriteit productupdate](https://www.adobe.com/subscription/priority-product-update.html). Controleer regelmatig om bovenop wat met de bedrijfstoepassingen van de Adobe gebeurt te blijven.
-
-**Hulp nodig?**
-
-Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en pas uw onderzoekservaring over de bibliotheek van de Adobe van zelf-hulpmiddelen aan. Bladeren [productdocumentatie](https://experienceleague.adobe.com/docs/), [zelfstudievideo&#39;s](https://experienceleague.adobe.com/docs/home-tutorials.html), [cursussen](https://experienceleague.adobe.com/?lang=nl#courses), en [gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) voor alle niveaus en rollen. Vragen stellen aan uw online [gemeenschap](https://experienceleaguecommunities.adobe.com/?profile.language=en) van peers en een expert [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support) wanneer je het het meest nodig hebt.
+Deze pagina helpt u bijgewerkt te blijven op de informatie van de productrelease, gebeurtenissen, en leermogelijkheden bij Experience League. Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Prioriteit productupdate](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Updates en gebeurtenissen voor productrelease
 
-Laatste update: **9 oktober 2023**
+Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en pas uw onderzoekservaring over de bibliotheek van de Adobe van zelf-hulpmiddelen aan. Bladeren [productdocumentatie](https://experienceleague.adobe.com/docs/), [zelfstudievideo&#39;s](https://experienceleague.adobe.com/docs/home-tutorials.html), [cursussen](https://experienceleague.adobe.com/?lang=nl#courses), en [gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) voor alle niveaus en rollen. Vragen stellen aan uw online [gemeenschap](https://experienceleaguecommunities.adobe.com/?profile.language=en) van peers en een expert [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support) wanneer je het het meest nodig hebt.
+
+Bijgewerkt: **9 oktober 2023**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
