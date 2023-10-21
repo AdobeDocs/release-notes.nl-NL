@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3357c889fb9ab09031776b8f1293db451e090cc9
+source-git-commit: ed821b19b77e3aa2d99e5e15445929996db7381d
 workflow-type: tm+mt
-source-wordcount: '7444'
+source-wordcount: '7402'
 ht-degree: 6%
 
 ---
@@ -23,9 +23,9 @@ Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en p
 
 Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Prioriteit productupdate](https://www.adobe.com/subscription/priority-product-update.html).
 
-**9 oktober 2023**
+**20 oktober 2023**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **20 oktober**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
@@ -68,17 +68,17 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL ANALYTICS]** | Webinar | _Handelbare inzichten ontdekken en leveren met Adobe Analytics_ | **5 oktober om 9:00 BST** | [Registreren](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
+* **[!DNL Experience Manager as a Cloud Service]** | Livestream | _Systeemeigen gebeurtenissen voor Adobe Experience Manager_ | **24 oktober om 8:00 uur PT** | [Registreren](https://www.eventbrite.com/e/app-builder-live-cloud-native-events-for-adobe-experience-manager-tickets-694888017767?aff=exlg)
 
-* **[!DNL WORKFRONT]** | Webinar | _Nieuwe functies in Adobe Workfront 23.10?_ | **5 oktober @ 10:00 ET** | [Registreren](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** | Workshop klant | _Vraag het de experts: Systemen en toepassingen verbinden met Workfront Fusion_ | **24 oktober om 10:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,FBqPQ3xqdE2fRH684eBr1w,mDVfeVEOMU-j3LBMxIsx1A,0KtOWSQCkUunbvAhiNDxzA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER]** | Webinar | _Espressos &amp; Experience Manager: Upgrade naar Dynamic Media_ | **5 oktober @ 11:00 PM MDT** | [Registreren](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL WORKFRONT]** | Koffiepauze | _Workfront Coffee Break: Communicatiemethoden voor adoptie_ | **26 oktober om 8:30 uur PTT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Vraag het de experts: Automatiseer uw werkprocessen met Workfront Fusion_ | **5 oktober om 11:00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | EXPERIENCE LEAGUE LEVEN | _Workfront Release Deep Dive - Nieuwe Workfront Home_ | **26 oktober om 9:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-231026.html)
 
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | **6 oktober om 10:00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Meer informatie: Adobe Workfront Q4-2023 Release Roundup_ | **31 oktober om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Je gebruikers Workfront laten gebruiken_ | **17 oktober om 9.00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Omnichanale uitdagingen in de detailhandel overwinnen_ | **1 november om 9:00 PT** | [Registreren](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
 * **[!DNL AEM]** en **[!DNL COMMERCE]** | Developers Live | _Inhoud en handel: een diepe duiksessie over [!UICONTROL Edge Delivery Services], mogelijkheden zonder kop, uitbreidbaarheid, composability en productiviteitshulpmiddelen_ | **6 november om 8:00** | [Registreren](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
@@ -158,7 +158,7 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Exper
 | ----------| ---------- | ---------- | ---------- |---------- |
 | September 2023 | Doelen | [[!UICONTROL Destinations]-overzicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html) | Video | Leer over de bestemmingstypes die u kunt gebruiken om gegevens uit Real-Time CDP, Experience Platform, en Markeringen te krijgen om een brede verscheidenheid van gebruiksgevallen te steunen. |
 | September 2023 | Doelen | [Vorm een datasetuitvoerbestemming in Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-dataset-export-destination.html) | Video | Leer over de configuratie, het werkschema, en de gebruiksgevallen voor het uitvoeren van datasets van Adobe Experience Platform naar een plaats van de wolkenopslag gebruikend een bestemmingsverbinding. |
-| September 2023 | Gegevensverzameling | [Snelstartworkflows gebruiken in Gegevensverzameling](https://experienceleague.adobe.com/docs/platform-learn/data-collection/event-forwarding/quick-start-workflows.html) | Video | Meer informatie over geavanceerde gebruiksgevallen om optimaal gebruik te maken van de [!DNL Facebook] ([!DNL Meta]) snelstartworkflows in [!UICONTROL Data Collection] |
+| September 2023 | Dataverzameling | [Snelstartworkflows gebruiken in Gegevensverzameling](https://experienceleague.adobe.com/docs/platform-learn/data-collection/event-forwarding/quick-start-workflows.html) | Video | Meer informatie over geavanceerde gebruiksgevallen om optimaal gebruik te maken van de [!DNL Facebook] ([!DNL Meta]) snelstartworkflows in [!UICONTROL Data Collection] |
 | September 2023 | Privacyservice | [Inleiding tot de Privacy Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/introduction-to-privacy-services.html?lang=en) | Meerdere video&#39;s | Meer informatie over privacyregels en het effect ervan op gegevensbewerkingen. Leer ook hoe de [!UICONTROL Privacy Service] behandelt deze uitdagingen. Bekijk de meest recente video&#39;s in het gedeelte Privacy en beveiliging van het dialoogvenster [!DNL Experience Platform] zelfstudies. |
 | September 2023 | Beheer | [Op kenmerken gebaseerd toegangsbeheer configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html) | Video | Leer hoe te vormen op attributen-gebaseerd toegangsbeheer om toegang tot specifiek te beperken [!DNL Experience Platform] middelen. |
 
