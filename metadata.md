@@ -4,12 +4,11 @@ type: Documentation
 solution: Experience Cloud
 feature-set: Experience Cloud
 feature: Release Notes
-role: User,Admin,Developer
 product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.nl-NL
 index: true
-source-git-commit: af038757181530a07c2f09bf50debb776c21de35
+source-git-commit: b81b4c2b163849709da81c6ee7c461f32a6d3236
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 75%
@@ -26,12 +25,12 @@ Het bestand metadata.md bevat metadata op repo-niveau die worden doorgegeven aan
 | solution-title | Gebruikt in artikelkoptekst als koppeling. Houd het kort. |
 | solution-hub-url | Opent helpx-hubpagina |
 | solution-icon | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
-| aan de slag-titel | Zelden gebruikt wanneer Tutorials niet geschikt is |
+| aan de slag-titel | Zelden gebruikt wanneer Tutorials niet geschikt zijn |
 | getting-started-url | Koppeling naar pagina om aan de slag te gaan met helpx |
-| zelfstudies, titel | Zelden gebruikt wanneer Tutorials niet geschikt is |
+| zelfstudies, titel | Zelden gebruikt wanneer Tutorials niet geschikt zijn |
 | tutorials-url | Koppeling naar videotutorials: helpx-tutorials of KT-tutorials |
 | mini-toc-levels | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrail. standaard is dit 2 |
-| git-repo | Hier geeft u de locatie op van het samenwerkingsantwoord. De spiegel github.com gebruiken voor openbare documenten |
+| git-repo | Hier geeft u de locatie op van het samenwerkingsantwoord. Gebruik de spiegel github.com voor openbare documenten |
 
 In TOC.md-bestand
 
