@@ -1,14 +1,14 @@
 ---
 title: Opmerkingen bij de nieuwste release
-description: Lees de nieuwste aanvullende informatie voor Adobe  [!DNL Experience Cloud] -producten en -services. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste tutorials en cursussen voor  [!DNL Experience Cloud] -applicaties.
+description: De nieuwste releaseopmerkingen voor Adobe zoeken [!DNL Experience Cloud] producten en diensten. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste tutorials en cursussen voor  [!DNL Experience Cloud] -applicaties.
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 790546c9672ac26887a54b6e7dfcc8de914bc79c
+source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
 workflow-type: tm+mt
-source-wordcount: '6750'
+source-wordcount: '6916'
 ht-degree: 5%
 
 ---
@@ -17,28 +17,35 @@ ht-degree: 5%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-
 <!-- ![Banner](assets/release-notes-header.png) -->
 
+Deze pagina helpt u versienota&#39;s voor Experience Cloud en Adobe bedrijfstoepassingen vinden. Meld u aan voor de beste zelfhulpervaring [Experience League](https://experienceleague.adobe.com/#home) en pas uw onderzoekservaring over de vrije bibliotheek van de Adobe van zelf-hulpmiddelen aan, die omvatten:
 
-Aanmelden bij [Experience League](https://experienceleague.adobe.com/#home) en pas uw onderzoekservaring over de bibliotheek van de Adobe van zelf-hulpmiddelen aan. Bladeren [productdocumentatie](https://experienceleague.adobe.com/docs/), [zelfstudievideo&#39;s](https://experienceleague.adobe.com/docs/home-tutorials.html), [cursussen](https://experienceleague.adobe.com/?lang=nl#courses), en [gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) voor alle niveaus en rollen. Vragen stellen aan uw online [gemeenschap](https://experienceleaguecommunities.adobe.com/?profile.language=en) van peers en een expert [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support) wanneer je het het meest nodig hebt.
+* [Productdocumentatie](https://experienceleague.adobe.com/docs/)
+* [Tutorialvideo’s](https://experienceleague.adobe.com/docs/home-tutorials.html)
+* [Cursussen](https://experienceleague.adobe.com/?lang=nl#courses)
+* [Gebeurtenissen op Experience League](https://experienceleague.adobe.com/events?lang=nl/)
+* [Gemeenschappen per product](https://experienceleaguecommunities.adobe.com/?profile.language=en)
+* [Toepassingsondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support)
 
 Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Prioriteit productupdate](https://www.adobe.com/subscription/priority-product-update.html).
 
-**November 2023**
+<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
-Laatste update: **25 oktober 2023**
+## November 2023
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+Laatste update: **27 oktober 2023**
+
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (bijgewerkt **27 oktober**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
-* [[!DNL Adobe Experience Platform]](#platform)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Experience Platform]](#platform) (vrijgegeven **25 oktober**)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
+* [[!DNL Adobe Analytics]](#analytics) (vrijgegeven **25 oktober**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (vrijgegeven **25 oktober**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (vrijgegeven **26 oktober**)
 * [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -64,15 +71,23 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL WORKFRONT]** | Koffiepauze | _Workfront Coffee Break: Communicatiemethoden voor adoptie_ | **26 oktober om 8:30 uur PTT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
-
-* **[!DNL WORKFRONT]** | EXPERIENCE LEAGUE LEVEN | _Workfront Release Deep Dive - Nieuwe Workfront Home_ | **26 oktober om 9:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-231026.html)
-
 * **[!DNL WORKFRONT]** | Workshop klant | _Meer informatie: Adobe Workfront Q4-2023 Release Roundup_ | **31 oktober om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Omnichanale uitdagingen in de detailhandel overwinnen_ | **1 november om 9:00 PT** | [Registreren](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
+* **[!DNL CAMPAIGN]** | Webinar | _Adobe Campaign: Campagnes voor meerdere kanalen naadloos organiseren, lanceren en meten_ | **2 november @ 9:00 BST** | [Registreren](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+
+* **[!DNL MARKETO]** en **[!DNL MARKETO ENGAGE]** | Leren van uw collega&#39;s | _Gesiloade kanalen en gegevens met Marketo Engage en Dynamic Chat aanpakken_ | **2 november @ 8:00 pT** | [Registreren](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+
+* **[!DNL ANALYTICS]** | Leren van uw collega&#39;s | _De kunst en wetenschap van impliciete gegevensvisualisaties in Adobe Analytics_ | **2 november @ 11:00 ET** | [Registreren](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+
+* **[!DNL WORKFRONT]** | Leren van uw collega&#39;s | _Vragen aan de klant - Aan de slag met groepsbeheerders_ | **2 november @ 10:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Workshop klant | _Connect: Admin Chat voor marketing en creatief_ | **3 november om 9:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL AEM]** en **[!DNL COMMERCE]** | Developers Live | _Inhoud en handel: een diepe duiksessie over [!UICONTROL Edge Delivery Services], mogelijkheden zonder kop, uitbreidbaarheid, composability en productiviteitshulpmiddelen_ | **6 november om 8:00** | [Registreren](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+
+* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Efficiëntie in het maken en beheren van inhoud ontgrendelen_ | **7 november om 8:00 PT** | [Registreren](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
 
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
 
@@ -141,7 +156,7 @@ De nieuwste releasegegevens en nieuwe documentatie vindt u voor [!DNL Experience
 
 +++Details
 
-* Aanvullende informatie over[[!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [[!DNL Experience Platform] releaseopmerkingen](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (**25 oktober**)
 
 * [[!DNL Experience Platform] Opmerkingen bij de release van Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
