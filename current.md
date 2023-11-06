@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
+source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
 workflow-type: tm+mt
-source-wordcount: '6916'
+source-wordcount: '6935'
 ht-degree: 5%
 
 ---
@@ -560,6 +560,7 @@ Toegang krijgen tot releaseopmerkingen, nieuwe zelfstudies en artikelen in de Kn
 +++Details
 
 * Zie [Opmerkingen bij de release voor [!DNL Adobe Commerce] en [!DNL Magento Open Source]](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) om actueel te blijven.
+* Zie [Adobe Commerce Services-hulplijnen](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) om informatie en documentatie over de release van Commerce Services te bekijken.
 * Zie [Beschikbaarheid van producten](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) toegang te krijgen tot individuele opmerkingen over productrelease en de beschikbaarheid ervan te controleren.
 
 >[!NOTE]
