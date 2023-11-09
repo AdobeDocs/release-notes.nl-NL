@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
+source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
 workflow-type: tm+mt
-source-wordcount: '6935'
+source-wordcount: '6896'
 ht-degree: 5%
 
 ---
@@ -514,7 +514,6 @@ Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Manage
 | Oktober 2023 | AEM CS | [[!DNL AEM as a Cloud Service] video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html) | Bijgewerkte video | Bekijk een bijgewerkte overzichtsvideo met Edge Delivery Services in Adobe Experience Manager as a Cloud Service. |
 | Oktober 2023 | AEM CS | [Interne API&#39;s met persoonlijke certificaten aanroepen](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | Video | Leer hoe te om vraag HTTPS van AEM aan Web APIs te maken gebruikend privé of zelf-ondertekende certificaten. |
 | Oktober 2023 | AEM CS | [Wat is AEM Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html) | Bijgewerkte video | Onderzoek wat as a Cloud Service Experience Manager is, en hoe het van andere versie van Adobe Experience Manager verschilt. |
-| Oktober 2023 | AEM CS | [Evolutie van AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html) | Bijgewerkte video | Leer over AEM evolutie en de waarde die het verstrekt, van AEM 6.5 tot AEM as a Cloud Service, en tenslotte aan Edge Delivery Services. |
 | Oktober 2023 | Inhoudsfragmenten | [Video&#39;s van de Console van inhoudsfragmenten](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html) | Bijgewerkte video | Beschrijving |
 | Oktober 2023 | Beveiliging | [Wederzijdse de authentificatie van de Veiligheid van de Laag van het Vervoer (mTLS) van AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html) | Video | Leer hoe te om vraag HTTPS van AEM aan Web APIs te maken die de Wederzijdse authentificatie van de Veiligheid van de Laag van het Vervoer (mTLS) vereisen. |
 
