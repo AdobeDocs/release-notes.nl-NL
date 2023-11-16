@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
+source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
 workflow-type: tm+mt
-source-wordcount: '6881'
+source-wordcount: '6867'
 ht-degree: 5%
 
 ---
@@ -19,18 +19,9 @@ ht-degree: 5%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-Deze pagina helpt u versienota&#39;s voor Experience Cloud en Adobe bedrijfstoepassingen vinden. Meld u aan voor de beste zelfhulpervaring [Experience League](https://experienceleague.adobe.com/#home) en pas uw onderzoekservaring over de vrije bibliotheek van de Adobe van zelf-hulpmiddelen aan, die omvatten:
-
-* [Productdocumentatie](https://experienceleague.adobe.com/docs/)
-* [Tutorialvideo’s](https://experienceleague.adobe.com/docs/home-tutorials.html)
-* [Cursussen](https://experienceleague.adobe.com/?lang=nl#courses)
-* [Gebeurtenissen op Experience League](https://experienceleague.adobe.com/events?lang=nl/)
-* [Gemeenschappen per product](https://experienceleaguecommunities.adobe.com/?profile.language=en)
-* [Toepassingsondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support)
+Deze pagina helpt u versienota&#39;s voor Experience Cloud en Adobe bedrijfstoepassingen vinden. Meld u aan voor de beste zelfhulpervaring [Experience League](https://experienceleague.adobe.com/#home) en pas uw zoekervaring aan in de gratis bibliotheek van de Adobe van [documentatie](https://experienceleague.adobe.com/docs/), [cursussen](https://experienceleague.adobe.com/?lang=nl#courses), [gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/), [communityforums](https://experienceleaguecommunities.adobe.com/?profile.language=en), en [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support).
 
 Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Prioriteit productupdate](https://www.adobe.com/subscription/priority-product-update.html).
-
-<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
 ## November 2023
 
