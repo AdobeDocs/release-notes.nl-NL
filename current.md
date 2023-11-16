@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
+source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
 workflow-type: tm+mt
-source-wordcount: '6896'
+source-wordcount: '6881'
 ht-degree: 5%
 
 ---
@@ -34,9 +34,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## November 2023
 
-Laatste update: **27 oktober 2023**
+Laatste update: **16 november 2023**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events) (bijgewerkt **27 oktober**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (bijgewerkt **16 november**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
@@ -71,23 +71,17 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Meer informatie: Adobe Workfront Q4-2023 Release Roundup_ | **31 oktober om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** | Webinar | _Optimalisatie van meerkanaalse campagnes_ | **28 november om 8:00 uur PT** | [Registreren](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Omnichanale uitdagingen in de detailhandel overwinnen_ | **1 november om 9:00 PT** | [Registreren](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Vraag het de experts: Workfront for Training &amp; Enablement Webinar Follow-up_ | **29 november om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL CAMPAIGN]** | Webinar | _Adobe Campaign: Campagnes voor meerdere kanalen naadloos organiseren, lanceren en meten_ | **2 november @ 9:00 BST** | [Registreren](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Chat Adobe Workfront Community_ | **5 december om 10:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO]** en **[!DNL MARKETO ENGAGE]** | Leren van uw collega&#39;s | _Gesiloade kanalen en gegevens met Marketo Engage en Dynamic Chat aanpakken_ | **2 november @ 8:00 pT** | [Registreren](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Chat voor strategische Workfront-beheerders_ | **11 december om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** | Leren van uw collega&#39;s | _De kunst en wetenschap van impliciete gegevensvisualisaties in Adobe Analytics_ | **2 november @ 11:00 ET** | [Registreren](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101 - Breng je Workfront-vragen!_ | **12 december @ 8:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Leren van uw collega&#39;s | _Vragen aan de klant - Aan de slag met groepsbeheerders_ | **2 november @ 10:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Workshop klant | _Connect: Admin Chat voor marketing en creatief_ | **3 november om 9:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL AEM]** en **[!DNL COMMERCE]** | Developers Live | _Inhoud en handel: een diepe duiksessie over [!UICONTROL Edge Delivery Services], mogelijkheden zonder kop, uitbreidbaarheid, composability en productiviteitshulpmiddelen_ | **6 november om 8:00** | [Registreren](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Efficiëntie in het maken en beheren van inhoud ontgrendelen_ | **7 november om 8:00 PT** | [Registreren](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Einde van jaarrapport_ | **19 december om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
 
