@@ -1,15 +1,15 @@
 ---
 title: Opmerkingen bij de nieuwste release
-description: Lees de nieuwste aanvullende informatie over Adobe [!DNL Experience Cloud] -producten en -services. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste tutorials en cursussen voor  [!DNL Experience Cloud] -applicaties.
+description: De nieuwste releaseopmerkingen voor Adobe zoeken [!DNL Experience Cloud] producten en diensten. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste zelfstudies en cursussen voor [!DNL Experience Cloud] toepassingen.
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
+source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
 workflow-type: tm+mt
-source-wordcount: '6867'
-ht-degree: 5%
+source-wordcount: '5561'
+ht-degree: 4%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 5%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-Deze pagina helpt u versienota&#39;s voor Experience Cloud en Adobe bedrijfstoepassingen vinden. Meld u aan voor de beste zelfhulpervaring [Experience League](https://experienceleague.adobe.com/#home) en pas uw zoekervaring aan in de gratis bibliotheek van de Adobe van [documentatie](https://experienceleague.adobe.com/docs/), [cursussen](https://experienceleague.adobe.com/?lang=nl#courses), [gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/), [communityforums](https://experienceleaguecommunities.adobe.com/?profile.language=en), en [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support).
+Deze pagina helpt u versienota&#39;s voor Experience Cloud en Adobe bedrijfstoepassingen vinden. Meld u aan voor de beste zelfhulpervaring [Experience League](https://experienceleague.adobe.com/#home) en pas uw zoekervaring aan in de gratis bibliotheek van de Adobe van [documentatie](https://experienceleague.adobe.com/docs/), [cursussen](https://experienceleague.adobe.com/?lang=nl#courses), [gebeurtenissen](https://experienceleague.adobe.com/events/), [communityforums](https://experienceleaguecommunities.adobe.com/?profile.language=en), en [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support).
 
 Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt u zich aan bij de [Adobe Prioriteit productupdate](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## November 2023
 
-Laatste update: **16 november 2023**
+Laatste update: **vrijdag 16 november 2023**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events) (bijgewerkt **16 november**)
 * [Certificering bij Adobe](#certification)
@@ -37,7 +37,6 @@ Laatste update: **16 november 2023**
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem) (vrijgegeven **26 oktober**)
-* [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -62,19 +61,13 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL JOURNEY OPTIMIZER]** | Webinar | _Optimalisatie van meerkanaalse campagnes_ | **28 november om 8:00 uur PT** | [Registreren](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
-
-* **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Vraag het de experts: Workfront for Training &amp; Enablement Webinar Follow-up_ | **29 november om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Chat Adobe Workfront Community_ | **5 december om 10:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Chat voor strategische Workfront-beheerders_ | **11 december om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Admin 101 - Breng je Workfront-vragen!_ | **12 december @ 8:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Leer: Einde van jaarrapport_ | **19 december om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events?lang=nl/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
+Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
 
 +++
 
@@ -117,8 +110,8 @@ Meer informatie over de nieuwste functies en updates in [!DNL Adobe System Statu
 Zie voor recente functie-updates:
 
 <!-- * [October 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/10042023.html#status) -->
-* [Augustus 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/08092023.html#status)
-* [Maart 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html#status)
+* [augustus 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/08092023.html#status)
+* [maart 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html#status)
 * [Januari 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html#status)
 
 +++
@@ -436,7 +429,7 @@ De nieuwste versie van de Workfront for Experience Manager Enhanced connector be
 
 >[!NOTE]
 >
->AEM 6.4 eindigt nu met uitgebreide steun. Zie de Adobe voor meer informatie [technische ondersteuningsperioden](https://helpx.adobe.com/support/programs/eol-matrix.html). Zoek de [hier ondersteunde versies](https://experienceleague.adobe.com/docs/?lang=nl).
+>AEM 6.4 eindigt nu met uitgebreide steun. Zie de Adobe voor meer informatie [technische ondersteuningsperioden](https://helpx.adobe.com/support/programs/eol-matrix.html). Zoek de [hier ondersteunde versies](https://experienceleague.adobe.com/docs/?lang=en).
 
 >[!IMPORTANT]
 >
@@ -516,7 +509,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Manage
 
 ### Overige Help-bronnen voor [!DNL Experience Manager]
 
-* [Handleidingen voor Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
+* [as a Cloud Service hulplijnen voor Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
 * [Gebruikershandleiding voor Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en)
 * [Experience Manager 6.5 Introductie &amp; ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 - Introductiepagina](https://experienceleague.adobe.com/docs/experience-manager-64.html)
