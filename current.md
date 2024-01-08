@@ -6,7 +6,7 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 031c4bc36905490c421e548c306d810a4d5d23b2
+source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
 workflow-type: tm+mt
 source-wordcount: '5856'
 ht-degree: 4%
@@ -713,7 +713,7 @@ Ontdek de nieuwste releaseopmerkingen en de releaseplanning voor [!DNL Marketo E
 
 ### Belangrijke Marketo Engage-updates
 
-* Zie [Oktober 2023 - huidige releaseopmerkingen](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) voor de meest recente informatie
+* Zie [Januari 2024 - huidige versienota&#39;s](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) voor de meest recente informatie
 * Zie [!DNL Marketo Engage] [releaseplanning](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) voor de recentste informatie van het versieschema en versienota&#39;s.
 
 ### Nieuwe zelfstudies en cursussen voor Marketo&#39;s Engage {#tutorials-marketo}
@@ -746,7 +746,7 @@ Nieuw [!DNL Workfront] zelfstudies over Experience League.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2023 | [Nieuwe functies in Workfront-zelfstudies](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F) | Meerdere video&#39;s | Bekijk de laatste zelfstudies die de afgelopen maand zijn gepubliceerd. |
+| Januari 2024 | [Nieuwe functies in Workfront-zelfstudies](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F) | Meerdere video&#39;s | Bekijk de laatste zelfstudies die de afgelopen maand zijn gepubliceerd. |
 
 {style="table-layout:auto"}
 
