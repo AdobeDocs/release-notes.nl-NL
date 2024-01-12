@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
+source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
 workflow-type: tm+mt
-source-wordcount: '5856'
+source-wordcount: '5820'
 ht-degree: 4%
 
 ---
@@ -25,9 +25,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## november/december 2023
 
-Laatste update: **zaterdag 5 januari 2024**
+Laatste update: **zaterdag 12 januari 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events) (bijgewerkt **5 januari**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (bijgewerkt **12 januari**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
@@ -59,17 +59,13 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **5 januari 2024**
+Bijgewerkt **12 januari 2024**
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **5 januari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL ANALYTICS and CJA]** | EXPERIENCE LEAGUE LIVE | _Adobe Analytics-gegevens en -analyses in Customer Journey Analytics brengen_ | Leer hoe u geautomatiseerde processen gebruikt om gegevens en analyses van Adobe Analytics naar Customer Journey Analytics te verplaatsen en hoe u onderweg rekening moet houden met gotchas. | **17 januari om 10:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor een collectieve sessie voor het oplossen van problemen en het delen van successen! | **8 januari om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Webinar | _Nieuwe functies in Workfront 24.1_ | Workfront 24.1 klantgerichte release webinar | **11 januari @ 8:00 MT** | [Registreren](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
-
-* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101 - Aan de slag met Workfront_ | Nieuw bij Workfront? Deze gebeurtenis voorziet nieuwe systeembeheerders van een inleiding aan middelen, een daling van systeemnavigatie en beste praktijken voor aanvankelijke opstelling. | **17 januari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101 - Aan de slag met Workfront_ | Nieuw bij Workfront? Deze gebeurtenis voorziet nieuwe systeembeheerders van een inleiding aan middelen, een onderbreking van systeemnavigatie en beste praktijken voor aanvankelijke opstelling. | **17 januari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO ENGAGE]** | Leer van uw collega&#39;s | _Persoon die stramien scoort met Marketo Engage: gelokaliseerde nuances in een globaal raamwerk_ | Meld u op 18 januari 2024 aan bij dit webinar als Marketo Engage Champion laat zien hoe u lokale invloeden in uw scoremodel kunt toestaan wanneer u globaal werkt zonder dat de consistentie in uw organisatie verloren gaat. | **18 januari om 8:00 uur PT** | [Registreren](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
 
@@ -77,9 +73,9 @@ Bijgewerkt **5 januari 2024**
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **2 februari om 9:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Connect: Industriecirkel - Hoger onderwijs_ | Deze eerste industriecirkel, nieuw in 2024, is een informele rondetafeldiscussie die bedoeld is om Workfront Admins in het Hoger Onderwijs samen te brengen aan netwerk, ervaringen, leren en beste praktijken te delen. | **8 februari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Connect: Industriecirkel - Hoger onderwijs_ | Deze eerste industriecirkel, nieuw in 2024, is een informele rondetafeldiscussie die wordt ontworpen om de Admins van Workfront in het Hoger Onderwijs aan netwerk samen te brengen, ervaringen, het leren, en beste praktijken te delen. | **8 februari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Je gebruikers Workfront laten gebruiken_ | Nieuw bij Workfront? Neem deel aan onze maandelijkse vergadering voor nieuwe beheerders! Deze maand, zullen wij beste praktijken voor gebruikerstoepassing bespreken. | **14 februari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Je gebruikers Workfront laten gebruiken_ | Nieuw bij Workfront? Neem deel aan onze maandelijkse vergadering voor nieuwe beheerders! Deze maand, bespreken wij beste praktijken voor gebruikerstoepassing. | **14 februari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
 
