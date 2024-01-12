@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5820'
+source-wordcount: '6102'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 Laatste update: **zaterdag 12 januari 2024**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events) (bijgewerkt **12 januari**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **Nieuw!**
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
@@ -80,6 +81,23 @@ Bijgewerkt **12 januari 2024**
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
 
 +++
+
+## ![Pictogram](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) is een end-to-end oplossing om uw contentleveringsketen te versnellen en te vereenvoudigen met generatieve AI en intelligente automatisering.
+
++++Details
+
+| Gepubliceerd | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |
+| Januari 2024 | [GenStudio-Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | Video&#39;s | Zelfstudies voor Experiencen League weergeven over de nieuwe [!DNL Adobe GenStudio]. GenStudio is een end-to-end oplossing om uw toeleveringsketen van inhoud te versnellen en te vereenvoudigen met generatieve AI en intelligente automatisering. |
+| Januari 2024 | [Workflow en planning: werk stroomlijnen en versnellen](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | Video&#39;s | Voor het bedrijf dat moeite heeft om zijn inhoudseisen te verbinden en te volgen door het planningsproces aan inhoudsproductie en voltooiing. Het gebrek aan effectief proces, planning, goedkeuringen, en gegevensconsistentie over projecten beroven de inhoudsleveringsketen van dit bedrijf van zowel productiviteit als efficiency. |
+| Januari 2024 | [Creatieve productiviteit: superdure creatieve teams](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | Video&#39;s | Voor het bedrijf dat rockstercreatieven heeft, maar die hun content creeert moet omhoog. GenStudio biedt tools die superladen zijn met GenAI en die dit team helpen hun productie, levering en ontdekkingsmogelijkheden van content te verbeteren. |
+| Januari 2024 | [Marketingbehendigheid: Niet-creatieve mensen in staat stellen om te schalen](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | Video&#39;s | Met Adobe GenStudio kan soms een verzoek om inhoud worden behandeld zonder de volledige creatieve team/studio-behandeling. Adobe plaatst tools in handen van marketers en andere potentiële makers van inhoud. Met deze gereedschappen kunt u snel schakelen om inhoudvariaties te maken. De updates kunnen door een uitgebreide, bredere groep individuen worden uitgevoerd die met de inhoudsleveringsketen worden verbonden, dramatisch verhogend de inhoudsproductie en tijd-aan-markt. |
+| Januari 2024 | [Levering en activering: energiebeleving en prestaties](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | Video&#39;s | Voor het bedrijf dat ondersteuning nodig heeft om de juiste inhoud voor het juiste individu op het juiste kanaal te krijgen. GenStudio maakt die verbinding beter dan om het even welke andere oplossing, terwijl ook het verstrekken van de analysemogelijkheden om algemene inhoudsprestaties te verzekeren. |
+
+{style="table-layout:auto"}
+
 
 ## ![Pictogram](/assets/certification-badge.png) Certificering{#certification}
 
