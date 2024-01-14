@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
+source-git-commit: b217f3525129a3c61af864334cc209da4193f242
 workflow-type: tm+mt
-source-wordcount: '6102'
+source-wordcount: '6147'
 ht-degree: 4%
 
 ---
@@ -64,7 +64,9 @@ Bijgewerkt **12 januari 2024**
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL ANALYTICS and CJA]** | EXPERIENCE LEAGUE LIVE | _Adobe Analytics-gegevens en -analyses in Customer Journey Analytics brengen_ | Leer hoe u geautomatiseerde processen gebruikt om gegevens en analyses van Adobe Analytics naar Customer Journey Analytics te verplaatsen en hoe u onderweg rekening moet houden met gotchas. | **17 januari om 10:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL TARGET]** | Webinar | _Adobe Target Personalization Maturity Series_ | De merken zoeken een blauwdruk op intelligente optimalisering om bedrijfsimpact te drijven en hun verpersoonlijkingsstrategieën te ontwikkelen. Doe mee met ons als we AI en automatisering verkennen in een webinarserie met drie delen! | **16 januari om 8:00 PT** | [Registreren](https://adobe-target-personalization-maturity-webinar-series-q1-2024.dxfieldmarketing.adobeevents.com/)
+
+* **[!DNL ANALYTICS]en CJA** | EXPERIENCE LEAGUE LIVE | _Adobe Analytics-gegevens en -analyses in Customer Journey Analytics brengen_ | Leer hoe u geautomatiseerde processen gebruikt om gegevens en analyses van Adobe Analytics naar Customer Journey Analytics te verplaatsen en hoe u onderweg rekening moet houden met gotchas. | **17 januari om 10:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Admin 101 - Aan de slag met Workfront_ | Nieuw bij Workfront? Deze gebeurtenis voorziet nieuwe systeembeheerders van een inleiding aan middelen, een onderbreking van systeemnavigatie en beste praktijken voor aanvankelijke opstelling. | **17 januari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
