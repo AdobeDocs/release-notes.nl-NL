@@ -5,10 +5,10 @@ user-guide-title: Releaseopmerkingen bij Adobe Experience Cloud
 breadcrumb-title: Aanvullende informatie
 user-guide-description: Meer informatie over nieuwe functies, oplossingen en belangrijke kennisgevingen in Adobe Experience Cloud en Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: 757942ae3d247fabd6e1056ea9ff3b1bc49ee4bb
+source-git-commit: 04b43454e3b3423940b99c2bbb678a87fb34b684
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 83%
+source-wordcount: '130'
+ht-degree: 77%
 
 ---
 
@@ -18,9 +18,10 @@ ht-degree: 83%
 + [Opmerkingen bij de huidige release](current.md)
 + Opmerkingen bij vorige release {#previous}
    + 2023 {#2023}
+      + [November 2023](c-legacy-releases/2023/10252023.md)
       + [Oktober 2023](c-legacy-releases/2023/10042023.md)
       + [September 2023](c-legacy-releases/2023/09132023.md)
-      + [Augustus 2023](c-legacy-releases/2023/08092023.md)
+      + [augustus 2023](c-legacy-releases/2023/08092023.md)
       + [Juli 2023](c-legacy-releases/2023/07122023.md)
       + [Juni 2023](c-legacy-releases/2023/06072023.md)
       + [Mei 2023](c-legacy-releases/2023/05102023.md)
@@ -31,8 +32,8 @@ ht-degree: 83%
    + 2022 {#2022}
       + [Oktober 2022](c-legacy-releases/2022/10052022.md)
       + [September 2022](c-legacy-releases/2022/09072022.md)
-      + [Augustus 2022](c-legacy-releases/2022/08172022.md)
-      + [Juli 2022](c-legacy-releases/2022/07202022.md)
+      + [augustus 2022](c-legacy-releases/2022/08172022.md)
+      + [juli 2022](c-legacy-releases/2022/07202022.md)
       + [Juni 2022](c-legacy-releases/2022/06152022.md)
       + [Mei 2022](c-legacy-releases/2022/05182022.md)
       + [April 2022](c-legacy-releases/2022/04202022.md)
@@ -43,7 +44,7 @@ ht-degree: 83%
       + [November 2021](c-legacy-releases/2021/10282021.md)
       + [Oktober 2021](c-legacy-releases/2021/10072021.md)
       + [September 2021](c-legacy-releases/2021/09152021.md)
-      + [Augustus 2021](c-legacy-releases/2021/08192021.md)
+      + [augustus 2021](c-legacy-releases/2021/08192021.md)
       + [Juli 2021](c-legacy-releases/2021/07222021.md)
       + [Juni 2021](c-legacy-releases/2021/06172021.md)
       + [Mei 2021](c-legacy-releases/2021/05202021.md)
