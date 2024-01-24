@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7dc09a68ae460dccf8b2633a5093b7a47516441
+source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
 workflow-type: tm+mt
-source-wordcount: '6170'
+source-wordcount: '6145'
 ht-degree: 7%
 
 ---
@@ -24,7 +24,7 @@ Deze pagina helpt u van de volgende zelfhulp middelen voor Experience Cloud en A
 * Opmerkingen bij de release en productdocumentatie
 * Ondersteuning van artikelen op kennisbasis
 * Komende gebeurtenissen op Experience League
-* Nieuwste videozelfstudies en cursussen
+* Meest recente videozelfstudies
 
 Meld u aan voor de beste zelfhulpervaring [Experience League](https://experienceleague.adobe.com/#home) en pas uw zoekervaring aan in de gratis bibliotheek van de Adobe van [documentatie](https://experienceleague.adobe.com/docs/), [cursussen](https://experienceleague.adobe.com/?lang=nl#courses), [gebeurtenissen](https://experienceleague.adobe.com/events/), [communityforums](https://experienceleaguecommunities.adobe.com/?profile.language=en), en [ondersteuning](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support).
 
@@ -32,7 +32,7 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Januari 2024
 
-Laatste update: **donderdag 17 januari 2024**
+Laatste update: **donderdag 24 januari 2024**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nieuw!**
@@ -68,15 +68,15 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
+Bijgewerkt **24 januari 2024**
+
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL ANALYTICS]en[!DNL Customer Journey Analytics]** | EXPERIENCE LEAGUE LIVE | _Breng uw [!DNL Adobe Analytics] gegevens en analyses[!DNL Customer Journey Analytics]_ | Meer informatie over het gebruik van geautomatiseerde processen voor het verplaatsen van gegevens en analyses van Adobe Analytics naar [!DNL Customer Journey Analytics]en eventuele gotchas die onderweg in overweging moeten worden genomen. | **17 januari om 10:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL WORKFRONT]** | Webinar | _Marketo &amp; Mochas: Grondbeginselen van kenmerkdashboards_ | Zijn uw attributiemodellen en MPI dashboards gevormd om de kritieke prestatiesmetriek bij uw vingertoppen te gebruiken? Neem deel aan onze Adobe-experts en leer hoe u deze tools kunt gebruiken om het succes van uw marketingteam te stimuleren. | **25 januari @ 1:00 PM ET** | [Registreren](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101 - Aan de slag met [!DNL Workfront_] | Nieuw bij [!DNL Workfront]? Deze gebeurtenis voorziet nieuwe systeembeheerders van een inleiding aan middelen, een onderbreking van systeemnavigatie en beste praktijken voor aanvankelijke opstelling. | **17 januari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Ontgrendel efficiëntie bij het maken en beheren van inhoud._ | Ontdek hoe u de snelheid van de inhoud kunt verbeteren met Adobe Experience Manager Sites-ervaringsfragmenten. Tips voor het leveren van gevarieerde en persoonlijke ervaringen op schaal over elk kanaal. | **1 februari om 9:00 GMT** | [Registreren](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
-* **[!DNL MARKETO ENGAGE]** | Leer van uw collega&#39;s | _Persoon die stramien scoort met [!DNL Marketo Engage]: Gelokaliseerde nuances in een globaal kader_ | Word op 18 januari 2024 lid van dit webinar als [!DNL Marketo Engage] Champion laat zien hoe u lokale invloeden in uw scoremodel kunt toestaan wanneer u globaal werkt, zonder dat de consistentie in uw organisatie verloren gaat. | **18 januari om 8:00 uur PT** | [Registreren](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | Workshop klant | _Leren: Adobe [!DNL Workfront] 24.1 Release Round Up_ | Andere samenvoegen [!DNL Workfront] de klanten aangezien wij de recentste versiefuncties, de voordelen, en ideeën over rollout plannen en het beheren van verandering bespreken. | **24 januari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL COMMERCE]** | Webinar | _Handel en koffie: eCommerce-ervaringen met AI personaliseren_ | Het is nooit gemakkelijker geweest om eCommerce-ervaringen voor de individuele klant te personaliseren. Schrijf u in voor Corey Gelato, de Adobe zelf, om te leren hoe AI uw producten, e-mails en websites in Adobe Commerce moeiteloos kan aanpassen. | **1 februari om 13:00 uur ET** | [Registreren](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting verbindt u met andere beheerders om beste praktijken en uiteinden en trucs te bespreken. | **2 februari om 9:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
