@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6145'
+source-wordcount: '6186'
 ht-degree: 7%
 
 ---
@@ -34,7 +34,7 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 Laatste update: **donderdag 24 januari 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **24 januari**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nieuw!**
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ Laatste update: **donderdag 24 januari 2024**
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Bijgewerkt) **24 januari**)
 * [Beheer van klantgegevens - Voices](#voices)
 * [Digital Experience-blauwdrukken](#blueprints)
 * [Problemen met productbeveiliging in de Adobe](https://helpx.adobe.com/nl/security.html)
@@ -826,7 +826,13 @@ Voor [!DNL Document Cloud] zelfstudies, zie:
 
 Nieuwe video&#39;s, zelfstudies of cursussen die zijn gepubliceerd voor toepassingen in [!DNL Adobe Creative Cloud for enterprise].
 
+Bijgewerkt **24 januari 2024**
+
 +++Details
+
+| Gepubliceerd | Toepassing | Naam | Type | Beschrijving |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Januari 2024 | [!DNL Adobe Express] | [Tutorials voor Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video&#39;s | Ga aan de slag met verbluffende werkzaamheden die opvallen bij generatieve AI met een [!DNL Adobe Firefly]. Ontwerpflyers, TikToks, hervat, en Reels met [!DNL Adobe Express]. |
 
 Zie [Creative Cloud voor zelfstudies voor ondernemingen](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) voor de meest recente zelfstudies.
 
