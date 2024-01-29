@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dff2ca5ce3e8a0dbe3e12e9e81a37da784a4d1f9
+source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
 workflow-type: tm+mt
-source-wordcount: '6185'
-ht-degree: 7%
+source-wordcount: '6367'
+ht-degree: 6%
 
 ---
 
@@ -32,9 +32,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Januari 2024
 
-Laatste update: **donderdag 24 januari 2024**
+Laatste update: **dinsdag 29 januari 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **24 januari**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **29 januari**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nieuw!**
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ Laatste update: **donderdag 24 januari 2024**
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (Bijgewerkt) **29 januari**)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -68,11 +68,9 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **24 januari 2024**
+Bijgewerkt **29 januari 2024**
 
 +++Komende gebeurtenissen op Experience League
-
-* **[!DNL WORKFRONT]** | Webinar | _Marketo &amp; Mochas: Grondbeginselen van kenmerkdashboards_ | Zijn uw attributiemodellen en MPI dashboards gevormd om de kritieke prestatiesmetriek bij uw vingertoppen te gebruiken? Neem deel aan onze Adobe-experts en leer hoe u deze tools kunt gebruiken om het succes van uw marketingteam te stimuleren. | **25 januari @ 1:00 PM ET** | [Registreren](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
 * **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Ontgrendel efficiëntie bij het maken en beheren van inhoud._ | Ontdek hoe u de snelheid van de inhoud kunt verbeteren met Adobe Experience Manager Sites-ervaringsfragmenten. Tips voor het leveren van gevarieerde en persoonlijke ervaringen op schaal over elk kanaal. | **1 februari om 9:00 GMT** | [Registreren](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
@@ -82,7 +80,19 @@ Bijgewerkt **24 januari 2024**
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Connect: Industriecirkel - Hoger onderwijs_ | Merknaam nieuw in 2024, deze eerste industriecirkel is een informele ronde-tafeldiscussie die bedoeld is om samen te brengen [!DNL Workfront] Admins in Hoger Onderwijs aan netwerk, deel ervaringen, het leren, en beste praktijken. | **8 februari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL ANALYTICS]** | Webinar | _Data Drip: Marketing Channels &amp; Attribution Modeling_ | Weet u welke invloed uw klanteninteractie op omzettingen heeft? Neem deel aan onze experts op het gebied van Adobe en laat ons zien hoe u marketingkanalen kunt configureren en AI in Adobe Analytics kunt gebruiken om aangepaste attributiemodellen te maken. | **8 februari om 13:00 UUR** | [Registreren](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor onze maandelijkse collectieve probleemoplossings- en succesdelingssessie! | **12 februari om 6:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL DATA COLLECTION]** | Webinar | _Prioriteit gegevensstroom_ | Leer hoe u prioritering van gegevensstromen voor campagneorchestratie beheert om de mogelijkheden van uw organisatie om gegevensgestuurde personalisatie uit te voeren, te verhogen. | **13 februari om 9:30 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Uw gebruikers aan Gebruik krijgen[!DNL Workfront]_ | Nieuw bij [!DNL Workfront]? Neem deel aan onze maandelijkse vergadering voor nieuwe beheerders! Deze maand, bespreken wij beste praktijken voor gebruikerstoepassing. | **14 februari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Strategisch leiderschap ontketend: De kracht van uitvoerend sponsorschap_ | Verkrijg de tactiek om organisatorische doelstellingen door strategische invloed effectief te bereiken. Deze sessie is bedoeld om leidinggevenden in staat te stellen hun sponsoring voor managers te verhogen. | **15 februari om 10:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _De Voordelen van het Team van de leider: Ontgrendel de mogelijkheden voor gestroomlijnd succes_ | Ontdek hoe productintegratie digitale workflows kan stroomlijnen, teamefficiëntie kan verbeteren en bedrijfsprocessen kan schalen. Leer technieken om samenwerking binnen leunteams voor maximumproductiviteit te verbeteren. | **20 februari om 10:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Vraag de Klantenondersteuning - Problemen met de gemeenschappelijke lay-outsjabloon en weergaveproblemen oplossen_ | Neem deel aan het Workfront-team voor Klantenondersteuning voor een sessie van het type &quot;Vraag het de expert&quot; voor meer tips over best practices en probleemoplossing die zijn toegespitst op lay-outsjablonen en -weergaven. | **22 februari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
 
