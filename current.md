@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
+source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
 workflow-type: tm+mt
-source-wordcount: '6367'
-ht-degree: 6%
+source-wordcount: '6280'
+ht-degree: 7%
 
 ---
 
@@ -32,9 +32,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Januari 2024
 
-Laatste update: **dinsdag 29 januari 2024**
+Laatste update: **vrijdag 1 februari 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **29 januari**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **1 februari**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nieuw!**
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,13 +68,9 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **29 januari 2024**
+Bijgewerkt **1 februari 2024**
 
 +++Komende gebeurtenissen op Experience League
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Ontgrendel efficiëntie bij het maken en beheren van inhoud._ | Ontdek hoe u de snelheid van de inhoud kunt verbeteren met Adobe Experience Manager Sites-ervaringsfragmenten. Tips voor het leveren van gevarieerde en persoonlijke ervaringen op schaal over elk kanaal. | **1 februari om 9:00 GMT** | [Registreren](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
-
-* **[!DNL COMMERCE]** | Webinar | _Handel en koffie: eCommerce-ervaringen met AI personaliseren_ | Het is nooit gemakkelijker geweest om eCommerce-ervaringen voor de individuele klant te personaliseren. Schrijf u in voor Corey Gelato, de Adobe zelf, om te leren hoe AI uw producten, e-mails en websites in Adobe Commerce moeiteloos kan aanpassen. | **1 februari om 13:00 uur ET** | [Registreren](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting verbindt u met andere beheerders om beste praktijken en uiteinden en trucs te bespreken. | **2 februari om 9:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
