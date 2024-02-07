@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6280'
+source-wordcount: '6279'
 ht-degree: 7%
 
 ---
@@ -32,9 +32,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Januari 2024
 
-Laatste update: **vrijdag 1 februari 2024**
+Laatste update: **donderdag 7 februari 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **1 februari**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **7 februari**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nieuw!**
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,11 +68,11 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **1 februari 2024**
+Bijgewerkt **7 februari 2024**
 
 +++Komende gebeurtenissen op Experience League
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting verbindt u met andere beheerders om beste praktijken en uiteinden en trucs te bespreken. | **2 februari om 9:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Hoofdlettergebruik afspeelboeken: zelfstandige sjablonen om gebruiksscenario&#39;s met een paar klikken te implementeren_ | Leer hoe u met de functie Hoofdletters gebruiken uw marketingdoelstellingen in implementatieobjecten kunt omzetten met slechts een paar klikken! | **8 februari om 9:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Connect: Industriecirkel - Hoger onderwijs_ | Merknaam nieuw in 2024, deze eerste industriecirkel is een informele ronde-tafeldiscussie die bedoeld is om samen te brengen [!DNL Workfront] Admins in Hoger Onderwijs aan netwerk, deel ervaringen, het leren, en beste praktijken. | **8 februari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
