@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6279'
+source-wordcount: '6093'
 ht-degree: 7%
 
 ---
@@ -70,17 +70,7 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 Bijgewerkt **7 februari 2024**
 
-+++Komende gebeurtenissen op Experience League
-
-* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Hoofdlettergebruik afspeelboeken: zelfstandige sjablonen om gebruiksscenario&#39;s met een paar klikken te implementeren_ | Leer hoe u met de functie Hoofdletters gebruiken uw marketingdoelstellingen in implementatieobjecten kunt omzetten met slechts een paar klikken! | **8 februari om 9:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | Workshop klant | _Connect: Industriecirkel - Hoger onderwijs_ | Merknaam nieuw in 2024, deze eerste industriecirkel is een informele ronde-tafeldiscussie die bedoeld is om samen te brengen [!DNL Workfront] Admins in Hoger Onderwijs aan netwerk, deel ervaringen, het leren, en beste praktijken. | **8 februari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Webinar | _Data Drip: Marketing Channels &amp; Attribution Modeling_ | Weet u welke invloed uw klanteninteractie op omzettingen heeft? Neem deel aan onze experts op het gebied van Adobe en laat ons zien hoe u marketingkanalen kunt configureren en AI in Adobe Analytics kunt gebruiken om aangepaste attributiemodellen te maken. | **8 februari om 13:00 UUR** | [Registreren](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor onze maandelijkse collectieve probleemoplossings- en succesdelingssessie! | **12 februari om 6:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | Webinar | _Prioriteit gegevensstroom_ | Leer hoe u prioritering van gegevensstromen voor campagneorchestratie beheert om de mogelijkheden van uw organisatie om gegevensgestuurde personalisatie uit te voeren, te verhogen. | **13 februari om 9:30 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++Details
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Uw gebruikers aan Gebruik krijgen[!DNL Workfront]_ | Nieuw bij [!DNL Workfront]? Neem deel aan onze maandelijkse vergadering voor nieuwe beheerders! Deze maand, bespreken wij beste praktijken voor gebruikerstoepassing. | **14 februari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
