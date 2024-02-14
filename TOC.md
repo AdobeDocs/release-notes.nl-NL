@@ -5,10 +5,10 @@ user-guide-title: Releaseopmerkingen bij Adobe Experience Cloud
 breadcrumb-title: Aanvullende informatie
 user-guide-description: Meer informatie over nieuwe functies, oplossingen en belangrijke kennisgevingen in Adobe Experience Cloud en Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: 04b43454e3b3423940b99c2bbb678a87fb34b684
+source-git-commit: a3458fe06ca6ee189da76ad8cb06287fc839a03c
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 77%
+source-wordcount: '87'
+ht-degree: 68%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 77%
 
 + [Opmerkingen bij de huidige release](current.md)
 + Opmerkingen bij vorige release {#previous}
+   + 2024 {#2024}
+      + [Januari 2024](c-legacy-releases/2024/01112023.md)
    + 2023 {#2023}
       + [November 2023](c-legacy-releases/2023/10252023.md)
       + [Oktober 2023](c-legacy-releases/2023/10042023.md)
@@ -40,29 +42,5 @@ ht-degree: 77%
       + [Maart 2022](c-legacy-releases/2022/03232022.md)
       + [Februari 2022](c-legacy-releases/2022/02162022.md)
       + [Januari 2022](c-legacy-releases/2022/01192022.md)
-   + 2021 {#2021}
-      + [November 2021](c-legacy-releases/2021/10282021.md)
-      + [Oktober 2021](c-legacy-releases/2021/10072021.md)
-      + [September 2021](c-legacy-releases/2021/09152021.md)
-      + [augustus 2021](c-legacy-releases/2021/08192021.md)
-      + [Juli 2021](c-legacy-releases/2021/07222021.md)
-      + [Juni 2021](c-legacy-releases/2021/06172021.md)
-      + [Mei 2021](c-legacy-releases/2021/05202021.md)
-      + [April 2021](c-legacy-releases/2021/04222021.md)
-      + [Maart 2021](c-legacy-releases/2021/03252021.md)
-      + [Februari 2021](c-legacy-releases/2021/02182021.md)
-      + [Januari 2021](c-legacy-releases/2021/01142021.md)
-   + 2020 {#2020}
-      + [November 2020](c-legacy-releases/2020/10292020.md)
-      + [Oktober 2020](c-legacy-releases/2020/10082020.md)
-      + [September 2020](c-legacy-releases/2020/09102020.md)
-      + [Augustus 2020](c-legacy-releases/2020/08132020.md)
-      + [Juli 2020](c-legacy-releases/2020/07162020.md)
-      + [Juni 2020](c-legacy-releases/2020/06182020.md)
-      + [Mei 2020](c-legacy-releases/2020/05212020.md)
-      + [April 2020](c-legacy-releases/2020/04162020.md)
-      + [Maart 2020](c-legacy-releases/2020/03122020.md)
-      + [Februari 2020](c-legacy-releases/2020/02202020.md)
-      + [Januari 2020](c-legacy-releases/2020/01162020.md)
-   + 2019 en eerder {#legacy-rns}
-      + [2019 en eerder](c-legacy-releases/2019-earlier.md)
+   + 2021 en eerder {#legacy-rns}
+      + [2021 en eerder](c-legacy-releases/2022-earlier.md)
