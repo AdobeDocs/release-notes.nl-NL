@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4cb8fce5ba7d00f4462cfaa5c29523a15c3ae0c2
+source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
 workflow-type: tm+mt
-source-wordcount: '5484'
+source-wordcount: '5403'
 ht-degree: 7%
 
 ---
@@ -70,10 +70,6 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 Bijgewerkt **14 februari 2024**
 
 +++Details
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Strategisch leiderschap ontketend: De kracht van uitvoerend sponsorschap_ | Verkrijg de tactiek om organisatorische doelstellingen door strategische invloed effectief te bereiken. Deze sessie is bedoeld om leidinggevenden in staat te stellen hun sponsoring voor managers te verhogen. | **15 februari om 10:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _De Voordelen van het Team van de leider: Ontgrendel de mogelijkheden voor gestroomlijnd succes_ | Ontdek hoe productintegratie digitale workflows kan stroomlijnen, teamefficiëntie kan verbeteren en bedrijfsprocessen kan schalen. Leer technieken om samenwerking binnen leunteams voor maximumproductiviteit te verbeteren. | **20 februari om 10:00 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Vraag de Klantenondersteuning - Problemen met de gemeenschappelijke lay-outsjabloon en weergaveproblemen oplossen_ | Neem deel aan het Workfront-team voor Klantenondersteuning voor een sessie van het type &quot;Vraag het de expert&quot; voor meer tips over best practices en probleemoplossing die zijn toegespitst op lay-outsjablonen en -weergaven. | **22 februari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
