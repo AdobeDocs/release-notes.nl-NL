@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
 workflow-type: tm+mt
-source-wordcount: '5403'
+source-wordcount: '5413'
 ht-degree: 7%
 
 ---
@@ -32,9 +32,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Februari 2024
 
-Laatste update: **donderdag 14 februari 2024**
+Laatste update: **dinsdag 26 februari 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League] gebeurtenissen en updates](#events)  (bijgewerkt **26 februari**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,11 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **14 februari 2024**
+Bijgewerkt **26 februari 2024**
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Vraag de Klantenondersteuning - Problemen met de gemeenschappelijke lay-outsjabloon en weergaveproblemen oplossen_ | Neem deel aan het Workfront-team voor Klantenondersteuning voor een sessie van het type &quot;Vraag het de expert&quot; voor meer tips over best practices en probleemoplossing die zijn toegespitst op lay-outsjablonen en -weergaven. | **22 februari om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Chat Vragen en antwoorden | _Vragen aan de klant: Ga verder met uw carrier met Workfront_ | Het eerste panel van 2024 begint met drie inspirerende Workfront-klanten die een succesvolle carrière hebben opgebouwd op basis van hun Workfront-expertise. Doe mee aan een 1-uurs gesprek om de vaardigheden te leren die nodig zijn om te slagen. | **27 februari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | De Digital Experience Conference | _Vergroot uw vaardigheden, ontdek de nieuwste trends en verken de toekomst van een door ervaring gestuurde groei_ | Leer van toonaangevende merken, ontdek de toekomst van generatieve AI en maak je klaar voor een ervaren groei. | **25 maart - 28 @ Las Vegas en online** | [Registreren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
