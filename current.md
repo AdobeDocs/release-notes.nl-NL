@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
+source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
 workflow-type: tm+mt
-source-wordcount: '5413'
+source-wordcount: '5735'
 ht-degree: 7%
 
 ---
@@ -32,9 +32,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Februari 2024
 
-Laatste update: **dinsdag 26 februari 2024**
+Laatste update: **donderdag 28 februari 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)  (bijgewerkt **26 februari**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events)  (bijgewerkt **28 februari**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,27 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **26 februari 2024**
+Bijgewerkt **28 februari 2024**
 
 +++Details
 
-* **WORKFRONT** | Chat Vragen en antwoorden | _Vragen aan de klant: Ga verder met uw carrier met Workfront_ | Het eerste panel van 2024 begint met drie inspirerende Workfront-klanten die een succesvolle carrière hebben opgebouwd op basis van hun Workfront-expertise. Doe mee aan een 1-uurs gesprek om de vaardigheden te leren die nodig zijn om te slagen. | **27 februari om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **EXPERIENCE MANAGER** | Webinar | _EMEA AEM Community event_ | We zullen een geweldige interactieve sessie over de toeleveringsketen voor inhoud houden om uw doelstellingen, resultaten tot nu toe, de uitdagingen waarvoor u staat en de manier waarop u deze kunt aanpakken, te bespreken. | **29 februari om 3:00 uur GMT** | [Registreren](https://registration.adobe.com/AdobeAEM24/)
+
+* **ADMIN en CAMPAGNE** | EXPERIENCE LEAGUE LIVE | _Vooruitgang boeken met de nieuwe Adobe Campaign Web User Interface_ | Meld u op 29 februari aan voor het plannen, lanceren en meten van kanaalstrategieën met de nieuwe Adobe Campaign Web User Interface en voor een voorvertoning van de nieuwe Generative AI-mogelijkheden. | **29 februari om 8:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-240229.html)
+
+* **EXPERIENCE MANAGER** | Livestream | _App Builder wordt 10.0_ | Word lid van het technische team van App Builder om te leren wat nieuw met hun recentste CLI versie evenals wat op de horizon met inbegrip van sommige nieuwe benaderingen is om het zuiveren veel gemakkelijker en meer te maken! | **29 februari om 9:00 uur PT** | [Registreren](https://streamyard.com/watch/i7TEbhnR73h9)
+
+* **WORKFRONT** | Workshop klant | _Meer informatie: Workfront for Legal &amp; Compliance_ | Word lid van ons voor een workshop over hoe samenwerking met uw juridische en compatibiliteitsteams uw processen kan stroomlijnen, uw Workfront-platform kan uitbreiden naar een groter publiek op uw organisatie en uw acceptatie kan vergroten. | **29 februari om 9:30 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **1 maart om 9:00** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Webinar | _Wake Up with Workfront: Resource Management_ | Onderzoek één van Workfront het meest impactful gebruiksgevallen, het Beheer van het Middel, aangezien de Bedrijfs Adviseur van Workfront van de Adobe door het gebruiken van Blauwdrukken loopt om werkbeheersystemen gemakkelijk tot stand te brengen die met uw behoeften evolueren. | **7 maart om 13:00 UUR** | [Registreren](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor een collectieve sessie voor het oplossen van problemen en het delen van successen! | **11 maart om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor een collectieve sessie voor het oplossen van problemen en het delen van successen! | **11 maart om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER** | Webinar | _Espressos &amp; Experience Manager: Waarom AEM krachtiger is in de cloud_ | Neem contact op met de experts van de Adobe als ze bespreken hoe u een soepele overgang naar de cloud kunt garanderen via evaluatie van inhoud en migratieplanning met hulpprogramma&#39;s als Best Practice Analyzer en Cloud Acceleration Manager. | **14 maart om 13:00 PM ET** | [Registreren](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | De Digital Experience Conference | _Vergroot uw vaardigheden, ontdek de nieuwste trends en verken de toekomst van een door ervaring gestuurde groei_ | Leer van toonaangevende merken, ontdek de toekomst van generatieve AI en maak je klaar voor een ervaren groei. | **25 maart - 28 @ Las Vegas en online** | [Registreren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
