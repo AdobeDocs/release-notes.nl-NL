@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
+source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
 workflow-type: tm+mt
-source-wordcount: '5727'
+source-wordcount: '5538'
 ht-degree: 7%
 
 ---
@@ -71,17 +71,9 @@ Bijgewerkt **28 februari 2024**
 
 +++Details
 
-* **EXPERIENCE MANAGER** | Webinar | _EMEA AEM Community event_ | We zullen een geweldige interactieve sessie over de toeleveringsketen voor inhoud houden om uw doelstellingen, resultaten tot nu toe, de uitdagingen waarvoor u staat en de manier waarop u deze kunt aanpakken, te bespreken. | **29 februari om 3:00 uur GMT** | [Registreren](https://registration.adobe.com/AdobeAEM24/)
+* **CAMPAGNE (V7, V8)** | Koffiepauze | _Adobe Campaign Community - Koffiepauze voor vragen en antwoorden_ | Sluit u bij ons aan voor een praatjezitting van een uur lang rond het nieuwe Web van Adobe Campaign gebruikersinterface met ons team van het Product van Adobe Campaign. | **7 maart om 8:00 uur PT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
-* **ADMIN en CAMPAGNE** | EXPERIENCE LEAGUE LIVE | _Vooruitgang boeken met de nieuwe Adobe Campaign Web User Interface_ | Meld u op 29 februari aan om te leren hoe u kanaalstrategieën kunt plannen, starten en meten met de nieuwe Adobe Campaign Web User Interface en om een voorvertoning van de nieuwe Generative AI-mogelijkheden te bekijken. | **29 februari om 8:00 uur PT** | [Registreren](https://engage.adobe.com/ExpLeagueLive-240229.html)
-
-* **EXPERIENCE MANAGER** | Livestream | _App Builder wordt 10.0_ | Word lid van het technische team van de Bouwer van de App om te leren wat nieuw met hun recentste CLI versie en wat op de horizon met inbegrip van sommige nieuwe benaderingen is om het zuiveren gemakkelijker en meer te maken! | **29 februari om 9:00 uur PT** | [Registreren](https://streamyard.com/watch/i7TEbhnR73h9)
-
-* **WORKFRONT** | Workshop klant | _Meer informatie: Workfront for Legal &amp; Compliance_ | Word lid van ons voor een workshop over hoe samenwerking met uw juridische en compatibiliteitsteams uw processen kan stroomlijnen, uw Workfront-platform kan uitbreiden naar een groter publiek op uw organisatie en uw acceptatie kan vergroten. | **29 februari om 9:30 PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting verbindt u met andere beheerders om beste praktijken en uiteinden en trucs te bespreken. | **1 maart om 9:00** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Webinar | _Wake Up with Workfront: Resource Management_ | Onderzoek één van Workfront het meest impactful gebruiksgevallen, het Beheer van het Middel, aangezien de Bedrijfs Adviseur van Workfront van de Adobe door het gebruiken van Blauwdrukken loopt om werkbeheersystemen gemakkelijk tot stand te brengen die met uw behoeften evolueren. | **7 maart om 13:00 UUR** | [Registreren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **WORKFRONT** | Webinar | _Wake Up with Workfront: Resource Management_ | Onderzoek één van Workfront het meest impactful gebruiksgevallen, het Beheer van het Middel, aangezien de Bedrijfs Adviseur van Workfront van de Adobe door het gebruiken van Blauwdrukken loopt om werkbeheersystemen gemakkelijk tot stand te brengen die met uw behoeften evolueren. | **7 maart om 13:00 UUR** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor een collectieve sessie voor het oplossen van problemen en het delen van successen! | **11 maart om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
