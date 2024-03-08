@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
+source-git-commit: da61f809f1bdd6ce4f3ac650f40a72a2a0f37c6e
 workflow-type: tm+mt
-source-wordcount: '5455'
+source-wordcount: '5528'
 ht-degree: 7%
 
 ---
@@ -73,9 +73,11 @@ Bijgewerkt **28 februari 2024**
 
 * **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor een collectieve sessie voor het oplossen van problemen en het delen van successen! | **11 maart om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor een collectieve sessie voor het oplossen van problemen en het delen van successen! | **11 maart om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Workshop klant | _Beheer 101: Workfront-gegevens ophalen_ | Nieuw bij Workfront? Neem deel aan onze maandelijkse &quot;Nieuwe Admin&quot;vergaderingen om vragen te stellen, middelen en aanbevelingen te krijgen, andere nieuwe admins te ontmoeten, en voor deze zitting, beste praktijken voor alle dingen te leren meldend in Workfront. | **13 maart om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER** | Webinar | _Espressos &amp; Experience Manager: Waarom AEM krachtiger is in de cloud_ | Neem contact op met de experts van de Adobe als ze bespreken hoe u een soepele overgang naar de cloud kunt garanderen via evaluatie van inhoud en migratieplanning met hulpprogramma&#39;s als Best Practice Analyzer en Cloud Acceleration Manager. | **14 maart om 13:00 PM ET** | [Registreren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **EXPERIENCE MANAGER** | AEM GEMS | _Aan de slag met AEM Authoring en Edge Delivery Services_ | Sluit AEM GEMs webinar aan om begonnen te worden met AEM creatie met Edge Delivery Services. Leer hoe te om een AEM toegelaten projectontwikkeling samen met WYSIWYG creatie tot stand te brengen gebruikend AEM wolkendienst. | **13 maart om 9:00 uur PT** | [Registreren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
+
+* **EXPERIENCE MANAGER** | Webinar | _Espressos &amp; Experience Manager: Waarom AEM krachtiger is in de cloud_ | Neem contact op met de experts van de Adobe als ze bespreken hoe u een soepele overgang naar de cloud kunt garanderen via evaluatie van inhoud en migratieplanning met hulpprogramma&#39;s als Best Practice Analyzer en Cloud Acceleration Manager. | **14 maart om 13:00 PM ET** | [Registreren](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | De Digital Experience Conference | _Vergroot uw vaardigheden, ontdek de nieuwste trends en verken de toekomst van een door ervaring gestuurde groei_ | Leer van toonaangevende merken, ontdek de toekomst van generatieve AI en maak je klaar voor een ervaren groei. | **25 maart - 28 @ Las Vegas en online** | [Registreren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
