@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5538'
+source-wordcount: '5455'
 ht-degree: 7%
 
 ---
@@ -70,10 +70,6 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 Bijgewerkt **28 februari 2024**
 
 +++Details
-
-* **CAMPAGNE (V7, V8)** | Koffiepauze | _Adobe Campaign Community - Koffiepauze voor vragen en antwoorden_ | Sluit u bij ons aan voor een praatjezitting van een uur lang rond het nieuwe Web van Adobe Campaign gebruikersinterface met ons team van het Product van Adobe Campaign. | **7 maart om 8:00 uur PT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | Webinar | _Wake Up with Workfront: Resource Management_ | Onderzoek één van Workfront het meest impactful gebruiksgevallen, het Beheer van het Middel, aangezien de Bedrijfs Adviseur van Workfront van de Adobe door het gebruiken van Blauwdrukken loopt om werkbeheersystemen gemakkelijk tot stand te brengen die met uw behoeften evolueren. | **7 maart om 13:00 UUR** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij andere Workfront-klanten voor een collectieve sessie voor het oplossen van problemen en het delen van successen! | **11 maart om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
