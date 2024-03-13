@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6123'
+source-wordcount: '6086'
 ht-degree: 6%
 
 ---
@@ -605,7 +605,6 @@ Nieuwe of bijgewerkte videozelfstudies gepubliceerd voor Adobe Campaign.
 | Februari 2024 | Campaign Web User Interface | [Het publiek beheren en opbouwen](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Video | Leer hoe te om publiek te bouwen en te beheren, hoe te om publiek voor een levering te selecteren, en controlegroepen te bepalen. |
 | Februari 2024 | Campaign Web User Interface | [Een targetingworkflow maken](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Video | Begrijp hoe de werkschema&#39;s werken en hoe te om een het richten werkschema tot stand te brengen. |
 | Februari 2024 | Campaign Web User Interface | [Een e-mailverzending maken](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | Video | Leer hoe u een volledig nieuwe e-maillevering maakt, het publiek definieert, de inhoud ontwerpt, voorvertoning simuleert en een proefdruk verzendt. |
-| Februari 2024 | Campaign Web User Interface | [E-mailinhoud helemaal zelf ontwerpen](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Video | Begrijp hoe u door de e-mailontwerper kunt navigeren. Leer hoe u een geheel nieuwe e-mail kunt structureren en ontwerpen, hoe u uw e-mail kunt personaliseren en testen. |
 | Februari 2024 | Campagne Web User Interface, Experience Platform | [Een publiek met Experience Platform maken](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Video | Leer hoe u een bestemming maakt voor het gebruik van een Experience Platform in Adobe Campaign. |
 | Februari 2024 | Campaign Web User Interface | [Een e-mail maken door HTML te uploaden](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | Video | Leer hoe u een e-mail maakt door HTML te uploaden, hoe u deze compatibel maakt met de e-mailontwerper en hoe u deze omzet in een sjabloon. |
 | Februari 2024 | Campaign Web User Interface | [Abonnement op Dos and Don&#39;ts opzeggen](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | Artikel | Gebruik een lijst met dingen die u moet doen en om te voorkomen wanneer u afmeldt. |
