@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
+source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
 workflow-type: tm+mt
-source-wordcount: '6086'
+source-wordcount: '5994'
 ht-degree: 6%
 
 ---
@@ -32,7 +32,7 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Maart 2024
 
-Laatste update: **donderdag 13 maart 2024**
+Laatste update: **zaterdag 15 maart 2024**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
@@ -40,8 +40,8 @@ Laatste update: **donderdag 13 maart 2024**
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (vrijgegeven **13 maart**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (vrijgegeven **13 maart**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,15 +67,11 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **maart 2024**
+Bijgewerkt **15 maart 2024**
 
 +++Details
 
-* **WORKFRONT** | Workshop klant | _Beheer 101: Workfront-gegevens ophalen_ | Nieuw bij Workfront? Neem deel aan onze maandelijkse &quot;Nieuwe Admin&quot;vergaderingen om vragen te stellen, middelen en aanbevelingen te krijgen, andere nieuwe admins te ontmoeten, en voor deze zitting, beste praktijken voor alle dingen te leren meldend in Workfront. | **13 maart om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **EXPERIENCE MANAGER** | AEM GEMS | _Aan de slag met AEM Authoring en Edge Delivery Services_ | Sluit AEM GEMs webinar aan om begonnen te worden met AEM creatie met Edge Delivery Services. Leer hoe te om een AEM toegelaten projectontwikkeling samen met WYSIWYG creatie tot stand te brengen gebruikend AEM wolkendienst. | **13 maart om 9:00 uur PT** | [Registreren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
-
-* **EXPERIENCE MANAGER** | Webinar | _Espressos &amp; Experience Manager: Waarom AEM krachtiger is in de cloud_ | Neem contact op met de experts van de Adobe als ze bespreken hoe u een soepele overgang naar de cloud kunt garanderen via evaluatie van inhoud en migratieplanning met hulpprogramma&#39;s als Best Practice Analyzer en Cloud Acceleration Manager. | **14 maart om 13:00 PM ET** | [Registreren](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **WORKFRONT** | Workshop klant | _Admin 101 - Breng je Workfront-vragen_ | Hebt u de vorige Admin 101-sessies overgeslagen of hebt u nog vragen? Sluit u aan bij ons voor een uurlange follow-up van de reeks, waar we de sessies samenvatten en deze openen voor vragen en antwoorden! | **20 maart om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | De Digital Experience Conference | _Vergroot uw vaardigheden, ontdek de nieuwste trends en verken de toekomst van een door ervaring gestuurde groei_ | Leer van toonaangevende merken, ontdek de toekomst van generatieve AI en maak je klaar voor een ervaren groei. | **25 maart - 28 @ Las Vegas en online** | [Registreren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
