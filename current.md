@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
+source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
 workflow-type: tm+mt
-source-wordcount: '5945'
+source-wordcount: '5973'
 ht-degree: 6%
 
 ---
@@ -714,6 +714,12 @@ Meer informatie over de nieuwste releaseopmerkingen voor [!DNL Adobe Workfront].
 
 +++Details
 
+### [!DNL Adobe Workfront] updates
+
+* Zie de [Adobe Workfront-productreleases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina voor Workfront-releaseplanninggegevens en opmerkingen bij de release.
+
+* Zie de [Overzicht van Adobe Workfront Fusion-releaseactiviteit](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) voor de meest recente informatie over Fusion.
+
 ### Nieuwe Adobe [!DNL Workfront] cursussen en zelfstudies {#tutorials-workfront}
 
 Nieuw [!DNL Workfront] zelfstudies over Experience League.
@@ -741,7 +747,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 -->
 
-Zie de [[!DNL Workfront] productreleases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) pagina voor een afronding van de meest recente informatie voor alle producten.
+Raadpleeg voor de meest recente productdocumentatie de [Adobe [!DNL Workfront] homepage van documentatie](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
