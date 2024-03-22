@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
+source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
 workflow-type: tm+mt
-source-wordcount: '5994'
+source-wordcount: '5945'
 ht-degree: 6%
 
 ---
@@ -32,7 +32,7 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Maart 2024
 
-Laatste update: **zaterdag 15 maart 2024**
+Laatste update: **zaterdag 22 maart 2024**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
@@ -70,8 +70,6 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 Bijgewerkt **15 maart 2024**
 
 +++Details
-
-* **WORKFRONT** | Workshop klant | _Admin 101 - Breng je Workfront-vragen_ | Hebt u de vorige Admin 101-sessies overgeslagen of hebt u nog vragen? Sluit u aan bij ons voor een uurlange follow-up van de reeks, waar we de sessies samenvatten en deze openen voor vragen en antwoorden! | **20 maart om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | De Digital Experience Conference | _Vergroot uw vaardigheden, ontdek de nieuwste trends en verken de toekomst van een door ervaring gestuurde groei_ | Leer van toonaangevende merken, ontdek de toekomst van generatieve AI en maak je klaar voor een ervaren groei. | **25 maart - 28 @ Las Vegas en online** | [Registreren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
@@ -168,7 +166,7 @@ De nieuwste releasegegevens en nieuwe documentatie vindt u voor [!DNL Experience
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Adobe [!DNL Experience Platform].
 
-| Gepubliceerd | Toepassingen | Naam | Type | Beschrijving |
+| Gepubliceerd | Applicaties | Naam | Type | Beschrijving |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | Februari 2024 | Tags | [Tagextensies toevoegen en configureren](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/add-and-configure-extensions.html) | Video | Leer om uitbreidingen in uw markeringsbezit toe te voegen en te vormen. Extensies zijn vooraf verpakte &quot;apps&quot; die u op uw site installeert, zodat u over de benodigde trackingmogelijkheden, personalisatie of andere mogelijkheden beschikt. |
 | Februari 2024 | Tags | [Gegevenselementen maken](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/create-data-elements.html) | Video | Leer hoe u gegevenselementen maakt om waarden op te slaan die uit uw gegevenslaag zijn gehaald en deze beschikbaar te maken voor regels en extensies in uw tag-eigenschap. |
@@ -460,7 +458,7 @@ Alles [!DNL Experience Manager] releaseopmerkingen worden op de volgende pagina&
 
 Nieuwe video&#39;s, zelfstudies of cursussen gepubliceerd voor Experience Manager.
 
-| Gepubliceerd | Toepassingen | Naam | Type | Beschrijving |
+| Gepubliceerd | Applicaties | Naam | Type | Beschrijving |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | Februari 2024 | Experience Manager Assets | [Workflows die automatisch starten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/auto-start-workflows.html) | Video | Leer hoe automatische startworkflows de verwerking van middelen uitbreiden in [!DNL AEM as a Cloud Service] door automatisch een aangepaste workflow aan te roepen bij het uploaden of opnieuw verwerken zodra de verwerking van het element is voltooid. |
 | Februari 2024 | Experience Manager Sites | [Document ontwerpen instellen](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/set-up.html) | Video | Een handleiding voor het instellen van documentauteurs. |
@@ -538,7 +536,7 @@ Nieuwe zelfstudies voor [!DNL Adobe Commerce] op Experience League.
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
 | Februari 2024 | [Verbinding maken en query&#39;s uitvoeren met de Adobe Commerce-database](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/remote-db-connection-execute-queries.html?lang=en) | Video | Leer hoe u verbinding maakt met een Adobe Commerce on-cloud-project, een database dumpt voor gebruik buiten de site en PII maskeert en deze verwijdert. |
-| Februari 2024 | [Technische Commerce Cloud aan boord en hardwareoverdracht - Tijdlijn van proces starten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/launch-process-timeline.html) | Video | Meer informatie over de technische instapbaarheid van Adobe Commerce Cloud voor de tijdlijn van het startproces. |
+| Februari 2024 | [Technische Commerce Cloud aan boord en hardwareoverdracht - Tijdlijn van proces starten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/launch-process-timeline.html) | Video | Ontdek meer over de technische introductie van Adobe Commerce Cloud voor de tijdlijn van de lancering. |
 
 {style="table-layout:auto"}
 
