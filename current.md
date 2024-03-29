@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
+source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
 workflow-type: tm+mt
-source-wordcount: '5973'
+source-wordcount: '6024'
 ht-degree: 6%
 
 ---
@@ -32,9 +32,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Maart 2024
 
-Laatste update: **zaterdag 22 maart 2024**
+Laatste update: **zaterdag 29 maart 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **29 maart**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
@@ -67,23 +67,25 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **15 maart 2024**
+Bijgewerkt **29 maart 2024**
 
 +++Details
 
-* **ADOBE SUMMIT** | De Digital Experience Conference | _Vergroot uw vaardigheden, ontdek de nieuwste trends en verken de toekomst van een door ervaring gestuurde groei_ | Leer van toonaangevende merken, ontdek de toekomst van generatieve AI en maak je klaar voor een ervaren groei. | **25 maart - 28 @ Las Vegas en online** | [Registreren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
-
-* **ANALYTICA** | Ervaar Makers: De Uitwisseling van de Vaardigheid | _Vaardigheidsuitwisseling bij Adobe Summit voor Adobe Analytics_ | Op 28 maart 2024, zullen wij de Uitwisseling van de Vaardigheid van Adobe Analytics bij Top in Las Vegas ontvangen! Registreer nu al voor meer informatie over tips, trucs en beste praktijken van klanten en kampioenen van Analytics. | **28 maart om 9:00 uur PT** | [Registreren](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=952%20953)
-
-* **EXPERIENCE MANAGER** | Ervaar Makers: De Uitwisseling van de Vaardigheid | _De Uitwisseling van de vaardigheid bij Adobe Summit voor AEM_ | Op 28 maart 2024, zullen wij de Uitwisseling van de Vaardigheid van de AEM bij Top in Las Vegas ontvangen! Registreer nu al voor meer informatie over tips, trucs en beste praktijken van AEM klanten &amp; Champions. | **28 maart om 9:00 uur PT** | [Registreren](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=950%20951)
-
-* **EXPERIENCE MANAGER** | Ervaar Makers: De Uitwisseling van de Vaardigheid | _De Uitwisseling van de vaardigheid bij Adobe Summit voor Marketo Engage_ | Op 28 maart 2024, zullen wij de Uitwisseling van de Vaardigheid van het Marketo Engage bij Top in Las Vegas ontvangen! Registreer nu al voor meer informatie over tips, trucs en beste praktijken van klanten en Champions in de Marketo Engage. | **28 maart om 9:00 uur PT** | [Registreren](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=954%20955)
-
-* **WORKFRONT** | Ervaar Makers: De Uitwisseling van de Vaardigheid | _Vaardigheidsuitwisseling bij Adobe Summit voor Workfront_ | Op 28 maart 2024, zullen wij de Uitwisseling van de Vaardigheid van Adobe Workfront bij Top in Las Vegas ontvangen! Registreer nu al voor meer informatie over tips, trucs en beste praktijken van Workfront-klanten. | **28 maart om 9:00 uur PT** | [Registreren](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=956%20957)
-
 * **WORKFRONT** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **5 april om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **WORKFRONT** | Workshop klant | _Beheer 101: Aan de slag met Workfront_ | Nieuw bij Workfront? Neem deel aan onze 101 maandelijkse vergaderingen van Admin om vragen te stellen, middelen te krijgen, beste praktijken te leren, en andere nieuwe beheerders te ontmoeten. Deze sessie richt zich op de eerste configuratie en configuratie. | **10 april om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Workshop klant | _Meer informatie: Adobe Workfront 2e kwartaal 2024, release Round Up_ | Sluit u aan bij andere Workfront Sys Admins als we de nieuwste verbeteringen in de tweede release van het tweede kwartaal van 2024 bekijken. We bespreken de voordelen, implementatieplannen en het beheren van wijzigingen. | **16 april om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO ENGAGE** | Leer van uw collega&#39;s | _De krachtige Automatisering van het Werkschema ontgrendelen: Praktische Toepassingen van Marketo Engage REST API_ | Schrijf u live bij ons en laat u inspireren door praktijkvoorbeelden van hoe de REST API kan worden gebruikt om workflows te stroomlijnen, zoals het samenvoegen van leads in bulk, het maken van UTM-trackingsprogramma&#39;s en het gebruik van ChatGPT om verzendtijden te optimaliseren. | **17 april om 8:00 uur PT** | [Registreren](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+
+* **WORKFRONT** | Workshop klant | _Meer informatie: 10 tips voor tekstmodus in Adobe Workfront_ | Wilt u de rapportkennis uitbreiden met de tekstmodus? Kijk niet verder! Deze workshop zal een korte inleiding aan de grondbeginselen van de tekstwijze en de Ontdekkingsreiziger van API verstrekken die door 10 tips van de tekstwijze in Adobe Workfront wordt gevolgd. | **18 april om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
+
+* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij uw collega Workfront Sys Admins voor deze maandelijkse brainstorming- en deelsessie, waar we de nieuwste updates en best practices bespreken. | **22 april om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Chat Vragen en antwoorden | _Vraag: Migreren naar het Adobe Business Platform_ | Word samen met onze technici van de Technische Steun voor Vragen en antwoorden om te leren wat te verwachten en hoe te op de migratie van het Bedrijfs Platform van de Adobe het best voor te bereiden. | **23 april om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
