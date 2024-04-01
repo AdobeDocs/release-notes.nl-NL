@@ -6,7 +6,7 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
+source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
 workflow-type: tm+mt
 source-wordcount: '6024'
 ht-degree: 6%
@@ -32,7 +32,7 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Maart 2024
 
-Laatste update: **zaterdag 29 maart 2024**
+Laatste update: **maandag 31 maart 2024**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events) (Bijgewerkt) **29 maart**)
 * [Certificering bij Adobe](#certification)
@@ -67,7 +67,7 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **29 maart 2024**
+Bijgewerkt **31 maart 2024**
 
 +++Details
 
@@ -81,11 +81,11 @@ Bijgewerkt **29 maart 2024**
 
 * **WORKFRONT** | Workshop klant | _Meer informatie: 10 tips voor tekstmodus in Adobe Workfront_ | Wilt u de rapportkennis uitbreiden met de tekstmodus? Kijk niet verder! Deze workshop zal een korte inleiding aan de grondbeginselen van de tekstwijze en de Ontdekkingsreiziger van API verstrekken die door 10 tips van de tekstwijze in Adobe Workfront wordt gevolgd. | **18 april om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
-
 * **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij uw collega Workfront Sys Admins voor deze maandelijkse brainstorming- en deelsessie, waar we de nieuwste updates en best practices bespreken. | **22 april om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Chat Vragen en antwoorden | _Vraag: Migreren naar het Adobe Business Platform_ | Word samen met onze technici van de Technische Steun voor Vragen en antwoorden om te leren wat te verwachten en hoe te op de migratie van het Bedrijfs Platform van de Adobe het best voor te bereiden. | **23 april om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) op Experience League.
 
 +++
 
