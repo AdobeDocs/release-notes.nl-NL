@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
+source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
 workflow-type: tm+mt
-source-wordcount: '6024'
+source-wordcount: '5933'
 ht-degree: 6%
 
 ---
@@ -71,10 +71,6 @@ Bijgewerkt **31 maart 2024**
 
 +++Details
 
-* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **5 april om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Workshop klant | _Beheer 101: Aan de slag met Workfront_ | Nieuw bij Workfront? Neem deel aan onze 101 maandelijkse vergaderingen van Admin om vragen te stellen, middelen te krijgen, beste praktijken te leren, en andere nieuwe beheerders te ontmoeten. Deze sessie richt zich op de eerste configuratie en configuratie. | **10 april om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **WORKFRONT** | Workshop klant | _Meer informatie: Adobe Workfront 2e kwartaal 2024, release Round Up_ | Sluit u aan bij andere Workfront Sys Admins als we de nieuwste verbeteringen in de tweede release van het tweede kwartaal van 2024 bekijken. We bespreken de voordelen, implementatieplannen en het beheren van wijzigingen. | **16 april om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **MARKETO ENGAGE** | Leer van uw collega&#39;s | _De krachtige Automatisering van het Werkschema ontgrendelen: Praktische Toepassingen van Marketo Engage REST API_ | Schrijf u live bij ons en laat u inspireren door praktijkvoorbeelden van hoe de REST API kan worden gebruikt om workflows te stroomlijnen, zoals het samenvoegen van leads in bulk, het maken van UTM-trackingsprogramma&#39;s en het gebruik van ChatGPT om verzendtijden te optimaliseren. | **17 april om 8:00 uur PT** | [Registreren](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
@@ -91,7 +87,7 @@ Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/event
 
 ## ![Pictogram](/assets/experience-league.png) Adobe-inhoud toeleveringsketen {#content-supply-chain}
 
-Meer informatie over [Inhoudstoeleveringsketen](https://business.adobe.com/solutions/adobe-genstudio.html), een end-to-end oplossing van de Adobe om uw inhoud te versnellen en te vereenvoudigen met generatieve AI en intelligente automatisering.
+Meer informatie over [Inhoudstoeleveringsketen](https://business.adobe.com/solutions/adobe-genstudio.html), de end-to-end oplossing van de Adobe om uw inhoud te versnellen en te vereenvoudigen met generatieve AI en intelligente automatisering.
 
 +++Details
 
