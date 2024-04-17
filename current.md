@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
+source-git-commit: 71091a1c41425c3fc5109753a96028aea1765388
 workflow-type: tm+mt
-source-wordcount: '5933'
+source-wordcount: '5828'
 ht-degree: 6%
 
 ---
@@ -70,10 +70,6 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 Bijgewerkt **31 maart 2024**
 
 +++Details
-
-* **WORKFRONT** | Workshop klant | _Meer informatie: Adobe Workfront 2e kwartaal 2024, release Round Up_ | Sluit u aan bij andere Workfront Sys Admins als we de nieuwste verbeteringen in de tweede release van het tweede kwartaal van 2024 bekijken. We bespreken de voordelen, implementatieplannen en het beheren van wijzigingen. | **16 april om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **MARKETO ENGAGE** | Leer van uw collega&#39;s | _De krachtige Automatisering van het Werkschema ontgrendelen: Praktische Toepassingen van Marketo Engage REST API_ | Schrijf u live bij ons en laat u inspireren door praktijkvoorbeelden van hoe de REST API kan worden gebruikt om workflows te stroomlijnen, zoals het samenvoegen van leads in bulk, het maken van UTM-trackingsprogramma&#39;s en het gebruik van ChatGPT om verzendtijden te optimaliseren. | **17 april om 8:00 uur PT** | [Registreren](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
 
 * **WORKFRONT** | Workshop klant | _Meer informatie: 10 tips voor tekstmodus in Adobe Workfront_ | Wilt u de rapportkennis uitbreiden met de tekstmodus? Kijk niet verder! Deze workshop zal een korte inleiding aan de grondbeginselen van de tekstwijze en de Ontdekkingsreiziger van API verstrekken die door 10 tips van de tekstwijze in Adobe Workfront wordt gevolgd. | **18 april om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
