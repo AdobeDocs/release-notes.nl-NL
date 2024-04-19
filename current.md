@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7832bcbd5c8454d0553578b76b7fec79fd1bd453
+source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
 workflow-type: tm+mt
-source-wordcount: '6242'
+source-wordcount: '6189'
 ht-degree: 6%
 
 ---
@@ -67,11 +67,9 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **12 april 2024**
+Bijgewerkt **19 april 2024**
 
 +++Details
-
-* **WORKFRONT** | Workshop klant | _Meer informatie: 10 tips voor tekstmodus in Adobe Workfront_ | Wilt u de rapportkennis uitbreiden met de tekstmodus? Kijk niet verder! Deze workshop zal een korte inleiding aan de grondbeginselen van de tekstwijze en de Ontdekkingsreiziger van API verstrekken die door 10 tips van de tekstwijze in Adobe Workfront wordt gevolgd. | **18 april om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Communautaire gebeurtenis | _Connect: Workfront Collective_ | Sluit u aan bij uw collega Workfront Sys Admins voor deze maandelijkse brainstorming- en deelsessie, waar we de nieuwste updates en best practices bespreken. | **22 april om 6:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
