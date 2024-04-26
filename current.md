@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
+source-git-commit: 6859f12eeda24987eba695b25bac8b1b98f7b96d
 workflow-type: tm+mt
-source-wordcount: '6138'
+source-wordcount: '6185'
 ht-degree: 6%
 
 ---
@@ -67,7 +67,7 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **19 april 2024**
+Bijgewerkt **26 april 2024**
 
 +++Details
 
@@ -77,7 +77,9 @@ Bijgewerkt **19 april 2024**
 
 * **COMMERCE** | Webinar | _Commerce &amp; Koffie: Mastering Ecommerce Essentials_ | Lid worden van Senior Commerce Strategy Consultant, Corey Gelato, omdat hij de essentiële elementen van e-commerce deelt voor succes, waaronder persoonlijke klantpromoties, loyaliteitsprogramma&#39;s en geoptimaliseerde betalings- en verzendingsprocessen. | **2 mei @ 10:00 PT** | [Registreren](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
 
-* **COMMERCE** | Workshop klant | _Admin 101: Gebruikers Workfront laten gebruiken_ | Naar Workfront? Neem deel aan onze 101 maandelijkse vergaderingen van Admin om vragen te stellen, middelen te krijgen, beste praktijken te leren, en andere nieuwe beheerders te ontmoeten. Deze maand bespreken we gebruikerstoepassing! | **8 mei om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Workshop klant | _Admin 101: Gebruikers Workfront laten gebruiken_ | Nieuw bij Workfront? Neem deel aan onze 101 maandelijkse vergaderingen van Admin om vragen te stellen, middelen te krijgen, beste praktijken te leren, en andere nieuwe beheerders te ontmoeten. Deze maand bespreken we gebruikerstoepassing! | **8 mei om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Communautaire gebeurtenis | _Workfront Industry Circle: Hoger onderwijs_ | Als u een Workfront-klant bent in het hoger onderwijs en geïnteresseerd bent in het gezamenlijk oplossen van problemen en het delen van lessen met andere beheerders, neemt u deel aan een open gesprek van 1 uur in samenwerking met WGU. | **9 mei om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,jHukwQBRqkKZAQQmjDUyUg,MMnd2IdMvUmPnHLRw6PKLg,Cp-GtpugCkeOq3zdsIZDsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Zie [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [gebeurtenisopnamen](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
