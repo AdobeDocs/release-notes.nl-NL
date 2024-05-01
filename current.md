@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
+source-git-commit: 850bd90d2ecf012068c90278c10958e119fc7438
 workflow-type: tm+mt
-source-wordcount: '6185'
+source-wordcount: '6137'
 ht-degree: 6%
 
 ---
@@ -32,7 +32,7 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## April 2024
 
-Laatste update: **donderdag 24 april 2024**
+Laatste update: **donderdag 1 mei 2024**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
@@ -67,11 +67,9 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **30 april 2024**
+Bijgewerkt: **donderdag 1 mei 2024**
 
 +++Details
-
-* **WORKFRONT** | Vraag het de expert: Fusieoperaties | _Het bemannen van Uw Praktijk van Admin van het Systeem_ | Doe mee met expert Andy Hess voor meer informatie over bewerkingen in Adobe Workfront Fusion, zoals hoe u ze kunt kwantificeren en tips en trucs om hun gebruik in uw scenario&#39;s te optimaliseren. | **30 april om 10:30 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | Koffiepauze | _Adobe Journey Optimizer Community - Koffiepauze voor vragen en antwoorden_ | Word Adobe Journey Optimizer-experts om vragen te stellen en te chatten via het nieuwe op code gebaseerde ervaringskanaal in Journey Optimizer. | **8 mei om 8:00 uur PT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
 
