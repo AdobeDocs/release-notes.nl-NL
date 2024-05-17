@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
+source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
 workflow-type: tm+mt
-source-wordcount: '6369'
+source-wordcount: '6377'
 ht-degree: 6%
 
 ---
@@ -71,7 +71,7 @@ Bijgewerkt: **donderdag 15 mei 2024**
 
 +++Details
 
-* **WORKFRONT** | Chat Vragen en antwoorden | _Vraag het de experts: Uw beheerpraktijk bedienen - Webinar follow-up_ | Neem contact op met uw collega&#39;s en met onze experts van Dell en Adobe over onze webinar follow-upgebeurtenis om het gesprek over het bemannen van uw beheerpraktijken voort te zetten. | **16 mei om 8:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **REAL-TIME CUSTOMER DATA PLATFORM EN DOEL** | Webinar | _De perfecte overvloeiing: RTCDP, Doel en Vrienden_ | Join Senior Solutions Consultant, Josh Kimball, deelt hoe RTCDP kanaalgegevens verenigt in klantprofielen en naadloos verbindt met Adobe Target om een gepersonaliseerde strategie voor deze segmenten te activeren. | **23 mei @ 1:00** | [Registreren](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Communautaire gebeurtenis | _Adobe Workfront Industry Circle: Retail_ | Als u een klant van Workfront in Handel bent en in collectieve problemen het oplossen van en het delen van lessen met andere admins geinteresseerd bent, sluit zich bij ons voor een open bespreking van 1 uur, die door admins van DSW en Nordstrom wordt geleid. | **23 mei om 11:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
