@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
+source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
 workflow-type: tm+mt
-source-wordcount: '6377'
+source-wordcount: '6466'
 ht-degree: 6%
 
 ---
@@ -67,7 +67,7 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt: **donderdag 15 mei 2024**
+Bijgewerkt: **zaterdag 17 mei 2024**
 
 +++Details
 
@@ -76,6 +76,10 @@ Bijgewerkt: **donderdag 15 mei 2024**
 * **WORKFRONT** | Communautaire gebeurtenis | _Adobe Workfront Industry Circle: Retail_ | Als u een klant van Workfront in Handel bent en in collectieve problemen het oplossen van en het delen van lessen met andere admins geinteresseerd bent, sluit zich bij ons voor een open bespreking van 1 uur, die door admins van DSW en Nordstrom wordt geleid. | **23 mei om 11:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Koffiepauze | _Adobe Workfront Community Koffiepauze: Adobe bedrijfsplatform migratie_ | Word lid van Workfront-experts in de Gemeenschap en stel vragen over het Adobe Business Platform, de migratie van uw organisatie naar Adobe Admin Console en nog veel meer! | **29 mei om 8:00 uur PT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+
+* **WORKFRONT** | Webinar | _Wakken met Workfront: uw omgeving optimaliseren en onderhouden_ | Doe mee met de bedrijfsadviseurs van de Adobe als ze inzichten delen om uw werkomgeving in Adobe Workfront te optimaliseren door middel van schoonmaak- en trainingsstrategieën, implementatieplannen en doorlopende verbeteringspraktijken. | **6 juni om 13:00 UUR** | [Registreren](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **7 juni om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [Gebeurtenisopnamen uit het verleden](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
