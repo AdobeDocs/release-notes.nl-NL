@@ -1,14 +1,14 @@
 ---
 title: Opmerkingen bij de nieuwste release
-description: De nieuwste opmerkingen bij de release en de Knowledge Base-problemen voor Adobe zoeken [!DNL Experience Cloud] producten en diensten. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste zelfstudies en cursussen voor [!DNL Experience Cloud] toepassingen.
+description: De nieuwste opmerkingen bij de release en de Knowledge Base-problemen voor Adobe zoeken [!DNL Experience Cloud] producten en diensten. Meer informatie over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste zelfstudies en cursussen voor [!DNL Experience Cloud] toepassingen.
 doc-type: release notes
 last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
+source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
 workflow-type: tm+mt
-source-wordcount: '6466'
+source-wordcount: '6366'
 ht-degree: 6%
 
 ---
@@ -67,13 +67,9 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt: **zaterdag 17 mei 2024**
+Bijgewerkt: **zaterdag 24 mei 2024**
 
 +++Details
-
-* **REAL-TIME CUSTOMER DATA PLATFORM EN DOEL** | Webinar | _De perfecte overvloeiing: RTCDP, Doel en Vrienden_ | Join Senior Solutions Consultant, Josh Kimball, deelt hoe RTCDP kanaalgegevens verenigt in klantprofielen en naadloos verbindt met Adobe Target om een gepersonaliseerde strategie voor deze segmenten te activeren. | **23 mei @ 1:00** | [Registreren](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
-
-* **WORKFRONT** | Communautaire gebeurtenis | _Adobe Workfront Industry Circle: Retail_ | Als u een klant van Workfront in Handel bent en in collectieve problemen het oplossen van en het delen van lessen met andere admins geinteresseerd bent, sluit zich bij ons voor een open bespreking van 1 uur, die door admins van DSW en Nordstrom wordt geleid. | **23 mei om 11:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Koffiepauze | _Adobe Workfront Community Koffiepauze: Adobe bedrijfsplatform migratie_ | Word lid van Workfront-experts in de Gemeenschap en stel vragen over het Adobe Business Platform, de migratie van uw organisatie naar Adobe Admin Console en nog veel meer! | **29 mei om 8:00 uur PT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
@@ -138,7 +134,7 @@ Releasedatum: **vrijdag 11 april 2024**
 
 Zie voor recente opmerkingen bij de release:
 
-* [woensdag 30 januari 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024)
+* [30 januari 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024)
 * [Oktober 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023)
 * [augustus 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023)
 * [maart 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023)
@@ -164,7 +160,7 @@ De nieuwste releasegegevens en nieuwe documentatie vindt u voor [!DNL Experience
 
 +++Details
 
-* Aanvullende informatie over[[!DNL Experience Platform] ](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
+* [[!DNL Experience Platform] releaseopmerkingen](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
 * [[!DNL Experience Platform] Opmerkingen bij de release van Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
@@ -694,7 +690,7 @@ Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in 
 
 * [Instructievideo&#39;s](https://experienceleague.adobe.com/en/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration)
 
-* [Nieuwste documentatie-updates](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates)
+* [Nieuwste documentatieupdates](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates)
 
 +++
 
