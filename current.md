@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7aac2cd48bd037c3f860328e3418d7af6ad58d7d
+source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
 workflow-type: tm+mt
-source-wordcount: '4841'
+source-wordcount: '4881'
 ht-degree: 8%
 
 ---
@@ -32,7 +32,7 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Mei 2024
 
-Laatste update: **vrijdag 16 mei 2024**
+Laatste update: **woensdag 28 mei 2024**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [Certificering bij Adobe](#certification)
@@ -40,8 +40,8 @@ Laatste update: **vrijdag 16 mei 2024**
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (vrijgeven **15 mei**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (vrijgeven **15 mei**)
+* [[!DNL Adobe Analytics]](#analytics) (vrijgegeven **15 mei**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (vrijgegeven **15 mei**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,10 +67,11 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt: **zaterdag 24 mei 2024**
+Bijgewerkt: **woensdag 28 mei 2024**
 
 +++Details
 
+* **ERVARINGEN VAN U** | Video&#39;s | _Ervaringen van u_ bevat inhoud die is gemaakt door dagelijkse gebruikers die een niveau van expertise en invloed hebben bereikt met hun Adobe DX-oplossingen. u kunt de inspiratie vinden die nodig is om uw productexpertise op een hoger niveau te brengen. | [Beschikbaar op aanvraag](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 * **WORKFRONT** | Koffiepauze | _Adobe Workfront Community Koffiepauze: Adobe bedrijfsplatform migratie_ | Word lid van Workfront-experts in de Gemeenschap en stel vragen over het Adobe Business Platform, de migratie van uw organisatie naar Adobe Admin Console en nog veel meer! | **29 mei om 8:00 uur PT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | Webinar | _Wakken met Workfront: uw omgeving optimaliseren en onderhouden_ | Doe mee met de bedrijfsadviseurs van de Adobe als ze inzichten delen om uw werkomgeving in Adobe Workfront te optimaliseren door middel van schoonmaak- en trainingsstrategieën, implementatieplannen en doorlopende verbeteringspraktijken. | **6 juni om 13:00 UUR** | [Registreren](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
