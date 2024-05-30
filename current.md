@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
+source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
 workflow-type: tm+mt
-source-wordcount: '4881'
+source-wordcount: '4931'
 ht-degree: 8%
 
 ---
@@ -32,9 +32,9 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Mei 2024
 
-Laatste update: **woensdag 28 mei 2024**
+Laatste update: **vrijdag 30 mei 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (**30 mei**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
@@ -67,16 +67,19 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt: **woensdag 28 mei 2024**
+Bijgewerkt: **vrijdag 30 mei 2024**
 
 +++Details
 
 * **ERVARINGEN VAN U** | Video&#39;s | _Ervaringen van u_ bevat inhoud die is gemaakt door dagelijkse gebruikers die een niveau van expertise en invloed hebben bereikt met hun Adobe DX-oplossingen. u kunt de inspiratie vinden die nodig is om uw productexpertise op een hoger niveau te brengen. | [Beschikbaar op aanvraag](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
-* **WORKFRONT** | Koffiepauze | _Adobe Workfront Community Koffiepauze: Adobe bedrijfsplatform migratie_ | Word lid van Workfront-experts in de Gemeenschap en stel vragen over het Adobe Business Platform, de migratie van uw organisatie naar Adobe Admin Console en nog veel meer! | **29 mei om 8:00 uur PT** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | Webinar | _Wakken met Workfront: uw omgeving optimaliseren en onderhouden_ | Doe mee met de bedrijfsadviseurs van de Adobe als ze inzichten delen om uw werkomgeving in Adobe Workfront te optimaliseren door middel van schoonmaak- en trainingsstrategieën, implementatieplannen en doorlopende verbeteringspraktijken. | **6 juni om 13:00 UUR** | [Registreren](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **7 juni om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **COMMERCE** | Webinar | _Achter de Brew: Adobe Commerce Intelligence (fka MBI)_ | Sluit u aan bij ons voor een diepe golf van Adobe Commerce Intelligence (voorheen Magento Business Intelligence), een krachtig hulpmiddel dat is ontworpen om uw eCommerce-gegevens om te zetten in actioneerbare inzichten via aangepaste dashboards en rapporten. | **11 juni om 13:00 PM ET** | [Registreren](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
+
+* **MARKETO ENGAGE** | Koffiepauze | _Algemene AI-mogelijkheden voor Adobe Dynamic Chat_ | Mis deze kans niet om onze experts allemaal te vragen over de nieuw toegevoegde mogelijkheden voor Adobe Dynamic Chat, die vrije vorm, tweezijdige gesprekken in je praatbot en nog veel meer mogelijk maken! | **12 juni om 8:00 uur PT** | [Registreren](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
 
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [Gebeurtenisopnamen uit het verleden](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
