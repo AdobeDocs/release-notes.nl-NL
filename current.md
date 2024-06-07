@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
+source-git-commit: 108f6e465fc220340aaa4bf233093bf182d58702
 workflow-type: tm+mt
-source-wordcount: '4931'
-ht-degree: 8%
+source-wordcount: '5038'
+ht-degree: 7%
 
 ---
 
@@ -73,13 +73,17 @@ Bijgewerkt: **vrijdag 30 mei 2024**
 
 * **ERVARINGEN VAN U** | Video&#39;s | _Ervaringen van u_ bevat inhoud die is gemaakt door dagelijkse gebruikers die een niveau van expertise en invloed hebben bereikt met hun Adobe DX-oplossingen. u kunt de inspiratie vinden die nodig is om uw productexpertise op een hoger niveau te brengen. | [Beschikbaar op aanvraag](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 
-* **WORKFRONT** | Webinar | _Wakken met Workfront: uw omgeving optimaliseren en onderhouden_ | Doe mee met de bedrijfsadviseurs van de Adobe als ze inzichten delen om uw werkomgeving in Adobe Workfront te optimaliseren door middel van schoonmaak- en trainingsstrategieën, implementatieplannen en doorlopende verbeteringspraktijken. | **6 juni om 13:00 UUR** | [Registreren](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
-
 * **WORKFRONT** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **7 juni om 9:00 uur PT** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **COMMERCE** | Webinar | _Achter de Brew: Adobe Commerce Intelligence (fka MBI)_ | Sluit u aan bij ons voor een diepe golf van Adobe Commerce Intelligence (voorheen Magento Business Intelligence), een krachtig hulpmiddel dat is ontworpen om uw eCommerce-gegevens om te zetten in actioneerbare inzichten via aangepaste dashboards en rapporten. | **11 juni om 13:00 PM ET** | [Registreren](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
 
 * **MARKETO ENGAGE** | Koffiepauze | _Algemene AI-mogelijkheden voor Adobe Dynamic Chat_ | Mis deze kans niet om onze experts allemaal te vragen over de nieuw toegevoegde mogelijkheden voor Adobe Dynamic Chat, die vrije vorm, tweezijdige gesprekken in je praatbot en nog veel meer mogelijk maken! | **12 juni om 8:00 uur PT** | [Registreren](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
+
+* **CREATIVE CLOUD, EXPERIENCE MANAGER, EN WORKFRONT** | Chat Vragen en antwoorden | _Vraag: De toeleveringsketen voor inhoud samenstellen met Workfront, Creative Cloud en AEM_ | Deelnemen aan Adobe Customer Success teams en City National Bank voor een gesprek van 1 uur over best practices, voordelen en het stimuleren van waarde met Workfront, Creative Cloud en AEM. | **18 juni om 10:30 uur PT** | [Registreren](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO MEASURE** | Webinar | _Marketo Measure en Mochas: Activiteiten en aangepaste modellen_ | Word Marketo Measure-experts bij de Adobe als ze delen hoe ze Aangepaste kenmerkingsmodellen en activiteitenkenmerken kunnen gebruiken om uw verkoop- en marketinggegevens direct uit te lijnen met aanraakpunten uit uw CRM-activiteitenrecords. | **20 juni om 13:00 PM ET** | [Registreren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
+
+* **WORKFRONT** | Workshop klant | _Leer: Prioriteit geven aan en strategische planning uitvoeren in Workfront_ | Sluit u aan bij het Workfront Customer Success Team om de beste praktijken voor de jaarlijkse planning te leren, hoe u een formeel proces voor prioritering kunt maken en aanbevolen weergaven aan de gegevens van het oppervlakteproject om de algemene uitlijning te garanderen. | **25 juni om 9:30 uur PT** | [Registreren](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Meer weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [Gebeurtenisopnamen uit het verleden](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
