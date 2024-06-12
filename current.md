@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '3959'
 ht-degree: 7%
@@ -652,7 +652,7 @@ Nieuwe zelfstudies gepubliceerd voor toepassingen in [!DNL Adobe Creative Cloud 
 | Gepubliceerd | Toepassing | Naam | Type | Beschrijving |
 | -----------| -----------|---------- | ---------- | ---------- |
 | Mei 2024 | [!DNL Firefly] | [Herbruikbare scènes voor goederen maken](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | Video | Leer hoe u herbruikbare scènes maakt voor producten zoals handtassen en accessoires. Door herbruikbare scènes te maken, wordt de digitale verwerking versneld doordat u uw websitetegoederen seizoensmatig of op elk gewenst moment kunt vernieuwen. |
-| Mei 2024 | [!DNL Firefly] | [Creatieve ideeën versnellen](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Video | Leer hoe u snel ideeën kunt visualiseren en concepten voor zakelijke campagnes kunt verkennen. Door creatieve ideeën te versnellen, kunnen organisaties snel inhoud van hoge kwaliteit produceren. |
+| Mei 2024 | [!DNL Firefly] | [Creatieve ideeën versnellen](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Video | Leer hoe u ideeën kunt visualiseren en concepten voor zakelijke campagnes kunt verkennen. Door creatieve ideeën te versnellen, kunnen organisaties snel inhoud van hoge kwaliteit produceren. |
 
 Zie [Creative Cloud voor zelfstudies voor ondernemingen](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) voor de meest recente zelfstudies.
 
