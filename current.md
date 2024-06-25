@@ -1,15 +1,15 @@
 ---
 title: Opmerkingen bij de nieuwste release
-description: De nieuwste opmerkingen bij de release en de Knowledge Base-problemen voor Adobe zoeken [!DNL Experience Cloud] producten en diensten. Meer informatie over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste zelfstudies en cursussen voor [!DNL Experience Cloud] toepassingen.
+description: De nieuwste opmerkingen bij de release en de Knowledge Base-problemen voor Adobe zoeken [!DNL Experience Cloud] producten en diensten. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste zelfstudies en cursussen voor [!DNL Experience Cloud] toepassingen.
 doc-type: release notes
 last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
+source-git-commit: 4c32968c3fe0e49e367b9b6130f681dd246541a7
 workflow-type: tm+mt
-source-wordcount: '3959'
-ht-degree: 7%
+source-wordcount: '3984'
+ht-degree: 8%
 
 ---
 
@@ -32,16 +32,16 @@ Als u maandelijks een bericht wilt ontvangen over updates van deze pagina, meldt
 
 ## Juni 2024
 
-Laatste update: **donderdag 12 juni 2024**
+Laatste update: **woensdag 25 juni 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events) (**30 mei**)
+* [[!DNL Experience League] gebeurtenissen en updates](#events) (**25 juni**)
 * [Certificering bij Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en administratie](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (vrijgeven **12 juni**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (vrijgeven **12 juni**)
+* [[!DNL Adobe Analytics]](#analytics) (vrijgegeven **12 juni**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (vrijgegeven **12 juni**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,17 +67,19 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt op **donderdag 12 juni 2024**
+Bijgewerkt op **woensdag 25 juni 2024**
 
 +++Details
 
-* **CREATIVE CLOUD, EXPERIENCE MANAGER, EN WORKFRONT** | Chat Vragen en antwoorden | _Vraag: De toeleveringsketen voor inhoud samenstellen met Workfront, Creative Cloud en AEM_ | Deelnemen aan Adobe Customer Success teams en City National Bank voor een gesprek van 1 uur over best practices, voordelen en het stimuleren van waarde met Workfront, Creative Cloud en AEM. | **18 juni om 10:30 uur PT** | [Registreren](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **CREATIVE CLOUD** | Adobe Developers Live | _Adobe Developers Live voor Adobe Express en Creative Cloud_ | Schrijf u live voor een tweedaagse virtuele conferentie voor iedereen die invoegtoepassingen, plug-ins of integratie voor Adobe Express of Creative Cloud ontwikkelt om in 2024 meer te leren over belangrijke ontwikkelaarsprioriteiten en routekaarten. | **19 juni om 9.15 uur** | [Registreren](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.ringcentral.com%2Fevents%2Fadobe-developers-live-adobe-express-creative-cloud-2024%3Futm_source%3DExperienceleague%2520Events%26utm_campaign%3DExperienceleague%2520Events&amp;data=05%7C02%7Cieichel%40adobe.com%7C350e6e0f78514d018ff708dc8998551f%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638536534560540136%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=l%2BVrnbrZ8BBlfl3v3UGMozKCOcF%2BtoN89bWgOsLokQo%3D&amp;reserved=0)
-
-* **MARKETO MEASURE** | Webinar | _Marketo Measure en Mochas: Activiteiten en aangepaste modellen_ | Word Marketo Measure-experts bij de Adobe als ze delen hoe ze Aangepaste kenmerkingsmodellen en activiteitenkenmerken kunnen gebruiken om uw verkoop- en marketinggegevens direct uit te lijnen met aanraakpunten uit uw CRM-activiteitenrecords. | **20 juni om 13:00 PM ET** | [Registreren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
 * **WORKFRONT** | Workshop klant | _Leer: Prioriteit geven aan en strategische planning uitvoeren in Workfront_ | Sluit u aan bij het Workfront Customer Success Team om de beste praktijken voor de jaarlijkse planning te leren, hoe u een formeel proces voor prioritering kunt maken en aanbevolen weergaven aan de gegevens van het oppervlakteproject om de algemene uitlijning te garanderen. | **25 juni om 9:30 uur PT** | [Registreren](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Workshop klant | _Admin 101: Breng je Workfront-vragen_ | Hebt u een van onze Admin 101-sessies gemist? Sluit u aan bij ons voor de zeer lange vragensessie, waarin we de vorige gebeurtenissen samenvatten en deze vervolgens openen voor algemene discussies en vragen. | **26 juni om 9.00 uur** | [Registreren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,s9AzVDbQGkujSdPhs9lVDw,_ptlrrxSw0uslhILWOmKGg,C_k9EDSbrk652sjpeJ13Dw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Webinar | _Nieuwe functies in 24,7_ | Word lid van het Adobe Workfront-productteam op 26 juni om 10.00 uur EST voor meer informatie over toekomstige functies en verbeteringen in de release 24.7. | **27 juni om 8.00 uur** | [Registreren](https://webinars.on24.com/adobe_workfront/whatsnewin247?partnerref=ExperienceLeagueEvents)
+
+* **JOURNEY OPTIMIZER** | Chat Vragen en antwoorden | _Career Discovery Webinar - Adobe Journey Optimizer_ | In dit webinar, zult u van gastpanelleden over hun werk en deskundigheid in Adobe Journey Optimizer leren en zult ontdekken hoe u op de weg naar nieuwe carrièremogelijkheden kunt beginnen. | **28 juni om 8.00 uur** | [Registreren](https://event.adobe.com/careerdiscovery)
+
+* **WORKFRONT** | Workshop klant | _Admin 101 - Aan de slag met Workfront_ | Nieuw bij Workfront? Neem deel aan onze maandelijkse &quot;Nieuwe beheerder&quot;-vergaderingen om vragen te stellen, bronnen en aanbevelingen te krijgen, andere nieuwe beheerders te ontmoeten en leer voor deze sessie de beste praktijken voor het instellen van uw Workfront-omgeving. | **9 juli om 9.00 uur** | [Registreren]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Alles weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [Gebeurtenisopnamen uit het verleden](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 +++
@@ -123,7 +125,7 @@ Meer informatie over de nieuwste functies en updates in [!DNL Adobe System Statu
 Zie voor recente opmerkingen bij de release:
 
 * [15 mei 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
-* [30 januari 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
+* [woensdag 30 januari 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
 * [Oktober 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
 * [augustus 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status)
 * [maart 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status)
@@ -149,7 +151,7 @@ De nieuwste releasegegevens en nieuwe documentatie vindt u voor [!DNL Experience
 
 +++Details
 
-* [[!DNL Experience Platform] releaseopmerkingen](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
+* Aanvullende informatie over[[!DNL Experience Platform] ](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
 * [[!DNL Experience Platform] Opmerkingen bij de release van Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
@@ -494,7 +496,7 @@ Meer informatie over de nieuwste mogelijkheden, verbeteringen en oplossingen in 
 
 * [Instructievideo&#39;s](https://experienceleague.adobe.com/en/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration)
 
-* [Nieuwste documentatieupdates](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates)
+* [Nieuwste documentatie-updates](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates)
 
 +++
 
