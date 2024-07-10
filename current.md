@@ -6,9 +6,9 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
+source-git-commit: 38946bebc2e663fc6ac9e03e200d179f0916b433
 workflow-type: tm+mt
-source-wordcount: '3806'
+source-wordcount: '3964'
 ht-degree: 8%
 
 ---
@@ -71,9 +71,15 @@ Bijgewerkt op **woensdag 25 juni 2024**
 
 +++Details
 
-* **WORKFRONT** | Workshop klant | _Admin 101 - Aan de slag met Workfront_ | Nieuw bij Workfront? Neem deel aan onze maandelijkse &quot;Nieuwe beheerder&quot;-vergaderingen om vragen te stellen, bronnen en aanbevelingen te krijgen, andere nieuwe beheerders te ontmoeten en leer voor deze sessie de beste praktijken voor het instellen van uw Workfront-omgeving. | **9 juli om 9.00 uur** | [Registreren](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Communautaire gebeurtenis | _Connect: Admin Chat voor marketing en creatief_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **12 juli @ 10:00 MT** | [Registreren](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Alles weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [Gebeurtenisopnamen uit het verleden](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
+* **WORKFRONT** | Koffiepauze | _Koffieonderbrekingen: Creative Brief-innames en aanbevolen procedures_ | Meld u aan voor onze tweede Coffee Break Sweepstakes over de beste praktijken van Creative Brief! Ontdek nieuwe strategieën en deel uw inzichten. Verzend een vraag, opmerking of tip voor een kans om Workfront-zwembad te winnen. Mis het niet! | **16 juli om 11:00 uur** | [Registreren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+
+* **WORKFRONT** | Workshop klant | _Meer informatie: Adobe Workfront, derde kwartaal, 2024, release Round Up + milieubescherming_ | Sluit u aan bij ons voor onze driemaandelijkse evaluatiesessie, waar we de nieuwste releasefuncties en hun voordelen bespreken. In deze zitting zullen we ook de hoogst verwachte capaciteit van de &quot;Bevordering van het Milieu&quot;bespreken. | **18 juli om 9.00 uur** | [Registreren](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER, EXPERIENCE MANAGER ASSETS EN EXPERIENCE MANAGER SITES** | Webinar | _Espressos &amp; Experience Manager: Digitale behendigheid met AEM_ | Leer over de nieuwste innovaties in AEM Sites en Assets die AEM uw oplossing maken voor de meest voorkomende uitdagingen in de CMS-ruimte. We bekijken de gebruikersinterface van de Universal Editor, Headless &amp; Document-based Authoring en Assets. | **18 juli om 11:00 uur** | [Registreren](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+
+En meer! Alles weergeven [komende gebeurtenissen](https://experienceleague.adobe.com/events/) of bladeren [Gebeurtenisopnamen uit het verleden](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 +++
 
 ## ![Pictogram](/assets/experience-league.png) Adobe-inhoud toeleveringsketen {#content-supply-chain}
