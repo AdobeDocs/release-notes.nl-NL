@@ -5,10 +5,10 @@ user-guide-title: Releaseopmerkingen bij Adobe Experience Cloud
 breadcrumb-title: Aanvullende informatie
 user-guide-description: Meer informatie over nieuwe functies, oplossingen en belangrijke kennisgevingen in Adobe Experience Cloud en Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: 9ba56beb33b26b247e9ef8837481fd07525454c3
+source-git-commit: 9ab640cba4cbafac1baf5ada15eccc5dd465a3d6
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 51%
+source-wordcount: '97'
+ht-degree: 70%
 
 ---
 
@@ -18,16 +18,17 @@ ht-degree: 51%
 + [Opmerkingen bij de huidige release](current.md)
 + Opmerkingen bij vorige release {#previous}
    + 2024 {#2024}
+      + [Juni 2024](c-legacy-releases/2024/06122024.md)
       + [Mei 2024](c-legacy-releases/2024/05152024.md)
       + [April 2024](c-legacy-releases/2024/04172024.md)
-      + [maart 2024](c-legacy-releases/2024/03132024.md)
+      + [ Maart 2024 ](c-legacy-releases/2024/03132024.md)
       + [Februari 2024](c-legacy-releases/2024/02142024.md)
       + [Januari 2024](c-legacy-releases/2024/01112024.md)
    + 2023 {#2023}
-      + [november 2023](c-legacy-releases/2023/10252023.md)
+      + [November 2023](c-legacy-releases/2023/10252023.md)
       + [Oktober 2023](c-legacy-releases/2023/10042023.md)
       + [September 2023](c-legacy-releases/2023/09132023.md)
-      + [augustus 2023](c-legacy-releases/2023/08092023.md)
+      + [ Augustus 2023 ](c-legacy-releases/2023/08092023.md)
       + [Juli 2023](c-legacy-releases/2023/07122023.md)
       + [Juni 2023](c-legacy-releases/2023/06072023.md)
       + [Mei 2023](c-legacy-releases/2023/05102023.md)
@@ -38,8 +39,8 @@ ht-degree: 51%
    + 2022 {#2022}
       + [Oktober 2022](c-legacy-releases/2022/10052022.md)
       + [September 2022](c-legacy-releases/2022/09072022.md)
-      + [augustus 2022](c-legacy-releases/2022/08172022.md)
-      + [juli 2022](c-legacy-releases/2022/07202022.md)
+      + [ Augustus 2022 ](c-legacy-releases/2022/08172022.md)
+      + [ Juli 2022 ](c-legacy-releases/2022/07202022.md)
       + [Juni 2022](c-legacy-releases/2022/06152022.md)
       + [Mei 2022](c-legacy-releases/2022/05182022.md)
       + [April 2022](c-legacy-releases/2022/04202022.md)
