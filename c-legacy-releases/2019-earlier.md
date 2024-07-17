@@ -1,5 +1,5 @@
 ---
-description: Opmerkingen bij de vorige release voor Experience Cloud-producten en -services. Zoek naar nieuwe Help en zelfstudies voor Creative Cloud for Enterprise en Document Cloud.
+description: Opmerkingen bij de vorige release voor producten en services in de Experience Cloud. Zoek naar nieuwe Help en zelfstudies voor Creative Cloud voor Enterprise en Document Cloud.
 seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
 title: Opmerkingen bij de release voor 2018 en eerder
 solution: Experience Cloud,Analytics,Target,Advertising
@@ -8,7 +8,7 @@ uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
 source-git-commit: eef9efd5591a9bdf3bdd0d89237b75304c49bc55
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
