@@ -6,9 +6,9 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 936f9884f1a75fbd55abdcfbbfa0fdbaa2415e44
+source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
 workflow-type: tm+mt
-source-wordcount: '3673'
+source-wordcount: '3632'
 ht-degree: 8%
 
 ---
@@ -71,17 +71,17 @@ Bijgewerkt **17 juli 2024**
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Adobe Workfront 3de Kwartaal 2024 Versie Rond omhoog + Bevordering van het Milieu_ | Sluit u aan bij ons voor onze driemaandelijkse evaluatiesessie, waar we de nieuwste releasefuncties en hun voordelen bespreken. In deze zitting zullen we ook de hoogst verwachte capaciteit van de &quot;Bevordering van het Milieu&quot;bespreken. | **18 Juli @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Adobe [!DNL Workfront] 3de Kwart Versie van 2024 Rond omhoog + Bevordering van het Milieu_ | Sluit u aan bij ons voor onze driemaandelijkse evaluatiesessie, waar we de nieuwste releasefuncties en hun voordelen bespreken. In deze zitting zullen we ook de hoogst verwachte capaciteit van de &quot;Bevordering van het Milieu&quot;bespreken. | **18 Juli @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] EN[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Espressos &amp; Experience Manager: Digitale Agility met AEM_ | Leer over de nieuwste innovaties in AEM Sites en Assets die AEM uw oplossing maken voor de meest voorkomende uitdagingen in de CMS-ruimte. We bekijken de gebruikersinterface van de Universal Editor, Headless &amp; Document-based Authoring en Assets. | **18 van 0} juli @ 11:00 AM MT** | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] EN[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Espressos &amp; [!DNL Experience Manager:]: Digitale Agility met AEM_ | Leer over de nieuwste innovaties in AEM Sites en Assets die AEM uw oplossing maken voor de meest voorkomende uitdagingen in de CMS-ruimte. We bekijken de gebruikersinterface van de Universal Editor, Headless &amp; Document-based Authoring en Assets. | **18 van 0} juli @ 11:00 AM MT** | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Collectief Workfront_ | Neem deel aan onze maandelijkse Collectieve vergaderingen van Workfront van maandag, ontworpen om met andere klanten te verbinden, de eigenschappen van Workfront te bespreken, ideeën te delen, en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **Juli 22 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: [!DNL Workfront] Collectief_ | Neem deel aan onze maandelijkse vergaderingen [!DNL Workfront] Collectieve vergaderingen, die zijn ontworpen om verbinding te maken met andere klanten, [!DNL Workfront] -functies te bespreken, ideeën te delen en samen brainstorm te gebruiken om gemeenschappelijke uitdagingen op te lossen. | **Juli 22 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Leer met Klanten: Het gebruiken van Workfront voor Reorgs_ | Meld u aan voor een 1-uurs presentatie van klanten en voormalige klanten terwijl zij hun ervaring en aanbevelingen over hoe te om Workfront te gebruiken om de structurele en procesveranderingen van organisatorische reorganisaties te helpen. | **Juli 23 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Leer met Klanten: Gebruikend [!DNL Workfront] voor Hervormingen_ | Meld u aan voor een 1-uurs presentatie van klanten en voormalige klanten terwijl ze hun ervaring en aanbevelingen delen over hoe ze [!DNL Workfront] kunnen gebruiken om de structurele en proceswijzigingen van organisatorische reorganisaties te helpen. | **Juli 23 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinar | _Marketo &amp; Mochas: Het Lagen van de Stichting - Deel 1 van de Looptijd_ | Word bedrijfsadviseurs van Adobe en leer hoe u het Marketo-gebruik van uw org het beste kunt ontwikkelen. We zullen alles bekijken, van instantiebeheer tot de programmabibliotheek, die meerdere programma&#39;s host om het samenstellen van uw programma te starten. | **Juli 25 @ 11:00 AM MT** | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | Webinar | _Vraag de Klantenondersteuning van Workfront - het Oplossen van problemen Berekende Uitdrukkingen_ | Neem deel aan het Workfront-team voor klantenondersteuning voor een uur op berekende expressies. Tussen algemene voorbeelden, het oplossen van problemenuiteinden, zeer belangrijke lessen, en een levende demo, is deze zitting niet om te missen! | **Juli 31 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Webinar | _vraag [!DNL Workfront] de Steun van de Klant - het Oplossen van problemen Berekende uitdrukkingen_ | Neem deel aan het [!DNL Workfront] Customer Support-team voor 1 uur voor berekende expressies. Tussen algemene voorbeelden, het oplossen van problemenuiteinden, zeer belangrijke lessen, en een levende demo, is deze zitting niet om te missen! | **Juli 31 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 En meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
@@ -247,9 +247,9 @@ Zoek de meest recente releasegegevens voor [!DNL Streaming Media Analytics] . Ni
 
 +++
 
-## ![ Pictogram ](/assets/aem.png) Adobe Experience Manager {#aem}
+## ![ Pictogram ](/assets/aem.png) Adobe [!DNL Experience Manager:] {#aem}
 
-Nieuwe functies, correcties en updates in Experience Manager. Adobe raadt klanten met On-Premise-implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
+Nieuwe functies, correcties en updates in [!DNL Experience Manager:] . Adobe raadt klanten met On-Premise-implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
 
 +++Details
 
@@ -257,19 +257,19 @@ Nieuwe functies, correcties en updates in Experience Manager. Adobe raadt klante
 
 Alle opmerkingen bij de release van [!DNL Experience Manager] worden op de volgende pagina&#39;s bijgehouden:
 
-* [ de versieupdates van de Experience Manager en roadmaps ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Leer over de versie roadmap van de Experience Manager, vorige versieupdates, en documentatieupdates.
-* [ Huidige Nota&#39;s van de Versie voor as a Cloud Service Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [ Experience Manager 6.5 de versienota&#39;s van het Service Pack ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
-* [ de versienota&#39;s van Cloud Manager van de Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [[!DNL Experience Manager:]  versie updates en roadmaps ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Leer over de [!DNL Experience Manager:] versie roadmap, vorige versieupdates, en documentatieupdates.
+* [ Huidige Nota&#39;s van de Versie voor  [!DNL Experience Manager:]  as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [[!DNL Experience Manager:]  6.5 de versienota&#39;s van het Pak van de Dienst ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager:]  de versienota&#39;s van Cloud Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Releaseopmerkingen bij de service Geautomatiseerde conversie van formulieren](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [ de versienota&#39;s van Experience Manager Assets Dynamic Media ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [ de versienota&#39;s van Brand Portal van de Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [ de versienota&#39;s van de Desktop van de Experience Manager App ](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
-* [ de versienota&#39;s van Dispatcher van de Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes)
+* [[!DNL Experience Manager:]  de versienota&#39;s van Assets Dynamic Media ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager:]  de versienota&#39;s van Brand Portal ](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager:]  de versienota&#39;s van de App van de Desktop ](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager:]  de versienota&#39;s van Dispatcher ](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
 ### Nieuwe [!DNL Experience Manager] zelfstudies {#tutorials-aem}
 
-Nieuwe zelfstudies gepubliceerd voor [!DNL Experience Manager] over Experience Manager.
+Nieuwe zelfstudies gepubliceerd voor [!DNL Experience Manager] on [!DNL Experience Manager:] .
 
 | Gepubliceerd | Applicaties | Naam | Type | Beschrijving |
 | ----------| ---------- | ---------- | ---------- |---------- |
@@ -513,9 +513,9 @@ Meer informatie over de nieuwste releaseopmerkingen voor [!DNL Adobe Workfront] 
 
 ### [!DNL Adobe Workfront] updates
 
-* Zie de [ het productversies van Adobe Workfront ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina voor de informatie van het de versieschema van Workfront en versienota&#39;s.
+* Zie de [ Adobe  [!DNL Workfront]  productversies ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina voor [!DNL Workfront] versie planninformatie en versienota&#39;s.
 
-* Zie het [ overzicht van de de versieactiviteit van de Fusie van Adobe Workfront ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) voor de recentste informatie over Fusion.
+* Zie het [ overzicht van de de versieactiviteit van de Adobe  [!DNL Workfront]  Fusion ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) voor de recentste informatie over Fusion.
 
 ### Nieuwe zelfstudies voor Adobe [!DNL Workfront] {#tutorials-workfront}
 
@@ -523,13 +523,13 @@ Nieuwe [!DNL Workfront] zelfstudies en gebeurtenissen over het Experience League
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Juli 2024 | [ Handvat ongeplande het werk ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | Video | Leer hoe u ongeplande bewerkingen met Adobe Workfront kunt uitvoeren. |
+| Juli 2024 | [ Handvat ongeplande het werk ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | Video | Leer hoe u ongeplande bewerkingen met Adobe kunt uitvoeren [!DNL Workfront] . |
 | Juli 2024 | [ Vul in de projectdetails ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details) | Video | Leer over de gemeenschappelijkste projectmontages nodig wanneer het creëren van een project. |
 | Juli 2024 | [ leer aan opeenvolgingstaken ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks) | Video | Leer wat een voorganger is en hoe zij taken in een project opeenvolgen. Leer vervolgens de tijdsduur en voorgangers te gebruiken om een tijdlijn te maken. |
 | Juli 2024 | [ Begrijp geplande uren ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours) | Video | Leer wat geplande uren zijn, waarom geplande uren belangrijk zijn voor uw project, en hoe te om geplande uren aan taken toe te voegen. |
 | Juli 2024 | [ maak een verzoek ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/make-a-request) | Video | Leer hoe te om het gebied van Verzoeken te vinden en een verzoek te doen. Leer vervolgens hoe u verzonden verzoeken en ontwerpverzoeken kunt bekijken. |
-| Juli 2024 | [ werk een verzoek ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) bij | Video | Klik hier als je wilt weten hoe je de aanvragen kunt vinden die je hebt verzonden en hoe je deze aanvragen kunt bijwerken in Workfront. |
-| Juli 2024 | [ Beste praktijken - Programma&#39;s ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | Video | Ontdek de aanbevelingen met best practices van Adobe Workfront-experts over het instellen, beheren en gebruiken van Workfront-planningen. |
+| Juli 2024 | [ werk een verzoek ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) bij | Video | Leer hoe u de aanvragen vindt die u hebt verzonden en werk de aanvragen bij in [!DNL Workfront] . |
+| Juli 2024 | [ Beste praktijken - Programma&#39;s ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | Video | Ontdek de aanbevelingen van de Adobe [!DNL Workfront] -experts over het instellen, beheren en gebruiken van [!DNL Workfront] -schema&#39;s. |
 
 {style="table-layout:auto"}
 
