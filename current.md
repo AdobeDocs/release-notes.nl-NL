@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7f6fded5411ad9eb451cec9529ec3400a9b15e1b
+source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
 workflow-type: tm+mt
-source-wordcount: '3528'
-ht-degree: 9%
+source-wordcount: '3613'
+ht-degree: 8%
 
 ---
 
@@ -67,19 +67,23 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **17 juli 2024**
+Bijgewerkt **26 Juli, 2024**
 
 +++Details
-
-* **[!DNL WORKFRONT]** | Workshop klant | _Leer met Klanten: Gebruikend [!DNL Workfront] voor Hervormingen_ | Meld u aan voor een 1-uurs presentatie van klanten en voormalige klanten terwijl ze hun ervaring en aanbevelingen delen over hoe ze [!DNL Workfront] kunnen gebruiken om de structurele en proceswijzigingen van organisatorische reorganisaties te helpen. | **Juli 23 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinar | _Marketo &amp; Mochas: Het Lagen van de Stichting - Deel 1 van de Looptijd_ | Word bedrijfsadviseurs van Adobe en leer hoe u het Marketo-gebruik van uw org het beste kunt ontwikkelen. We zullen alles bekijken, van instantiebeheer tot de programmabibliotheek, die meerdere programma&#39;s host om het samenstellen van uw programma te starten. | **Juli 25 @ 11:00 AM MT** | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | Webinar | _vraag [!DNL Workfront] de Steun van de Klant - het Oplossen van problemen Berekende uitdrukkingen_ | Neem deel aan het [!DNL Workfront] Customer Support-team voor 1 uur voor berekende expressies. Tussen algemene voorbeelden, het oplossen van problemenuiteinden, zeer belangrijke lessen, en een levende demo, is deze zitting niet om te missen! | **Juli 31 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL COMMERCE]** | Webinar | _Commerce en Koffie: Strategieën voor het Succes van de eHandel B2B_ | Join Sr. Commerce Strategy Consultant, Corey Gelato, omdat hij enkele van de meest impactful B2B e-commerce trends belicht en strategieën herziet die klanten binnen Adobe Commerce kunnen benutten. | **Augustus 1 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **Augustus 2 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Het krijgen van Gebruikers om Workfront_ te gebruiken | Nieuw bij Workfront? Neem deel aan onze 101 maandelijkse vergaderingen van Admin om vragen te stellen, middelen te krijgen, beste praktijken te leren, en andere nieuwe beheerders te ontmoeten. Deze maand bespreken we gebruikerstoepassing! | **Augustus 6 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL ANALYTICS]** | Experience Makers | _de Uitwisseling van de Vaardigheid voor Adobe Analytics_ | Sluit u op 7 augustus aan bij ons voor deze gratis gebeurtenis voor het leren van digitale klanten. Experts en collega&#39;s zullen u horen hoe ze Adobe Analytics gebruiken. Er is ook tijd om je vragen te beantwoorden. | **Augustus 7 @ 10:00 AM MT** | [ Register ](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL MARKETO]** | Experience Makers | _de Uitwisseling van de Vaardigheid voor Adobe Marketo Engage_ | Meld u 8 augustus aan voor deze gratis leergebeurtenis voor digitale klanten. Experts en collega&#39;s zullen u horen hoe ze Marketo Engage gebruiken. Er is ook tijd om uw vragen te beantwoorden. | **Augustus 8 @ 10:00 AM MT** | [ Register ](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL COMMERCE]** | Experience Makers | _Achter Brew: Adobe Developer App Builder_ | Sluit u aan bij de Technical Account Manager van Adobe en leer alles wat u nodig hebt om Adobe Commerce te integreren met een andere eCommerce-toepassing via het uitbreidbaarheidsframework van derden voor Adobe Developer App Builder | **Augustus 8 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/expphv5tkyoc/event/registration.html?campaign-id=ExL)
 
 En meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
