@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
+source-git-commit: 261f4a4a4ee24f61415febb87e95d9ffb4359ab7
 workflow-type: tm+mt
-source-wordcount: '3613'
-ht-degree: 8%
+source-wordcount: '3483'
+ht-degree: 9%
 
 ---
 
@@ -32,7 +32,7 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## Juli 2024
 
-Laatste update: **woensdag 23 juli 2024**
+Laatste update: **zaterdag 2 augustus 2024**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -67,15 +67,9 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Gebeurtenissen op Experience League
 
-Bijgewerkt **26 Juli, 2024**
+Bijgewerkte **Augustus 2, 2024**
 
 +++Details
-
-* **[!DNL WORKFRONT]** | Webinar | _vraag [!DNL Workfront] de Steun van de Klant - het Oplossen van problemen Berekende uitdrukkingen_ | Neem deel aan het [!DNL Workfront] Customer Support-team voor 1 uur voor berekende expressies. Tussen algemene voorbeelden, het oplossen van problemenuiteinden, zeer belangrijke lessen, en een levende demo, is deze zitting niet om te missen! | **Juli 31 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webinar | _Commerce en Koffie: Strategieën voor het Succes van de eHandel B2B_ | Join Sr. Commerce Strategy Consultant, Corey Gelato, omdat hij enkele van de meest impactful B2B e-commerce trends belicht en strategieën herziet die klanten binnen Adobe Commerce kunnen benutten. | **Augustus 1 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **Augustus 2 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Het krijgen van Gebruikers om Workfront_ te gebruiken | Nieuw bij Workfront? Neem deel aan onze 101 maandelijkse vergaderingen van Admin om vragen te stellen, middelen te krijgen, beste praktijken te leren, en andere nieuwe beheerders te ontmoeten. Deze maand bespreken we gebruikerstoepassing! | **Augustus 6 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
