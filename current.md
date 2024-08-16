@@ -6,7 +6,7 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
+source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
 workflow-type: tm+mt
 source-wordcount: '3073'
 ht-degree: 8%
@@ -32,7 +32,7 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## Augustus 2024
 
-Laatste update: **donderdag 14 augustus 2024**
+Laatste update: **zaterdag 16 augustus 2024**
 
 * [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **16 augustus**)
 * [[!DNL Adobe System Status]](#status)
@@ -72,7 +72,7 @@ Update: **Augustus 16, 2024**
 
 Video [ playlists ](https://experienceleague.adobe.com/en/playlists) zijn nieuw op Experience League. Een afspeellijst is een gekrulde verzameling video&#39;s die zijn ontworpen om u snel te helpen de vaardigheden en kennis te verwerven die u zoekt.
 
-Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Playlists]** om door afspeellijsten te bladeren.
+Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om door afspeellijsten te bladeren.
 
 >[!NOTE]
 >
