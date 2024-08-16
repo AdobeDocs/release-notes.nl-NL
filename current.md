@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a405ffdd266ebadf9d43e4e4696b40d670ee3ff
+source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
 workflow-type: tm+mt
-source-wordcount: '3030'
+source-wordcount: '3073'
 ht-degree: 8%
 
 ---
@@ -34,7 +34,7 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 Laatste update: **donderdag 14 augustus 2024**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **16 augustus**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,13 +66,23 @@ Laatste update: **donderdag 14 augustus 2024**
 
 Leer over spannende gebeurtenissen op Experience League. Het is een fantastische plek om te leren, te interageren en antwoorden te krijgen van productexperts bij de Adobe!
 
+### Afspeellijsten op Experience League (nieuw!)
+
+Update: **Augustus 16, 2024**
+
+Video [ playlists ](https://experienceleague.adobe.com/en/playlists) zijn nieuw op Experience League. Een afspeellijst is een gekrulde verzameling video&#39;s die zijn ontworpen om u snel te helpen de vaardigheden en kennis te verwerven die u zoekt.
+
+Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Playlists]** om door afspeellijsten te bladeren.
+
+>[!NOTE]
+>
+>**Cursussen** worden gepensioneerd van Experience League. Als u een bladwijzer naar een cursus hebt, wordt u omgeleid naar een overeenkomende afspeellijst.
+
+Als u feedback wilt verzenden naar het Experience League over afspeellijsten of een ander probleem in de Help-functie, gebruikt u het pop-upvenster Feedback onder aan elke pagina.
+
 ### Gebeurtenissen op Experience League
 
-Bijgewerkte **Augustus 14, 2024**
-
 +++Details
-
-* **[!DNL EXPERIENCE MANAGER]** | Experience Makers | _de Uitwisseling van de Vaardigheid voor Adobe Experience Manager_ | Sluit u aan bij ons op 14 augustus voor deze gratis leergebeurtenis voor digitale klanten. Experts en collega&#39;s zullen u horen hoe ze AEM het beste kunnen gebruiken. Er is tijd om uw vragen te beantwoorden. | **Augustus 14 @ 10:00 AM MT** | [ Register ](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | Experience Makers | _de Uitwisseling van de Vaardigheid voor Adobe Workfront_ | Word 15 augustus voor een gratis leergebeurtenis voor digitale klanten met inhoud die allemaal op Workfront is gericht. U zult van experts &amp; peers horen hoe ze Workfront in hun dagelijkse bedrijf gebruiken. | **Augustus 15 @ 10:00 AM MT** | [ Register ](https://adobe.ly/4c7TAqZ)
 
