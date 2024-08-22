@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
+source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
 workflow-type: tm+mt
-source-wordcount: '3159'
+source-wordcount: '3129'
 ht-degree: 8%
 
 ---
@@ -32,9 +32,9 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## Augustus 2024
 
-Laatste update: **woensdag 20 augustus 2024**
+Laatste update: **vrijdag 22 augustus 2024**
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **20 augustus**)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **Augustus 22**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +68,22 @@ Leer over spannende gebeurtenissen op Experience League. Het is een fantastische
 
 ### Afspeellijsten op Experience League (nieuw!)
 
-Update: **Augustus 16, 2024**
+Update: **Augustus 22, 2024**
 
-Video [ playlists ](https://experienceleague.adobe.com/en/playlists) zijn nieuw op Experience League. Een afspeellijst is een gekrulde verzameling video&#39;s die zijn ontworpen om u snel te helpen de vaardigheden en kennis te verwerven die u zoekt.
+De nieuwe video [ playlists ](https://experienceleague.adobe.com/nl/playlists) zijn beschikbaar op Experience League. Een afspeellijst is een gekrulde verzameling video&#39;s die zijn ontworpen om u snel te helpen de vaardigheden en kennis te verwerven die u zoekt.
+
+Voorbeelden van functies voor afspeellijsten:
+
+* Automatisch afspeelbare video&#39;s
+* De selectie van het hoofdstuk en playbacksnelheid
+* Hervat waar u weg verliet
+* Videotranscripties
 
 Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om door afspeellijsten te bladeren.
 
 >[!NOTE]
 >
->**Cursussen** worden gepensioneerd van Experience League. Als u een bladwijzer naar een cursus hebt, wordt u omgeleid naar een overeenkomende afspeellijst.
-
-Als u feedback wilt verzenden naar het Experience League over afspeellijsten of een ander probleem in de Help-functie, gebruikt u het pop-upvenster Feedback onder aan elke pagina.
+>**Cursussen** worden gepensioneerd van Experience League. Als u een cursus als bladwijzer hebt gemarkeerd, wordt u omgeleid naar een corresponderende afspeellijst als deze bestaat. In sommige gevallen, zou u aan een nieuwe playlist kunnen moeten doorbladeren die de onderwerpen behandelt u zoekt.
 
 ### Gebeurtenissen op Experience League
 
@@ -86,13 +91,11 @@ Als u feedback wilt verzenden naar het Experience League over afspeellijsten of 
 
 * **[!DNL EXPERIENCE CLOUD]** | Communautaire gebeurtenis | _2025 de Uitreiking van de Ervaring van de Adobe de Afgevaardigden_ | Indieningen staan nu open voor de 2025 Adobe Experience Maker Awards. Buitengewoon is slechts het begin. Vette visionairs. Buitengewone ervaringen van klanten. | **n.v.t.** | [ ben nu van toepassing ](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Het gebruiken van de Queues van het Verzoek van Workfront voor de Processen van de Inname_ | Laat ons een discussie voeren over de voordelen en beste praktijken van Workfront Request Queues voor het volgen, organiseren en rapporteren van het werk van uw organisatie. | **Augustus 21 @ 9:30 MT** | [ Register ](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Communautaire gebeurtenis | _Drip van Gegevens: De Grondbeginselen van Adobe Analytics en voorbij_ | Word Adobe Analytics-experts die ons begeleiden bij het volgen van de beste praktijken voor het organiseren van uw werkruimte, het navigeren van Adobe Analytics&#39;s leerpaden voor beginners en het verbinden met hulpmiddelen voor gegevensvisualisatie van derden. | **Augustus 22 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Workshop klant | _Leer: Making the Case for Workfront Fusion_ | Neem deel aan het team voor succes van de Klant voor een interactieve workshop van 1 uur met Deloitte en Adobe Workfront Integrations Consulting om te leren hoe u tijdbesparingen kunt kwantificeren en een sterke bedrijfscase voor Workfront Fusion kunt bouwen. | **Augustus 27 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | Koffiepauze | _Adobe Journey Optimizer Community Q&amp;A Coffee Break_ | Het is een uur lang een AMA-achtige chatsessie met Journey Optimizer-experts rond de drie jaar om functies te proberen voor Journey Optimizer-experimenten, frequentiecapping en meertalig berichtenverkeer. | **September 4 @ 9:00 AM MT** | [ Register ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **September 6 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 En meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
