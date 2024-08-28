@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
+source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
 workflow-type: tm+mt
-source-wordcount: '3129'
+source-wordcount: '3160'
 ht-degree: 8%
 
 ---
@@ -28,13 +28,19 @@ Deze pagina helpt u van de volgende zelfhulp middelen voor Experience Cloud en A
 
 Voor de beste zelfhulpervaring, teken binnen aan [ Experience League ](https://experienceleague.adobe.com/#home) en pas uw onderzoekservaring over de vrije bibliotheek van de Adobe van [ documentatie ](https://experienceleague.adobe.com/en/docs) aan, [ cursussen ](https://experienceleague.adobe.com/?lang=nl#courses), [ gebeurtenissen ](https://experienceleague.adobe.com/events/), [ communautaire forums ](https://experienceleaguecommunities.adobe.com/?profile.language=en), en [ steun ](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support).
 
+**terugkoppelen van het Verlof**
+
+Zoek naar **_was deze inhoud nuttig?_** onder aan elke pagina. Uw feedback wordt verwerkt en aan de auteurs van de inhoud bezorgd.
+
+**krijgen bericht**
+
 Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onderteken aan de [ Update van het Product van de Prioriteit van de Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Augustus 2024
 
-Laatste update: **vrijdag 22 augustus 2024**
+Laatste update: **donderdag 28 augustus 2024**
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **Augustus 22**)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **28 augustus**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -91,9 +97,9 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 * **[!DNL EXPERIENCE CLOUD]** | Communautaire gebeurtenis | _2025 de Uitreiking van de Ervaring van de Adobe de Afgevaardigden_ | Indieningen staan nu open voor de 2025 Adobe Experience Maker Awards. Buitengewoon is slechts het begin. Vette visionairs. Buitengewone ervaringen van klanten. | **n.v.t.** | [ ben nu van toepassing ](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Making the Case for Workfront Fusion_ | Neem deel aan het team voor succes van de Klant voor een interactieve workshop van 1 uur met Deloitte en Adobe Workfront Integrations Consulting om te leren hoe u tijdbesparingen kunt kwantificeren en een sterke bedrijfscase voor Workfront Fusion kunt bouwen. | **Augustus 27 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | Koffiepauze | _Adobe Journey Optimizer Community Q&amp;A Coffee Break_ | Het is een uur lang een AMA-achtige chatsessie met Journey Optimizer-experts rond de drie jaar om functies te proberen voor Journey Optimizer-experimenten, frequentiecapping en meertalig berichtenverkeer. | **September 4 @ 9:00 AM MT** | [ Register ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _wat in Snelle Milieu&#39;s van de Ontwikkeling voor AEM nieuw is?_ | Word samen met ons om te leren hoe te om RDEs te gebruiken om ontwikkelingskeertijden te verminderen en onmiddellijke terugkoppelen voor codeveranderingen te krijgen. We introduceren de nieuwste functies, zoals verbeterde logboekregistratie, frontend support en nog veel meer. | **September 4 @ 9:00 AM MT** | [ Register ](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **September 6 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
