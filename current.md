@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3160'
+source-wordcount: '3189'
 ht-degree: 8%
 
 ---
@@ -38,11 +38,11 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## Augustus 2024
 
-Laatste update: **donderdag 28 augustus 2024**
+Laatste update: **woensdag 3 september 2024**
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **28 augustus**)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
+* [[!DNL Adobe Experience Cloud]  - centrale interface en beleid ](#ecloud) (Bijgewerkt: **September 3**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (de datum van de Versie: **Augustus 14**)
@@ -132,7 +132,11 @@ Meer informatie over [!DNL Experience Cloud] centrale interfacecomponenten en be
 
 +++Details
 
-Niet bijgewerkt.
+Versie: **2 September, 2024**
+
+| Functie | Beschrijving |
+| -----------| ---------- |
+| Slacks | U kunt uw accountvoorkeuren configureren om meldingen van Experiencen Cloud naar de Slack te verzenden. Zie {de berichten van de Slack 0} _in [ voorkeur van de Rekening en berichten ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) hulp voor details._ |
 
 Voor hulp op Experience Cloud centrale interfacecomponenten, zie de [ Gids van de Interface en van het Beleid van het Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (omvat [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], en [!UICONTROL Audiences]).
 
