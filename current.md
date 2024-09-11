@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94b28700a1b4281fa99e9b47f2421960b085c519
+source-git-commit: de974e36ac2eb38f78a065a000913e6dc13e6420
 workflow-type: tm+mt
-source-wordcount: '3160'
-ht-degree: 8%
+source-wordcount: '3416'
+ht-degree: 7%
 
 ---
 
@@ -38,11 +38,11 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## Augustus 2024
 
-Laatste update: **woensdag 3 september 2024**
+Laatste update: **woensdag 10 september 2024**
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **10 September**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]  - centrale interface en beleid ](#ecloud) (Bijgewerkt: **September 3**)
+* [[!DNL Adobe Experience Cloud]  - centrale interface en beleid ](#ecloud) (Bijgewerkt: **10 September**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (de datum van de Versie: **Augustus 14**)
@@ -95,13 +95,21 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL EXPERIENCE CLOUD]** | Communautaire gebeurtenis | _2025 de Uitreiking van de Ervaring van de Adobe de Afgevaardigden_ | Indieningen staan nu open voor de 2025 Adobe Experience Maker Awards. Buitengewoon is slechts het begin. Vette visionairs. Buitengewone ervaringen van klanten. | **n.v.t.** | [ ben nu van toepassing ](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
+* **[!DNL MARKETO ENGAGE]** | Communautaire gebeurtenis | _Marketo &amp; Mochas: Het optimaliseren van Uw Gebruik van Marketo (Looptijd Pt 2)_ | Leer hoe u uw Marketo-gebruik kunt optimaliseren in deel 2 van onze Marketo-ontwikkelingsreeks. Deze sessie richt zich op best practices voor gegevensbeheer, integratie en optimalisatie van programma&#39;s voor een betere personalisatie. | **September 12 @ 11:00 MT** | [ Register ](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
 
-* **[!DNL JOURNEY OPTIMIZER]** | Koffiepauze | _Adobe Journey Optimizer Community Q&amp;A Coffee Break_ | Het is een uur lang een AMA-achtige chatsessie met Journey Optimizer-experts rond de drie jaar om functies te proberen voor Journey Optimizer-experimenten, frequentiecapping en meertalig berichtenverkeer. | **September 4 @ 9:00 AM MT** | [ Register ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Terug naar de Borden van Workfront met het Product van de Adobe_ | Op zoek naar nieuwe en creatieve manieren om Workfront Boards te gebruiken? Neem contact op met onze productmanagers om meer te leren over de beste praktijken in raden en hoe u deze functie kunt gebruiken om adoptie te verbeteren. | **September 12 @ 12:00 PM MT** | [ Register ](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _wat in Snelle Milieu&#39;s van de Ontwikkeling voor AEM nieuw is?_ | Word samen met ons om te leren hoe te om RDEs te gebruiken om ontwikkelingskeertijden te verminderen en onmiddellijke terugkoppelen voor codeveranderingen te krijgen. We introduceren de nieuwste functies, zoals verbeterde logboekregistratie, frontend support en nog veel meer. | **September 4 @ 9:00 AM MT** | [ Register ](https://adobe.ly/4cwc5W4)
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Collectief Workfront_ | Neem deel aan onze maandelijkse collectieve Workfront-gebeurtenis om verbinding te maken met andere klanten, bespreek de Workfront-functies en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **September 16 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting zal u met andere beheerders verbinden om beste praktijken evenals uiteinden en trucs te bespreken. | **September 6 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Breng Uw Vragen van Workfront_ | Nieuw bij Workfront? Heeft u een van de vorige Admin 101-sessies overgeslagen? Word lid van onze samenvattingssessie om vragen te stellen, bronnen en aanbevelingen te krijgen en andere nieuwe beheerders te ontmoeten. | **September 17 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | Webinar | _Hoofd complexe klantenreizen met de Programma&#39;s van de Betrokkenheid van de Multistream_ | Doe mee aan Adobe Marketo Engage Champion Max Garrett om te verkennen hoe klanten systematisch relaties kunnen aangaan en onderhouden met multi-touch en multi-stream betrokkenheidsprogramma&#39;s bij elke stap van hun reis. | **September 17 @ 9:00 AM MT** | [ Register ](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
+
+* **[!DNL WORKFRONT]** | Workshop klant | _Leer: De realisatie van de waarde - die het meeste van Workfront krijgen_ | Op zoek naar richtlijnen over hoe je de meeste waarde van je Workfront-inspanningen kunt realiseren? Sluit u aan bij Senior Customer Success Manager, Kait Winchell, omdat ze de best practices uit de branche deelt om optimaal gebruik te maken van Workfront. | **September 19 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | Webinar | _Commerce &amp; Koffie: Prep van de Reden van de Piek_ | Join Corey Gelato voor een overzicht van hoe u uw site op elk moment van het jaar kunt voorbereiden op een piekseizoen. Leer hoe u de prestaties van uw website optimaliseert, inventarisaties beheert, bestellingen uitvoert en de ondersteuning proactief opbladert. | **September 19 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
+
+* **[!DNL DYNAMIC MEDIA CLASSIC],[!DNL EXPERIENCE MANAGER ASSETS]** | Webinar | _Ervaring van Dynamic Media: Het onthullen van de Meest recente Innovaties_ | De nieuwe innovaties in AEM Dynamic Media zijn nu beschikbaar om uw klantenervaring te verhogen! Sluit u aan bij ons voor een op waarde gerichte afbouw en een doorloop van een aantrekkelijke gebruikerservaring die met de nieuwste technologieën is ontwikkeld. | **September 25 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 En meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
@@ -114,6 +122,17 @@ Meer informatie over de nieuwste functies en updates vindt u in [!DNL Adobe Syst
 +++Details
 
 [!DNL Adobe System Status] biedt uitgebreide informatie, statusupdates en e-mailmeldingen over producten en services van Adoben. Word op de hoogte gesteld van onderbrekingen, onderbrekingen en onderhoudsgebeurtenissen. Ga naar [status.adobe.com](https://status.adobe.com/).
+
+Releasedatum: **dinsdag 19 augustus 2024**
+
+**Wat is er nieuw**
+
+* Op producten gebaseerde onderhoudsmeldingen, foutoplossingen en verbeteringen
+
+| Functie | Beschrijving |
+| ------- | ------- |
+| Onderhoud op basis van producten | <ul><li>Verbeterde interface en meldingen per product in plaats van per onderhoud.</li><li>Effectkenmerken van elke update geven productspecifieke details van de impact.</li></ul> |
+| Opgeloste problemen en verbeteringen | <ul><li>_hoe te om_ de paginalokalisatie van de hulppagina in te tekenen.</li><li>Contactgegevens voor ondersteuning toegevoegd op de pagina met instructies voor het instellen van de Slack.</li><li>Het probleem met incidenten die niet correct zijn gefilterd op de status van de gebeurtenis, is opgelost met Status-API&#39;s.</li></ul> |
 
 Zie voor recente opmerkingen bij de release:
 
@@ -132,11 +151,11 @@ Meer informatie over [!DNL Experience Cloud] centrale interfacecomponenten en be
 
 +++Details
 
-Versie: **2 September, 2024**
+Versie: **10 September, 2024**
 
 | Functie | Beschrijving |
 | -----------| ---------- |
-| Slacks | U kunt uw accountvoorkeuren configureren om meldingen van Experiencen Cloud naar de Slack te verzenden. Zie {de berichten van de Slack 0} _in [ voorkeur van de Rekening en berichten ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) hulp voor details._ |
+| Slacks | U kunt uw accountvoorkeuren configureren om meldingen van Experiencen Cloud naar de Slack te verzenden. Zie [ aan de berichten van de Slack ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) voor details intekenen. |
 
 Voor hulp op Experience Cloud centrale interfacecomponenten, zie de [ Gids van de Interface en van het Beleid van het Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (omvat [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], en [!UICONTROL Audiences]).
 
