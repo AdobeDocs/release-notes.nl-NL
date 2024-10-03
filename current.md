@@ -6,14 +6,14 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
+source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
 workflow-type: tm+mt
-source-wordcount: '3806'
+source-wordcount: '3808'
 ht-degree: 8%
 
 ---
 
-# Opmerkingen bij de release van Experience Cloud - oktober 2024
+# Opmerkingen bij de release van Experience Cloud - september/oktober 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ Zoek naar **_was deze inhoud nuttig?_** onder aan elke pagina. Uw feedback wordt
 
 Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onderteken aan de [ Update van het Product van de Prioriteit van de Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
 
-## Oktober 2024
+## september - oktober 2024
 
 Laatste update: **vrijdag 3 oktober 2024**
 
