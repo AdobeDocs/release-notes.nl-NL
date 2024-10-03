@@ -2,18 +2,18 @@
 title: Nieuwste aanvullende informatie
 description: Vind de recentste versienota's en de kwesties van de Kennisbank voor Adobe  [!DNL Experience Cloud]  producten en de diensten. Ontdek meer over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de recentste leerprogramma's en cursussen voor  [!DNL Experience Cloud]  toepassingen.
 doc-type: release notes
-last-update: September 2024
+last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f0ee3effcdf1abcc2acbfe7b853adec15322dd2d
+source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
 workflow-type: tm+mt
 source-wordcount: '4088'
 ht-degree: 8%
 
 ---
 
-# Opmerkingen bij de release van Experience Cloud - september 2024
+# Opmerkingen bij de release van Experience Cloud - oktober 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,9 +36,9 @@ Zoek naar **_was deze inhoud nuttig?_** onder aan elke pagina. Uw feedback wordt
 
 Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onderteken aan de [ Update van het Product van de Prioriteit van de Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
 
-## September 2024
+## Oktober 2024
 
-Laatste update: **donderdag 11 september 2024**
+Laatste update: **donderdag 2 oktober 2024**
 
 * [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **10 September**)
 * [[!DNL Adobe System Status]](#status)
@@ -139,7 +139,7 @@ Zie voor recente opmerkingen bij de release:
 * [Oktober 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
 * [ Augustus 2023 ](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status)
 * [ Maart 2023 ](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status)
-* [Januari 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status)
+* [ Januari 2023 ](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status)
 
 +++
 
@@ -208,7 +208,7 @@ Zoek de meest recente releasegegevens voor [!DNL Adobe Analytics] en [!DNL AppMe
 
 +++Details
 
-[!DNL Analytics] versiedatum: **11 September, 2024**
+[!DNL Analytics] versiedatum: **2 Oktober, 2024**
 
 * [!DNL Analytics] [ versienota&#39;s ](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
