@@ -6,9 +6,9 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
 workflow-type: tm+mt
-source-wordcount: '4088'
+source-wordcount: '3806'
 ht-degree: 8%
 
 ---
@@ -38,15 +38,15 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## Oktober 2024
 
-Laatste update: **donderdag 2 oktober 2024**
+Laatste update: **vrijdag 3 oktober 2024**
 
 * [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **10 September**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (Versie: **Oktober 2**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Versie: **Oktober 2**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,21 +93,9 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL MARKETO ENGAGE]** | Communautaire gebeurtenis | _Marketo &amp; Mochas: Het optimaliseren van Uw Gebruik van Marketo (Looptijd Pt 2)_ | Leer hoe u uw Marketo-gebruik kunt optimaliseren in deel 2 van onze Marketo-ontwikkelingsreeks. Deze sessie richt zich op best practices voor gegevensbeheer, integratie en optimalisatie van programma&#39;s voor een betere personalisatie. | **September 12 @ 11:00 MT** | [ Register ](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klantgestuurde sessie zal u verbinden met andere Workfront-beheerders om de beste praktijken en tips en trucs te bespreken. | **Oktober 4 @ 10:00 MT** | [ Register ](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Terug naar de Borden van Workfront met het Product van de Adobe_ | Op zoek naar nieuwe en creatieve manieren om Workfront Boards te gebruiken? Neem contact op met onze productmanagers om meer te leren over de beste praktijken in raden en hoe u deze functie kunt gebruiken om adoptie te verbeteren. | **September 12 @ 12:00 PM MT** | [ Register ](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Collectief Workfront_ | Neem deel aan onze maandelijkse collectieve Workfront-gebeurtenis om verbinding te maken met andere klanten, bespreek de Workfront-functies en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **September 16 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Workshop klant | _Admin 101: Breng Uw Vragen van Workfront_ | Nieuw bij Workfront? Heeft u een van de vorige Admin 101-sessies overgeslagen? Word lid van onze samenvattingssessie om vragen te stellen, bronnen en aanbevelingen te krijgen en andere nieuwe beheerders te ontmoeten. | **September 17 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO ENGAGE]** | Webinar | _Hoofd complexe klantenreizen met de Programma&#39;s van de Betrokkenheid van de Multistream_ | Doe mee aan Adobe Marketo Engage Champion Max Garrett om te verkennen hoe klanten systematisch relaties kunnen aangaan en onderhouden met multi-touch en multi-stream betrokkenheidsprogramma&#39;s bij elke stap van hun reis. | **September 17 @ 9:00 AM MT** | [ Register ](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | Workshop klant | _Leer: De realisatie van de waarde - die het meeste van Workfront krijgen_ | Op zoek naar richtlijnen over hoe je de meeste waarde van je Workfront-inspanningen kunt realiseren? Sluit u aan bij Senior Customer Success Manager, Kait Winchell, omdat ze de best practices uit de branche deelt om optimaal gebruik te maken van Workfront. | **September 19 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webinar | _Commerce &amp; Koffie: Prep van de Reden van de Piek_ | Join Corey Gelato voor een overzicht van hoe u uw site op elk moment van het jaar kunt voorbereiden op een piekseizoen. Leer hoe u de prestaties van uw website optimaliseert, inventarisaties beheert, bestellingen uitvoert en de ondersteuning proactief opbladert. | **September 19 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
-
-* **[!DNL DYNAMIC MEDIA CLASSIC],[!DNL EXPERIENCE MANAGER ASSETS]** | Webinar | _Ervaring van Dynamic Media: Het onthullen van de Meest recente Innovaties_ | De nieuwe innovaties in AEM Dynamic Media zijn nu beschikbaar om uw klantenervaring te verhogen! Sluit u aan bij ons voor een op waarde gerichte afbouw en een doorloop van een aantrekkelijke gebruikerservaring die met de nieuwste technologieën is ontwikkeld. | **September 25 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Admin 101: Begonnen het worden met Workfront_ | Nieuw bij Workfront? Sluit u bij ons aan voor de eerste sessie van de 3-delige, Admin 101, serie. U kunt verwachten om beste praktijken en aanbevelingen rond systeemopstelling en navigatie te leren, evenals moet-hebben middelen. | **Oktober 8 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 En meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
@@ -247,7 +235,7 @@ Zoek de meest recente releasegegevens voor [!DNL Customer Journey Analytics] . N
 
 +++Details
 
-[!DNL Customer Journey Analytics] versiedatum: **11 September, 2024**
+[!DNL Customer Journey Analytics] versiedatum: **2 Oktober, 2024**
 
 * [!DNL Customer Journey Analytics] [ versienota&#39;s ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
@@ -638,7 +626,6 @@ Nieuwe zelfstudies gepubliceerd voor [!DNL Document Cloud] , inclusief [!DNL Acr
 | Gepubliceerd | Toepassing | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | September 2024 | Acrobat | [ hoe te om een gebruiker aan een admin rol te bevorderen ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/promote-admin.html?lang=en) | Video | Leer hoe u een gebruiker met de Adobe Admin Console promoot naar een Acrobat Sign-beheerrol. |
-| September 2024 | Acrobat | [ hoe te om veelvoudige profielen ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/multiple-profiles) te gebruiken | Video | Leer hoe u de profielkiezer kunt gebruiken om met meerdere Acrobat Sign-accounts te werken. |
 | September 2024 | Acrobat Sign | [ de rapporten van de Controle ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/audit-reports) | Video | Leer om tot controlerapporten toegang te hebben, te gebruiken en te vormen om de behoeften van uw organisatie aan te passen. Elk document in Acrobat Sign doorloopt een reeks &quot;mijlpalen&quot; voor gebeurtenissen die de voortgang van een transactie bepalen. Deze mijlpalen worden grondig gedocumenteerd in een controleverslag voor elke transactie. |
 | September 2024 | Acrobat Sign | [ Bulk hulpmiddel van de Download ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/bulk-download-tool) | Video | Leer hoe u het gereedschap Bulk downloaden kunt gebruiken om snel al uw ondertekende overeenkomsten te downloaden, zodat u veel tijd bespaart. Het gereedschap Bulk downloaden is beschikbaar voor Windows en Mac OS X. |
 | September 2024 | Acrobat Sign | [ Opstelling automatische updates ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/salesforce-automatic-updates) | Video | Leer hoe u uw account eenvoudig kunt koppelen aan Salesforce voor automatische updates en stroomlijning van bewerkingen en nauwkeurigheid. |
