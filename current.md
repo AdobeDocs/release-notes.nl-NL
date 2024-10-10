@@ -6,7 +6,7 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
+source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
 workflow-type: tm+mt
 source-wordcount: '3808'
 ht-degree: 8%
@@ -38,9 +38,9 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## september - oktober 2024
 
-Laatste update: **vrijdag 3 oktober 2024**
+Laatste update: **vrijdag 10 oktober 2024**
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **10 September**)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkt: **10 Oktober**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -93,9 +93,9 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klantgestuurde sessie zal u verbinden met andere Workfront-beheerders om de beste praktijken en tips en trucs te bespreken. | **Oktober 4 @ 10:00 MT** | [ Register ](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Collectief Workfront_ | Neem deel aan het team van het Succes van de Klant voor een open bespreking van Maandagochtend die wordt ontworpen om u met andere Admins van Workfront te verbinden, door de recentste eigenschappen te spreken, ideeën, en brainstormoplossingen voor gemeenschappelijke uitdagingen te delen. | **Oktober 14 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _Admin 101: Begonnen het worden met Workfront_ | Nieuw bij Workfront? Sluit u bij ons aan voor de eerste sessie van de 3-delige, Admin 101, serie. U kunt verwachten om beste praktijken en aanbevelingen rond systeemopstelling en navigatie te leren, evenals moet-hebben middelen. | **Oktober 8 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Verbeterende efficiency - hoe Cognizant Adobe Workfront voor de excellentie van het Project_ gebruikt | Sluit u aan bij Sujatha T S, Creative Operations Senior Manager en Global Brand en Creative, System Admin, omdat ze vertelt hoe Cognizant zijn systeem en processen heeft geoptimaliseerd om de efficiëntie van projecten te verbeteren. | **Oktober 17 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 En meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
