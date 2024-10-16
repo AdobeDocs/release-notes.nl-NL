@@ -6,9 +6,9 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c909c2060ac5d838028dcd49def2d5c04e49e9a
+source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
 workflow-type: tm+mt
-source-wordcount: '3880'
+source-wordcount: '3927'
 ht-degree: 8%
 
 ---
@@ -93,11 +93,13 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Communautaire gebeurtenis | _verbind: Collectief Workfront_ | Neem deel aan het team van het Succes van de Klant voor een open bespreking van Maandagochtend die wordt ontworpen om u met andere Admins van Workfront te verbinden, door de recentste eigenschappen te spreken, ideeën, en brainstormoplossingen voor gemeenschappelijke uitdagingen te delen. | **Oktober 14 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Workshop klant | _Leer: Verbeterende efficiency - hoe Cognizant Adobe Workfront voor de excellentie van het Project_ gebruikt | Sluit u aan bij Sujatha T S, Creative Operations Senior Manager en Global Brand en Creative, System Admin, omdat ze vertelt hoe Cognizant zijn systeem en processen heeft geoptimaliseerd om de efficiëntie van projecten te verbeteren. | **Oktober 17 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-En meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
+* **[!DNL COMMERCE]** | Webinar | _Achter de Brew: Optimize Uw Storefront van Commerce_ | Op zoek naar strategieën om uw winkel efficiënt te onderhouden en te optimaliseren? Kom te leren hoe te tegen gemeenschappelijke gegevensblokkers, strategieën te verhinderen beide activiteit te verlichten, en planning voor schijfruimte en gegevensbestandgrootte. | **Oktober 17 @ 11:00 MT** | [ Register ](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Leer: De Reis van Qualcomm aan de Goedkeuring van Adobe Workfront_ | Kom meer te weten over de strategische aanpak van Becky Barus, de Certified Technical Adobe Workfront Lead in Qualcomm, die wordt gebruikt om de acceptatie van Adobe Workfront door gebruikers aanzienlijk te stimuleren. | **Oktober 23 @ 10:00 MT** | [ Register ](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
 +++
 
