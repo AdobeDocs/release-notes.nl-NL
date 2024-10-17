@@ -5,10 +5,10 @@ user-guide-title: Releaseopmerkingen bij Adobe Experience Cloud
 breadcrumb-title: Aanvullende informatie
 user-guide-description: Meer informatie over nieuwe functies, oplossingen en belangrijke kennisgevingen in Adobe Experience Cloud en Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: 8e97368ffaa98f281eb4495e3c9cd779331cea55
+source-git-commit: 435359866a5a8ba7019e0a8ed55e1917a41a341e
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 69%
+ht-degree: 65%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 69%
       + [April 2024](c-legacy-releases/2024/04172024.md)
       + [ Maart 2024 ](c-legacy-releases/2024/03132024.md)
       + [Februari 2024](c-legacy-releases/2024/02142024.md)
-      + [Januari 2024](c-legacy-releases/2024/01112024.md)
+      + [ Januari 2024 ](c-legacy-releases/2024/01112024.md)
    + 2023 {#2023}
       + [November 2023](c-legacy-releases/2023/10252023.md)
       + [Oktober 2023](c-legacy-releases/2023/10042023.md)
@@ -37,7 +37,7 @@ ht-degree: 69%
       + [April 2023](c-legacy-releases/2023/04122023.md)
       + [Maart 2023](c-legacy-releases/2023/03082023.md)
       + [Februari 2023](c-legacy-releases/2023/02082023.md)
-      + [Januari 2023](c-legacy-releases/2023/01112023.md)
+      + [ Januari 2023 ](c-legacy-releases/2023/01112023.md)
    + 2022 {#2022}
       + [Oktober 2022](c-legacy-releases/2022/10052022.md)
       + [September 2022](c-legacy-releases/2022/09072022.md)
