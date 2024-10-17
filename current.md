@@ -6,9 +6,9 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
+source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
 workflow-type: tm+mt
-source-wordcount: '3927'
+source-wordcount: '3879'
 ht-degree: 8%
 
 ---
@@ -93,11 +93,9 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Workshop klant | _Leer: Verbeterende efficiency - hoe Cognizant Adobe Workfront voor de excellentie van het Project_ gebruikt | Sluit u aan bij Sujatha T S, Creative Operations Senior Manager en Global Brand en Creative, System Admin, omdat ze vertelt hoe Cognizant zijn systeem en processen heeft geoptimaliseerd om de efficiëntie van projecten te verbeteren. | **Oktober 17 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webinar | _Achter de Brew: Optimize Uw Storefront van Commerce_ | Op zoek naar strategieën om uw winkel efficiënt te onderhouden en te optimaliseren? Kom te leren hoe te tegen gemeenschappelijke gegevensblokkers, strategieën te verhinderen beide activiteit te verlichten, en planning voor schijfruimte en gegevensbestandgrootte. | **Oktober 17 @ 11:00 MT** | [ Register ](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Chat Vragen en antwoorden | _Leer: De Reis van Qualcomm aan de Goedkeuring van Adobe Workfront_ | Kom meer te weten over de strategische aanpak van Becky Barus, de Certified Technical Adobe Workfront Lead in Qualcomm, die wordt gebruikt om de acceptatie van Adobe Workfront door gebruikers aanzienlijk te stimuleren. | **Oktober 23 @ 10:00 MT** | [ Register ](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Word persoonlijk lid van Adobe Developers Live bij het hoofdkwartier van de Adobe in San Jose! Maak contact met AEM en Commerce-ontwikkelaars, ontdek de nieuwste innovaties en leer de beste werkwijzen. 12 nov. persoonlijk of online. Nu registreren | **November 12 @ 9:00 AM MT** | [ Register ][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1] (https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
