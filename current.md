@@ -6,9 +6,9 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
+source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
 workflow-type: tm+mt
-source-wordcount: '3879'
+source-wordcount: '3865'
 ht-degree: 8%
 
 ---
@@ -142,7 +142,7 @@ Versie: **10 September, 2024**
 | Releasedatum | Functie | Beschrijving |
 | -----------| -----------| ---------- |
 | September 10 | [!DNL Slack] meldingen in [!DNL Experience Cloud] | U kunt uw accountvoorkeuren zo configureren dat [!DNL Experience Cloud] -meldingen naar de Slack worden verzonden. Zie [ aan de berichten van de Slack ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) voor details intekenen. |
-| Oktober 2 | Aanpasbare woning | Klik op de openingspagina van het Experience Cloud op **[!UICONTROL Edit]** . In de modus [!UICONTROL Edit] kunt u de startpagina van uw Experience Cloud aanpassen met toegang tot een widgetbibliotheek en aangepaste achtergronden. De modus [!UICONTROL Edit] biedt naadloze, intuïtieve besturingselementen voor het verplaatsen, vergroten/verkleinen en beheren van widgets, waaronder acties in grote hoeveelheden en aanpassingen van de layout. U krijgt een meer esthetische en op maat gesneden ervaring.Zorg ervoor dat de homepage van uw Experience Cloud toegankelijk is voor een widgetbibliotheek en aangepaste achtergronden. |
+| Oktober 2 | Aanpasbare woning | Klik op de openingspagina van het Experience Cloud op **[!UICONTROL Edit]** . In de modus [!UICONTROL Edit] kunt u de startpagina van uw Experience Cloud aanpassen met toegang tot een widgetbibliotheek en aangepaste achtergronden. De modus [!UICONTROL Edit] biedt naadloze, intuïtieve besturingselementen voor het verplaatsen, vergroten/verkleinen en beheren van widgets, waaronder acties in grote hoeveelheden en aanpassingen van de layout, voor een meer esthetische en op maat gemaakte ervaring. |
 
 Voor hulp op [!DNL Experience Cloud] centrale interfacecomponenten, zie de [ Gids van de Interface en van het Beleid van het Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (omvat [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], en [!UICONTROL Audiences]).
 
