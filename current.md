@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
 workflow-type: tm+mt
-source-wordcount: '4484'
+source-wordcount: '4560'
 ht-degree: 9%
 
 ---
@@ -38,7 +38,7 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## November 2024
 
-Laatste update: **30 Oktober**
+Laatste update: **November 4**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,6 +92,10 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 ### Gebeurtenissen op Experience League
 
 +++Details
+
+* **[!DNL Workfront]** | Workshop klant | _Leer: Het toepassen van het Beheer van de Verandering op Uw Reis van Workfront_ | Word lid van Senior Customer Success Manager, Keri Amundson, omdat ze de best practices voor wijzigingsbeheer deelt om wijzigingen op uw Workfront-reis te helpen doorvoeren. | **November 7 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workshop klant | _Leer: Het toepassen van het Beheer van de Verandering op Uw Reis van Workfront_ | Word lid van Senior Customer Success Manager, Keri Amundson, omdat ze de best practices voor wijzigingsbeheer deelt om wijzigingen op uw Workfront-reis te helpen doorvoeren. | **November 7 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud](meerdere producten)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Word persoonlijk lid van Adobe Developers Live bij het hoofdkwartier van de Adobe in San Jose! Maak contact met AEM en Commerce-ontwikkelaars, ontdek de nieuwste innovaties en leer de beste werkwijzen. 12 nov. persoonlijk of online. Nu registreren | **November 12 @ 9:00 AM MT** | [ Register ](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
