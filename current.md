@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
+source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
 workflow-type: tm+mt
-source-wordcount: '4566'
+source-wordcount: '4662'
 ht-degree: 9%
 
 ---
@@ -38,7 +38,7 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## November 2024
 
-Laatste update: **November 8**
+Laatste update: **12 november**
 
 * [[!DNL Experience League] gebeurtenissen en updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,13 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL Workfront]** | Communautaire gebeurtenis | _verbind: Collectief Workfront_ | Neem deel aan onze maandelijkse Collectieve Workfront-evenementen die zijn ontworpen om verbinding te maken met andere klanten, bespreek de Workfront-functies, deel ideeën en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **11 van 0} November @ 7:00 MT** | [ Register ](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | Workshop klant | _Admin 101: Het krijgen van Gebruikers om Workfront_ te gebruiken | Nieuw bij Workfront? Sluit u bij ons aan voor de tweede sessie van de 3-delige Admin 101-reeks om alle zaken te bespreken die te maken hebben met gebruikerstoepassing. Kom met je vragen! | **November 12 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud](meerdere producten)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Word persoonlijk lid van Adobe Developers Live bij het hoofdkwartier van de Adobe in San Jose! Maak contact met AEM en Commerce-ontwikkelaars, ontdek de nieuwste innovaties en leer de beste werkwijzen. 12 nov. persoonlijk of online. Nu registreren | **November 12 @ 9:00 AM MT** | [ Register ](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 * **[!DNL Experience Platform and Real-Time CDP]** | EXPERIENCE LEAGUE LIVE | _Introducerend AI Medewerker voor Soorten publiek voor Marketers in Real-Time CDP_ | Word Adobe productexperts voor een blik op AI Assistant voor Soorten publiek die binnenkort naar Adobe Real-Time CDP komen om de kijkervaring en acties van het publiek te verhogen. Krijg uw vragen beantwoord van de productexperts van de Adobe! | **November 13 @ 10:00 MT** | [ Register ](https://engage.adobe.com/ExpLeagueLive-241113.html)
+
+* **[!DNL Marketo]** | Marketo Engage Champions | _November 2024 de Uren van het Bureau van de Champion van het Marketo Engage_ | Meld u op donderdag 14 november met ons panel van Champions Miray Vu, Maria Cruz, AJ Navarro en Lucas Goncalves Machado, onder leiding van Alsyha Khan, voor ons aan voor de kantooruren van Marketo Champion. | **November 14 @ 9:00 AM MT** | [ Register ](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
+
+* **[!DNL Analytics and Customer Journey Analytics]** | Technische sessies Experience Cloud | _de Innovaties van het Product van Adobe Customer Journey Analytics: Een Kwartaaloverzicht - Q4 2025_ | Neem deel aan de Adobe Analytics-productexperts om de allernieuwste innovaties met Adobe Customer Journey Analytics te ontdekken. De Q4 2025-sessie vindt binnenkort plaats, dus registreer u nu om zeker te zijn van uw plaats. | **November 14 @ 10:00 MT** | [ Register ](https://event.adobe.com/customerjourneyanalytics)
 
 En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
@@ -321,6 +321,9 @@ Nieuwe zelfstudies voor [!DNL Adobe Commerce] over Experience League.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
+| November 2024 | [ de waarden van de Configuratie ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Video | Leer hoe u configuratiewaarden in Adobe Commerce kunt zoeken, valideren en beheren met `core_config_data` , XML-bestanden en beheerinstellingen. |
+| November 2024 | [ los gemeenschappelijke fouten ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) op | Video | Los twee veelvoorkomende Adobe Cloud-projectfouten op die voorkomen dat de site wordt geladen. |
+| November 2024 | [ Verlopen SSL Certificaat ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl) | Video | Leer hoe u een verlopen SSL-certificaat kunt identificeren en hoe u een certificaat opnieuw kunt genereren voor de Adobe Commerce Cloud-integratie of andere ontwikkelomgevingen. |
 | Oktober 2024 | [ Adobe Commerce ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze) | Meerdere video&#39;s | Bekijk nieuwe video&#39;s over Commerce Marketecture, wereldwijd leveringsmodel, beheerrollen, winkelopties en meer. |
 | Oktober 2024 | [ migrerend aan Adobe Commerce ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview) | Video | Een overzicht van voorbereiding, aangepaste code, QA, prestaties en beveiliging bij het migreren naar Adobe Commerce. |
 | Oktober 2024 | [ terugstellen admin URI gebruikend de klem ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/admin/reset-admin-uri) | Video | Leer hoe u de beheer-URI opnieuw instelt met de Adobe Commerce Cloud-cli-opdracht. Dit is handig als de admin-URL is gewijzigd ten opzichte van de beheerder, maar er een fout is gemaakt en u geen toegang meer hebt tot de admin. |
