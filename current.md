@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
+source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
 workflow-type: tm+mt
-source-wordcount: '4662'
+source-wordcount: '4601'
 ht-degree: 9%
 
 ---
@@ -38,15 +38,15 @@ Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onde
 
 ## November 2024
 
-Laatste update: **12 november**
+Laatste update: **November 22**
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**November 24**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Versie: **Oktober 23**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Versie: **Oktober 23**)
+* [[!DNL Adobe Analytics]](#analytics) (Vrijgegeven: **Oktober 23**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Vrijgegeven: **Oktober 23**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -57,7 +57,7 @@ Laatste update: **12 november**
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) (**Nieuw!**)
+* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
@@ -71,6 +71,17 @@ Laatste update: **12 november**
 ## ![ pictogramgebeurtenissen ](/assets/experience-league.png) [!DNL Experience League] en updates {#events}
 
 Leer over spannende gebeurtenissen op Experience League. Het is een fantastische plek om te leren, te interageren en antwoorden te krijgen van productexperts bij de Adobe!
+
+### Verbeterde inhoudsopgave
+
+Update: **22 November, 2024**
+
+Aan elke inhoudsopgave in Experience League zijn de volgende wijzigingen aangebracht:
+
+* **[!UICONTROL Expand all sections]** - De volledige inhoudsopgave wordt weergegeven op elke hulplijn van een Experience League. (Deze schakeloptie wordt uitgeschakeld nadat een pagina is geladen. Dit probleem wordt in een toekomstige update opgelost.) De opties **[!UICONTROL View more]** en **[!UICONTROL View less]** zijn verwijderd.
+* **Schuiven**: Laat het scrollen door een lange inhoudstafel toe.
+* **[!UICONTROL Filter by keyword]**: hiermee kunt u items in de inhoudsopgave filteren door trefwoorden te typen. Een vervolgkeuzelijst geeft de relevante resultaten weer en u kunt het filter wissen door op **[!UICONTROL Clear]** te klikken.
+* **Actieve paginagezicht**: De actieve pagina wordt altijd benadrukt in de inhoudstafel.
 
 ### Afspeellijsten op Experience League
 
@@ -93,15 +104,7 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL Experience Cloud](meerdere producten)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Word persoonlijk lid van Adobe Developers Live bij het hoofdkwartier van de Adobe in San Jose! Maak contact met AEM en Commerce-ontwikkelaars, ontdek de nieuwste innovaties en leer de beste werkwijzen. 12 nov. persoonlijk of online. Nu registreren | **November 12 @ 9:00 AM MT** | [ Register ](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL Experience Platform and Real-Time CDP]** | EXPERIENCE LEAGUE LIVE | _Introducerend AI Medewerker voor Soorten publiek voor Marketers in Real-Time CDP_ | Word Adobe productexperts voor een blik op AI Assistant voor Soorten publiek die binnenkort naar Adobe Real-Time CDP komen om de kijkervaring en acties van het publiek te verhogen. Krijg uw vragen beantwoord van de productexperts van de Adobe! | **November 13 @ 10:00 MT** | [ Register ](https://engage.adobe.com/ExpLeagueLive-241113.html)
-
-* **[!DNL Marketo]** | Marketo Engage Champions | _November 2024 de Uren van het Bureau van de Champion van het Marketo Engage_ | Meld u op donderdag 14 november met ons panel van Champions Miray Vu, Maria Cruz, AJ Navarro en Lucas Goncalves Machado, onder leiding van Alsyha Khan, voor ons aan voor de kantooruren van Marketo Champion. | **November 14 @ 9:00 AM MT** | [ Register ](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
-
-* **[!DNL Analytics and Customer Journey Analytics]** | Technische sessies Experience Cloud | _de Innovaties van het Product van Adobe Customer Journey Analytics: Een Kwartaaloverzicht - Q4 2025_ | Neem deel aan de Adobe Analytics-productexperts om de allernieuwste innovaties met Adobe Customer Journey Analytics te ontdekken. De Q4 2025-sessie vindt binnenkort plaats, dus registreer u nu om zeker te zijn van uw plaats. | **November 14 @ 10:00 MT** | [ Register ](https://event.adobe.com/customerjourneyanalytics)
-
-En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
+Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
 +++
 
@@ -130,6 +133,10 @@ Opmerkingen bij recente releases vindt u hier:
 Meer informatie over [!DNL Experience Cloud] centrale interfacecomponenten en beheer. Producten en gebruikers beheren, profielinstellingen en -voorkeuren configureren, naar Experiencen Cloud zoeken en cookies beheren.
 
 +++Details
+
+Om het gemakkelijker te maken om de voorkeur van de het productgegevens van de Experience Cloud te controleren, stroomden wij onze Experience Cloud voorkeurspagina om dubbele opties te verwijderen. Voor de eenvoud hebben we de huidige gebruikersvoorkeuren behouden en kunt u uw voorkeuren op elk gewenst moment bijwerken op https://experience.adobe.com/preferences.
+
+
 
 | Releasedatum | Functie | Beschrijving |
 | -----------| -----------| ---------- |
