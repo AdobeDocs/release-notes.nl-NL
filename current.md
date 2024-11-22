@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
+source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
 workflow-type: tm+mt
-source-wordcount: '4601'
+source-wordcount: '4576'
 ht-degree: 9%
 
 ---
@@ -28,23 +28,19 @@ Deze pagina helpt u van de volgende zelfhulp middelen voor Experience Cloud en A
 
 Voor de beste zelfhulpervaring, teken binnen aan [ Experience League ](https://experienceleague.adobe.com/#home) en pas uw onderzoekservaring over de vrije bibliotheek van de Adobe van [ documentatie ](https://experienceleague.adobe.com/en/docs) aan, [ cursussen ](https://experienceleague.adobe.com/?lang=nl#courses), [ gebeurtenissen ](https://experienceleague.adobe.com/events/), [ communautaire forums ](https://experienceleaguecommunities.adobe.com/?profile.language=en), en [ steun ](https://experienceleague.adobe.com/?&amp;support-tab=home&amp;lang=nl#support).
 
-**terugkoppelen van het Verlof**
+**terugkoppelen van het Verlof:** zoek **_was deze inhoud nuttig?_** onder aan elke pagina. Uw feedback wordt verwerkt en aan de auteurs van de inhoud bezorgd.
 
-Zoek naar **_was deze inhoud nuttig?_** onder aan elke pagina. Uw feedback wordt verwerkt en aan de auteurs van de inhoud bezorgd.
+**krijgt op de hoogte gebracht:** om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, aan de [ Update van het Product van de Prioriteit van de Adobe te intekenen ](https://www.adobe.com/subscription/priority-product-update.html).
 
-**krijgen bericht**
+**November 2024**
 
-Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onderteken aan de [ Update van het Product van de Prioriteit van de Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
-
-## November 2024
-
-Laatste update: **November 22**
+Laatste update: **zaterdag 22 november 2024**
 
 * [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**November 24**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
+* [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Vrijgegeven: **Oktober 23**)
 * [[!DNL Adobe Customer Journey Analytics]](#cja) (Vrijgegeven: **Oktober 23**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
@@ -68,9 +64,11 @@ Laatste update: **November 22**
 * [ Certificatie bij Adobe ](https://experienceleague.adobe.com/en/certification-home)
 * {de kwetsbaarheden van de het productveiligheid van 0} Adobe ](https://helpx.adobe.com/nl/security.html)[
 
-## ![ pictogramgebeurtenissen ](/assets/experience-league.png) [!DNL Experience League] en updates {#events}
+## [!DNL Experience League] gebeurtenissen en updates {#events}
 
 Leer over spannende gebeurtenissen op Experience League. Het is een fantastische plek om te leren, te interageren en antwoorden te krijgen van productexperts bij de Adobe!
+
++++Details
 
 ### Verbeterde inhoudsopgave
 
@@ -100,6 +98,8 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 >
 >Als u een cursus op het Experience League hebt gemarkeerd, wordt u omgeleid naar een corresponderende afspeellijst. In sommige gevallen moet u naar een nieuwe afspeellijst bladeren die de onderwerpen behandelt die u zoekt.
 
++++
+
 ### Gebeurtenissen op Experience League
 
 +++Details
@@ -108,7 +108,7 @@ Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/eve
 
 +++
 
-## ![ Pictogram ](/assets/system-status.png) [!DNL Adobe System Status] {#status}
+## [!DNL Adobe System Status] {#status}
 
 Meer informatie over de nieuwste functies en updates vindt u in [!DNL Adobe System Status] .
 
@@ -128,15 +128,13 @@ Opmerkingen bij recente releases vindt u hier:
 
 +++
 
-## ![ Pictogram ](/assets/ec_appicon_24.png) [!DNL Experience Cloud] - centrale interface en beleid {#ecloud}
+## [!DNL Experience Cloud] - centrale interface en beheer {#ecloud}
 
 Meer informatie over [!DNL Experience Cloud] centrale interfacecomponenten en beheer. Producten en gebruikers beheren, profielinstellingen en -voorkeuren configureren, naar Experiencen Cloud zoeken en cookies beheren.
 
 +++Details
 
 Om het gemakkelijker te maken om de voorkeur van de het productgegevens van de Experience Cloud te controleren, stroomden wij onze Experience Cloud voorkeurspagina om dubbele opties te verwijderen. Voor de eenvoud hebben we de huidige gebruikersvoorkeuren behouden en kunt u uw voorkeuren op elk gewenst moment bijwerken op https://experience.adobe.com/preferences.
-
-
 
 | Releasedatum | Functie | Beschrijving |
 | -----------| -----------| ---------- |
@@ -146,7 +144,7 @@ Voor hulp op [!DNL Experience Cloud] centrale interfacecomponenten, zie de [ Gid
 
 +++
 
-## ![ Pictogram ](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
+## [!DNL Experience Platform] {#platform}
 
 Ga naar de meest recente releasegegevens en nieuwe documentatie voor [!DNL Experience Platform] en [!UICONTROL Mobile SDK] . Bekijk nieuwe zelfstudies en artikelen in de Knowledge Base op Experience League.
 
@@ -175,9 +173,9 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Platfo
 
 +++
 
-## ![ Pictogram ](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+## [!DNL Real-Time CDP] {#rtcdp}
 
-De meest recente zelfstudies voor [!DNL Real-Time Customer Data Platform] op Experience League vinden.
+De meest recente zelfstudies voor [!DNL Real-Time CDP] op Experience League vinden.
 
 +++Details
 
@@ -187,7 +185,7 @@ De meest recente zelfstudies voor [!DNL Real-Time Customer Data Platform] op Exp
 
 +++
 
-## ![ Pictogram ](/assets/analytics.png) [!DNL Analytics] {#analytics}
+## [!DNL Analytics] {#analytics}
 
 Zoek de meest recente releasegegevens voor [!DNL Adobe Analytics] en [!DNL AppMeasurement] . Nieuw Experience League voor zelfstudies weergeven.
 
@@ -225,7 +223,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Analytics] .
 
 +++
 
-## ![ Pictogram ](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
+## [!DNL Customer Journey Analytics] {#cja}
 
 Zoek de meest recente releasegegevens voor [!DNL Customer Journey Analytics] . Nieuwe zelfstudies over Experience League weergeven.
 
@@ -247,7 +245,7 @@ Nieuwe zelfstudies gepubliceerd voor [!DNL Customer Journey Analytics] .
 
 +++
 
-## ![ Pictogram ](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
+## [!DNL Streaming Media Analytics] {#sma}
 
 Zoek de meest recente releasegegevens voor [!DNL Streaming Media Analytics] . Nieuwe zelfstudies over Experience League weergeven.
 
@@ -259,7 +257,7 @@ Zoek de meest recente releasegegevens voor [!DNL Streaming Media Analytics] . Ni
 
 +++
 
-## ![ Pictogram ](/assets/aem.png) Adobe [!DNL Experience Manager] {#aem}
+## Adobe [!DNL Experience Manager] {#aem}
 
 Nieuwe functies, correcties en updates in [!DNL Experience Manager] . Adobe raadt klanten met On-Premise-implementaties aan de nieuwste patches te implementeren om een hogere stabiliteit, beveiliging en prestaties te garanderen.
 
@@ -312,7 +310,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Manage
 
 +++
 
-## ![ Pictogram ](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
+## [!DNL Adobe Commerce] {#commerce}
 
 Krijg toegang tot releaseopmerkingen, nieuwe zelfstudies en artikelen in de Knowledge Base voor [!DNL Adobe Commerce] op Experience League.
 
@@ -351,7 +349,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor Adobe Commerce.
 
 +++
 
-## ![ Pictogram ](/assets/target.png) [!DNL Target] {#target}
+## [!DNL Target] {#target}
 
 Krijg toegang tot pre-versie nota&#39;s, huidige versienota&#39;s, en nieuwe leerprogramma&#39;s voor [!DNL Adobe Target].
 
@@ -369,7 +367,7 @@ Krijg toegang tot pre-versie nota&#39;s, huidige versienota&#39;s, en nieuwe lee
 
 +++
 
-## ![ Pictogram ](/assets/campaign.png) [!DNL Campaign] {#ac}
+## [!DNL Campaign] {#ac}
 
 Download de nieuwste updates voor [!DNL Adobe Campaign] . Zoek naar nieuwe zelfstudies en artikelen voor ondersteuning van de Knowledge Base op Experience League.
 
@@ -415,7 +413,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Campaign] .
 
 +++
 
-## ![ Pictogram ](/assets/experience_platform_appicon_24.png) [!DNL Journey Optimizer] {#journey-opt}
+## [!DNL Journey Optimizer] {#journey-opt}
 
 Meer informatie over de nieuwste release-informatie voor [!DNL Journey Optimizer] . Bekijk de nieuwste zelfstudies en de artikelen van de Knowledge Base-ondersteuning op Experience League.
 
@@ -462,7 +460,7 @@ Nieuwe zelfstudies gepubliceerd voor Adobe [!DNL Journey Optimizer] op Experienc
 
 +++
 
-## ![ Pictogram ](/assets/ajo-b2b.png) [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
+## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
 Release-aantekeningen en nieuwe documentatie voor Adobe [!DNL Journey Optimizer B2b Edition] zoeken.
 
@@ -473,7 +471,7 @@ Release-aantekeningen en nieuwe documentatie voor Adobe [!DNL Journey Optimizer 
 
 +++
 
-## ![ Pictogram ](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
+## [!DNL Journey Orchestration] {#journey-orch}
 
 Open de meest recente releaseopmerkingen voor [!DNL Journey Orchestration] op het Experience League.
 
@@ -495,7 +493,7 @@ Kom meer over de recentste mogelijkheden, de verbeteringen, en moeilijke situati
 
 +++
 
-## ![ Pictogram ](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
+## [!DNL Marketo Engage] {#marketo}
 
 Ontdek de nieuwste releaseopmerkingen en het releaseprogramma voor [!DNL Marketo Engage] .
 
@@ -531,7 +529,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 +++
 
-## ![ Pictogram ](/assets/workfront.png) [!DNL Workfront] {#workfront}
+## [!DNL Workfront] {#workfront}
 
 Meer informatie over de nieuwste releaseopmerkingen voor [!DNL Adobe Workfront] . Nieuwe zelfstudies over Experience League vinden.
 
@@ -594,7 +592,7 @@ Voor de recentste productdocumentatie, zie de [ Adobe  [!DNL Workfront]  documen
 
 +++
 
-## ![ Pictogram ](/assets/ec_appicon_24.png) GenStudio for Performance Marketing {#genstudio-marketing}
+## GenStudio for Performance Marketing {#genstudio-marketing}
 
 Ga naar de meest recente releasegegevens en nieuwe documentatie voor [!DNL GenStudio for Performance Marketing] .
 
@@ -613,7 +611,7 @@ Nieuwste videozelfstudies voor [!DNL GenStudio for Performance Marketing] .
 
 +++
 
-## ![ Pictogram ](/assets/ec_appicon_24.png) [!DNL Adobe Mix Modeler] {#mix-modeler}
+## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
 +++Details
 
@@ -624,7 +622,7 @@ Raadpleeg de volgende pagina&#39;s voor de meest recente informatie:
 
 +++
 
-## ](/assets/advertising-cloud.png) Adobe Advertising van 0} Pictogram {![ {#advertising}
+## Adobe Advertising {#advertising}
 
 Opmerkingen bij de release voor [!DNL Adobe Advertising] .
 
@@ -642,7 +640,7 @@ Zie [ wat in  [!DNL Advertising Search, Social, & Commerce] ](https://experience
 
 +++
 
-## ![ Pictogram ](/assets/pass.png) [!DNL Adobe Pass] {#pass}
+## [!DNL Adobe Pass] {#pass}
 
 [!DNL Adobe Pass] is een tv-platform met meerdere schermen dat omroepen, kabelnetwerken en serviceproviders helpt aantrekkelijke, persoonlijke kijkervaringen te maken en te monetiseren.
 
@@ -652,7 +650,7 @@ Zie {de Documentatie van 0} Adobe Pass ](https://experienceleague.adobe.com/en/d
 
 +++
 
-## ![ Pictogram ](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
+## [!DNL Document Cloud] {#doc-cloud}
 
 Nieuwe zelfstudies gepubliceerd voor [!DNL Document Cloud] , inclusief [!DNL Acrobat Services] en [!DNL Acrobat Sign] .
 
@@ -679,7 +677,7 @@ Zie voor [!DNL Document Cloud] zelfstudies:
 
 +++
 
-## ![ Pictogram ](/assets/creative-cloud-24.png) [!DNL Creative Cloud] voor onderneming {#creative-cloud}
+## [!DNL Creative Cloud] voor ondernemingen {#creative-cloud}
 
 Nieuwe zelfstudies gepubliceerd voor toepassingen in [!DNL Adobe Creative Cloud for enterprise] .
 
@@ -693,11 +691,11 @@ Zie [ Creative Cloud voor ondernemingsleerprogramma&#39;s ](https://experiencele
 
 +++
 
-## ![ Pictogram ](/assets/experience-league.png) Beheer van de Gegevens van de Klant - Steekten {#voices}
+## Beheer van klantgegevens - Voices {#voices}
 
 ](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) de Stemmen van het Beheer van de Gegevens van de Klant [ is uw bestemming als technische en marketing praktijkleider en specialist van het klantengegevensbeheer. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk eenvoudig.
 
-## ![ pictogram ](/assets/experience-league.png) Digitale Ervaring Blauwdrukken {#blueprints}
+## Digital Experience-blauwdrukken {#blueprints}
 
 [ Digitale Vervaging van de Ervaring ](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) is herhaalbare implementaties die u strategie laten richten en snel gevestigde bedrijfsproblemen oplossen. Elke blauwdruk verstrekt een reeks artefacten die het high-value bedrijfsprobleem, architectuur, implementatiestappen, technische overwegingen, en verbindingen aan de relevante documentatie verklaren.
 
