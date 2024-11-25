@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4576'
+source-wordcount: '4580'
 ht-degree: 9%
 
 ---
@@ -34,7 +34,7 @@ Voor de beste zelfhulpervaring, teken binnen aan [ Experience League ](https://e
 
 **November 2024**
 
-Laatste update: **zaterdag 22 november 2024**
+Laatste update: **maandag 24 november 2024**
 
 * [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**November 24**)
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ Laatste update: **zaterdag 22 november 2024**
 * [ Certificatie bij Adobe ](https://experienceleague.adobe.com/en/certification-home)
 * {de kwetsbaarheden van de het productveiligheid van 0} Adobe ](https://helpx.adobe.com/nl/security.html)[
 
-## [!DNL Experience League] gebeurtenissen en updates {#events}
+## [!DNL Experience League] updates en gebeurtenissen {#events}
 
 Leer over spannende gebeurtenissen op Experience League. Het is een fantastische plek om te leren, te interageren en antwoorden te krijgen van productexperts bij de Adobe!
 
-+++Details
+### Updates voor Experience League
 
-### Verbeterde inhoudsopgave
++++Details
 
 Update: **22 November, 2024**
 
-Aan elke inhoudsopgave in Experience League zijn de volgende wijzigingen aangebracht:
+**de updates van de inhoudstafel:** De volgende updates zijn gemaakt aan elke inhoudstafel in Experience League:
 
 * **[!UICONTROL Expand all sections]** - De volledige inhoudsopgave wordt weergegeven op elke hulplijn van een Experience League. (Deze schakeloptie wordt uitgeschakeld nadat een pagina is geladen. Dit probleem wordt in een toekomstige update opgelost.) De opties **[!UICONTROL View more]** en **[!UICONTROL View less]** zijn verwijderd.
 * **Schuiven**: Laat het scrollen door een lange inhoudstafel toe.
