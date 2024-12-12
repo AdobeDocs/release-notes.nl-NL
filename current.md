@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4580'
+source-wordcount: '4661'
 ht-degree: 9%
 
 ---
@@ -34,15 +34,15 @@ Voor de beste zelfhulpervaring, teken binnen aan [ Experience League ](https://e
 
 **November 2024**
 
-Laatste update: **maandag 24 november 2024**
+Laatste update: **donderdag 11 december 2024**
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**November 24**)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**December 11**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Vrijgegeven: **Oktober 23**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Vrijgegeven: **Oktober 23**)
+* [[!DNL Adobe Analytics]](#analytics) (Meest recente versie: **23 Oktober**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Meest recente versie: **23 Oktober**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -103,6 +103,10 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 ### Gebeurtenissen op Experience League
 
 +++Details
+
+* **[!DNL Workfront]** | Communautaire gebeurtenis | _verbind: Collectief Workfront_ | Neem deel aan onze maandelijkse Collectieve Workfront-evenementen die zijn ontworpen om verbinding te maken met andere klanten, bespreek de Workfront-functies, deel ideeën en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **December 16 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Chat Vragen en antwoorden | _Admin 101: Breng Uw Vragen van Workfront_ | Nieuw bij Workfront? Heeft u een van de vorige Admin 101-sessies overgeslagen? Word lid van onze samenvattingssessie om vragen te stellen, bronnen en aanbevelingen te krijgen en andere nieuwe beheerders te ontmoeten. | **December 17 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
