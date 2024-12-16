@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
+source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
 workflow-type: tm+mt
-source-wordcount: '4661'
+source-wordcount: '4716'
 ht-degree: 9%
 
 ---
@@ -32,11 +32,11 @@ Voor de beste zelfhulpervaring, teken binnen aan [ Experience League ](https://e
 
 **krijgt op de hoogte gebracht:** om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, aan de [ Update van het Product van de Prioriteit van de Adobe te intekenen ](https://www.adobe.com/subscription/priority-product-update.html).
 
-**November 2024**
+**November/December 2024**
 
-Laatste update: **donderdag 11 december 2024**
+Laatste update: **dinsdag 16 december 2024**
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**December 11**)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**December 16**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -104,9 +104,11 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL Workfront]** | Communautaire gebeurtenis | _verbind: Collectief Workfront_ | Neem deel aan onze maandelijkse Collectieve Workfront-evenementen die zijn ontworpen om verbinding te maken met andere klanten, bespreek de Workfront-functies, deel ideeën en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **December 16 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Chat Vragen en antwoorden | _Admin 101: Breng Uw Vragen van Workfront_ | Nieuw bij Workfront? Heeft u een van de vorige Admin 101-sessies overgeslagen? Word lid van onze samenvattingssessie om vragen te stellen, bronnen en aanbevelingen te krijgen en andere nieuwe beheerders te ontmoeten. | **December 17 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Eerste Webinar van de Versie van Adobe Workfront Kwartaal_ | Gehost in partnerschap met Jeremy Flores, Sr. Product Manager, zal dit webinar de recentste de eigenschapverhogingen van Adobe Workfront benadrukken die volgende week in Eerste Kwart 2025 Versie gepland zijn vrij te geven. | **Januari 9 @ 10:30 MMT** | [ Register ](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting die in partnerschap met de Katholieke Diensten van de Reliëf wordt ontvangen zal beste praktijken evenals vrije tijd voor vragen verstrekken. | **Januari 10 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
