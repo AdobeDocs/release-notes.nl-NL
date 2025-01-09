@@ -6,14 +6,14 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
+source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
 workflow-type: tm+mt
-source-wordcount: '4716'
-ht-degree: 9%
+source-wordcount: '4796'
+ht-degree: 8%
 
 ---
 
-# Opmerkingen bij de release van Experience Cloud - november 2024
+# Opmerkingen bij de release van Experience Cloud - november/december 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -34,15 +34,15 @@ Voor de beste zelfhulpervaring, teken binnen aan [ Experience League ](https://e
 
 **November/December 2024**
 
-Laatste update: **dinsdag 16 december 2024**
+Laatste update: **woensdag 9 januari 2024**
 
 * [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**December 16**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
+* [[!DNL Adobe Experience Cloud]  - centrale interface en beleid ](#ecloud) (**Januari 9**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Meest recente versie: **23 Oktober**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Meest recente versie: **23 Oktober**)
+* [[!DNL Adobe Analytics]](#analytics) (Volgende versie: **Januari 22**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Volgende versie: **Januari 22**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -104,8 +104,6 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL Workfront]** | Chat Vragen en antwoorden | _Admin 101: Breng Uw Vragen van Workfront_ | Nieuw bij Workfront? Heeft u een van de vorige Admin 101-sessies overgeslagen? Word lid van onze samenvattingssessie om vragen te stellen, bronnen en aanbevelingen te krijgen en andere nieuwe beheerders te ontmoeten. | **December 17 @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Workfront | _Eerste Webinar van de Versie van Adobe Workfront Kwartaal_ | Gehost in partnerschap met Jeremy Flores, Sr. Product Manager, zal dit webinar de recentste de eigenschapverhogingen van Adobe Workfront benadrukken die volgende week in Eerste Kwart 2025 Versie gepland zijn vrij te geven. | **Januari 9 @ 10:30 MMT** | [ Register ](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | Workfront | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting die in partnerschap met de Katholieke Diensten van de Reliëf wordt ontvangen zal beste praktijken evenals vrije tijd voor vragen verstrekken. | **Januari 10 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -144,7 +142,9 @@ Om het gemakkelijker te maken om de voorkeur van de het productgegevens van de E
 
 | Releasedatum | Functie | Beschrijving |
 | -----------| -----------| ---------- |
-| Oktober 2 | Aanpasbare woning | Klik op de openingspagina van het Experience Cloud op **[!UICONTROL Edit]** . In de modus [!UICONTROL Edit] kunt u de startpagina van uw Experience Cloud aanpassen met toegang tot een widgetbibliotheek en aangepaste achtergronden. De modus [!UICONTROL Edit] biedt naadloze, intuïtieve besturingselementen voor het verplaatsen, vergroten, verkleinen en beheren van widgets. Deze functie omvat acties in grote hoeveelheden en aanpassingen van de layout, zodat u een meer esthetische en op maat gesneden ervaring hebt. Pas de startpagina van uw Experience Cloud aan met toegang tot een widgetbibliotheek en aangepaste achtergronden. |
+| **9 Januari** | Productgebruiksgegevens | Om het gemakkelijker te maken om de voorkeur van de het productgebruiksgegevens van het Experience Cloud te controleren, stroomden wij onze Experience Cloud [ Voorkeur ](https://experienceleague.adobe.com/docs/core-services/interface/features/account-preferences.html#product-usage-data) pagina om dubbele opties te verwijderen. Met deze vereenvoudiging, hebben wij huidige gebruikersvoorkeur behouden, en u kunt uw voorkeur op elk ogenblik op [ voorkeur van het Experience Cloud ](https://experience.adobe.com/preferences) bijwerken. |
+| **Januari 30** (geplande versiedatum) | Spectrum 2 | Het toepassingsframe van het Experience Cloud, dat de headerbalk bevat en de componenten die via de kopbalk kunnen worden geopend, en de linkernavigatiespoor voor bepaalde toepassingen worden bijgewerkt naar Spectrum 2, het meest recente ontwerpsysteem van de Adobe. Dit vernieuwde ontwerp bevat een bijgewerkte iconografie, maar heeft dezelfde functionaliteit. Verschillende elementen in de koptekst worden echter opnieuw gepositioneerd en uitgelijnd met andere Adobe-sites en -toepassingen. |
+| **Oktober 2** | Aanpasbare woning | Klik op de openingspagina van het Experience Cloud op **[!UICONTROL Edit]** . In de modus [!UICONTROL Edit] kunt u de startpagina van uw Experience Cloud aanpassen met toegang tot een widgetbibliotheek en aangepaste achtergronden. De modus [!UICONTROL Edit] biedt naadloze, intuïtieve besturingselementen voor het verplaatsen, vergroten, verkleinen en beheren van widgets. Deze functie omvat acties in grote hoeveelheden en aanpassingen van de layout, zodat u een meer esthetische en op maat gesneden ervaring hebt. Pas de startpagina van uw Experience Cloud aan met toegang tot een widgetbibliotheek en aangepaste achtergronden. |
 
 Voor hulp op [!DNL Experience Cloud] centrale interfacecomponenten, zie de [ Gids van de Interface en van het Beleid van het Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (omvat [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], en [!UICONTROL Audiences]).
 
