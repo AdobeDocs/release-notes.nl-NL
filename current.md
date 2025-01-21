@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7b8c92ee53a0cfc4a4fb38e12eee75cfc2641c03
+source-git-commit: 83c0def18c96df9a9325ecc69fa3c41a6cd2611f
 workflow-type: tm+mt
-source-wordcount: '4806'
+source-wordcount: '4954'
 ht-degree: 8%
 
 ---
@@ -105,9 +105,17 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL Workfront]** | Workfront | _Eerste Webinar van de Versie van Adobe Workfront Kwartaal_ | Gehost in partnerschap met Jeremy Flores, Sr. Product Manager, zal dit webinar de recentste de eigenschapverhogingen van Adobe Workfront benadrukken die volgende week in Eerste Kwart 2025 Versie gepland zijn vrij te geven. | **Januari 9 @ 10:30 MMT** | [ Register ](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _wakker met Workfront: Vraag me om het even wat_ | In deze &quot;Vraag me om het even wat&quot;zitting, zullen de Adviseurs van de Zaken van Adobe Workfront Samantha Miller, Aaron Baker en Mary Ann Erickson, levende vragen nemen en beste praktijken in Workfront delen om klanten te helpen slagen in 2025. | **Januari 23 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | Workfront | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u systeembeheerder voor een marketing of creatief team? Deze klant-gedreven zitting die in partnerschap met de Katholieke Diensten van de Reliëf wordt ontvangen zal beste praktijken evenals vrije tijd voor vragen verstrekken. | **Januari 10 @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _verbind: Collectief Workfront_ | Neem deel aan onze maandelijkse Collectieve Workfront-evenementen die zijn ontworpen om verbinding te maken met andere klanten, bespreek de Workfront-functies, deel ideeën en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **Januari 27 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Leer: Het overwinnen van Verzet om op uw Reis van Workfront te veranderen_ | Neem contact op met onze Workfront-experts voor wijzigingsbeheer om met uw gebruikers de beste praktijken te bespreken voor het identificeren en overwinnen van resistentie. | **Januari 30 @ 10:00 MT** | [ Register ](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _de Reeksen van Webinar van de Zuiverheid van Adobe Target_ | Adobe Target-innovaties, waaronder GenAI, en best practices op het gebied van personalisatie en experimenten op schaal met AI. | **Februari 4 @ 9:00 AM MT** | [ Register ](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketo &amp; Mochas: 5 Eigenschappen van Marketo om in 2025_ te kennen | In onze eerste Marketo &amp; Mochas-sessie van het jaar zullen Marketo-experts Carly Gaver en Kate Colbert meer dan vijf mogelijkheden bieden die klanten in 2025 kunnen helpen om meer ervaring op te doen en de vraag te stimuleren. | **Februari 6 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce &amp; Koffie: De Stijging van Zelfbediening in B2B_ | Begin het jaar met onze Commerce-experts, Corey Gelato &amp; Agbi Bajrushi, als ze de nieuwste B2B-trends verkennen en een aanpak kiezen om nieuwe Adobe Commerce-functies te gebruiken om het hele jaar door de concurrentie te blijven voorstaan. | **Februari 13 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
