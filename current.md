@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
+source-git-commit: 7b8c92ee53a0cfc4a4fb38e12eee75cfc2641c03
 workflow-type: tm+mt
-source-wordcount: '4796'
+source-wordcount: '4806'
 ht-degree: 8%
 
 ---
@@ -34,7 +34,8 @@ Voor de beste zelfhulpervaring, teken binnen aan [ Experience League ](https://e
 
 **November/December 2024**
 
-Laatste update: **woensdag 9 januari 2024**
+Laatste update: **Januari 21, 2024**
+Volgende pagina verfrist zich: **22 Januari, 2025**
 
 * [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**December 16**)
 * [[!DNL Adobe System Status]](#status)
@@ -47,7 +48,7 @@ Laatste update: **woensdag 9 januari 2024**
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (Bijgewerkt **Januari 21**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
@@ -381,13 +382,13 @@ Download de nieuwste updates voor [!DNL Adobe Campaign] . Zoek naar nieuwe zelfs
 
 ### Nieuwste productreleases in de campagne
 
-* [!DNL Web User Interface]: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8: [ 15 Januari, 2025 - de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign] v8: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Web User Interface]: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [ 25.1 - de nota&#39;s van de Versie van 2025 ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
 ### Nieuwe [!DNL Campaign] zelfstudies {#tutorials-campaign}
 
