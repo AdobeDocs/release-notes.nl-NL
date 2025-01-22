@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a6b06a2fd33e45c0efff9173803debc392244fae
+source-git-commit: e1fa57bb50fae162e3fcd51c1b28abbdba3bb3a3
 workflow-type: tm+mt
-source-wordcount: '4444'
+source-wordcount: '4450'
 ht-degree: 8%
 
 ---
@@ -290,6 +290,8 @@ Nieuwe functies, correcties en updates in [!DNL Experience Manager] . Adobe raad
 +++Details
 
 ### Experience Manager-releasegegevens
+
+Volgende AEM CS versie: **Januari 30**
 
 Alle opmerkingen bij de release van [!DNL Experience Manager] worden op de volgende pagina&#39;s bijgehouden:
 
