@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
+source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
 workflow-type: tm+mt
-source-wordcount: '4448'
+source-wordcount: '4340'
 ht-degree: 8%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 8%
 
 ## Januari 2025
 
-Laatste update: **donderdag 22 januari 2025**
+Laatste update: **donderdag 5 februari 2025**
 
 Raadpleeg de opmerkingen bij de release van het product voor specifieke releasedatums van de toepassing.
 
@@ -69,35 +69,23 @@ Raadpleeg de opmerkingen bij de release van het product voor specifieke released
 
 Leer over spannende gebeurtenissen op Experience League. Het is een fantastische plek om te leren, te interageren en antwoorden te krijgen van productexperts bij de Adobe!
 
-### Updates voor Experience League
+### Updates van Experience League (februari 2025)
 
 +++Details
 
-Uitgegeven: **Vlag 2024**
+**Persoonlijke homepage**
 
-**de updates van de inhoudstafel:** De volgende updates zijn gemaakt aan elke inhoudstafel in Experience League:
+Vrijgegeven: **5 Februari, 2025**
 
-* **[!UICONTROL Expand all sections]** - De volledige inhoudsopgave wordt weergegeven op elke hulplijn van een Experience League. (Deze schakeloptie wordt uitgeschakeld nadat een pagina is geladen. Dit probleem wordt in een toekomstige update opgelost.) De opties **[!UICONTROL View more]** en **[!UICONTROL View less]** zijn verwijderd.
-* **Schuiven**: Laat het scrollen door een lange inhoudstafel toe.
-* **[!UICONTROL Filter by keyword]**: hiermee kunt u items in de inhoudsopgave filteren door trefwoorden te typen. Een vervolgkeuzelijst geeft de relevante resultaten weer en u kunt het filter wissen door op **[!UICONTROL Clear]** te klikken.
-* **Actieve paginagezicht**: De actieve pagina wordt altijd benadrukt in de inhoudstafel.
+Het geheel nieuwe ](https://experienceleague.adobe.com/?lang=en) bezit van het Experience League [ eigenschappen gepersonaliseerde het leren aanbevelingen die door [!DNL Adobe Target] worden aangedreven.
 
-### Afspeellijsten op Experience League
+Belangrijkste kenmerken:
 
-De nieuwe video [ playlists ](https://experienceleague.adobe.com/nl/playlists) zijn beschikbaar op Experience League. Een afspeellijst is een gekrulde verzameling video&#39;s die zijn ontworpen om u te helpen de vaardigheden en kennis te verwerven die u zoekt.
-
-Voorbeelden van functies voor afspeellijsten:
-
-* Automatisch afspeelbare video&#39;s
-* De selectie van het hoofdstuk en playbacksnelheid
-* Hervat waar u weg verliet
-* Videotranscripties
-
-Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om door afspeellijsten te bladeren.
-
->[!NOTE]
->
->Als u een cursus op het Experience League hebt gemarkeerd, wordt u omgeleid naar een corresponderende afspeellijst. In sommige gevallen moet u naar een nieuwe afspeellijst bladeren die de onderwerpen behandelt die u zoekt.
+* Aanbevolen inhoud op basis van rol, product en recente activiteit
+* Onlangs bekeken inhoud
+* Voorgestelde gebeurtenissen en certificeringen op aanvraag
+* Nieuw gepubliceerde inhoud voor uw product
+* Opnieuw ontworpen, vernieuwde interface
 
 +++
 
@@ -105,15 +93,17 @@ Navigeer naar **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Details
 
-* **[!DNL Workfront]** | _wakker met Workfront: Vraag me om het even wat_ | In deze sessie &quot;Vraag me om het even wat&quot; zullen Adobe [!DNL Workfront] bedrijfsadviseurs Samantha Miller, Aaron Baker en Mary Ann Erickson live vragen stellen en best practices delen in [!DNL Workfront] om klanten te helpen in 2025 succesvol te zijn. | **Januari 23 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _verbind: [!DNL Workfront] Collectief_ | Neem deel aan onze maandelijkse maandag [!DNL Workfront] Collectieve gebeurtenissen die zijn ontworpen om verbinding te maken met andere klanten, bespreek [!DNL Workfront] -functies, deel ideeën en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **Januari 27 @ 7:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Leer: Het overwinnen van Verzet om op uw [!DNL Workfront] Reis_ te veranderen | Neem contact op met onze [!DNL Workfront] experts voor wijzigingsbeheer om de beste praktijken voor het identificeren en overwinnen van weerstand met uw gebruikers te bespreken. | **Januari 30 @ 10:00 MT** | [ Register ](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _de Reeksen van Webinar van de Zuiverheid van Adobe Target_ | Adobe Target-innovaties, waaronder GenAI, en best practices op het gebied van personalisatie en experimenten op schaal met AI. | **Februari 4 @ 9:00 AM MT** | [ Register ](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Adobe Summit]** | _de Digitale Conferentie van de Ervaring_ | Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. | **Maart 18 - 19 @ Las Vegas &amp; Online** | [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 * **[!DNL Target]** | _Marketo &amp; Mochas: 5 Eigenschappen van Marketo om in 2025_ te kennen | In onze eerste [!DNL Marketo] &amp; Mochas-sessie van het jaar beschrijven [!DNL Marketo] experts Carly Gaver en Kate Colbert vijf mogelijkheden die de klant meer mogelijkheden bieden en de vraag in 2025 doen toenemen. | **Februari 6 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _verbind: Admin Chat voor Marketing &amp; Creative_ | Bent u een Workfront System Admin voor een marketing of creatief team? Sluit u aan bij onze interactieve discussie om verbinding te maken met andere beheerders en beste praktijken te delen! | **7 Februari @ 10:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Admin 101: Het krijgen van Gebruikers om Workfront_ te gebruiken | Nieuw bij Workfront? Neem deel aan de tweede sessie van onze 3-delige reeks, waar we beste praktijken aanbieden met betrekking tot projectopname en gebruikerstoepassing. | **11 Februari @ 9:00 AM MT** | [ Register ](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _vraag me om het even wat over Workfront Governance_ | Vraag onze interne experts hoe u uw Workfront-processen, -beleid en -controles kunt verbeteren en beter kunt afstemmen op de strategische doelstellingen van uw organisatie! | **Februari 12 @ 9:00 AM MT** | [ Register ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
+
+* **[!DNL Marketo and Marketo Engage]** | _de Uren van het Bureau van de Champion van Adobe Marketo Engage - Februari 2025_ | Meld u aan bij ons voor een tijdvriendelijke Champion Office Hours onder leiding van de 2024/25 Marketo Engage Champions. | **Februari 13 @ 8:00 AM MT** | [ Register ](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce &amp; Koffie: De Stijging van Zelfbediening in B2B_ | Begin het jaar krachtig met onze [!DNL Commerce] -experts, Corey Gelato &amp; Agbi Bajrushi, omdat ze de nieuwste B2B-trends verkennen en een aanpak kiezen voor het benutten van nieuwe Adobe [!DNL Commerce] -functies om het hele jaar voor de wedstrijd te blijven. | **Februari 13 @ 11:00 AM MT** | [ Register ](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
