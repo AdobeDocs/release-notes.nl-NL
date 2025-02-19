@@ -6,7 +6,7 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4da21954306cc403bc19a1602a7603a6be6cf001
+source-git-commit: 2c335cc0a49915c85d284fdd4de72dfb985dcccb
 workflow-type: tm+mt
 source-wordcount: '3611'
 ht-degree: 8%
@@ -137,7 +137,7 @@ Ga naar de meest recente releasegegevens en nieuwe documentatie voor [!DNL Exper
 
 +++Details
 
-Versie: **Feburary 18, 2025**
+Versie: **18 februari, 2025**
 
 * Aanvullende informatie over[[!DNL Experience Platform] ](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
@@ -201,7 +201,7 @@ Zoek de meest recente releasegegevens voor [!DNL Adobe Analytics] en [!DNL AppMe
 
 [!DNL Analytics] versiedatum: **19 februari, 2025**
 
-* [!DNL Analytics][release notes] (https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
+* [!DNL Analytics] [ versienota&#39;s ](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [ productdocumentatie en leerprogramma&#39;s ](https://experienceleague.adobe.com/en/docs/analytics)
 
