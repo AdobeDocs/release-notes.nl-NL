@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
+source-git-commit: 566009aeac5ff30a0368d90226e1fd31583cba5d
 workflow-type: tm+mt
-source-wordcount: '3609'
+source-wordcount: '3652'
 ht-degree: 8%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 8%
 
 ## Februari 2025
 
-Laatste update: **donderdag 19 februari 2025**
+Laatste update: **dinsdag 24 februari 2025**
 
 Gebruik deze koppelingen om opmerkingen bij de release van de toepassing, gebeurtenissen, nieuwe zelfstudies en de nieuwste ondersteuningsartikelen voor de Knowledge Base te vinden:
 
@@ -87,11 +87,13 @@ Belangrijkste kenmerken:
 
 +++Details
 
-* **[!DNL Adobe Summit]** | _de Digitale Conferentie van de Ervaring_ | Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. | **Maart 18 - 19 @ Las Vegas &amp; Online** | [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _de Digitale Conferentie van de Ervaring_ | Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. | **Maart 18 - 19 @ Las Vegas &amp; Online** | [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Experience Cloud]** | _Digitale Inzichten van Adobe: Het losmaken van 2024 vakantieresultaten en begin 2025 tendensen_ | Een uitgebreide hervatting van de vakantieboodschappentendensen in 2024 en een blik op de eerste helft van 2025. Gebruik deze inzichten om u te helpen voorspellen en klantenverwachtingen in het komende jaar overtreffen. | **Februari 20 @ 10:00 AM MST** | [ Register ](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** | Leer van uw collega&#39;s | _hoe te om de Waarde van Workfront te meten en te delen_ | Word lid van ons op 26 februari 2025, terwijl uw collega&#39;s van Synchrony en EMMsphere delen hoe ze hun ultieme &#39;Workfront Waarom&#39; creëerden en hoe ze meetbare resultaten communiceren, zoals tijd en kostenbesparingen.| **Februari 26 @ 8:00 AM PT** | [ Register ](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | _verbind: Collectief Workfront_ | Neem deel aan onze maandelijkse Collectieve Workfront-evenementen die zijn ontworpen om verbinding te maken met andere klanten, bespreek de Workfront-functies, deel ideeën en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | **Februari 24 @ 7:00 AM MST** | [ Register ](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | Webinar | _Beveilig Uitvoerend Sponsorship voor Adobe Workfront_ | Ontdek hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren.| **Februari 27 @ 9:00 AM MST** | [ Register ](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _het Ontgrendelen van operationele inzichten met AI Medewerker in Adobe Experience Platform_ | Ontdek hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren.| **Februari 27 @ 8:30 AM PST** | [ Register ](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
