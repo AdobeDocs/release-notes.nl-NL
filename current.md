@@ -6,7 +6,7 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3a542c8eddc0015672a975dd2b9fcd024a808084
+source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
 workflow-type: tm+mt
 source-wordcount: '3652'
 ht-degree: 8%
@@ -87,13 +87,13 @@ Belangrijkste kenmerken:
 
 +++Details
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _de Digitale Conferentie van de Ervaring_ | Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. | **Maart 18 - 19 @ Las Vegas &amp; Online** | [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | Leer van uw collega&#39;s | _hoe te om de Waarde van Workfront te meten en te delen_ | **Februari 26 @ 8:00 AM PT** | Word lid van ons op 26 februari 2025, terwijl uw collega&#39;s van Synchrony en EMMsphere delen hoe ze hun ultieme &#39;Workfront Waarom&#39; creëerden en hoe ze meetbare resultaten communiceren, zoals tijd en kostenbesparingen. | [ Register ](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | Leer van uw collega&#39;s | _hoe te om de Waarde van Workfront te meten en te delen_ | Word lid van ons op 26 februari 2025, terwijl uw collega&#39;s van Synchrony en EMMsphere delen hoe ze hun ultieme &#39;Workfront Waarom&#39; creëerden en hoe ze meetbare resultaten communiceren, zoals tijd en kostenbesparingen.| **Februari 26 @ 8:00 AM PT** | [ Register ](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
+* **[!DNL Workfront]** | Webinar | _Beveilig Uitvoerend Sponsorship voor Adobe Workfront_ | **Februari 27 @ 9:00 AM MST** | Ontdek hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren. | [ Register ](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | Webinar | _Beveilig Uitvoerend Sponsorship voor Adobe Workfront_ | Ontdek hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren.| **Februari 27 @ 9:00 AM MST** | [ Register ](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _het Ontgrendelen van operationele inzichten met AI Medewerker in Adobe Experience Platform_ | **Februari 27 @ 8:30 AM PST** | Ontdek hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren. | [ Register ](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _het Ontgrendelen van operationele inzichten met AI Medewerker in Adobe Experience Platform_ | Ontdek hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren.| **Februari 27 @ 8:30 AM PST** | [ Register ](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Cloud]** | Adobe Summit | _de Digitale Conferentie van de Ervaring_ | **Maart 18 - 19 @ Las Vegas &amp; Online**| Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. |  [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
