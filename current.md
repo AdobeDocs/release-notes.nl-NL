@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
+source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
 workflow-type: tm+mt
-source-wordcount: '3652'
+source-wordcount: '3571'
 ht-degree: 8%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 8%
 
 ## Februari 2025
 
-Laatste update: **dinsdag 24 februari 2025**
+Laatste update: **vrijdag 27 februari 2025**
 
 Gebruik deze koppelingen om opmerkingen bij de release van de toepassing, gebeurtenissen, nieuwe zelfstudies en de nieuwste ondersteuningsartikelen voor de Knowledge Base te vinden:
 
-* [[!DNL Experience League] gebeurtenissen en updates](#events)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (**Februari 26**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -69,8 +69,6 @@ Meer weten over spannende gebeurtenissen op Experience League? Het is een geweld
 
 **Persoonlijke homepage**
 
-Vrijgegeven: **5 Februari, 2025**
-
 Het geheel nieuwe [ huis van Experience League ](https://experienceleague.adobe.com/?lang=en) eigenschappen gepersonaliseerde het leren aanbevelingen die door [!DNL Adobe Target] worden aangedreven.
 
 Belangrijkste kenmerken:
@@ -81,15 +79,13 @@ Belangrijkste kenmerken:
 * Nieuw gepubliceerde inhoud voor uw product
 * Opnieuw ontworpen, vernieuwde interface
 
+[Meer informatie...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
+
 +++
 
 ### Gebeurtenissen op Experience League
 
 +++Details
-
-* **[!DNL Workfront]** | Leer van uw collega&#39;s | _hoe te om de Waarde van Workfront te meten en te delen_ | **Februari 26 @ 8:00 AM PT** | Word lid van ons op 26 februari 2025, terwijl uw collega&#39;s van Synchrony en EMMsphere delen hoe ze hun ultieme &#39;Workfront Waarom&#39; creëerden en hoe ze meetbare resultaten communiceren, zoals tijd en kostenbesparingen. | [ Register ](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
-
-* **[!DNL Workfront]** | Webinar | _Beveilig Uitvoerend Sponsorship voor Adobe Workfront_ | **Februari 27 @ 9:00 AM MST** | Ontdek hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren. | [ Register ](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _het Ontgrendelen van operationele inzichten met AI Medewerker in Adobe Experience Platform_ | **Februari 27 @ 8:30 AM PST** | Ontdek hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren. | [ Register ](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
