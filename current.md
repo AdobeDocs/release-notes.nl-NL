@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3647'
+source-wordcount: '3677'
 ht-degree: 8%
 
 ---
@@ -125,8 +125,9 @@ Meer informatie over [!DNL Experience Cloud] centrale interfacecomponenten en be
 
 +++Details
 
-| Datum | Functie | Beschrijving |
+| Datum | Bijwerken | Beschrijving |
 | -----------| -----------| ---------- |
+| vrijdag 6 maart 2025 | Klikken met rechtermuisknop op menuoptie herstellen | Met de Experience Cloud-tabbladen voor kopnavigatie kunt u nu met de rechtermuisknop klikken en de keuzemenu&#39;s in de browser gebruiken. Hiermee wordt een probleem opgelost dat in februari is geïntroduceerd in het Spectrum 2-ontwerpsysteem. |
 | Februari 13 | Spectrum 2 | Het toepassingsframe van [!DNL Experience Cloud] , inclusief de headerbalk en componenten die via de headerbalk kunnen worden benaderd (en de linkernavigatiespoor voor bepaalde toepassingen), worden bijgewerkt naar Spectrum 2. Spectrum is Adobe-ontwerpstandaard. Dit vernieuwde ontwerp bevat een bijgewerkte iconografie, maar heeft dezelfde functionaliteit. Verschillende elementen in de koptekst worden echter opnieuw gepositioneerd, zodat ze kunnen worden uitgelijnd met andere Adobe-sites en -toepassingen. |
 
 Voor hulp op [!DNL Experience Cloud] centrale interfacecomponenten, zie de [ Gids van de Interface en van het Beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (omvat [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], en [!UICONTROL Audiences]).
