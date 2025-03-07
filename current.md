@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
+source-git-commit: 09edfe74b52391d042548e0eb9dfbe33381d3d85
 workflow-type: tm+mt
-source-wordcount: '3677'
+source-wordcount: '3669'
 ht-degree: 8%
 
 ---
@@ -87,13 +87,13 @@ Belangrijkste kenmerken:
 
 +++Details
 
-* **[!DNL Experience Manager Forms]** | _Espressos &amp; Experience Manager: AEM Forms_ | **Maart 6** | Sluit u aan bij het productteam van Adobe en AEM terwijl ze de nieuwste innovaties van AEM Forms benadrukken, waaronder: de nieuwe Gen AI Assistant, Unified Composition met AEM Sites en nieuwe manieren om formulieren in te voeren via gesprekken. | [ Register ](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Adobe Summit]** | _de Digitale Conferentie van de Ervaring_ | **Maart 18 - 19 @ Las Vegas &amp; Online**| Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. |  [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Workfront]** | _verbind: Admin Chat voor Marketing &amp; Creative_ | **Maart 7** | Of u nu een Workfront System Admin bent voor een marketing-, creatieve of een ander team, deze interactieve discussie richt zich op de beste praktijken en collectieve brainstorming. | [ Register ](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Workfront]** | _Leer: Grafiek Uw Cursus aan Succes met de Planning van Adobe Workfront_ | **Maart 13** | Sluit u aan bij onze Adobe-productmanagers voor een diepgaande inleidende sessie over Workfront Planning, waarbij ze delen hoe deze functie uitgebreide zichtbaarheid kan bieden in de bedrijfsdetails van uw organisatie. | [ Register ](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Admin 101: Het krijgen van de Gegevens van Workfront_ | **Maart 11** | Nieuw bij Workfront? Sluit u aan bij ons voor de derde sessie van de Admin 101-reeks om alles te leren melden. U kunt een interactieve discussie verwachten over blauwdrukken, dashboards, Aangepaste Forms en meer. | [ Register ](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Admin 101: Breng Uw Vragen van Workfront_ | **Maart 25** | Nieuw bij Workfront? Heeft u een van de vorige Admin 101-sessies overgeslagen? Word lid van onze samenvattingssessie om vragen te stellen, bronnen en aanbevelingen te krijgen en andere nieuwe beheerders te ontmoeten. | [ Register ](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Cloud]** | _Adobe Summit - de Digitale Conferentie van de Ervaring_ | **Maart 18 - 19 @ Las Vegas &amp; Online**| Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. |  [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Target]** | _Personalization bij de Inzichten van de Schaal, Intelligentie en Effect_ | **April 1** | Adobe Target-innovaties, waaronder Gen AI, en best practices op het gebied van personalisatie en experimenten op schaal met AI. | [ Register ](https://event.adobe.com/adobetargetmaturitywebinars03)
 
 En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
