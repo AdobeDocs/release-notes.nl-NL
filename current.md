@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
+source-git-commit: 88777fd2d5c5f195b07fc537d25887de5dd68eee
 workflow-type: tm+mt
-source-wordcount: '4039'
+source-wordcount: '3994'
 ht-degree: 6%
 
 ---
@@ -19,15 +19,19 @@ ht-degree: 6%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[ Experience League ](https://experienceleague.adobe.com/#home) helpt u over de ondernemingstoepassingen van Experience Cloud en van Adobe leren. Meld u aan en pas uw zoekopdracht aan in onze gratis bibliotheek met bronnen voor een optimale ervaring.
+[ Experience League ](https://experienceleague.adobe.com/#home) is uw bibliotheek van middelen die u over de ondernemingstoepassingen van Experience Cloud en van Adobe kunnen helpen leren. Aanmelden en:
 
-* **Op de hoogte gesteld Verblijf:** om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, aan de [ Update van het Product van de Prioriteit Adobe ](https://www.adobe.com/subscription/priority-product-update.html) in te schrijven.
+* [ pas uw het leren ](https://experienceleague.adobe.com/en/home/profile-settings) aan: Help ons uw het leren ervaring aanpassen. Selecteer uw rol, industrie, en de producten die u interesseren.
+* [ doorblader en ontdek ](https://experienceleague.adobe.com/en/browse): Vind populaire inhoud, nieuwe leerprogramma&#39;s, documentatie, aanstaande gebeurtenissen, en meer!
+* [ krijg verse perspectieven ](https://experienceleague.adobe.com/en/perspectives): Wij hebben een verscheidenheid van echte gebruiksgevallen en beste praktijken verzameld, die door uw edelen en het productdeskundigen van Adobe worden geschreven.
+* [ krijgt verklaard ](https://experienceleague.adobe.com/en/certification-home): Het nieuwe portaal van de Certificatie van Adobe maakt het eren van uw vaardigheden en het krijgen van verklaard een eenvoudig proces.
+* [ Betrokkenheid met een gemeenschap van edelen ](https://experienceleaguecommunities.adobe.com/): Sluit zich bij groepen aan, ontmoet onze Communautaire Adviseurs van Experience League, en leert zelfs hoe te om één te worden.
 
-* **terugkoppelen van het Verlof:** zoek **_was deze inhoud nuttig?_** onder aan elk artikel of elke video. Uw feedback wordt verwerkt en aan de auteurs van de inhoud bezorgd.
+Om een driemaandelijks e-mailbericht over updates aan deze pagina te ontvangen, onderteken aan de [ Prioritaire Update van het Product van Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Maart 2025
 
-Laatste update: **donderdag 12 maart 2025**
+Laatste update: **vrijdag 13 maart 2025**
 
 Gebruik deze koppelingen om opmerkingen bij de release van de toepassing, gebeurtenissen, nieuwe zelfstudies en de nieuwste ondersteuningsartikelen voor de Knowledge Base te vinden:
 
@@ -58,37 +62,13 @@ Gebruik deze koppelingen om opmerkingen bij de release van de toepassing, gebeur
 * [ Certificatie bij Adobe ](https://experienceleague.adobe.com/en/certification-home)
 * [ de kwetsbaarheid van de het productveiligheid van Adobe ](https://helpx.adobe.com/nl/security.html)
 
-## [!DNL Experience League] updates en gebeurtenissen {#events}
+## Gebeurtenissen op [!DNL Experience League] {#events}
 
-Meer weten over spannende gebeurtenissen op Experience League? Het is een geweldige plek om te leren, te interageren en antwoorden te krijgen van productexperts in Adobe!
+Vind [ gebeurtenissen ](https://experienceleague.adobe.com/events/) en registreer voor degenen die u interesseren.
 
-### Updates voor Experience League
-
-+++Details
-
-**Persoonlijke homepage**
-
-Het geheel nieuwe [ huis van Experience League ](https://experienceleague.adobe.com/?lang=en) eigenschappen gepersonaliseerde het leren aanbevelingen die door [!DNL Adobe Target] worden aangedreven.
-
-Belangrijkste kenmerken:
-
-* Aanbevolen inhoud op basis van rol, product en recente activiteit
-* Onlangs bekeken inhoud
-* Voorgestelde gebeurtenissen en certificeringen op aanvraag
-* Nieuw gepubliceerde inhoud voor uw product
-* Opnieuw ontworpen, vernieuwde interface
-
-[Meer informatie...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
-
-+++
-
-### Gebeurtenissen op Experience League
-
-+++Details
++++Gebeurtenissen
 
 * **[!DNL Adobe Summit]** | _de Digitale Conferentie van de Ervaring_ | **Maart 18 - 19 @ Las Vegas &amp; Online**| Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. |  [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Leer: Grafiek Uw Cursus aan Succes met de Planning van Adobe Workfront_ | **Maart 13** | Sluit u aan bij onze Adobe-productmanagers voor een diepgaande inleidende sessie over Workfront Planning, waarbij ze delen hoe deze functie uitgebreide zichtbaarheid kan bieden in de bedrijfsdetails van uw organisatie. | [ Register ](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Admin 101: Breng Uw Vragen van Workfront_ | **Maart 25** | Nieuw bij Workfront? Heeft u een van de vorige Admin 101-sessies overgeslagen? Word lid van onze samenvattingssessie om vragen te stellen, bronnen en aanbevelingen te krijgen en andere nieuwe beheerders te ontmoeten. | [ Register ](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -110,7 +90,9 @@ En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experiencele
 
 Meer informatie over de nieuwste functies en updates vindt u in [!DNL Adobe System Status] .
 
-+++Details
+No March updates.
+
++++Opmerkingen bij de release
 
 [!DNL Adobe System Status] biedt gedetailleerde informatie, statusupdates en e-mailmeldingen over Adobe-producten en -services. Word op de hoogte gesteld van onderbrekingen, onderbrekingen en onderhoudsgebeurtenissen. Ga naar [status.adobe.com](https://status.adobe.com/).
 
@@ -130,7 +112,7 @@ Opmerkingen bij recente releases vindt u hier:
 
 Meer informatie over [!DNL Experience Cloud] centrale interfacecomponenten en beheer. Producten en gebruikers beheren, profielinstellingen en -voorkeuren configureren, Experience Cloud-objecten doorzoeken en cookies beheren.
 
-+++Details
++++Nieuwe functies
 
 | Datum | Bijwerken | Beschrijving |
 | -----------| -----------| ---------- |
