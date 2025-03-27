@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b650fd69124036dd9e12bdb901467b3c5ab49de7
+source-git-commit: 53b0b8e4d33473fdca0a31307b905f51a49d405a
 workflow-type: tm+mt
-source-wordcount: '3994'
+source-wordcount: '3934'
 ht-degree: 6%
 
 ---
@@ -191,17 +191,15 @@ Zoek de meest recente releasegegevens voor [!DNL Adobe Analytics] en [!DNL AppMe
 
 ### AppMeasurement {#appm}
 
-Versie van de versie: **2.27.0**
+* [ AppMeasurement voor de versienota&#39;s van JavaScript ](https://github.com/adobe/appmeasurement/releases)
 
-* [ AppMeasurement voor de versienota&#39;s van JavaScript ](https://experienceleague.adobe.com/en/docs/analytics/implementation/appmeasurement-updates)
+<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
-### Nieuwe [!DNL Analytics] zelfstudies {#tutorials-analytics}
+New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
-Nieuwe zelfstudies voor Adobe [!DNL Analytics] op Experience League.
-
-| Gepubliceerd | Naam | Type | Beschrijving |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-| Maart 2025 | [ Migreer Adobe Analytics aan Web SDK gebruikend Markeringen ](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview) | Meerdere video&#39;s | Leer de stappen voor het migreren van een Adobe [!DNL Analytics] -implementatie met de [!DNL Analytics] -extensie in Experience Platform-tags (voorheen bekend als [!DNL Launch] ) naar Web SDK, ook met de Web SDK-extensie in Tags. |
+|March 2025|[Migrate Adobe Analytics to Web SDK using Tags](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview)| Multiple videos |Learn the steps to migrate an Adobe [!DNL Analytics] implementation using the [!DNL Analytics] extension in Experience Platform Tags (formerly known as [!DNL Launch]) to Web SDK, using the Web SDK extension also in Tags. |
 
 <!-- ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
