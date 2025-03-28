@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3934'
+source-wordcount: '3850'
 ht-degree: 6%
 
 ---
@@ -69,10 +69,6 @@ Vind [ gebeurtenissen ](https://experienceleague.adobe.com/events/) en registree
 +++Gebeurtenissen
 
 * **[!DNL Adobe Summit]** | _de Digitale Conferentie van de Ervaring_ | **Maart 18 - 19 @ Las Vegas &amp; Online**| Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. |  [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Admin 101: Breng Uw Vragen van Workfront_ | **Maart 25** | Nieuw bij Workfront? Heeft u een van de vorige Admin 101-sessies overgeslagen? Word lid van onze samenvattingssessie om vragen te stellen, bronnen en aanbevelingen te krijgen en andere nieuwe beheerders te ontmoeten. | [ Register ](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Leer: 10 Tips van de Wijze van de Tekst in Adobe Workfront_ | **Maart 27** | Wilt u de rapportkennis uitbreiden met de tekstmodus? Kijk niet verder! Deze workshop introduceert u aan de grondbeginselen van de tekstmodus en de API Explorer gevolgd door 10 basistips in Adobe Workfront. | [ Register ](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _verbind: Collectief Workfront_ | **Maart 31** | Neem deel aan onze maandelijkse Collectieve Workfront-evenementen die zijn ontworpen om verbinding te maken met andere klanten, bespreek de Workfront-functies, deel ideeën en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | [ Register ](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
