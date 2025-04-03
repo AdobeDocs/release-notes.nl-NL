@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
+source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
 workflow-type: tm+mt
-source-wordcount: '3850'
+source-wordcount: '3862'
 ht-degree: 6%
 
 ---
@@ -472,6 +472,12 @@ Meer informatie over de nieuwste releaseopmerkingen voor [!DNL Adobe Workfront] 
 +++Details
 
 ### [!DNL Adobe Workfront] updates
+
+Laatste release:
+
+* [ Tweede Kwartaal 2025 releaseoverzicht ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+
+Voor alle releasegegevens:
 
 * Zie de  [!DNL Workfront]  het productversies van Adobe ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina van 0} {voor [!DNL Workfront] versie planninformatie en versienota&#39;s.[
 
