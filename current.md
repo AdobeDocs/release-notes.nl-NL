@@ -1,19 +1,19 @@
 ---
 title: Nieuwste aanvullende informatie
-description: Vind de recentste versienota's en de kwesties van de Kennisbank voor Adobe  [!DNL Experience Cloud]  producten en de diensten. Meer informatie over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de recentste leerprogramma's en cursussen voor  [!DNL Experience Cloud]  toepassingen.
+description: Vind de recentste versienota's en de kwesties van de Kennisbank voor Adobe  [!DNL Experience Cloud]  producten en de diensten. Meer informatie over aanstaande gebeurtenissen en nieuwe documentatie over Experience League. Ontdek de nieuwste tutorials en cursussen voor [!DNL Experience Cloud] toepassingen.
 doc-type: release notes
 last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
+source-git-commit: d895210dc6c24a5e5230f60987c125a2d8ba0bfb
 workflow-type: tm+mt
-source-wordcount: '3862'
+source-wordcount: '3729'
 ht-degree: 6%
 
 ---
 
-# Opmerkingen bij de release van Experience Cloud - maart 2025
+# Release-opmerkingen voor Experience Cloud - maart 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -31,13 +31,11 @@ Om een driemaandelijks e-mailbericht over updates aan deze pagina te ontvangen, 
 
 ## Maart 2025
 
-Laatste update: **vrijdag 13 maart 2025**
+Gebruik deze koppelingen om release-opmerkingen voor toepassingen, evenementen, nieuwe zelfstudies en de meest recente Knowledge Base-ondersteuningsartikelen te vinden:
 
-Gebruik deze koppelingen om opmerkingen bij de release van de toepassing, gebeurtenissen, nieuwe zelfstudies en de nieuwste ondersteuningsartikelen voor de Knowledge Base te vinden:
-
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events)
+* [[!DNL Experience League] evenementen en updates](#events) (bijgewerkt **op 8** april)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
+* [[!DNL Adobe Experience Cloud] - Centrale interface en administratie](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -68,17 +66,9 @@ Vind [ gebeurtenissen ](https://experienceleague.adobe.com/events/) en registree
 
 +++Gebeurtenissen
 
-* **[!DNL Adobe Summit]** | _de Digitale Conferentie van de Ervaring_ | **Maart 18 - 19 @ Las Vegas &amp; Online**| Doe mee met peers en hoor van directeuren van Coca-Cola Company, JPMorganChase, ServiceNow en meer. |  [ Register ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _verbind: Collectief Workfront_ | **Maart 31** | Neem deel aan onze maandelijkse Collectieve Workfront-evenementen die zijn ontworpen om verbinding te maken met andere klanten, bespreek de Workfront-functies, deel ideeën en brainstorm samen om gemeenschappelijke uitdagingen op te lossen. | [ Register ](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Personalization bij de Inzichten van de Schaal, Intelligentie en Effect_ | **April 1** | Adobe Target-innovaties, waaronder [!DNL Gen AI] , en tips en trucs voor het aanpassen en experimenteren op schaal met AI-kracht. | [ Register ](https://event.adobe.com/adobetargetmaturitywebinars03)
-
-* **[!DNL Experience Manager, Experience Manager Assets, Experience Manager Forms, Experience Manager Sites, and Workfront]** | _Perfect mengsel: Een Nieuw tijdperk van Collaboration met AEM en Workfront_ | **April 2** | Ontdek hoe Adobe Experience Manager en Workfront integreren om teams te helpen van ideatie naar levering over te stappen zonder de gebruikelijke knelpunten, zodat inhoud wordt georganiseerd, on-brand wordt en klaar is om sneller te leven. | [ Register ](https://adobeevents.adobeconnect.com/eaqjw1zixw1f/event/registration.html?campaign-id=ExL)
-
 * **[!DNL Analytics]** | _Drip van Gegevens: Voordelen van het migreren van een oud systeem aan WebSDK_ | **10 April** | Als technisch adviseur van Adobe, Arindam Agarwal, begeleidt ons door de voordelen van de implementatie van Adobe WebSDK. Arindam zal een diepgaand overzicht verstrekken en de vragen tijdens Q&amp;A beantwoorden. Registreer vandaag nog! | [ Register ](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
-En nog veel meer! Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
+Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
 +++
 
@@ -112,8 +102,8 @@ Meer informatie over [!DNL Experience Cloud] centrale interfacecomponenten en be
 
 | Datum | Bijwerken | Beschrijving |
 | -----------| -----------| ---------- |
-| vrijdag 6 maart 2025 | Klikken met rechtermuisknop op menuoptie herstellen | Met de Experience Cloud-tabbladen voor kopnavigatie kunt u nu met de rechtermuisknop klikken en de keuzemenu&#39;s in de browser gebruiken. Hiermee wordt een probleem opgelost dat in februari is geïntroduceerd in het Spectrum 2-ontwerpsysteem. |
-| Februari 13 | Spectrum 2 | Het toepassingsframe van [!DNL Experience Cloud] , inclusief de headerbalk en componenten die via de headerbalk kunnen worden benaderd (en de linkernavigatiespoor voor bepaalde toepassingen), worden bijgewerkt naar Spectrum 2. Spectrum is Adobe-ontwerpstandaard. Dit vernieuwde ontwerp bevat een bijgewerkte iconografie, maar heeft dezelfde functionaliteit. Verschillende elementen in de koptekst worden echter opnieuw gepositioneerd, zodat ze kunnen worden uitgelijnd met andere Adobe-sites en -toepassingen. |
+| vrijdag 6 maart 2025 | Klikken met rechtermuisknop op menuoptie herstellen | Op de navigatietabbladen van Experience Cloud-headers kunt u nu met de rechtermuisknop klikken in de vervolgkeuzemenu&#39;s van de browser. Dit lost een probleem op dat werd geïntroduceerd in de release van het Spectrum 2-ontwerpsysteem in februari. |
+| Februari 13 | Spectrum 2 | Het [!DNL Experience Cloud] toepassingsframe, inclusief de koptekstbalk en componenten die toegankelijk zijn via de koptekstbalk (en de linkernavigatiebalk voor bepaalde toepassingen), wordt bijgewerkt naar Spectrum 2. Spectrum is de ontwerpstandaard van Adobe. Dit vernieuwde ontwerp bevat een bijgewerkte iconografie, maar heeft dezelfde functionaliteit. Verschillende elementen in de koptekst worden echter opnieuw gepositioneerd, zodat ze kunnen worden uitgelijnd met andere Adobe-sites en -toepassingen. |
 
 Voor hulp op [!DNL Experience Cloud] centrale interfacecomponenten en gebruiker en productbeleid, zie de [ interface van Experience Cloud en beleid ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) gids. (Inclusief [!UICONTROL Customer Attributes] , [!DNL Experience Cloud Assets] en [!UICONTROL Audiences] .)
 
@@ -149,27 +139,27 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Platfo
 | Februari 2025 | [ Gebeurtenissen verschijnen niet in bijbehorende profielen toe te schrijven aan het toegewezen Beleid van de Fusie in AEP ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25690) | Nieuw artikel | Leer hoe te om de kwestie op te lossen wanneer de gebeurtenissen worden verzonden naar een dataset verbonden aan specifieke profielen, verschijnen deze gebeurtenissen in de dataset, maar er niet in slagen om binnen de overeenkomstige profielen te tonen. |
 | Februari 2025 | [*500 Interne Fout van de Server* bij het creëren van de bestemming van Adobe Campaign in AEP ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25850) | Nieuw artikel | Leer hoe te om de kwestie op te lossen wanneer het creëren van een bestemming van Adobe Campaign in Adobe Experience Platform (AEP) resulteert in a *500 Interne Fout van de Server*. |
 | Februari 2025 | [ Summiere gegevens in  [!DNL Segment Builder]  variëren in Productie en Ontwikkeling in AEP ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25851) | Nieuw artikel | Leer hoe u dit probleem kunt oplossen wanneer overzichtsgegevens in [!DNL Segment Builder] verschillende gedragingen weergeven in productie- en ontwikkelomgevingen in Adobe Experience Platform. |
-| Februari 2025 | [ SFTP gegevensopname die niet zoals verwacht in AEP ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25770) werkt | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer het gegevensinvoerproces met [!DNL Secure File Transfer Protocol] (SFTP)-bronnen niet werkt zoals u had verwacht wanneer het verwachte bestand niet kan worden geüpload. |
+| Februari 2025 | [ SFTP gegevensopname die niet zoals verwacht in AEP ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25770) werkt | Nieuw artikel | Meer informatie over hoe u het probleem kunt oplossen wanneer het gegevensopnameproces met behulp van [!DNL Secure File Transfer Protocol] SFTP-bronnen niet werkt zoals verwacht wanneer het verwachte bestand niet kan worden geüpload. |
 
 +++
 
 ## [!DNL Real-Time CDP] {#rtcdp}
 
-De meest recente zelfstudies voor [!DNL Real-Time CDP] op Experience League vinden.
+Vind de nieuwste tutorials voor [!DNL Real-Time CDP] op Experience League.
 
-+++Details
++++Gegevens
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | ----------| ---------- | ---------- |---------- |
-| Maart 2025 | [ verbind met bestemmingen ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/connecting-to-destinations) | Nieuwe video | Leer over het verzenden van gegevens naar bestemmingspartners van Real-Time CDP en hoe te om de verbindingen aan die partners te vormen. |
+| Maart 2025 | [Maak verbinding met bestemmingen](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/connecting-to-destinations) | Nieuwe video | Leer over het verzenden van gegevens naar bestemmingspartners van Real-Time CDP en hoe te om de verbindingen aan die partners te vormen. |
 | Maart 2025 | [ activeer profielen en publiek aan een bestemming ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination) | Nieuwe video | Leer hoe u profielen en doelgroepen activeert voor doelen in de [!DNL Real-Time CDP] . |
 | Maart 2025 | [ creeer bestemmingen en activeer gegevens ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data) | Nieuwe video | Leer hoe u doelen maakt en gegevens activeert in [!DNL Real-Time Customer Data Platform] . |
 
-Zie voor meer informatie:
+Voor meer informatie, zie:
 
-* Videozelfstudies: [ Begrijpend Real-Time Customer Data Platform ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
+* Videozelfstudies: [Inzicht in het platform voor realtime klantgegevens](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
 
-* De documentatie van het product: [ Real-Time Customer Data Platform ](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform)
+* Productdocumentatie: [Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform)
 
 +++
 
@@ -193,13 +183,13 @@ Zoek de meest recente releasegegevens voor [!DNL Adobe Analytics] en [!DNL AppMe
 
 ## [!DNL Customer Journey Analytics] {#cja}
 
-Zoek de meest recente releasegegevens voor [!DNL Customer Journey Analytics] . Nieuwe zelfstudies weergeven op Experience League.
+Vind de meest recente release-informatie voor [!DNL Customer Journey Analytics]. Bekijk nieuwe tutorials over Experience League.
 
-+++Details
++++Gegevens
 
-[!DNL Customer Journey Analytics] versiedatum: **Maart 12, 2025**
+[!DNL Customer Journey Analytics] releasedatum: **12 maart 2025**
 
-* [!DNL Customer Journey Analytics] [ versienota&#39;s ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
+* [!DNL Customer Journey Analytics][Release-opmerkingen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)<!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
 * [!DNL Customer Journey Analytics] [ productdocumentatie en leerprogramma&#39;s ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
@@ -215,11 +205,11 @@ Nieuwe zelfstudies gepubliceerd voor [!DNL Customer Journey Analytics] .
 
 ## [!DNL Streaming Media Analytics] {#sma}
 
-Zoek de meest recente releasegegevens voor [!DNL Streaming Media Analytics] . Nieuwe zelfstudies weergeven op Experience League.
+Zoek de meest recente releasegegevens voor [!DNL Streaming Media Analytics] . Bekijk nieuwe tutorials over Experience League.
 
-+++Details
++++Gegevens
 
-* [!DNL Streaming Media Analytics] [ versienota&#39;s ](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes)
+* [!DNL Streaming Media Analytics][Release-opmerkingen](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes)
 
 * [!DNL Streaming Media Analytics] [ productdocumentatie en leerprogramma&#39;s ](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview)
 
@@ -241,28 +231,28 @@ Alle opmerkingen bij de release van [!DNL Experience Manager] worden op de volge
 * [[!DNL Experience Manager]  versie updates en roadmaps ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home)
 * [ Huidige Nota&#39;s van de Versie voor  [!DNL Experience Manager]  as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [[!DNL Experience Manager]  6.5 de versienota&#39;s van het Pak van de Dienst ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
-* [[!DNL Experience Manager]  de versienota&#39;s van Cloud Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [[!DNL Experience Manager] Opmerkingen bij de release van Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Releaseopmerkingen bij de service Geautomatiseerde conversie van formulieren](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [[!DNL Experience Manager]  de Dynamische de versienota&#39;s van Media van Assets ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [[!DNL Experience Manager]  de versienota&#39;s van Brand Portal ](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [[!DNL Experience Manager]  de versienota&#39;s van de App van de Desktop ](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager] Activa Dynamic Media release notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager] Release-opmerkingen voor Brand Portal](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager] Release-opmerkingen voor desktop-apps](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
 * [[!DNL Experience Manager]  de versienota&#39;s van Dispatcher ](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
-### Nieuwe [!DNL Experience Manager] zelfstudies {#tutorials-aem}
+### Nieuwe [!DNL Experience Manager] tutorials {#tutorials-aem}
 
-Nieuwe zelfstudies gepubliceerd voor [!DNL Experience Manager] on [!DNL Experience Manager] .
+Nieuwe tutorials gepubliceerd voor [!DNL Experience Manager] op [!DNL Experience Manager].
 
 | Gepubliceerd | Applicaties | Naam | Type | Beschrijving |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | Maart 2025 | [!DNL Experience Manager as a Cloud Service] | [ Uitvoerend pijpleiding-vrije URL richt zich opnieuw ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/administration/implementing-pipeline-free-url-redirects) | Nieuwe video | Leer hoe u URL-omleidingen zonder pijplijn implementeert in [!DNL AEM as a Cloud Service] , zodat het marketingteam omleidingen kan beheren zonder dat een ontwikkelaar hiervoor nodig is. |
-| Maart 2025 | [!DNL Experience Manager Sites] | [ AEM die ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/overview) tot stand komt | Nieuwe video | Meer informatie over AEM-gebeurtenissen, wat het is, waarom en wanneer het wordt gebruikt en voorbeelden. |
+| Maart 2025 | [!DNL Experience Manager Sites] | [ AEM die ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/overview) tot stand komt | Nieuwe video | Lees meer over AEM eventing, wat het is, waarom en wanneer u het moet gebruiken en voorbeelden ervan. |
 | Maart 2025 | [!DNL AEM Headless as a Cloud Service] | [ Next.js App ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js) | Nieuwe video | Voorbeelden van toepassingen zijn ideaal om de mogelijkheden zonder kop van Adobe [!DNL Experience Manager] (AEM) te verkennen. Deze `Next.js` -toepassing laat zien hoe u inhoud kunt opvragen met AEM GraphQL API&#39;s met behulp van doorlopende query&#39;s. |
 | Maart 2025 | [!DNL Experience Manager Sites] | [ ontwikkelt een blok met opties ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/block-options) | Nieuwe video | Leer hoe u een blok maakt met meerdere weergaveopties. |
-| Maart 2025 | [!DNL Experience Manager Sites] | [ ontwikkelt een kopbal en footer ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/header-and-footer) | Nieuwe video | Leer hoe kop- en voetteksten zijn ontwikkeld in [!DNL Edge Delivery Services] en [!DNL Universal Editor] . |
-| Maart 2025 | [!DNL Experience Manager as a Cloud Service] | [ OpenAPI-Gebaseerde AEM APIs ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/overview) | Nieuwe video | Leer meer over de op OpenAPI gebaseerde AEM API&#39;s, waaronder verificatieondersteuning, sleutelconcepten en toegang tot Adobe API&#39;s. |
-| Maart 2025 | [!DNL Experience Manager as a Cloud Service] | [ API geloofsbrieven en het beheer van het Profiel van het Product ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/credentials-and-product-profile-management) | Nieuwe video | Leer hoe u [!UICONTROL Credentials] en [!UICONTROL Product Profiles] voor AEM API&#39;s beheert. |
+| Maart 2025 | [!DNL Experience Manager Sites] | [ ontwikkelt een kopbal en footer ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/header-and-footer) | Nieuwe video | Meer informatie over hoe kop- en voetteksten worden ontwikkeld in [!DNL Edge Delivery Services] en [!DNL Universal Editor]. |
+| Maart 2025 | [!DNL Experience Manager as a Cloud Service] | [ OpenAPI-Gebaseerde AEM APIs ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/overview) | Nieuwe video | Meer informatie over de op OpenAPI gebaseerde AEM API&#39;s, inclusief ondersteuning voor verificatie, belangrijke concepten en toegang tot Adobe API&#39;s. |
+| Maart 2025 | [!DNL Experience Manager as a Cloud Service] | [Beheer van API-inloggegevens en productprofielen](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/credentials-and-product-profile-management) | Nieuwe video | Leer hoe u [!UICONTROL Credentials] en [!UICONTROL Product Profiles] voor AEM API&#39;s beheert. |
 | Maart 2025 | [!DNL Experience Manager as a Cloud Service] | [ opstelling op OpenAPI-Gebaseerde AEM APIs ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup) | Nieuwe video | Leer hoe u de [!DNL AEM as a Cloud Service] -omgeving zo instelt dat toegang tot de op OpenAPI gebaseerde AEM API&#39;s mogelijk is. |
-| Maart 2025 | [!DNL Experience Manager as a Cloud Service] | [ het Profiel van het Product en het beheer van de de gebruikersgroep van de Diensten ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/services-user-group-permission-management) | Nieuwe video | Leer hoe u machtigingen voor de gebruikersgroepen Productprofiel en Services in AEM as a Cloud Service beheert. |
+| Maart 2025 | [!DNL Experience Manager as a Cloud Service] | [ het Profiel van het Product en het beheer van de de gebruikersgroep van de Diensten ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/services-user-group-permission-management) | Nieuwe video | Meer informatie over het beheren van machtigingen voor de gebruikersgroepen Productprofiel en Services in AEM as a Cloud Service. |
 
 ### Nieuwe [!DNL Experience Manager] kennisbasis voor ondersteuning{#kb-aem}
 
@@ -271,24 +261,24 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Manage
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|--------|---------|---------|
 | Februari 2025 | [ de fouten van de Toestemming voor campagne-verre gebruiker wanneer het verbinden van AEM met  [!DNL Campaign Classic] ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25779) | Nieuw artikel | Leer hoe u machtigingsfouten voor een externe campagnegebruiker kunt oplossen bij het koppelen van Adobe Experience Manager (AEM) aan Adobe Campaign Classic (ACC). |
-| Februari 2025 | [ Los de toegangskwesties van de distributierij in Adobe Experience Manager (AEM) op ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25818) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer er fouten optreden bij het bekijken van de distributierij in Adobe Experience Manager (AEM). |
-| Februari 2025 | [ optimaliseer het indexeren voor grote eigenschappen in Adobe Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25688) | Nieuw artikel | Leer hoe u dit probleem kunt oplossen wanneer eigenschappen boven 100 kB van invloed zijn op de prestaties als gevolg van grotere indexgrootten. |
-| Februari 2025 | [ de verwerkingsmislukking van activa in de Dynamische Media van AEM ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25607) | Nieuw artikel | Leer hoe te om de kwestie op te lossen wanneer de dossiers van het het formaatbeeld van JPG en van PNG het *Ontbroken de foutenmelding van de Verwerking van Activa terugkeren* wanneer wordt geupload aan de sectie van Assets binnen de Dynamische Media van AEM. |
+| Februari 2025 | [Problemen met toegang tot distributiewachtrijen oplossen in Adobe Experience Manager (AEM)](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25818) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer er fouten optreden bij het weergeven van de distributiewachtrij in Adobe Experience Manager (AEM). |
+| Februari 2025 | [ optimaliseer het indexeren voor grote eigenschappen in Adobe Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25688) | Nieuw artikel | Meer informatie over het oplossen van het probleem wanneer eigenschappen van meer dan 100 kB van invloed zijn op de prestaties als gevolg van grotere indexgroottes. |
+| Februari 2025 | [Fout in de verwerking van activa in AEM Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25607) | Nieuw artikel | Leer hoe te om de kwestie op te lossen wanneer de dossiers van het het formaatbeeld van JPG en van PNG het *Ontbroken de foutenmelding van de Verwerking van Activa terugkeren* wanneer wordt geupload aan de sectie van Assets binnen de Dynamische Media van AEM. |
 | Februari 2025 | [ Kwesties met OSGi bundelstaten in AEM ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25706) | Nieuw artikel | Leer hoe te om de kwestie op te lossen wanneer de bundelstaten OSGi potentiële kwesties met bundelplaatsing of configuratie in de de productiemilieu van AEM wijzen. |
 | Februari 2025 | [ de voorproef van het Beeld het werk niet na JWT aan de migratie van OAuth in AEM ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25721) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer voorvertoningen van afbeeldingen niet in uw ontwikkelomgeving worden geladen nadat u in AEM van JWT-tokenverificatie naar OAuth for [!UICONTROL Smart Content] bent gemigreerd. |
-| Februari 2025 | [ Brand Portal - de Uitgave van de Download van de Verbinding van het Aandeel ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25771) | Nieuw artikel | Leer hoe u het probleem kunt oplossen in de Adobe Experience Manager (AEM) - Assets-omgeving waar u geen inhoud kunt downloaden via een gedeelde koppeling vanuit Brand Portal. |
+| Februari 2025 | [Brand Portal - Probleem met downloaden van link delen](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25771) | Nieuw artikel | Leer hoe u het probleem kunt oplossen in de omgeving Adobe Experience Manager (AEM) - Assets, waar u geen inhoud kunt downloaden met behulp van een gedeelde koppeling van Brand Portal. |
 | Februari 2025 | [ index van de Douane die kwesties in AEM as a Cloud Service opnieuw indexeert - Plaatsen ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25698) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer aangepaste indexen niet correct opnieuw worden geindexeerd in de ontwikkelomgeving van AEM wanneer de eigenschappen `async` en `async-previous` in de indexconfiguratie onjuist zijn. |
 | Februari 2025 | [ Sso- Login Vertragingen en de Kwesties van de Omleiding in  [!DNL Firefox]  voor AEM op  [!DNL Windows]  en  [!DNL iOS] ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25747) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer [!DNL Firefox] gebruikers op [!DNL Windows] en [!DNL iOS] een vertraging ervaren in het Single Sign-On (SSO) aanmeldingsproces terwijl ze pagina&#39;s bewerken in de AEM Author-omgeving. |
 | Februari 2025 | [ los  [!DNL Java Runtime]  versiewanverhouding in de Pijpleiding van de Productie van AEM op ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25689) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer de testfasen van Adobe Experience Manager (AEM) as a Cloud Service (bouwen) en uitvoeren van een eenheidstest mislukken als gevolg van een [!DNL Java Runtime] -versieprobleem. |
-| Februari 2025 | [ mislukkingen van de Pijpleiding in AEM Sites toe te schrijven aan de conflicten van de gebruikersnaam in  [!DNL RepoInit]  manuscripten ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25780) | Nieuw artikel | Leer hoe te om de kwestie tijdens een productiepijpleiding in Adobe Experience Manager (AEM) as a Cloud Service op te lossen, ontbreekt de pijpleiding aan vooruitgang voorbij de fase van de Plaatsing wegens de naamconflicten van de dienstgebruiker met bestaande namen van gebruikersgroepen in [!DNL RepoInit] manuscripten. |
+| Februari 2025 | [Pijplijnfouten in AEM Sites als gevolg van gebruikersnaamconflicten in [!DNL RepoInit] scripts](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25780) | Nieuw artikel | Meer informatie over het oplossen van het probleem tijdens een productiepijplijn in Adobe Experience Manager (AEM) as a Cloud Service, de pijplijn komt niet verder dan de implementatiefase vanwege conflicten met de gebruikersnaam van de service met bestaande gebruikersgroepnamen in [!DNL RepoInit] scripts. |
 | Februari 2025 | [ Adobe Experience Manager: Onbekwaam om de cache/html folder van [!UICONTROL Dispatcher Tools] te schrappen ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25915) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer u probeert de [!UICONTROL Dispatcher Tools] geïmplementeerd op [!DNL Linux] te verwijderen, de cachemap kan niet worden verwijderd vanwege onvoldoende rechten. |
 | Februari 2025 | [ Adobe Experience Manager: steekproefconfiguratie van de Taak van de Woorden van het Werkschema voor AEM as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25921) | Nieuw artikel | Meer informatie over een voorbeeldconfiguratie voor het instellen van werkstroomleegloop als onderhoudstaak in [!DNL AEM as a Cloud Service] . |
-| Februari 2025 | [ AEM 6.5: Het geheime voorgeheugenkwestie van Dispatcher met Last-Modified kopbal ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25892) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer de header Last-Modified niet wordt opgeslagen in de Dispatcher-cache voor HTML-bronnen, terwijl deze juist is opgeslagen voor [!DNL JavaScript] -bestanden. |
+| Februari 2025 | [AEM 6.5: Probleem met de dispatchercache met de header Last-Modified](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25892) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer de header Last-Modified niet wordt opgeslagen in de Dispatcher-cache voor HTML-bronnen, terwijl deze juist is opgeslagen voor [!DNL JavaScript] -bestanden. |
 | Februari 2025 | [ Bijwerkend douaneduimnagels voor videoactiva in AEM as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25829) | Nieuw artikel | Leer hoe u dit probleem kunt oplossen wanneer u aangepaste miniaturen voor video-elementen bijwerkt in [!DNL AEM as a Cloud Service] , met name wanneer u de [!DNL Microsoft Edge] -browser gebruikt. |
 | Februari 2025 | [ los de kwesties van de omslagzichtbaarheid op publiceer instanties in AEM as a Cloud Service op - Assets ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25830) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer er geen mappen worden weergegeven op publicatie-instanties in [!DNL AEM as a Cloud Service] - Assets, als gevolg van configuratieverschillen tussen ontwerp- en publicatieomgevingen. |
-| Februari 2025 | [ de mislukking van de synchronisatie van activa in de Dynamische Media van Adobe Experience Manager (AEM) ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25885) | Nieuw artikel | Leer hoe u dit probleem kunt oplossen wanneer u probeert video-elementen van meer dan 2 GB te uploaden naar de AEM Dynamic Media-omgeving. Het synchronisatieproces mislukt. |
-| Februari 2025 | [ de meta-gegevensdiscrepantie van het Beeld in Adobe Experience Manager (AEM) Assets ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25828) | Nieuw artikel | Leer hoe u het probleem van verschillen in metagegevens van afbeeldingen kunt oplossen in Adobe Experience Manager (AEM) Assets, waar hoogte- en breedtewaarden onjuist worden weergegeven. |
-| Februari 2025 | [ de omleiding van de levering kwestie in Adobe Experience Manager Sites ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25772) | Nieuw artikel | Leer hoe u het Adobe Experience Manager-probleem kunt oplossen waarbij omleiding voor een bepaald leveringsdomein mogelijk niet naar behoren functioneert. |
+| Februari 2025 | [Synchronisatie van elementen mislukt in Adobe Experience Manager (AEM) Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25885) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer u probeert video-items groter dan 2 GB te uploaden naar de AEM Dynamic Media-omgeving, het synchronisatieproces mislukt. |
+| Februari 2025 | [ de meta-gegevensdiscrepantie van het Beeld in Adobe Experience Manager (AEM) Assets ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25828) | Nieuw artikel | Leer hoe u het probleem van discrepanties in metagegevens van afbeeldingen in Adobe Experience Manager (AEM) Assets kunt oplossen, waarbij hoogte- en breedtewaarden onjuist worden weergegeven. |
+| Februari 2025 | [Probleem met omleiding van weergave in Adobe Experience Manager Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25772) | Nieuw artikel | Leer hoe u het Adobe Experience Manager-probleem kunt oplossen waarbij omleiding voor een bepaald leveringsdomein mogelijk niet naar behoren functioneert. |
 
 +++
 
@@ -322,10 +312,10 @@ Nieuwe artikelen en updates van bestaande artikelen voor Adobe Commerce.
 | Februari 2025 | [[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | Nieuwe artikelen | Er zijn nieuwe artikelen gepubliceerd over het toepassen van patches die beschikbaar zijn in [!DNL QPT] 1.1.58 en [!DNL QPT] 1.1.59. Deze artikelen staan in de desbetreffende secties. |
 | Februari 2025 | [ de update van de Veiligheid beschikbaar voor Adobe Commerce - APSB25-08 ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb25-08) | Nieuwe artikelen | Op 11 februari 2025 heeft Adobe een regelmatig geplande beveiligingsupdate uitgebracht voor Adobe Commerce en Magento Open Source. Deze update verhelpt kritieke, belangrijke en matige kwetsbaarheden. |
 | Februari 2025 | [ Adobe Commerce 2.4.7-p4 HIPAA 1.2.0 verenigbaarheidspakket Hotfix ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/hotfix-for-hipaa-package-1-2-0-compatibility-with-adobe-commerce-2-4-7-p4) | Nieuwe artikelen | Dit artikel biedt een hotfix om compatibiliteit toe te voegen voor het nieuwe HIPAA-pakket 1.2.0 met Adobe Commerce op Cloud Infrastructure 2.4.7-p4. |
-| Februari 2025 | [ Downloaden van `repo.magento.com` ontbreekt voor Adobe Commerce installaties op-gebouw ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25756) | Nieuwe artikelen | Leer hoe u het Adobe Commerce-probleem kunt oplossen waarbij downloaden vanuit `repo.magento.com` mislukt met een fout voor installaties in de bedrijfsruimte. |
-| Februari 2025 | [ kan niet tot de correcte wolkenrekening/het project toegang hebben of het project mist van uw rekening ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25742) | Nieuwe artikelen | Leer het probleem op te lossen wanneer u geen toegang hebt tot het juiste infrastructuurproject voor de [!DNL Commerce] on-cloud wanneer er eigendomswijzigingen of e-mailadressen zijn. |
+| Februari 2025 | [Downloaden van mislukt voor on-premises installaties van `repo.magento.com` Adobe Commerce](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25756) | Nieuwe artikelen | Leer hoe u het Adobe Commerce-probleem kunt oplossen waarbij het downloaden mislukt `repo.magento.com` met een fout voor on-premises installaties. |
+| Februari 2025 | [Heb je geen toegang tot het juiste cloudaccount/project of ontbreekt het project in je account](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25742) | Nieuwe artikelen | Leer het probleem op te lossen wanneer u geen toegang hebt tot het juiste infrastructuurproject voor de [!DNL Commerce] on-cloud wanneer er eigendomswijzigingen of e-mailadressen zijn. |
 | Februari 2025 | [ Uitgave met het volgen van informatie in Adobe Commerce ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25778) | Nieuwe artikelen | Leer hoe te om de kwestie op te lossen wanneer het volgen van verzendingen voor dragers, zoals UPS, op de pagina van Verzendingen in Adobe Commerce toont een foutenmelding dat de *het Volgen informatie momenteel niet beschikbaar is.* |
-| Februari 2025 | [ de Plaatsing ontbrak op geheim voorgeheugenflush: *er zijn geen bevelen die in het &quot;geheime voorgeheugen&quot;worden bepaald namespace* fout ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25860) | Nieuwe artikelen | Leer hoe te om de kwestie op te lossen wanneer de plaatsing in Adobe Commerce op wolkeninfrastructuur met a *ontbreekt zijn er geen bevelen die in het &quot;geheime voorgeheugen&quot;namespace* fout worden bepaald, identificeer de ongeldige rijen verlaten van die configuraties. |
+| Februari 2025 | [ de Plaatsing ontbrak op geheim voorgeheugenflush: *er zijn geen bevelen die in het &quot;geheime voorgeheugen&quot;worden bepaald namespace* fout ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25860) | Nieuwe artikelen | Leer hoe u het probleem kunt oplossen wanneer de implementatie mislukt in Adobe Commerce op cloudinfrastructuur met een *Er zijn geen opdrachten gedefinieerd in de naamruimtefout* &#39;cache&#39;, identificeert u de ongeldige rijen die nog over zijn van die configuraties. |
 
 +++
 
@@ -359,7 +349,7 @@ Download de nieuwste updates voor [!DNL Adobe Campaign] . Zoek naar nieuwe zelfs
 
 * [!DNL Web User Interface]: (18 februari, 2025) [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]: [ 25.1 - de nota&#39;s van de Versie van 2025 ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [25.1 - Opmerkingen bij de release](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) 2025 | [Product documentatie](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
@@ -370,16 +360,16 @@ New or updated videos tutorials published for Adobe Campaign.
 |January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
 |January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.| -->
 
-### Nieuwe [!DNL Campaign] kennisbasis voor ondersteuning{#kb-campaign}
+### Nieuwe [!DNL Campaign] kennisbank voor ondersteuning{#kb-campaign}
 
-Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Campaign] .
+Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Campaign].
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|----|----|-----------|
 | Februari 2025 | [ Leveringen die als *in afwachting van* ondanks het volgen activiteit in Adobe Campaign Classic ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25755) tonen | Nieuw artikel | Leer hoe te om de kwestie op te lossen wanneer [!UICONTROL Deliveries] in Adobe Campaign Classic als *In afwachting* kan tonen zelfs wanneer het volgen activiteiten worden geregistreerd. |
-| Februari 2025 | [ Leveringen geplakt in a *Hangende Personalization* staat in Adobe Campaign Classic ontvangen ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25632) | Nieuw artikel | Leer hoe te om de kwestie op te lossen wanneer de leveringen in a *in afwachting van Personalization* worden geplakt staat en niet door het gebruikersinterface in ontvangen Adobe Campaign Classic kunnen worden tegengehouden. |
-| Februari 2025 | [ de fouten van de Toestemming voor campagne-verre gebruiker wanneer het verbinden van AEM met Campaign Classic ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25779) | Nieuw artikel | Leer hoe u machtigingsfouten voor een externe campagnegebruiker kunt oplossen bij het koppelen van Adobe Experience Manager (AEM) aan Adobe Campaign Classic (ACC). |
-| Februari 2025 | [ De Gebruikers blijven werkschemaronet na toegewezen nieuwe rollen ontvangen ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25870) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer gebruikers niet uit een beveiligingsgroep binnen het Adobe Campaign Standard-platform zijn verwijderd. |
+| Februari 2025 | [Leveringen die vastzitten in de *status In afwachting van personalisatie* in Adobe Campaign Classic Hosted](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25632) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer leveringen vastlopen in de *status Waiting Personalization* en niet kunnen worden gestopt via de gebruikersinterface in Adobe Campaign Classic Hosted. |
+| Februari 2025 | [Machtigingsfouten voor gebruiker op afstand van de campagne bij het koppelen van AEM aan Campaign Classic](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25779) | Nieuw artikel | Leer hoe u machtigingsfouten voor een externe gebruiker van een campagne kunt oplossen bij het koppelen van Adobe Experience Manager (AEM) aan Adobe Campaign Classic (ACC). |
+| Februari 2025 | [Gebruikers blijven e-mails van werkstroomsupervisors ontvangen nadat ze nieuwe rollen hebben gekregen](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25870) | Nieuw artikel | Leer hoe u het probleem kunt oplossen wanneer gebruikers niet uit een beveiligingsgroep binnen het Adobe Campaign Standard-platform zijn verwijderd. |
 
 +++
 
@@ -475,17 +465,17 @@ Meer informatie over de nieuwste releaseopmerkingen voor [!DNL Adobe Workfront] 
 
 Laatste release:
 
-* [ Tweede Kwartaal 2025 releaseoverzicht ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+* [Releaseoverzicht tweede kwartaal 2025](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
 
-Voor alle releasegegevens:
+Voor alle release-informatie:
 
-* Zie de  [!DNL Workfront]  het productversies van Adobe ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina van 0} {voor [!DNL Workfront] versie planninformatie en versienota&#39;s.[
+* Zie de [pagina met Adobe-productreleases [!DNL Workfront] ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) voor informatie [!DNL Workfront] over het releaseschema en releaseopmerkingen.
 
-* Zie [ Adobe  [!DNL Workfront]  overzicht van de de versieactiviteit van de Fusie ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) voor de recentste informatie over Fusie.
+* Zie het overzicht van de [ [!DNL Workfront] Adobe Fusion-release-activiteit](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) voor de meest recente informatie over Fusion.
 
-### Nieuwe Adobe [!DNL Workfront] zelfstudies {#tutorials-workfront}
+### Nieuwe Adobe-tutorials [!DNL Workfront] {#tutorials-workfront}
 
-Nieuwe [!DNL Workfront] zelfstudies en gebeurtenissen voor Experience League.
+Nieuwe [!DNL Workfront] tutorials en evenementen op Experience League.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
@@ -541,29 +531,29 @@ Ga naar de meest recente releasegegevens en nieuwe documentatie voor [!DNL GenSt
 Raadpleeg de volgende pagina&#39;s voor de meest recente informatie:
 
 * Mix Modeler [ versienota&#39;s ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
-* Mix Modeler [ productdocumentatie ](https://experienceleague.adobe.com/en/docs/mix-modeler)
+* Productdocumentatie van Mix Modeler [](https://experienceleague.adobe.com/en/docs/mix-modeler)
 
 +++
 
-## Adobe Advertising {#advertising}
+## Adobe-reclame {#advertising}
 
-Opmerkingen bij de release voor [!DNL Adobe Advertising] .
+Release notes voor [!DNL Adobe Advertising].
 
-+++Details
++++Gegevens
 
-Om Adobe [!DNL Advertising] hulp te doorbladeren, bezoek [ de Documentatie van Adobe Advertising ](https://experienceleague.adobe.com/en/docs/advertising).
+Als u de Help van Adobe [!DNL Advertising] wilt doorzoeken, gaat u naar [de Adobe-advertentiedocumentatie](https://experienceleague.adobe.com/en/docs/advertising).
 
 ### Nieuwe functies in [!DNL Advertising DSP] {#advertising-dsp}
 
 Laatste release: 3 februari 2025
 
-Zie [ wat in  [!DNL Advertising DSP] ](https://experienceleague.adobe.com/en/docs/advertising/dsp/home) nieuw is
+Bekijk [wat er nieuw is in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
 
 ### Nieuwe functies in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
 5 december 2024
 
-Zie [ wat in  [!DNL Advertising Search, Social, & Commerce] ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home) nieuw is
+Bekijk [wat er nieuw is in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
 +++
 
@@ -603,20 +593,20 @@ Zie voor [!DNL Document Cloud] zelfstudies:
 
 Nieuwe zelfstudies gepubliceerd voor toepassingen in [!DNL Adobe Creative Cloud for enterprise] .
 
-+++Details
++++Gegevens
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
 | February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
-Zie [ Creative Cloud voor ondernemingsleerprogramma&#39;s ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) voor de recentste leerprogramma&#39;s.
+Zie [Tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) voor Creative Cloud voor ondernemingen voor de nieuwste tutorials.
 
 +++
 
 ## Beheer van klantgegevens - Voices {#voices}
 
-](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) de Stemmen van het Beheer van de Gegevens van de Klant [ is uw bestemming als technische en marketing praktijkleider en specialist van het klantengegevensbeheer. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk eenvoudig.
+[Customer Data Management: Voices](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) is uw bestemming als leider en specialist op het gebied van customer data management, technische en marketingpraktijken. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk eenvoudig.
 
 ## Digital Experience-blauwdrukken {#blueprints}
 
