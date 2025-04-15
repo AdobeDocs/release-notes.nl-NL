@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c74dd10ff1a557693da52dfaf58d051bfbca521
+source-git-commit: aa6db19854fe6a00df59aa25a18874bc3a0d72f4
 workflow-type: tm+mt
-source-wordcount: '3847'
+source-wordcount: '3862'
 ht-degree: 6%
 
 ---
@@ -33,7 +33,7 @@ Om een driemaandelijks e-mailbericht over updates aan deze pagina te ontvangen, 
 
 Gebruik deze koppelingen om opmerkingen bij de release van de toepassing, gebeurtenissen, nieuwe zelfstudies en de nieuwste ondersteuningsartikelen voor de Knowledge Base te vinden:
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkte **9 April**)
+* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkte **15 April**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,11 +66,11 @@ Vind [ gebeurtenissen ](https://experienceleague.adobe.com/events/) en registree
 
 +++Gebeurtenissen
 
-* **[!DNL Analytics]** | _Drip van Gegevens: Voordelen van het migreren van een oud systeem aan WebSDK_ | **10 April** | Als technisch adviseur van Adobe, Arindam Agarwal, begeleidt ons door de voordelen van de implementatie van Adobe WebSDK. Arindam zal een diepgaand overzicht verstrekken en de vragen tijdens Q&amp;A beantwoorden. Registreer vandaag nog! | [ Register ](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+* **[!DNL Marketo]** | _Marketo &amp; Mochas: Het controleren van een Geërfte of Huidige Ingeërfte Instantie_ | **17 April** | Heb je onlangs een Marketo-instantie geërfd? Of is het misschien de bedoeling om regelmatig controles op uw huidige instantie uit te voeren om zijn potentieel te maximaliseren? Meld u aan bij ons voor dit webinar van Marketo &amp; Mochas met onze Adobe Business Advisors, Cynthia Chang en Carly Gaver, gecentreerd op hoe u een diepgaande duikale audit kunt uitvoeren om de huidige toestand van uw instantie te begrijpen. | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
-* **[!DNL Real-Time Customer Data Platform]** | _wacht niet... werkt samen! Inleiding tot Real-Time CDP Collaboration_ | **10 April** | Real-Time CDP Collaboration is nu beschikbaar voor klanten in de VS en biedt gebruiksvriendelijke samenwerking op het gebied van privacy en privacy voor merken en uitgevers. Met deze functie kunt u het publiek detecteren, activeren en meten om de advertentie-inkomsten te maximaliseren en de betaalde media-inspanningen te optimaliseren in het tempo van de betaalde marketing. Het beste deel is dat als je een klant van Real-Time CDP bent, je AL TOEGANG HEBT tot deze geweldige nieuwe mogelijkheid! | [ Register ](https://engage.adobe.com/ExpLeagueLive-250410.html)
+* **[!DNL Workfront]** | _verbind: Collectief Workfront_ | **21 April** | Deze gebeurtenis heeft geen formele presentatie of agenda. De discussiepunten zijn gebaseerd op uw betrokkenheid. Beschouw deze workshop als een collectieve probleemoplossende sessie als er iets is waarmee u in Workfront (of een succes dat u wilt delen en promoten!) wordt uitgedaagd en als u oplossingen met andere klanten wilt doorlopen, is dit de perfecte gebeurtenis voor u. | [ Register ](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _verbind: Admin Chat voor Marketing &amp; Creative_ | **11 April** | Deze interactieve discussie is gericht op het verbinden van u met andere beheerders, het delen van beste praktijken evenals uiteinden en trucs om u te helpen het beste uit Workfront voor u en uw gebruikers krijgen. | [ Register ](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Multisolution** | _Achter de Broom: Een Volledige Onderbreking op de Proactieve Hulpmiddelen van de Controle_ | **April 24** | Sluit u aan bij ons voor een inzichtelijke sessie over het gebruik van geavanceerde monitoringtools zoals SWAT, Fastly en New Relic om de systeemgezondheid en prestaties te optimaliseren.  | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 Bekijk alle [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/events/) of doorblader [ voorbije gebeurtenisopnamen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
 
@@ -349,11 +349,13 @@ Download de nieuwste updates voor [!DNL Adobe Campaign] . Zoek naar nieuwe zelfs
 
 ### Nieuwste productreleases in de campagne
 
-* [!DNL Campaign] v8: (14 februari, 2025) [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]: (18 februari, 2025) [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]: [ 25.1 - de nota&#39;s van de Versie van 2025 ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+
+* [!DNL Campaign Classic] 7.4.2: [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [ documentatie van het Product ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
