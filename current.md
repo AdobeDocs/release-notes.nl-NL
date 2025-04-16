@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4030'
+source-wordcount: '4034'
 ht-degree: 6%
 
 ---
@@ -30,6 +30,8 @@ Op deze pagina vindt u opmerkingen over specifieke releases, aanstaande gebeurte
 Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onderteken aan de [ Update van het Product van de Prioriteit Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
 
 Bijgewerkt: **16 april 2025**
+
++++Alle producten weergeven
 
 * [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkte **15 April**)
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ Bijgewerkt: **16 april 2025**
 * [ Certificatie bij Adobe ](https://experienceleague.adobe.com/en/certification-home)
 * [ de kwetsbaarheid van de het productveiligheid van Adobe ](https://helpx.adobe.com/nl/security.html)
 
++++
+
 ## Gebeurtenissen op [!DNL Experience League] {#events}
 
 Vind [ gebeurtenissen ](https://experienceleague.adobe.com/en/events) en registreer voor degenen die u interesseren.
 
-+++Gebeurtenissen
++++Aanstaande gebeurtenissen
 
 * **[!DNL Marketo]** | _Marketo &amp; Mochas: Het controleren van een Geërfte of Huidige Ingeërfte Instantie_ | **17 April** | Heb je onlangs een Marketo-instantie geërfd? Of is het misschien de bedoeling om regelmatig controles op uw huidige instantie uit te voeren om zijn potentieel te maximaliseren? Meld u aan bij ons voor dit webinar van Marketo &amp; Mochas met onze Adobe Business Advisors, Cynthia Chang en Carly Gaver, gecentreerd op hoe u een diepgaande duikale audit kunt uitvoeren om de huidige toestand van uw instantie te begrijpen. | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
