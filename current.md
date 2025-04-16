@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 4c6d4a25f4dba2d88fc986eab08b34d7d9a4fa97
 workflow-type: tm+mt
-source-wordcount: '4034'
+source-wordcount: '4032'
 ht-degree: 6%
 
 ---
@@ -91,13 +91,13 @@ De datum van de versie: **Maart 20, 2025**
 **Wat is er nieuw**
 
 * bètaversie van virtuele assistent
-* Nieuwe pagina met Help bij de woordenlijst Nieuwe gebeurtenis
+* Nieuwe pagina met Help bij woordenlijst voor gebeurtenissen
 * Opgeloste problemen en verbeteringen
 
 | Functie | Beschrijving |
 | ------- | ------- |
-| **Virtuele Medewerker bèta** | <ul><li>Virtuele ondersteuning is een functie waarmee [!DNL Adobe Status] -klanten op internet en mobiel snel antwoorden kunnen krijgen op hun vragen en u kunt helpen snelle acties uit te voeren zonder de homepage te verlaten. Het kan dienen als een plek waar ze al hun vragen kunnen oplossen. Als u aan klantenbèta zou willen deelnemen, gelieve [ statuscom-adobe-support@adobe.com ](mailto:statuscom-adobe-support@adobe.com) te e-mailen. </li></ul> |
-| **Nieuwe pagina van de verklarende woordenlijst van de Gebeurtenis** | <ul><li>Een speciale hulppagina die gebruikers van [!DNL Adobe Status] in detail op alle gebeurtenistypen, iconografie en hun status begeleidt, zodat het eenvoudiger is om naar de website te navigeren.</li><li>Adobe Status overview page > Help menu, has a new menu item (Event Glossary) that points to this new page.</li><li>Een van de Adobe-oppervlakken die naar [!DNL Adobe Status] verwijzen, kan koppelingen naar de nieuwe Help-pagina toevoegen.</li></ul> |
+| **Virtuele Medewerker bèta** | <ul><li>De virtuele Medewerker is een eigenschap die de klanten van de Status op het Web en mobiel zal toestaan om antwoorden op hun vragen te krijgen en hulp snelle acties uitvoeren zonder de homepage te verlaten. Het kan als één plaats dienen om alle vragen op te lossen. Als u aan klantenbèta zou willen deelnemen, gelieve [ statuscom-adobe-support@adobe.com ](mailto:statuscom-adobe-support@adobe.com) te e-mailen. </li></ul> |
+| **Nieuwe Verklarende woordenlijst van de Gebeurtenis** | <ul><li>Een speciale hulppagina die gebruikers van [!DNL Adobe Status] in detail op alle gebeurtenistypen, iconografie en hun status begeleidt, zodat het eenvoudiger is om naar de website te navigeren.</li><li>Adobe Status overview page > Help menu, has a new menu item (Event Glossary) that points to this new page.</li><li>Een van de Adobe-oppervlakken die naar [!DNL Adobe Status] verwijzen, kan koppelingen naar de nieuwe Help-pagina toevoegen.</li></ul> |
 | **fixes en verbeteringen van de insect** | <ul><li>Slack-berichten - Herinneringsbericht wordt weergegeven als Gepland</li><li>Producten in ruste mogen niet worden weergegeven op de overzichtspagina</li><li>_Gesloten_ > _Ontworpen CSO_ updatebericht en de berichten worden niet verzonden</li><li>Het duurt lang voordat de webkop en -voettekst van de status tijdens het vernieuwen zijn geladen</li><li>Het menu voor statuslokalisatie in de voettekst is verbroken</li></ul> |
 
 Opmerkingen bij vorige release voor [!DNL Adobe System Status] :
