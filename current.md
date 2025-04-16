@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9705d647e844bc4d5f2ded18db9e8eb3ad716086
+source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
 workflow-type: tm+mt
-source-wordcount: '4036'
+source-wordcount: '4030'
 ht-degree: 6%
 
 ---
@@ -29,11 +29,10 @@ Op deze pagina vindt u opmerkingen over specifieke releases, aanstaande gebeurte
 
 Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onderteken aan de [ Update van het Product van de Prioriteit Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
 
-Bijgewerkt: **16 april 2025**
+**Bijgewerkt 16 April, 2025**
 
 +++Alle producten weergeven
 
-* [[!DNL Experience League]  gebeurtenissen en updates ](#events) (Bijgewerkte **15 April**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centrale interface en beheer](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
