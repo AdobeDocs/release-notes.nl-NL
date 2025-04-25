@@ -6,10 +6,10 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
+source-git-commit: af9bda242f4ea74b71a8d42ca8669124f6e2cf13
 workflow-type: tm+mt
-source-wordcount: '4030'
-ht-degree: 6%
+source-wordcount: '3798'
+ht-degree: 7%
 
 ---
 
@@ -29,7 +29,7 @@ Op deze pagina vindt u opmerkingen over specifieke releases, aanstaande gebeurte
 
 Om een maandelijks e-mailbericht over updates aan deze pagina te ontvangen, onderteken aan de [ Update van het Product van de Prioriteit Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Bijgewerkt 16 April, 2025**
+**Bijgewerkt 25 April, 2025**
 
 +++Alle producten weergeven
 
@@ -67,15 +67,7 @@ Vind [ gebeurtenissen ](https://experienceleague.adobe.com/en/events) en registr
 
 +++Aanstaande gebeurtenissen
 
-* **[!DNL Marketo]** | _Marketo &amp; Mochas: Het controleren van een Geërfte of Huidige Ingeërfte Instantie_ | **17 April** | Heb je onlangs een Marketo-instantie geërfd? Of is het misschien de bedoeling om regelmatig controles op uw huidige instantie uit te voeren om zijn potentieel te maximaliseren? Meld u aan bij ons voor dit webinar van Marketo &amp; Mochas met onze Adobe Business Advisors, Cynthia Chang en Carly Gaver, gecentreerd op hoe u een diepgaande duikale audit kunt uitvoeren om de huidige toestand van uw instantie te begrijpen. | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
-
-* **[!DNL Workfront]** | _verbind: Collectief Workfront_ | **21 April** | Deze gebeurtenis heeft geen formele presentatie of agenda. De discussiepunten zijn gebaseerd op uw betrokkenheid. Beschouw deze workshop als een collectieve probleemoplossende sessie. Als er iets is waar u in Workfront mee wordt uitgedaagd (of een succes dat u wilt delen en bevorderen!) en door oplossingen met andere klanten wilt spreken, is deze gebeurtenis perfect voor u. | [ Register ](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Multisolution** | _Achter de Broom: Een Volledige Onderbreking op de Proactieve Hulpmiddelen van de Controle_ | **April 24** | Sluit u aan bij ons voor een inzichtelijke sessie over het gebruik van geavanceerde monitoringtools zoals SWAT, Fastly en New Relic om de systeemgezondheid en prestaties te optimaliseren.  | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL Campaign Classic]** | _ACC van Adobe leveringsprestaties - het Oplossen van problemen_ | **25 April** | In deze sessie zullen we veelvoorkomende problemen verkennen waarmee we worden geconfronteerd wanneer we optimale prestaties leveren met Adobe Campaign Classic (ACC) en activeerbare strategieën bieden voor het oplossen van problemen en het oplossen van problemen. Leer hoe te om prestatiesknelpunten te identificeren, leveringsvoorbereiding/configuratieinconsistenties te richten, en beste praktijken uit te voeren om vlotte communicatie te verzekeren. | [ Register ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5748224915&amp;_charset_=utf-8)
-
-Bekijk de volledige lijst van [ aanstaande gebeurtenissen ](https://experienceleague.adobe.com/en/events) of doorblader [ voorbije gebeurtenissen ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) op Experience League.
+Bekijk de volledige lijst van [ komende ](https://experienceleague.adobe.com/en/events) en [ op bestelling ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) gebeurtenissen op Experience League.
 
 +++
 
