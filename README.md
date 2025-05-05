@@ -12,7 +12,7 @@ We accepteren graag de bijdragen van onze community en van Adobe-werknemers van 
 ## Adobe Open-Source-gedragscode
 
 
-Dit project heeft de [Adobe-gedragscode voor open source](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) of de [.NET Foundation-gedragscode](https://dotnetfoundation.org/code-of-conduct) overgenomen. Zie het artikel [Bijdragen](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html) voor meer informatie.
+Dit project heeft de [Adobe-gedragscode voor open source](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html?lang=nl-NL) of de [.NET Foundation-gedragscode](https://dotnetfoundation.org/code-of-conduct) overgenomen. Zie het artikel [Bijdragen](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html?lang=nl-NL) voor meer informatie.
 
 ## Over uw bijdragen aan Adobe-content
 
@@ -22,7 +22,7 @@ Hoe u een bijdrage levert, hangt af van wie u bent en van het soort wijzigingen 
 
 ### Kleine wijzigingen
 
-Als u minder belangrijke updates bijdraagt uit de goedheid van uw hart, gaat u naar het artikel en klikt u op de koppeling **Bewerken** naar de GitHub-source voor het artikel. Gebruik vervolgens gewoon de GitHub-interface om uw updates aan te brengen. Raadpleeg de algemene handleiding voor [Adobe Docs-contributors](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) voor meer informatie.
+Als u minder belangrijke updates bijdraagt uit de goedheid van uw hart, gaat u naar het artikel en klikt u op de koppeling **Bewerken** naar de GitHub-source voor het artikel. Gebruik vervolgens gewoon de GitHub-interface om uw updates aan te brengen. Raadpleeg de algemene handleiding voor [Adobe Docs-contributors](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=nl-NL) voor meer informatie.
 
 Kleine correcties of verduidelijkingen die u verzendt voor documentatie en codevoorbeelden in deze repository, worden gedekt door de gebruiksvoorwaarden van Adobe.
 

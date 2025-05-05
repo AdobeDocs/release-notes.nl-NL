@@ -46,4 +46,4 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. Bijgewerkte informatie/extra informatie over code van derden is beschikbaar op [https://www.adobe.com/go/thirdparty](https://www.adobe.com/nl/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Bijgewerkte informatie/extra informatie over code van derden is beschikbaar op [https://www.adobe.com/go/thirdparty_nl](https://www.adobe.com/nl/products/eula/third_party/).

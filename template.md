@@ -69,7 +69,7 @@ Functies en oplossingen.
 Releaseopmerkingen voor de [!DNL Experience Platform,] inclusief [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services] en beveiligingsbulletins.
 
 * [Experience Cloud ID-service](#ecid)
-* [Opmerkingen bij de release Experience Platform](https://www.adobe.com/go/platform-release-notes-en)
+* [Opmerkingen bij de release Experience Platform](https://www.adobe.com/go/platform-release-notes-en_nl)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services en mobiele SDK&#39;s](#mobile)
