@@ -224,7 +224,7 @@ Nieuwe zelfstudies gepubliceerd voor [!DNL Customer Journey Analytics] .
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Mei 2025 | [ Gebruik het [!UICONTROL Quick insights] paneel ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel) | Nieuwe video | Leer hoe u snel en eenvoudig zakelijke vragen kunt beantwoorden met het deelvenster _[!UICONTROL Quick insights]_in [!DNL Customer Journey Analytics] . |
+| Mei 2025 | [ Gebruik het [!UICONTROL Quick insights] paneel ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel) | Nieuwe video | Leer hoe u snel en eenvoudig zakelijke vragen kunt beantwoorden met het deelvenster _[!UICONTROL Quick insights]_&#x200B;in [!DNL Customer Journey Analytics] . |
 
 +++
 
@@ -294,7 +294,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Manage
 | April 2025 | [ los audiokwesties in videodossiers met  [!DNL Dynamic Media]  in AEM ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26197) op | Nieuw artikel | Leer hoe u problemen met audiosynchronisatie in videobestanden kunt oplossen bij gebruik van [!DNL Dynamic Media] in Adobe Experience Manager as a Cloud Service (AEMaaCS). |
 | April 2025 | [ los ongeldige fouten van de gebruikersimitatie in AEM as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26118) op | Nieuw artikel | Leer over de oplossing aan de kwestie wanneer de imitatie met een *Ongeldige Gebruiker* fout in [!DNL Adobe Experience Manager as a Cloud Service - Sites] ontbreekt. |
 | April 2025 | [ Onbekwaam aan opstelling  [!DNL Microsoft Translation Service]  in Adobe Experience Manager (AEM) ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26096) | Nieuw artikel | Leer meer over de oplossing van het probleem wanneer u [!DNL Microsoft Translation Service] in Adobe Experience Manager (AEM) as a Cloud Service configureert, het eindpunt en de sleutel die door [!DNL Microsoft Azure] worden geboden, worden niet herkend door het configuratieformulier [!DNL AEM Translation] . |
-| April 2025 | [ de status van de milieuGezondheid van AEM van de controle {](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25893) | Nieuw artikel | Leer hoe u programmatisch de gezondheid van een AEM-omgeving kunt controleren met ingebouwde eindpunten voor de health check. |
+| April 2025 | [ de status van de milieuGezondheid van AEM van de controle &lbrace;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25893) | Nieuw artikel | Leer hoe u programmatisch de gezondheid van een AEM-omgeving kunt controleren met ingebouwde eindpunten voor de health check. |
 | April 2025 | [ los de uitvoerkwesties van het inhoudsfragment aan Adobe Target ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26167) op | Nieuw artikel | Leer over de oplossing aan de fout *Synchronisatie met Adobe Target ontbroken* voorkomt wanneer het uitvoeren van inhoudsfragmenten van Adobe Experience Manager aan Adobe Target. |
 | April 2025 | [ het oplossen van hoge ladingskwesties in AEM publiceert servers toe te schrijven aan  [!DNL Time-to-Live]  (TTL) caching ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26393) | Nieuw artikel | Lees meer over de oplossing van het probleem wanneer de prestaties op AEM-publicatieservers worden veroorzaakt door een 5-minuten strategie voor het in cache plaatsen van TTL in [!DNL AEMaaCS - Sites] . |
 | April 2025 | [ de selectiebeperking van het Product in de Component van de Lijst van het Product van de Dienst van de Wolk AEM ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26019) | Nieuw artikel | Leer meer over de oplossing van het probleem wanneer de Component van de Lijst van het Product in Adobe Experience Manager (AEM) Cloud Service gebruikers niet toestaat om meer dan 20 producten (SKUs) toe te voegen gebruikend **[!UICONTROL Select All]** checkbox. |
@@ -310,8 +310,8 @@ Krijg toegang tot releaseopmerkingen, nieuwe zelfstudies en ondersteuningsartike
 +++Opmerkingen bij de release, nieuwe zelfstudies en ondersteuningsartikelen
 
 * Zie [ de nota&#39;s van de Versie voor  [!DNL Adobe Commerce]  en  [!DNL Magento Open Source] ](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) om huidig te blijven.
-* Zie  [!DNL Commerce]  Gidsen van de Diensten van Adobe ](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home) om de de versieinformatie en documentatie van de Diensten van Commerce te zien.[
-* Zie {de Beschikbaarheid van het 0} Product ](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) om tot individuele nota&#39;s van de productversie toegang te hebben en beschikbaarheid te verifiëren.[
+* Zie  [!DNL Commerce]  Gidsen van de Diensten van Adobe [&#128279;](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home) om de de versieinformatie en documentatie van de Diensten van Commerce te zien.
+* Zie {de Beschikbaarheid van het 0} Product [&#128279;](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) om tot individuele nota&#39;s van de productversie toegang te hebben en beschikbaarheid te verifiëren.
 
 ### Nieuwe zelfstudies voor [!DNL Adobe Commerce] {#tutorials-commerce}
 
@@ -546,7 +546,7 @@ Meer informatie over de nieuwste releaseopmerkingen voor [!DNL Adobe Workfront] 
 
 Voor alle releasegegevens:
 
-* Zie de  [!DNL Workfront]  het productversies van Adobe ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina van 0} {voor [!DNL Workfront] versie planninformatie en versienota&#39;s.[
+* Zie de  [!DNL Workfront]  het productversies van Adobe [&#128279;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina van 0&rbrace; &lbrace;voor [!DNL Workfront] versie planninformatie en versienota&#39;s.
 
 * Zie [ Adobe  [!DNL Workfront]  overzicht van de de versieactiviteit van de Fusie ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) voor de recentste informatie over Fusie.
 
@@ -642,7 +642,7 @@ Nieuwe zelfstudies gepubliceerd voor Adobe Pass.
 | -----------| ---------- | ---------- |---------- |
 | April 2025 | [ Adobe Pass - nieuwe REST API v2 ](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/solution/hidden/adobe-pass-rest-api-v2) | Nieuwe video | Meer informatie over de nieuwe REST API v2 en het migratieproces van Adobe. |
 
-Zie {de Documentatie van 0} Adobe Pass ](https://experienceleague.adobe.com/en/docs/pass) om versie-specifieke informatie, systeemvereisten, beperkingen, vaste kwesties, en bekende kwesties te vinden.[
+Zie {de Documentatie van 0} Adobe Pass [&#128279;](https://experienceleague.adobe.com/en/docs/pass) om versie-specifieke informatie, systeemvereisten, beperkingen, vaste kwesties, en bekende kwesties te vinden.
 
 +++
 
@@ -671,7 +671,7 @@ Zie voor [!DNL Document Cloud] zelfstudies:
 
 Nieuwe zelfstudies gepubliceerd voor toepassingen in [!DNL Adobe Creative Cloud for enterprise] .
 
-++ + recente zelfstudies
++++ recente zelfstudies
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -684,7 +684,7 @@ Zie [ Creative Cloud voor ondernemingsleerprogramma&#39;s ](https://experiencele
 
 ## Beheer van klantgegevens - Voices {#voices}
 
-](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) de Stemmen van het Beheer van de Gegevens van de Klant [ is uw bestemming als technische en marketing praktijkleider en specialist van het klantengegevensbeheer. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk eenvoudig.
+[&#128279;](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) de Stemmen van het Beheer van de Gegevens van de Klant  is uw bestemming als technische en marketing praktijkleider en specialist van het klantengegevensbeheer. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk eenvoudig.
 
 ## Digital Experience-blauwdrukken {#blueprints}
 
