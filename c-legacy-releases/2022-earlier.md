@@ -1,14 +1,13 @@
 ---
-description: Gearchiveerde releaseopmerkingen voor Experience Cloud-producten en -services.
-seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
-title: Opmerkingen bij de release voor 2021 en eerder
+description: Opmerkingen bij de PDF-release met archivering voor Experience Cloud-producten en -services.
+title: Opmerkingen bij de release voor 2022 en eerder
 solution: Experience Cloud,Analytics,Target,Advertising
 seo-title: Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
-source-git-commit: 62cb9a8cd5ed8b54594f7f33f90d344014f74752
+source-git-commit: 7a108dcc0c7d64f27c52fb5afb250bedcb599106
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
