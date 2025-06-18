@@ -342,8 +342,8 @@ Krijg toegang tot releaseopmerkingen, nieuwe zelfstudies en ondersteuningsartike
 +++Opmerkingen bij de release, nieuwe zelfstudies en ondersteuningsartikelen
 
 * Zie [ de nota&#39;s van de Versie voor  [!DNL Adobe Commerce]  en  [!DNL Magento Open Source] ](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) om huidig te blijven.
-* Zie  [!DNL Commerce]  Gidsen van de Diensten van Adobe ](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home) om de de versieinformatie en documentatie van de Diensten van Commerce te zien.[
-* Zie {de Beschikbaarheid van het 0} Product ](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) om tot individuele nota&#39;s van de productversie toegang te hebben en beschikbaarheid te verifiëren.[
+* Zie  [!DNL Commerce]  Gidsen van de Diensten van Adobe [&#128279;](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home) om de de versieinformatie en documentatie van de Diensten van Commerce te zien.
+* Zie {de Beschikbaarheid van het 0} Product [&#128279;](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) om tot individuele nota&#39;s van de productversie toegang te hebben en beschikbaarheid te verifiëren.
 
 ### Nieuwe zelfstudies voor [!DNL Adobe Commerce] {#tutorials-commerce}
 
@@ -422,7 +422,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Campaign] .
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|----|----|-----------|
-| Mei 2025 | [**[!UICONTROL Update Database Structure]**in Adobe Campaign Classic zonder schema weer te geven ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26407) | Nieuw artikel | Wanneer u de wizard **[!UICONTROL Update Database Structure]** in Adobe Campaign Classic gebruikt, worden schema&#39;s die zijn gekoppeld aan externe databases, niet weergegeven als u meer wilt weten over de oplossingen voor dit probleem. |
+| Mei 2025 | [**[!UICONTROL Update Database Structure]**&#x200B;in Adobe Campaign Classic zonder schema weer te geven ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26407) | Nieuw artikel | Wanneer u de wizard **[!UICONTROL Update Database Structure]** in Adobe Campaign Classic gebruikt, worden schema&#39;s die zijn gekoppeld aan externe databases, niet weergegeven als u meer wilt weten over de oplossingen voor dit probleem. |
 | Mei 2025 | [ Werkschema die onverwacht ondanks plannermontages op Adobe Campaign Beheerde Cloud loopt ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26415) | Nieuw artikel | Meer informatie over de oplossingen voor het probleem wanneer plannerupdates niet worden toegepast en er onverwachte workflowuitvoering plaatsvindt in Adobe Campaign Managed Cloud. |
 | Mei 2025 | [ Onbekwaam om het richten en werkschemalusje in Campaign Classic te bekijken ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26632) | Nieuw artikel | Leer meer over de oplossingen voor het probleem als het tabblad **[!UICONTROL Targeting and Workflow]** niet zichtbaar is in Adobe Campaign Classic. |
 | Mei 2025 | [ de filter van de Statistieken van de Levering werkt niet toe te schrijven aan 10.000 verslaggrens in Adobe Campaign Standard **[!UICONTROL Dynamic Reports]** ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26697) | Nieuw artikel | Leer meer over de oplossingen voor het probleem wanneer het filter voor leveringsstatistieken **[!UICONTROL Contains]** niet de volledige resultaten retourneert wanneer specifieke trefwoorden worden toegepast. |
@@ -560,7 +560,7 @@ Meer informatie over de nieuwste releaseopmerkingen voor [!DNL Adobe Workfront] 
 
 Voor alle releasegegevens:
 
-* Zie de  [!DNL Workfront]  het productversies van Adobe ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina van 0} {voor [!DNL Workfront] versie planninformatie en versienota&#39;s.[
+* Zie de  [!DNL Workfront]  het productversies van Adobe [&#128279;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pagina van 0&rbrace; &lbrace;voor [!DNL Workfront] versie planninformatie en versienota&#39;s.
 
 * Zie [ Adobe  [!DNL Workfront]  overzicht van de de versieactiviteit van de Fusie ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) voor de recentste informatie over Fusie.
 
@@ -646,7 +646,7 @@ Zie [ wat in  [!DNL Advertising Search, Social, & Commerce] ](https://experience
 
 +++Documentatie
 
-Zie {de Documentatie van 0} Adobe Pass ](https://experienceleague.adobe.com/en/docs/pass) om versie-specifieke informatie, systeemvereisten, beperkingen, vaste kwesties, en bekende kwesties te vinden.[
+Zie {de Documentatie van 0} Adobe Pass [&#128279;](https://experienceleague.adobe.com/en/docs/pass) om versie-specifieke informatie, systeemvereisten, beperkingen, vaste kwesties, en bekende kwesties te vinden.
 
 +++
 
@@ -688,7 +688,7 @@ Zie [ Creative Cloud voor ondernemingsleerprogramma&#39;s ](https://experiencele
 
 ## Beheer van klantgegevens - Voices {#voices}
 
-](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) de Stemmen van het Beheer van de Gegevens van de Klant [ is uw bestemming als technische en marketing praktijkleider en specialist van het klantengegevensbeheer. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk eenvoudig.
+[&#128279;](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) de Stemmen van het Beheer van de Gegevens van de Klant  is uw bestemming als technische en marketing praktijkleider en specialist van het klantengegevensbeheer. Deze verzameling zelfstudies is uw one-stop-shop om van uw collega&#39;s te horen, geïnspireerd te raken en te leren over de ontwikkelingen in MarTech. Geen registratie vereist, klik en bekijk eenvoudig.
 
 ## Digital Experience-blauwdrukken {#blueprints}
 
