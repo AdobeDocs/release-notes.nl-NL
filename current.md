@@ -458,7 +458,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Campaign] .
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|----|----|-----------|
-| Mei 2025 | [**[!UICONTROL Update Database Structure]**in Adobe Campaign Classic zonder schema weer te geven ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26407) | Nieuw artikel | Wanneer u de wizard **[!UICONTROL Update Database Structure]** in Adobe Campaign Classic gebruikt, worden schema&#39;s die zijn gekoppeld aan externe databases, niet weergegeven als u meer wilt weten over de oplossingen voor dit probleem. |
+| Mei 2025 | [**[!UICONTROL Update Database Structure]**&#x200B;in Adobe Campaign Classic zonder schema weer te geven ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26407) | Nieuw artikel | Wanneer u de wizard **[!UICONTROL Update Database Structure]** in Adobe Campaign Classic gebruikt, worden schema&#39;s die zijn gekoppeld aan externe databases, niet weergegeven als u meer wilt weten over de oplossingen voor dit probleem. |
 | Mei 2025 | [ Werkschema die onverwacht ondanks plannermontages op Adobe Campaign Beheerde Cloud loopt ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26415) | Nieuw artikel | Meer informatie over de oplossingen voor het probleem wanneer plannerupdates niet worden toegepast en er onverwachte workflowuitvoering plaatsvindt in Adobe Campaign Managed Cloud. |
 | Mei 2025 | [ Onbekwaam om het richten en werkschemalusje in Campaign Classic te bekijken ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26632) | Nieuw artikel | Leer meer over de oplossingen voor het probleem als het tabblad **[!UICONTROL Targeting and Workflow]** niet zichtbaar is in Adobe Campaign Classic. |
 | Mei 2025 | [ de filter van de Statistieken van de Levering werkt niet toe te schrijven aan 10.000 verslaggrens in Adobe Campaign Standard **[!UICONTROL Dynamic Reports]** ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26697) | Nieuw artikel | Leer meer over de oplossingen voor het probleem wanneer het filter voor leveringsstatistieken **[!UICONTROL Contains]** niet de volledige resultaten retourneert wanneer specifieke trefwoorden worden toegepast. |
@@ -596,7 +596,7 @@ Meer informatie over de nieuwste releaseopmerkingen voor [!DNL Adobe Workfront] 
 
 Voor alle releasegegevens:
 
-* Zie de [ het productversies van Adobe  [!DNL Workfront]  pagina van 0} {voor ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) versie planninformatie en versienota&#39;s.[!DNL Workfront]
+* Zie de [ het productversies van Adobe  [!DNL Workfront]  pagina van 0&rbrace; &lbrace;voor ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) versie planninformatie en versienota&#39;s.[!DNL Workfront]
 
 * Zie [ Adobe  [!DNL Workfront]  overzicht van de de versieactiviteit van de Fusie ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) voor de recentste informatie over Fusie.
 
