@@ -34,7 +34,7 @@ Laatste update: **September 2021**
 * [Experience Platform](#platform)
 * [Experience Platform Application Services](#services)
 * [Journey Optimizer](#journey-opt)
-* [[!DNL Analytics]](#analytics) en [ Customer Journey Analytics ](#cust-journey)
+* [[!DNL Analytics]](#analytics) en [&#x200B; Customer Journey Analytics &#x200B;](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -50,7 +50,7 @@ Laatste update: **September 2021**
 
 Functies en oplossingen.
 
-Zie [ Status van het Systeem van Adobe ](https://status.adobe.com/).
+Zie [&#x200B; Status van het Systeem van Adobe &#x200B;](https://status.adobe.com/).
 
 ## Experience Cloud Central UI-componenten {#ecloud}
 
@@ -69,7 +69,7 @@ Functies en oplossingen.
 Releaseopmerkingen voor de [!DNL Experience Platform,] inclusief [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services] en beveiligingsbulletins.
 
 * [Experience Cloud ID Service](#ecid)
-* [ de Nota&#39;s van de Versie van Experience Platform ](https://www.adobe.com/go/platform-release-notes-en)
+* [&#x200B; de Nota&#39;s van de Versie van Experience Platform &#x200B;](https://www.adobe.com/go/platform-release-notes-en)
 * [Introductie van Experience Platform](#launch)
 * [Journey Orchestration](#journey)
 * [Mobiele services en mobiele SDK&#39;s](#mobile)
