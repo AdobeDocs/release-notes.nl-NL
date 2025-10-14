@@ -1,13 +1,13 @@
 ---
 title: Releaseopmerkingen bij Adobe Experience Cloud
-description: Releaseopmerkingen bij Experience Cloud
+description: Opmerkingen bij de release van Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 40%
+source-wordcount: '687'
+ht-degree: 36%
 
 ---
 
@@ -26,15 +26,15 @@ Nieuwe functies en oplossingen in de Adobe Experience Cloud.
 >
 >Nieuwe informatie die na de release wordt gepubliceerd, wordt gemarkeerd met de publicatiedatum.
 
-Laatste update: **september 2021**
+Laatste update: **September 2021**
 
-* [Live gebeurtenissen Experiencen League](#events)
+* [Live gebeurtenissen in Experience League](#events)
 * [Experience Cloud Central-interfacecomponenten](#ecloud)
-* [Adobe-systeemstatus](#status)
+* [Adobe System Status](#status)
 * [Experience Platform](#platform)
 * [Experience Platform Application Services](#services)
 * [Journey Optimizer](#journey-opt)
-* [[!DNL Analytics]](#analytics)en [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) en [ Customer Journey Analytics ](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -44,35 +44,35 @@ Laatste update: **september 2021**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
-* [Creative Cloud voor bedrijven](#creative-cloud)
+* [Creative Cloud voor ondernemingen](#creative-cloud)
 
-## Adobe-systeemstatus {#status}
+## Adobe System Status {#status}
 
 Functies en oplossingen.
 
-Zie [Adobe System Status](https://status.adobe.com/).
+Zie [ Status van het Systeem van Adobe ](https://status.adobe.com/).
 
-## ![Pictogram](/assets/ec_appicon_24.png) Experience Cloud Central UI-componenten {#ecloud}
+## Experience Cloud Central UI-componenten {#ecloud}
 
-Experience Cloud Central Interface Components omvat updates die vanuit de uniforme productkoptekst worden benaderd, zoals zelfhulp, zoekopdrachten en voorkeuren voor gebruikersaccounts. Updates voor Personen, Plaatsen (Locatie) en Productbeheer vindt u hier.
+Experience Cloud Central Interface-componenten bevatten updates die via de uniforme productkoptekst kunnen worden geopend, zoals zelfhulp, zoekopdrachten en voorkeuren voor gebruikersaccounts. Updates voor Personen, Plaatsen (Locatie) en Productbeheer vindt u hier.
 
 ### [!UICONTROL Core services] {#core-services}
 
 Functies en oplossingen.
 
-### Beheer en ontwikkeling {#admin}
+### Beheer en ontwikkelaar {#admin}
 
 Functies en oplossingen.
 
-## ![Pictogram](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 Releaseopmerkingen voor de [!DNL Experience Platform,] inclusief [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services] en beveiligingsbulletins.
 
-* [Experience Cloud ID-service](#ecid)
-* [Opmerkingen bij de release Experience Platform](https://www.adobe.com/go/platform-release-notes-en_nl)
-* [Experience Platform Launch](#launch)
+* [Experience Cloud ID Service](#ecid)
+* [ de Nota&#39;s van de Versie van Experience Platform ](https://www.adobe.com/go/platform-release-notes-en)
+* [Introductie van Experience Platform](#launch)
 * [Journey Orchestration](#journey)
-* [Mobile Services en mobiele SDK&#39;s](#mobile)
+* [Mobiele services en mobiele SDK&#39;s](#mobile)
 
 ### [!UICONTROL Experience Cloud ID Service] {#ecid}
 
@@ -84,7 +84,7 @@ Zie
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Adobe gebruiken [!UICONTROL Experience Platform,] individuele reizen van klanten op grote schaal langs verschillende ervaringskanalen te ordenen door op intelligente wijze in real time te anticiperen op de behoeften van elk individu, waar zijn reis hen neemt.
+Met Adobe [!UICONTROL Experience Platform,] organiseert u individuele reizen van klanten op schaal via verschillende ervaringskanalen door op intelligente wijze in real-time te anticiperen op de behoeften van elk individu, waar zijn reis hen ook brengt.
 
 #### Aanvullende bronnen voor [!UICONTROL Journey Orchestration]
 
@@ -115,7 +115,7 @@ Nieuwe functies en oplossingen in Adobe Analytics:
 | Functie B | Tekst |
 | Functie C | Tekst |
 
-### [!DNL Media Analytics] SDK voor [!DNL iOS] &amp; [!DNL Android™] (voorheen VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android™] (voorheen VHL SDK) {#aa-va}
 
 | Functie | Beschrijving |
 | ------- | ------- |
@@ -161,17 +161,17 @@ Tekst.
 
 Nieuwe functies, oplossingen en updates in Adobe Experience Manager (AEM). Adobe adviseert klanten met implementaties op locatie om de nieuwste patches te implementeren om een grotere stabiliteit, beveiliging en prestaties te garanderen.
 
-### Productreleases
+### Productintroducties
 
-**Functienaam**
+**naam van de Eigenschap**
 
 Beschrijving van functies.
 
-**Functienaam**
+**naam van de Eigenschap**
 
 Beschrijving
 
-**Functienaam**
+**naam van de Eigenschap**
 
 Beschrijving
 
@@ -181,9 +181,9 @@ Beschrijving
 
 ### Zelfhulp
 
-**Samenwerken aan documentatie**
+**Samenwerken Documentatie**
 
-De volgende AEM documentatiesets zijn gemigreerd naar een nieuw gezamenlijk documentatieplatform.
+De volgende AEM-documentatiesets zijn gemigreerd naar een nieuw gezamenlijk documentatieplatform.
 
 * Documentnaam
 * Documentnaam
@@ -207,7 +207,7 @@ Tekst
 * Repareren
 * Repareren
 
-## Sociaal {#soc}
+## Social {#soc}
 
 | Functie | Beschrijving |
 | ------- | ------- |
@@ -230,7 +230,7 @@ Adobe Campaign biedt een intuïtieve, geautomatiseerde manier om één-op-één 
 
 Tekst
 
-## Reclame {#adcloud}
+## Advertising {#adcloud}
 
 | Functie | Beschrijving |
 | ------- | ------- |
@@ -251,18 +251,18 @@ Voor de versienota&#39;s van Magento raadpleegt u:
 
 ## Marketo {#marketo}
 
-Marketo Engage is een volledige oplossing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten te gaan werken.
+Marketo Engage is een complete oplossing voor het beheer van leads en B2B-marketers die de ervaringen van klanten willen transformeren door in elke fase van complexe inkoopritten te gaan werken.
 
 ### Belangrijke Marketo Engage-updates
 
 Releasedatum: 21 februari 2020
 
-* **Microsoft® Dynamics _Eigenaar wijzigen in Microsoft®_ Stroom-actie:** Wijzig een lead of contactpersoon rechtstreeks vanuit Marketo Engage.
-* **Verbeteringen aan API-aanroepen:**
+* **Microsoft® Dynamics _de Eigenaar van de Verandering in Microsoft®_ Actie van de Stroom:** verander direct een lood of een contacteigenaar van Marketo Engage.
+* **Verbeteringen aan API vraag:**
    * Gebruikersbeheer-API&#39;s
    * Aangepast objectschema-API&#39;s
    * Regels voor omleiding van bestemmingspagina&#39;s
-* **Caching van formulierdescriptor:** Verbeteringen voor bestemmingspagina&#39;s en Forms.
+* **beschrijver Caching van de Vorm:** Verbeteringen aan het Bestaan van Pagina&#39;s &amp; Forms.
 
 ### Aanstaande functies
 
@@ -276,11 +276,11 @@ De volgende functies komen gedurende het komende kwartaal beschikbaar:
 
 ### Aankondigingen
 
-**Marketo Engage-succescentrum:** Wordt gelanceerd in februari 2020. Het succescentrum is een helpcentrum in het product waarmee u productdocumenten en de community kunt doorzoeken, instructiehandleidingen kunt lanceren, toegang hebt tot opname van content, en meer. Opmerking: Deze functie wordt gestart als een bètaversie in ANZ en wordt later in het kwartaal uitgezonden naar Noord-Amerika.
+**Marketo Engage-succescentrum:** Wordt gelanceerd in februari 2020. Het succescentrum is een helpcentrum in het product waarmee u productdocumenten en de community kunt doorzoeken, instructiehandleidingen kunt lanceren, toegang hebt tot opname van content, en meer. Opmerking: deze functie wordt gestart als een bètaversie in ANZ en wordt later in het kwartaal uitgezonden naar Noord-Amerika.
 
 ### Afgeschafte elementen
 
-* **Parameter &quot;_methode&quot; van de element-API:** Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen.
+* **Activum API &quot;_method&quot;Parameter:** Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in een POST lichaam over te gaan om de lengtebeperkingen van URI te mijden.
 * **Afschaffing van Internet Explorer-ondersteuning:** Vanaf de juli-release op 31 juli 2020 wordt de Marketo Engage-gebruikersinterface niet meer ondersteund in Internet Explorer.
 
 ### Nieuwe oplossingsnaam cursussen en zelfstudies
