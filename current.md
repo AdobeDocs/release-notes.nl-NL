@@ -58,18 +58,18 @@ Om een periodiek e-mailbericht over updates aan deze pagina te ontvangen, ondert
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Beheer van klantgegevens - Voices](#voices)
 * [Digital Experience-blauwdrukken](#blueprints)
-* [&#x200B; Certificatie bij Adobe &#x200B;](https://experienceleague.adobe.com/en/certification-home)
+* [&#x200B; Certificatie bij Adobe &#x200B;](https://experienceleague.adobe.com/nl/certification-home)
 * [&#x200B; de kwetsbaarheid van de het productveiligheid van Adobe &#x200B;](https://helpx.adobe.com/nl/security.html)
 
 +++
 
 ## Gebeurtenisschema {#events}
 
-Vind [&#x200B; gebeurtenissen &#x200B;](https://experienceleague.adobe.com/en/events) en registreer voor degenen die u interesseren.
+Vind [&#x200B; gebeurtenissen &#x200B;](https://experienceleague.adobe.com/nl/events) en registreer voor degenen die u interesseren.
 
 +++Volgende gebeurtenissen weergeven
 
-Bekijk de volledige lijst van [&#x200B; komende &#x200B;](https://experienceleague.adobe.com/en/events) en [&#x200B; op bestelling &#x200B;](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) gebeurtenissen op Experience League.
+Bekijk de volledige lijst van [&#x200B; komende &#x200B;](https://experienceleague.adobe.com/nl/events) en [&#x200B; op bestelling &#x200B;](https://experienceleague.adobe.com/nl/docs/events/experience-league-recorded-events/overview) gebeurtenissen op Experience League.
 
 +++
 
@@ -82,13 +82,13 @@ Zoek de nieuwste leerbronnen die zijn gepubliceerd voor generatieve AI (genAI), 
 | Product | Bron | Beschrijving | Gepubliceerd |
 | ------- | ------- | ------- | ------- |
 | AI-documentatiehome | [&#x200B; AI Documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/ai) | Voor koppelingen naar informatie over door AI aangedreven functies (generatieve AI- en AI-agents) in Experience Cloud gaat u naar de landing van de nieuwe productdocumentatie. | Oktober 2025 |
-| [!DNL Experience Cloud] | [&#x200B; AI agenten in  [!DNL Experience Cloud] &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Zoek hulp of controleer beschikbaarheid van AI agenten in Experience Cloud. | Bijgewerkt in oktober 2025 |
+| [!DNL Experience Cloud] | [&#x200B; AI agenten in  [!DNL Experience Cloud] &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/agentic-ai) | Zoek hulp of controleer beschikbaarheid van AI agenten in Experience Cloud. | Bijgewerkt in oktober 2025 |
 | Acrobat | [&#x200B; teamefficiency van de verhoging met de Plaatsen van PDF &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) | Verzamelingen van bestanden en websites omzetten in handige, conversationele kennishubs met gepersonaliseerde AI-assistenten. | Oktober 2025 |
 | [!DNL AEM CS] | [&#x200B; de Medewerker van AEM AI &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/aem-ai-assisstant) | Leer hoe de Experience Manager AI Assistant uw workflows vereenvoudigt. | Oktober 2025 |
-| [!DNL Experience Platform] | [&#x200B; overzicht van Data Insights Agent &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview) | De Insight Agent van gegevens tikt in gebeurtenis, profiel, reis, en off-line gegevens, vereenvoudigend ontdekking en toelatend gepersonaliseerde dashboards onmiddellijk. | Oktober 2025 |
-| [!DNL Experience Platform] | [&#x200B; overzicht van Journey Agent &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/journey-agent-overview) | Journey Agent gebruikt AI om B2B/B2C-reizen te maken, te analyseren en te optimaliseren via een conversationele interface. | Oktober 2025 |
-| [!DNL Experience Platform] | [&#x200B; overzicht van de Agent van de Experimentatie &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/experimentation-agent-overview) | De Experimentation Agent versnelt digitale optimalisering met inzicht, geleide opstelling, en geautomatiseerde analyse voor marketers, analisten, en beheerders. | Oktober 2025 |
-| [!DNL Experience Platform] | [&#x200B; overzicht van Audience Agent &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/audience-agent-overview) | Audience Agent stroomlijnt het publieksbeheer met conversationele creatie, optimalisatie, inzichten, en veilige integratie over B2B/B2C apps. | Oktober 2025 |
+| [!DNL Experience Platform] | [&#x200B; overzicht van Data Insights Agent &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview) | De Insight Agent van gegevens tikt in gebeurtenis, profiel, reis, en off-line gegevens, vereenvoudigend ontdekking en toelatend gepersonaliseerde dashboards onmiddellijk. | Oktober 2025 |
+| [!DNL Experience Platform] | [&#x200B; overzicht van Journey Agent &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/journey-agent-overview) | Journey Agent gebruikt AI om B2B/B2C-reizen te maken, te analyseren en te optimaliseren via een conversationele interface. | Oktober 2025 |
+| [!DNL Experience Platform] | [&#x200B; overzicht van de Agent van de Experimentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/experimentation-agent-overview) | De Experimentation Agent versnelt digitale optimalisering met inzicht, geleide opstelling, en geautomatiseerde analyse voor marketers, analisten, en beheerders. | Oktober 2025 |
+| [!DNL Experience Platform] | [&#x200B; overzicht van Audience Agent &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/audience-agent-overview) | Audience Agent stroomlijnt het publieksbeheer met conversationele creatie, optimalisatie, inzichten, en veilige integratie over B2B/B2C apps. | Oktober 2025 |
 
 +++
 
@@ -100,7 +100,7 @@ Zoek de nieuwste leerbronnen die zijn gepubliceerd voor generatieve AI (genAI), 
 
 Opmerkingen bij vorige release voor [!DNL Adobe System Status] :
 
-* [&#x200B; Augustus 2025 &#x200B;](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status)
+* [&#x200B; Augustus 2025 &#x200B;](https://experienceleague.adobe.com/nl/docs/release-notes/experience-cloud/previous/2025/08132025#status)
 
 +++
 
@@ -110,11 +110,11 @@ Leer meer over updates van [!DNL Experience Cloud] beheer en centrale interfacec
 
 +++Help-bronnen weergeven
 
-Zie de [&#x200B; interface van Experience Cloud en beleid &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) gids voor hulp op:
+Zie de [&#x200B; interface van Experience Cloud en beleid &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud) gids voor hulp op:
 
-<!-- * [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)
-* [User management and product licenses](https://experienceleague.adobe.com/en/docs/core-services/interface/administration/admin-console) (Admin Console)
-* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/en/docs/core-services/interface/services/overview), and more -->
+<!-- * [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/generative-ai)
+* [User management and product licenses](https://experienceleague.adobe.com/nl/docs/core-services/interface/administration/admin-console) (Admin Console)
+* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/nl/docs/core-services/interface/services/overview), and more -->
 
 +++
 
@@ -126,7 +126,7 @@ Ga naar de meest recente releasegegevens en nieuwe documentatie voor [!DNL Exper
 
 **Experience Platform**
 
-**21 oktober, 2025** updates: Zie [[!DNL Experience Platform]  versienota&#39;s &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) voor details.
+**21 oktober, 2025** updates: Zie [[!DNL Experience Platform]  versienota&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/release-notes/latest) voor details.
 
 **Mobiele SDK**
 
@@ -140,12 +140,12 @@ Nieuwe zelfstudies voor Adobe [!DNL Experience Platform] op Experience League.
 
 | Gepubliceerd | Applicaties | Naam | Type | Beschrijving |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van Data Insights Agent &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview) | Video | De Insight Agent van gegevens tikt in gebeurtenis, profiel, reis, en off-line gegevens, vereenvoudigend ontdekking en toelatend gepersonaliseerde dashboards onmiddellijk. |
-| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van Journey Agent &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/journey-agent-overview) | Video | Journey Agent gebruikt AI om B2B/B2C-reizen te maken, te analyseren en te optimaliseren via een conversationele interface. |
-| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van de Agent van de Experimentatie &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/experimentation-agent-overview) | Video | De Experimentation Agent versnelt digitale optimalisering met inzicht, geleide opstelling, en geautomatiseerde analyse voor marketers, analisten, en beheerders. |
-| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van Audience Agent &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/audience-agent-overview) | Video | Audience Agent stroomlijnt het publieksbeheer met conversationele creatie, optimalisatie, inzichten, en veilige integratie over B2B/B2C apps. |
-| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van Adobe Experience Platform Agent Orchestrator &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-overview) | Video | Agent Orchestrator is de agentische laag in Adobe Experience Platform die klanten mogelijkheden biedt voor het ervaren van orchestratie met speciaal ontwikkelde agents, een geavanceerde redeneringsengine en een krachtige conversatie-interface. |
-| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; het stromen capaciteitsbeheer en transparantie &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/streaming-management) | Video | De capaciteit en het stromen controledashboards van de controle bieden ondernemingen zichtbaarheid en controle over platformgebruik. Zij helpen productie toewijzen, spikes of ondergebruik ontdekken, en inzicht in prestaties in real time verstrekken, toelatend pro-actieve besluiten en alarm om overbelasting te verhinderen en kritieke diensten te verzekeren stabiel blijven. |
+| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van Data Insights Agent &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview) | Video | De Insight Agent van gegevens tikt in gebeurtenis, profiel, reis, en off-line gegevens, vereenvoudigend ontdekking en toelatend gepersonaliseerde dashboards onmiddellijk. |
+| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van Journey Agent &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/journey-agent-overview) | Video | Journey Agent gebruikt AI om B2B/B2C-reizen te maken, te analyseren en te optimaliseren via een conversationele interface. |
+| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van de Agent van de Experimentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/experimentation-agent-overview) | Video | De Experimentation Agent versnelt digitale optimalisering met inzicht, geleide opstelling, en geautomatiseerde analyse voor marketers, analisten, en beheerders. |
+| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van Audience Agent &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/audience-agent-overview) | Video | Audience Agent stroomlijnt het publieksbeheer met conversationele creatie, optimalisatie, inzichten, en veilige integratie over B2B/B2C apps. |
+| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; overzicht van Adobe Experience Platform Agent Orchestrator &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-overview) | Video | Agent Orchestrator is de agentische laag in Adobe Experience Platform die klanten mogelijkheden biedt voor het ervaren van orchestratie met speciaal ontwikkelde agents, een geavanceerde redeneringsengine en een krachtige conversatie-interface. |
+| Oktober 2025 | [!DNL Experience Platform] | [&#x200B; het stromen capaciteitsbeheer en transparantie &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/monitoring/streaming-management) | Video | De capaciteit en het stromen controledashboards van de controle bieden ondernemingen zichtbaarheid en controle over platformgebruik. Zij helpen productie toewijzen, spikes of ondergebruik ontdekken, en inzicht in prestaties in real time verstrekken, toelatend pro-actieve besluiten en alarm om overbelasting te verhinderen en kritieke diensten te verzekeren stabiel blijven. |
 
 ### Nieuwe [!DNL Experience Platform] kennisbasis voor ondersteuning{#kb-aep}
 
@@ -153,7 +153,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Experience Platfo
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|----|----|-----------|
-| September 2025 | [&#x200B; de profielen van de Schrapping bij schaal over datasets in Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27320) | Nieuw artikel | Meer informatie over de oplossingen voor dit probleem wanneer u miljoenen profielen verwijdert in meerdere datasets in Adobe Experience Platform, is een uitdaging vanwege de beperkingen van de aanvraaggrootte in de functie [!UICONTROL Data Lifecycle] . |
+| September 2025 | [&#x200B; de profielen van de Schrapping bij schaal over datasets in Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-cloud-kcs/kbarticles/ka-27320) | Nieuw artikel | Meer informatie over de oplossingen voor dit probleem wanneer u miljoenen profielen verwijdert in meerdere datasets in Adobe Experience Platform, is een uitdaging vanwege de beperkingen van de aanvraaggrootte in de functie [!UICONTROL Data Lifecycle] . |
 
 +++
 
@@ -165,13 +165,13 @@ De meest recente zelfstudies voor [!DNL Real-Time CDP] vinden.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | ----------| ---------- | ---------- |---------- |
-| Oktober 2025 | [&#x200B; vorm een sociale bestemming &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) | Video | Leer hoe u een verbinding tot stand brengt en een publiek activeert op een sociale bestemming. Deze video demonstreert de workflow met een LinkedIn Matched Audiences-bestemming in Adobe Real-Time Customer Data Platform. |
+| Oktober 2025 | [&#x200B; vorm een sociale bestemming &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) | Video | Leer hoe u een verbinding tot stand brengt en een publiek activeert op een sociale bestemming. Deze video demonstreert de workflow met een LinkedIn Matched Audiences-bestemming in Adobe Real-Time Customer Data Platform. |
 
 Zie voor meer informatie:
 
-* Videozelfstudies: [&#x200B; Begrijpend Real-Time Customer Data Platform &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
+* Videozelfstudies: [&#x200B; Begrijpend Real-Time Customer Data Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
 
-* De documentatie van het product: [&#x200B; Real-Time Customer Data Platform &#x200B;](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform)
+* De documentatie van het product: [&#x200B; Real-Time Customer Data Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/real-time-customer-data-platform)
 
 +++
 
@@ -185,7 +185,7 @@ De versies van Adobe Analytics werken op een ononderbroken leveringsmodel, dat v
 
 Geplande versie: **15 oktober, 2025**
 
-Zie [[!DNL Analytics]  versienota&#39;s &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) voor details.
+Zie [[!DNL Analytics]  versienota&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/release-notes/latest) voor details.
 
 ### AppMeasurement {#appm}
 
@@ -197,7 +197,7 @@ Nieuwe of bijgewerkte videozelfstudies gepubliceerd voor Adobe Analytics.
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2025 | [&#x200B; Inleiding aan classificatiesets &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/introduction-to-classification-sets) | Video | Leer hoe classificatiesets u extra rapporten en inzichten in uw gegevens geven. |
+| Oktober 2025 | [&#x200B; Inleiding aan classificatiesets &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-learn/tutorials/components/classifications/introduction-to-classification-sets) | Video | Leer hoe classificatiesets u extra rapporten en inzichten in uw gegevens geven. |
 | Oktober 2025 | [&#x200B; de classificatiesets van het Gebruik in Adobe Analytics &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-learn/tutorials/components/classifications/use-classification-sets) | Video | Leer de stappen voor het gebruik van classificatiesets in Adobe Analytics. |
 
 ### Nieuwe [!DNL Analytics] kennisbasis voor ondersteuning{#kb-analytics}
@@ -206,7 +206,7 @@ Nieuwe artikelen en updates van bestaande artikelen voor [!DNL Analytics] .
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 |---------|--------|---------|---------|
-| September 2025 | [&#x200B; hoe te om {het gegevensblok van de het rapportbuilder van 1} Logboek toe te laten aan Webconsole **en verzoeken/reacties in Report Builder te vangen**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27442) | Nieuw artikel | Meer informatie over het gebruik van de instelling voor probleemoplossing in Report Builder en over de manier waarop u client-/servergegevens kunt registreren bij de webconsole. |
+| September 2025 | [&#x200B; hoe te om {het gegevensblok van de het rapportbuilder van 1} Logboek toe te laten aan Webconsole **en verzoeken/reacties in Report Builder te vangen**](https://experienceleague.adobe.com/nl/docs/experience-cloud-kcs/kbarticles/ka-27442) | Nieuw artikel | Meer informatie over het gebruik van de instelling voor probleemoplossing in Report Builder en over de manier waarop u client-/servergegevens kunt registreren bij de webconsole. |
 
 +++
 
@@ -228,7 +228,7 @@ Nieuwe zelfstudies gepubliceerd voor [!DNL Customer Journey Analytics] .
 
 | Gepubliceerd | Naam | Type | Beschrijving |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2025 | [&#x200B; Customer Journey Analytics - het overzicht van B2B edition &#x200B;](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/cja-b2b-overview) | Video | Begrijp hoe Customer Journey Analytics B2B edition uitdagingen oplost en u een voordeel in het B2B landschap geeft. |
+| Oktober 2025 | [&#x200B; Customer Journey Analytics - het overzicht van B2B edition &#x200B;](https://experienceleague.adobe.com/nl/docs/customer-journey-analytics-learn/tutorials/cja-basics/cja-b2b-overview) | Video | Begrijp hoe Customer Journey Analytics B2B edition uitdagingen oplost en u een voordeel in het B2B landschap geeft. |
 | Oktober 2025 | [&#x200B; Gebruik Data Insights Agent &#x200B;](https://experienceleague.adobe.com/nl/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/use-the-data-insights-agent) | Video | Analyseer gegevens met natuurlijke taalherinneringen, genererend vrije vormlijsten, visualisaties, en gegevensvergelijkingen, verminderend vertrouwen op gegevensanalisten. Deze AI-agent biedt snel inzicht in trends en prestaties en stelt actioneerbare inzichten in staat om zonder vertraging met belanghebbenden te delen. |
 
 <!--
@@ -238,7 +238,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2025|[Access issues with shared metrics and dimensions in CJA](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27020)|New article| Learn about the solutions to the issue in Adobe Customer Journey Analytics where you can't access **[!UICONTROL Shared Metrics and Dimensions]**.|
+|July 2025|[Access issues with shared metrics and dimensions in CJA](https://experienceleague.adobe.com/nl/docs/experience-cloud-kcs/kbarticles/ka-27020)|New article| Learn about the solutions to the issue in Adobe Customer Journey Analytics where you can't access **[!UICONTROL Shared Metrics and Dimensions]**.|
 -->
 
 +++
@@ -251,7 +251,7 @@ Zoek de meest recente releasegegevens voor [!DNL Streaming Media Analytics] . Ni
 
 Bijgewerkt: **Oktober 2025**
 
-* [!DNL Streaming Media Analytics] [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes)
+* [!DNL Streaming Media Analytics] [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/media-analytics/using/release-notes/release-notes)
 
 * [!DNL Streaming Media Analytics] [&#x200B; productdocumentatie en leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-overview)
 
@@ -268,12 +268,12 @@ Nieuwe functies, correcties en updates in [!DNL Experience Manager] . Adobe raad
 Huidige versie: **2025.10.0 - 30 oktober, 2025**
 
 * [&#x200B; de nota&#39;s van de Versie voor AEM CS &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [&#x200B; Meest recente video van het de versieoverzicht van AEM CS &#x200B;](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
+* [&#x200B; Meest recente video van het de versieoverzicht van AEM CS &#x200B;](https://experienceleague.adobe.com/nl/docs/events/aemcs-release-update-recordings/overview)
 
 Andere opmerkingen bij de productrelease van [!DNL Experience Manager] worden op de volgende pagina&#39;s bijgehouden:
 
 * [[!DNL Experience Manager]  6.5 de versienota&#39;s van het Pak van de Dienst &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/release-notes)
-* [[!DNL Experience Manager]  de versienota&#39;s van Cloud Manager &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [[!DNL Experience Manager]  de versienota&#39;s van Cloud Manager &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Releaseopmerkingen bij de service Geautomatiseerde conversie van formulieren](https://experienceleague.adobe.com/nl/docs/aem-forms-automated-conversion-service/using/release-notes)
 * [[!DNL Experience Manager]  de Dynamische de versienota&#39;s van Media van Assets &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
 * [[!DNL Experience Manager]  de versienota&#39;s van Brand Portal &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
@@ -646,7 +646,7 @@ Videozelfstudies voor GenStudio for Performance Marketing.
 
 * [&#x200B; GenStudio for Performance Marketing &#x200B;](https://experienceleague.adobe.com/nl/browse/genstudio-for-performance-marketing) (Al zelfhulp)
 * [&#x200B; documentatie van het Product &#x200B;](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/home) voor GenStudio for Performance Marketing
-* [&#x200B; GenStudio for Performance Marketing &#x200B;](https://business.adobe.com/products/genstudio-for-performance-marketing.html) productinformatie
+* [&#x200B; GenStudio for Performance Marketing &#x200B;](https://business.adobe.com/nl/products/genstudio-for-performance-marketing.html) productinformatie
 
 +++
 
